@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "1112571904",
+    "key": "",
+    "en": "Are you a farmer?",
+    "pl": "Jesteś rolniczką?"
+  },
+  {
+    "id": "1133543424",
+    "key": "",
+    "en": "Yup! I take care o' this small patch of earth, growin' some veggies and whatnot.",
+    "pl": "Ano! Dbam o ten kawałek ziemi, uprawiam warzywa i takie tam."
+  },
+  {
+    "id": "1133543425",
+    "key": "",
+    "en": "Not as talented but a <i>lot</i> more hardworking than them Rada folk, of that you can be sure.",
+    "pl": "Mniej utalentowana, ale <i>dużo</i> bardziej pracowita od ludzi Rady, możesz mi wierzyć."
+  },
+  {
+    "id": "1133543426",
+    "key": "",
+    "en": "What do you have against the Rada?",
+    "pl": "Co masz przeciwko Radzie?"
+  },
+  {
+    "id": "1133543427",
+    "key": "",
+    "en": "It's not that I have somethin' <i>against</i> them. It's that they don't help <i>themselves.</i> I reckon they do a lot o' good for the community... When they're <i>workin'.</i>",
+    "pl": "Nie żebym coś miała <i>przeciwko</i> nim. To oni sobie <i>nie pomagają.</i> Myślę, że robią wiele dobrego dla wspólnoty... Kiedy <i>pracują.</i>"
+  },
+  {
+    "id": "1133543428",
+    "key": "",
+    "en": "Public meetings! Daily reports! Internal discussions! Holy <i>cow</i> do those people like yappin'!",
+    "pl": "Otwarte zebrania! Codzienne raporty! Wewnętrzne dyskusje! Święta <i>krowo,</i> jak oni lubią mielić ozorami!"
+  },
+  {
+    "id": "1133543429",
+    "key": "",
+    "en": "So you <i>own</i> this land?",
+    "pl": "Czyli ta ziemia jest <i>twoja?</i>"
+  },
+  {
+    "id": "1133543430",
+    "key": "",
+    "en": "Not quite, not quite. It's the Church's. I'm an Acolyte, so I gets to use it. Other Acolytes say they prefer other types of work... Indoor stuff, regular charity stuff.",
+    "pl": "Niezupełnie. Należy do Kościoła. Jestem Akolitką, więc mogę ją uprawiać. Inni Akolici wolą inną robotę... Pod dachem, zwyczajną dobroczynność."
+  },
+  {
+    "id": "1133543431",
+    "key": "",
+    "en": "Me, I have all this land all to meself and can work it how I please! That's the <i>dream!</i> Long as the harvest's decent, o'course.",
+    "pl": "A ja mam całą tę ziemię dla siebie i mogę na niej pracować, jak mi się podoba! To jest <i>marzenie!</i> Byle plony były przyzwoite, rzecz jasna."
+  },
+  {
+    "id": "1133543432",
+    "key": "",
+    "en": "Sounds like you got it good.",
+    "pl": "Chyba dobrze trafiłaś."
+  },
+  {
+    "id": "1133543433",
+    "key": "",
+    "en": "Ha! That I do, that I do! It's back-breakin' work, but it pays off.",
+    "pl": "Ha! Oj tak! Ciężka praca, plecy pękają, ale warto."
+  },
+  {
+    "id": "1133543434",
+    "key": "",
+    "en": "And the feelin' you get when ya get to feed all 'em folks around ya – nuthin' like it!",
+    "pl": "A to uczucie, kiedy karmisz ludzi wokół siebie... Nic się z nim nie równa!"
+  },
+  {
+    "id": "1133543435",
+    "key": "",
+    "en": "Sounds like you got the short end of the stick.",
+    "pl": "Chyba wylosowałaś najgorszą robotę."
+  },
+  {
+    "id": "1133543436",
+    "key": "",
+    "en": "Whaddaya mean? It's back-breakin' work, sure, but it's <i>gratifying.</i> Out the doors. Ain't got my nose stuck in some book like the preachers, don't have ta patch up the wounded somethin' gruesome.",
+    "pl": "Co masz na myśli? Ciężka, owszem, ale daje <i>satysfakcję.</i> Na świeżym powietrzu. Nie tkwię z nosem w książce jak kaznodzieje ani nie zszywam paskudnych ran."
+  },
+  {
+    "id": "1133543437",
+    "key": "",
+    "en": "Wouldn't be terrible to have a helping hand, especially when Alexei can't care for Vera 'n' Zoran... But nah, I ain't complainin'.",
+    "pl": "Pomocna para rąk by nie zaszkodziła, zwłaszcza gdy Alexei nie może zająć się Verą i Zoranem... Ale nie, nie narzekam."
+  },
+  {
+    "id": "1133543438",
+    "key": "",
+    "en": "Fertile land?",
+    "pl": "Żyzna ziemia?"
+  },
+  {
+    "id": "1133543439",
+    "key": "",
+    "en": "Yup, I grows some crops, take care of the whole cycle.",
+    "pl": "Ano, uprawiam trochę roślin, dbam o cały cykl."
+  },
+  {
+    "id": "1133543440",
+    "key": "",
+    "en": "It's good for Zalesye, see. I make stuff to feed the Acolytes, sure, but there's always somethin' left to trade or donate to Commonfolk.",
+    "pl": "To dobre dla Zalesye. Uprawiam jedzenie dla Akolitów, ale zawsze zostaje coś na handel albo do oddania Zwykłym Ludziom."
+  },
+  {
+    "id": "1133543441",
+    "key": "",
+    "en": "Mechanists come by every now and then to make sure it ain't too radiated and has no Mist! It's all healthy, hundred percent!",
+    "pl": "Mechaniści wpadają od czasu do czasu, żeby sprawdzić promieniowanie i Mgłę! Wszystko zdrowe, na sto procent!"
+  },
+  {
+    "id": "1133543442",
+    "key": "",
+    "en": "You mentioned Acolytes and chastity.",
+    "pl": "Wspomniałaś o Akolitach i czystości."
+  },
+  {
+    "id": "1133543443",
+    "key": "",
+    "en": "Oh, that's a difficult subject, I ain't super knowledgeable... But yea, Acolytes like us, I guess there's religious reasons to avoid, uhhh, carnal matters.",
+    "pl": "Och, trudny temat, nie znam się za bardzo... Ale tak, Akolici tacy jak my mają chyba religijne powody, żeby unikać, eee, spraw cielesnych."
+  },
+  {
+    "id": "1133543444",
+    "key": "",
+    "en": "Might be I'm a <i>blasphemer</i> for sayin' this but uh... I reckon that's just like, a spiritual excuse for people to please, for the sake of the Lord, <i>not</i> give us another mouth to feed.",
+    "pl": "Może jestem <i>bluźnierczynią,</i> skoro to mówię, ale... Myślę, że to taka duchowa wymówka, żeby ludzie, na litość boską, <i>nie</i> dawali nam kolejnej gęby do wykarmienia."
+  },
+  {
+    "id": "1133543445",
+    "key": "",
+    "en": "That's just a guess tho. Please don't tell Alexei I said that.",
+    "pl": "Tylko zgaduję. Nie mów Alexeiowi, że tak powiedziałam."
+  },
+  {
+    "id": "1133543446",
+    "key": "",
+    "en": "Vera and Zoran?",
+    "pl": "Vera i Zoran?"
+  },
+  {
+    "id": "1133543447",
+    "key": "",
+    "en": "Have you met 'em? Jus' the loveliest angels you'll ever see! Rare to see such young folk in this cursed place...",
+    "pl": "Poznałeś ich? Najcudowniejsze aniołki, jakie zobaczysz! Rzadko widuje się tak młodych w tym przeklętym miejscu..."
+  },
+  {
+    "id": "1133543448",
+    "key": "",
+    "en": "They're twins, an' they's both bedridden from Mist exposure – least that's what I reckon – so I help take care of 'em.",
+    "pl": "To bliźnięta. Oboje przykuci do łóżka przez Mgłę, tak przynajmniej myślę. Pomagam się nimi zajmować."
+  },
+  {
+    "id": "1133543449",
+    "key": "",
+    "en": "Tell me more about them.",
+    "pl": "Opowiedz mi o nich więcej."
+  },
+  {
+    "id": "1133543450",
+    "key": "",
+    "en": "Sure thing!",
+    "pl": "Pewnie!"
+  },
+  {
+    "id": "1133543451",
+    "key": "",
+    "en": "About something else.",
+    "pl": "O czymś innym."
+  },
+  {
+    "id": "1133543452",
+    "key": "",
+    "en": "You're not really religious, are you?",
+    "pl": "Nie jesteś zbyt religijna, prawda?"
+  },
+  {
+    "id": "1133543453",
+    "key": "",
+    "en": "Well, I mean... For me, this Church thing, that's a means to an end, ya know? Whether or not there's a God, and a Jesus... I reckon it's just a good way for people to get together.",
+    "pl": "No, wiesz... Dla mnie ten cały Kościół to środek do celu. Niezależnie od tego, czy istnieją Bóg i Jezus... To po prostu dobry sposób, żeby ludzie trzymali się razem."
+  },
+  {
+    "id": "1133543454",
+    "key": "",
+    "en": "Work for each other's sake and not just their own navels. Know what I mean?",
+    "pl": "Pracowali dla siebie nawzajem, a nie tylko patrzyli we własny pępek. Rozumiesz?"
+  },
+  {
+    "id": "1133543455",
+    "key": "",
+    "en": "Tell me about Vera and Zoran.",
+    "pl": "Opowiedz mi o Verze i Zoranie."
+  },
+  {
+    "id": "1133543456",
+    "key": "",
+    "en": "Whatcha wanna know?",
+    "pl": "Co chcesz wiedzieć?"
+  },
+  {
+    "id": "1133543457",
+    "key": "",
+    "en": "I've got to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1133543458",
+    "key": "",
+    "en": "You said something about \"Mist exposure\"?",
+    "pl": "Mówiłaś coś o „działaniu Mgły”?"
+  },
+  {
+    "id": "1133543459",
+    "key": "",
+    "en": "Well, that's how Alexei done explained it. I ain't medically trained or nothin'. But seems to me they's got so much Mist in those noggins, they got corrupted from the inside. Sometimes they <i>see</i> things and start talkin' all weird.",
+    "pl": "Tak to wyjaśnił Alexei. Nie mam medycznego wykształcenia. Ale chyba tyle Mgły zebrało im się w głowach, że wypaczyła ich od środka. Czasem <i>widzą</i> rzeczy i zaczynają dziwnie mówić."
+  },
+  {
+    "id": "1133543460",
+    "key": "",
+    "en": "Ya know – I wish I could talk to a Mudlark 'bout this. Surely they know a <i>lot</i> more than folks like us! 'Cept they can't really *talk* like we do...",
+    "pl": "Wiesz, chciałabym pogadać o tym z Błotniarzem. Na pewno wiedzą <i>dużo</i> więcej od nas! Tylko nie umieją za bardzo *mówić* tak jak my..."
+  },
+  {
+    "id": "1137737728",
+    "key": "",
+    "en": "I know a Mudlark who can talk. Ilya.",
+    "pl": "Znam Błotniarkę, która potrafi mówić. Ilyę."
+  },
+  {
+    "id": "1137737729",
+    "key": "",
+    "en": "Oh, really now! Ain't that somethin'... I gotta go find this Ilya, then. Maybe she'll pass through these parts sometime...",
+    "pl": "Och, naprawdę! No proszę... Muszę znaleźć tę Ilyę. Może kiedyś będzie tędy przechodzić..."
+  },
+  {
+    "id": "1137737730",
+    "key": "",
+    "en": "Would be nice to ask her 'bout the twins... And o' course, maybe if she's <i>real</i> nice, they could meet 'er...",
+    "pl": "Miło byłoby zapytać ją o bliźnięta... A jeśli jest <i>naprawdę</i> miła, może mogliby ją poznać..."
+  },
+  {
+    "id": "1137737731",
+    "key": "",
+    "en": "Alexei's not at the Hospital right now.",
+    "pl": "Alexeia nie ma teraz w szpitalu."
+  },
+  {
+    "id": "1137737732",
+    "key": "",
+    "en": "Holy – since when? The Twins is <i>alone?</i> Damn, I've been here a <i>while...</i> Shit. Gotta hurry on back...",
+    "pl": "Święta... Od kiedy? Bliźnięta są <i>same?</i> Cholera, jestem tu już <i>długo...</i> Kurwa. Muszę szybko wracać..."
+  },
+  {
+    "id": "1137737733",
+    "key": "",
+    "en": "Just hav'ta finish up here right quick, go check on 'em... Head back, get those tools, can't forget... Ask scavenger for more tools, talk 'bout crops with Church, then food for the Twins. Get 'em changed... Maybe tomorrow... Need to till here... Water that spot... Have to...",
+    "pl": "Tylko skończyć tutaj, pójść do nich... Wrócić, zabrać narzędzia, nie zapomnieć... Poprosić zbieracza o narzędzia, omówić plony z Kościołem, potem jedzenie dla bliźniąt. Przebrać ich... Może jutro... Trzeba przekopać... Tam podlać... Muszę..."
+  },
+  {
+    "id": "1137737734",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "1137737735",
+    "key": "",
+    "en": "Not many young people here in Zalesye.",
+    "pl": "W Zalesye jest mało młodych ludzi."
+  },
+  {
+    "id": "1137737736",
+    "key": "",
+    "en": "You're tellin' <i>me!</i> Those angels, dear Vera and Zoran, they's the only ones I gets to talk to on the regular.",
+    "pl": "<i>Mnie</i> to mówisz! Te aniołki, kochana Vera i Zoran, to jedyni młodzi, z którymi rozmawiam regularnie."
+  },
+  {
+    "id": "1137737737",
+    "key": "",
+    "en": "I guess, well, I ain't no expert, but this ain't exactly the kinda world makes folks wanna <i>bone.</i>",
+    "pl": "Nie jestem znawczynią, ale ten świat nie bardzo zachęca do <i>bzykania.</i>"
+  },
+  {
+    "id": "1137737738",
+    "key": "",
+    "en": "... Sorry I said <i>bone,</i> that's not becomin' of an Acolyte. I meant, y'know. Carnal... Carnal stuff. Welp, I s'pose there's another culprit of the whole \"no younglings\" thing – us Acolytes and our talk of chastity.",
+    "pl": "... Wybacz, że powiedziałam <i>bzykanie.</i> Nie przystoi Akolitce. Chodziło mi o, wiesz, cielesne... Sprawy cielesne. No i chyba mamy kolejnego winnego braku młodych: nas, Akolitów, z tym gadaniem o czystości."
+  },
+  {
+    "id": "1137737739",
+    "key": "",
+    "en": "I don't know. Explain it to me.",
+    "pl": "Nie wiem. Wyjaśnij mi."
+  },
+  {
+    "id": "1137737740",
+    "key": "",
+    "en": "Quit pullin' my leg, now, Vulture. I know y'all not as dumb as y'all act!",
+    "pl": "Nie nabieraj mnie, Sępie. Wiem, że nie jesteście tak głupi, jak udajecie!"
+  },
+  {
+    "id": "1137737741",
+    "key": "",
+    "en": "It's OK, I don't mind.",
+    "pl": "W porządku, nie przeszkadza mi to."
+  },
+  {
+    "id": "1137737742",
+    "key": "",
+    "en": "Thanks chum. Don't tell Alexei I said that word. He's always on my ass 'bout <i>language.</i>",
+    "pl": "Dzięki, kolego. Nie mów Alexeiowi, że użyłam tego słowa. Ciągle się czepia mojego <i>języka.</i>"
+  },
+  {
+    "id": "1137737743",
+    "key": "",
+    "en": "Talking about something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "1137737744",
+    "key": "",
+    "en": "I need to go, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "1137737745",
+    "key": "",
+    "en": "How do ya do, fella.",
+    "pl": "Jak się masz, kolego?"
+  },
+  {
+    "id": "1137737746",
+    "key": "",
+    "en": "Howdy there!",
+    "pl": "Siemasz!"
+  },
+  {
+    "id": "1137737747",
+    "key": "",
+    "en": "How's it goin', Vulture.",
+    "pl": "Jak leci, Sępie?"
+  },
+  {
+    "id": "1137737748",
+    "key": "",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "1137737749",
+    "key": "",
+    "en": "We should talk.",
+    "pl": "Powinniśmy porozmawiać."
+  },
+  {
+    "id": "1137737750",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "1137737751",
+    "key": "",
+    "en": "Have anything to trade for?",
+    "pl": "Masz coś na wymianę?"
+  },
+  {
+    "id": "1137737752",
+    "key": "",
+    "en": "Got any food worth trading?",
+    "pl": "Masz jakieś jedzenie na handel?"
+  },
+  {
+    "id": "1137737753",
+    "key": "",
+    "en": "I want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "1137737754",
+    "key": "",
+    "en": "I have some extra produce, sure.",
+    "pl": "Mam trochę nadmiarowych plonów, jasne."
+  },
+  {
+    "id": "1137737755",
+    "key": "",
+    "en": "Anythin' not goin' to the Acolytes, ye can trade for.",
+    "pl": "Możesz kupić wszystko, co nie idzie do Akolitów."
+  },
+  {
+    "id": "1137737756",
+    "key": "",
+    "en": "Welp, I'm more about donatin', but let's do this.",
+    "pl": "Wolę rozdawać, ale dobrze, handlujmy."
+  },
+  {
+    "id": "1137737757",
+    "key": "",
+    "en": "Sure, let's trade some.",
+    "pl": "Jasne, pohandlujmy."
+  },
+  {
+    "id": "1137737758",
+    "key": "",
+    "en": "Catch ya later, Vulture.",
+    "pl": "Do zobaczenia, Sępie."
+  },
+  {
+    "id": "1137737759",
+    "key": "",
+    "en": "Sorry I'm too busy for a proper chat.",
+    "pl": "Wybacz, jestem zbyt zajęta na porządną rozmowę."
+  },
+  {
+    "id": "1137737760",
+    "key": "",
+    "en": "Drop by again, chum.",
+    "pl": "Wpadnij jeszcze, kolego."
+  },
+  {
+    "id": "1137737761",
+    "key": "",
+    "en": "Alright, later.",
+    "pl": "Dobra, na razie."
+  },
+  {
+    "id": "1137737762",
+    "key": "",
+    "en": "I'll get those supplies, yeah.",
+    "pl": "Tak, zdobędę te zapasy."
+  },
+  {
+    "id": "1137737763",
+    "key": "",
+    "en": "Yer a lifesaver! Let me know when you do!",
+    "pl": "Ratujesz mi życie! Daj znać, jak się uda!"
+  },
+  {
+    "id": "1137737764",
+    "key": "",
+    "en": "Gotta think about it first.",
+    "pl": "Najpierw muszę się zastanowić."
+  },
+  {
+    "id": "1137737765",
+    "key": "",
+    "en": "S'pose it ain't much of a rush.",
+    "pl": "Chyba aż tak się nie spieszy."
+  },
+  {
+    "id": "1137737766",
+    "key": "",
+    "en": "Rather take a different request – got anything?",
+    "pl": "Wolę inne zlecenie. Masz coś?"
+  },
+  {
+    "id": "1137737767",
+    "key": "",
+    "en": "I'll come by later for more work.",
+    "pl": "Wrócę później po więcej pracy."
+  },
+  {
+    "id": "1137737768",
+    "key": "",
+    "en": "Thanks and take care.",
+    "pl": "Dzięki, trzymaj się."
+  },
+  {
+    "id": "1137737769",
+    "key": "",
+    "en": "I'll go exterminate them.",
+    "pl": "Pójdę je wytępić."
+  },
+  {
+    "id": "1137737770",
+    "key": "",
+    "en": "That's what I like to hear.",
+    "pl": "To lubię słyszeć."
+  },
+  {
+    "id": "1137737771",
+    "key": "",
+    "en": "Let me think about it.",
+    "pl": "Daj mi się zastanowić."
+  },
+  {
+    "id": "1137737772",
+    "key": "",
+    "en": "Well, sure, but... Sooner'd be better, rather than later...",
+    "pl": "No dobrze, ale... Im szybciej, tym lepiej..."
+  },
+  {
+    "id": "1137737773",
+    "key": "",
+    "en": "Not up for it – got anything else?",
+    "pl": "Nie piszę się na to. Masz coś innego?"
+  },
+  {
+    "id": "1137737774",
+    "key": "",
+    "en": "Wasn't a big deal. Take care.",
+    "pl": "To było nic takiego. Trzymaj się."
+  },
+  {
+    "id": "1137737775",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "1137737776",
+    "key": "",
+    "en": "You need help with something?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "1137737777",
+    "key": "",
+    "en": "I need work. Got anything?",
+    "pl": "Potrzebuję pracy. Masz coś?"
+  },
+  {
+    "id": "1137737778",
+    "key": "",
+    "en": "Something I can help you with?",
+    "pl": "Mogę ci w czymś pomóc?"
+  },
+  {
+    "id": "1137737779",
+    "key": "",
+    "en": "Been runnin’ outta some basic things what you’ll find 'round here… Appreciate some help. Reward in it for ya. Whaddaya say?",
+    "pl": "Kończą mi się podstawowe rzeczy, które można znaleźć w okolicy... Przyda się pomoc. Będzie nagroda. Co ty na to?"
+  },
+  {
+    "id": "1137737780",
+    "key": "",
+    "en": "I need some supplies to keep these crops goin’. Can reward you if you get some for me. You up for it?",
+    "pl": "Potrzebuję zapasów, żeby utrzymać te uprawy. Wynagrodzę cię, jeśli coś przyniesiesz. Wchodzisz w to?"
+  },
+  {
+    "id": "1137737781",
+    "key": "",
+    "en": "Thanks a bunch, Vulture! That'll be a big help. Here's your reward.",
+    "pl": "Wielkie dzięki, Sępie! Bardzo mi to pomoże. Oto nagroda."
+  },
+  {
+    "id": "1137737782",
+    "key": "",
+    "en": "I see you got everything I asked for! Here's your compensation.",
+    "pl": "Widzę, że masz wszystko, o co prosiłam! Oto wynagrodzenie."
+  },
+  {
+    "id": "1137737783",
+    "key": "",
+    "en": "Oh, nice – everything I needed! Here's your pay.",
+    "pl": "O, świetnie, wszystko, czego potrzebowałam! Masz zapłatę."
+  },
+  {
+    "id": "1137737784",
+    "key": "",
+    "en": "Me and some other Acolytes been havin’ plenty o’ trouble from those mutated critters. Bunch of ‘em are messing up the plantations… Help us get rid of ‘em, Vulture.",
+    "pl": "Mamy z innymi Akolitami sporo kłopotów ze zmutowanymi stworzeniami. Cała zgraja niszczy uprawy... Pomóż się ich pozbyć, Sępie."
+  },
+  {
+    "id": "1137737785",
+    "key": "",
+    "en": "There’s been more than a lil’ bit of trouble lately – Mutants runnin’ in packs, attackin’ our crops. Would ya mind getting rid of 'em for us?",
+    "pl": "Ostatnio kłopotów co niemiara. Mutanci biegają stadami i atakują uprawy. Pozbędziesz się ich dla nas?"
+  },
+  {
+    "id": "1137737786",
+    "key": "",
+    "en": "Got them all, huh? That's fantastic. Here, as I promised.",
+    "pl": "Wszystkie załatwione? Wspaniale. Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "1137737787",
+    "key": "",
+    "en": "Nice – and you're in one piece, too. Here you go.",
+    "pl": "Świetnie, i jesteś cały. Proszę."
+  },
+  {
+    "id": "1137737788",
+    "key": "",
+    "en": "Fantastic! I'll let the other Acolytes know. Here's your reward.",
+    "pl": "Wspaniale! Powiadomię innych Akolitów. Oto nagroda."
+  },
+  {
+    "id": "1137737789",
+    "key": "",
+    "en": "I don't have any more requests for the time bein'.",
+    "pl": "Na razie nie mam więcej zleceń."
+  },
+  {
+    "id": "1137737790",
+    "key": "",
+    "en": "Don't really need anythin' else right now.",
+    "pl": "Teraz nie potrzebuję niczego więcej."
+  },
+  {
+    "id": "1137737791",
+    "key": "",
+    "en": "Hmm, got nothin' right now. Check back with me later.",
+    "pl": "Hmm, nic teraz nie mam. Zajrzyj później."
+  },
+  {
+    "id": "1137737792",
+    "key": "",
+    "en": "How do ya do, Vulture? I'm Jasna, I take care of this place. Nothing to scavenge here, I'm afraid – this here's fertile land.",
+    "pl": "Jak się masz, Sępie? Jestem Jasna, zajmuję się tym miejscem. Nie ma tu czego szabrować. To żyzna ziemia."
+  },
+  {
+    "id": "363575597105152",
+    "key": "",
+    "en": "Are you a farmer?",
+    "pl": "Jesteś rolniczką?"
+  },
+  {
+    "id": "363575618076672",
+    "key": "",
+    "en": "Yup! I take care o' this small patch of earth, growin' some veggies and whatnot.",
+    "pl": "Ano! Dbam o ten kawałek ziemi, uprawiam warzywa i takie tam."
+  },
+  {
+    "id": "363575618076673",
+    "key": "",
+    "en": "Not as talented but a <i>lot</i> more hardworking than them Rada folk, of that you can be sure.",
+    "pl": "Mniej utalentowana, ale <i>dużo</i> bardziej pracowita od ludzi Rady, możesz mi wierzyć."
+  },
+  {
+    "id": "363575618076674",
+    "key": "",
+    "en": "What do you have against the Rada?",
+    "pl": "Co masz przeciwko Radzie?"
+  },
+  {
+    "id": "363575618076675",
+    "key": "",
+    "en": "It's not that I have somethin' <i>against</i> them. It's that they don't help <i>themselves.</i> I reckon they do a lot o' good for the community... When they're <i>workin'.</i>",
+    "pl": "Nie żebym coś miała <i>przeciwko</i> nim. To oni sobie <i>nie pomagają.</i> Myślę, że robią wiele dobrego dla wspólnoty... Kiedy <i>pracują.</i>"
+  },
+  {
+    "id": "363575618076676",
+    "key": "",
+    "en": "Public meetings! Daily reports! Internal discussions! Holy <i>cow</i> do those people like yappin'!",
+    "pl": "Otwarte zebrania! Codzienne raporty! Wewnętrzne dyskusje! Święta <i>krowo,</i> jak oni lubią mielić ozorami!"
+  },
+  {
+    "id": "363575618076677",
+    "key": "",
+    "en": "So you <i>own</i> this land?",
+    "pl": "Czyli ta ziemia jest <i>twoja?</i>"
+  },
+  {
+    "id": "363575618076678",
+    "key": "",
+    "en": "Not quite, not quite. It's the Church's. I'm an Acolyte, so I gets to use it. Other Acolytes say they prefer other types of work... Indoor stuff, regular charity stuff.",
+    "pl": "Niezupełnie. Należy do Kościoła. Jestem Akolitką, więc mogę ją uprawiać. Inni Akolici wolą inną robotę... Pod dachem, zwyczajną dobroczynność."
+  },
+  {
+    "id": "363575618076679",
+    "key": "",
+    "en": "Me, I have all this land all to meself and can work it how I please! That's the <i>dream!</i> Long as the harvest's decent, o'course.",
+    "pl": "A ja mam całą tę ziemię dla siebie i mogę na niej pracować, jak mi się podoba! To jest <i>marzenie!</i> Byle plony były przyzwoite, rzecz jasna."
+  },
+  {
+    "id": "363575618076680",
+    "key": "",
+    "en": "Sounds like you got it good.",
+    "pl": "Chyba dobrze trafiłaś."
+  },
+  {
+    "id": "363575618076681",
+    "key": "",
+    "en": "Ha! That I do, that I do! It's back-breakin' work, but it pays off.",
+    "pl": "Ha! Oj tak! Ciężka praca, plecy pękają, ale warto."
+  },
+  {
+    "id": "363575618076682",
+    "key": "",
+    "en": "And the feelin' you get when ya get to feed all 'em folks around ya – nuthin' like it!",
+    "pl": "A to uczucie, kiedy karmisz ludzi wokół siebie... Nic się z nim nie równa!"
+  },
+  {
+    "id": "363575618076683",
+    "key": "",
+    "en": "Sounds like you got the short end of the stick.",
+    "pl": "Chyba wylosowałaś najgorszą robotę."
+  },
+  {
+    "id": "363575618076684",
+    "key": "",
+    "en": "Whaddaya mean? It's back-breakin' work, sure, but it's <i>gratifying.</i> Out the doors. Ain't got my nose stuck in some book like the preachers, don't have ta patch up the wounded somethin' gruesome.",
+    "pl": "Co masz na myśli? Ciężka, owszem, ale daje <i>satysfakcję.</i> Na świeżym powietrzu. Nie tkwię z nosem w książce jak kaznodzieje ani nie zszywam paskudnych ran."
+  },
+  {
+    "id": "363575618076685",
+    "key": "",
+    "en": "Wouldn't be terrible to have a helping hand, especially when Alexei can't care for Vera 'n' Zoran... But nah, I ain't complainin'.",
+    "pl": "Pomocna para rąk by nie zaszkodziła, zwłaszcza gdy Alexei nie może zająć się Verą i Zoranem... Ale nie, nie narzekam."
+  },
+  {
+    "id": "363575618076686",
+    "key": "",
+    "en": "Fertile land?",
+    "pl": "Żyzna ziemia?"
+  },
+  {
+    "id": "363575618076687",
+    "key": "",
+    "en": "Yup, I grows some crops, take care of the whole cycle.",
+    "pl": "Ano, uprawiam trochę roślin, dbam o cały cykl."
+  },
+  {
+    "id": "363575618076688",
+    "key": "",
+    "en": "It's good for Zalesye, see. I make stuff to feed the Acolytes, sure, but there's always somethin' left to trade or donate to Commonfolk.",
+    "pl": "To dobre dla Zalesye. Uprawiam jedzenie dla Akolitów, ale zawsze zostaje coś na handel albo do oddania Zwykłym Ludziom."
+  },
+  {
+    "id": "363575618076689",
+    "key": "",
+    "en": "Mechanists come by every now and then to make sure it ain't too radiated and has no Mist! It's all healthy, hundred percent!",
+    "pl": "Mechaniści wpadają od czasu do czasu, żeby sprawdzić promieniowanie i Mgłę! Wszystko zdrowe, na sto procent!"
+  },
+  {
+    "id": "363575618076690",
+    "key": "",
+    "en": "You mentioned Acolytes and chastity.",
+    "pl": "Wspomniałaś o Akolitach i czystości."
+  },
+  {
+    "id": "363575618076691",
+    "key": "",
+    "en": "Oh, that's a difficult subject, I ain't super knowledgeable... But yea, Acolytes like us, I guess there's religious reasons to avoid, uhhh, carnal matters.",
+    "pl": "Och, trudny temat, nie znam się za bardzo... Ale tak, Akolici tacy jak my mają chyba religijne powody, żeby unikać, eee, spraw cielesnych."
+  },
+  {
+    "id": "363575618076692",
+    "key": "",
+    "en": "Might be I'm a <i>blasphemer</i> for sayin' this but uh... I reckon that's just like, a spiritual excuse for people to please, for the sake of the Lord, <i>not</i> give us another mouth to feed.",
+    "pl": "Może jestem <i>bluźnierczynią,</i> skoro to mówię, ale... Myślę, że to taka duchowa wymówka, żeby ludzie, na litość boską, <i>nie</i> dawali nam kolejnej gęby do wykarmienia."
+  },
+  {
+    "id": "363575618076693",
+    "key": "",
+    "en": "That's just a guess tho. Please don't tell Alexei I said that.",
+    "pl": "Tylko zgaduję. Nie mów Alexeiowi, że tak powiedziałam."
+  },
+  {
+    "id": "363575618076694",
+    "key": "",
+    "en": "Vera and Zoran?",
+    "pl": "Vera i Zoran?"
+  },
+  {
+    "id": "363575618076695",
+    "key": "",
+    "en": "Have you met 'em? Jus' the loveliest angels you'll ever see! Rare to see such young folk in this cursed place...",
+    "pl": "Poznałeś ich? Najcudowniejsze aniołki, jakie zobaczysz! Rzadko widuje się tak młodych w tym przeklętym miejscu..."
+  },
+  {
+    "id": "363575618076696",
+    "key": "",
+    "en": "They're twins, an' they's both bedridden from Mist exposure – least that's what I reckon – so I help take care of 'em.",
+    "pl": "To bliźnięta. Oboje przykuci do łóżka przez Mgłę, tak przynajmniej myślę. Pomagam się nimi zajmować."
+  },
+  {
+    "id": "363575618076697",
+    "key": "",
+    "en": "Tell me more about them.",
+    "pl": "Opowiedz mi o nich więcej."
+  },
+  {
+    "id": "363575618076698",
+    "key": "",
+    "en": "Sure thing!",
+    "pl": "Pewnie!"
+  },
+  {
+    "id": "363575618076699",
+    "key": "",
+    "en": "About something else.",
+    "pl": "O czymś innym."
+  },
+  {
+    "id": "363575618076700",
+    "key": "",
+    "en": "You're not really religious, are you?",
+    "pl": "Nie jesteś zbyt religijna, prawda?"
+  },
+  {
+    "id": "363575618076701",
+    "key": "",
+    "en": "Well, I mean... For me, this Church thing, that's a means to an end, ya know? Whether or not there's a God, and a Jesus... I reckon it's just a good way for people to get together.",
+    "pl": "No, wiesz... Dla mnie ten cały Kościół to środek do celu. Niezależnie od tego, czy istnieją Bóg i Jezus... To po prostu dobry sposób, żeby ludzie trzymali się razem."
+  },
+  {
+    "id": "363575618076702",
+    "key": "",
+    "en": "Work for each other's sake and not just their own navels. Know what I mean?",
+    "pl": "Pracowali dla siebie nawzajem, a nie tylko patrzyli we własny pępek. Rozumiesz?"
+  },
+  {
+    "id": "363575618076703",
+    "key": "",
+    "en": "Tell me about Vera and Zoran.",
+    "pl": "Opowiedz mi o Verze i Zoranie."
+  },
+  {
+    "id": "363575618076704",
+    "key": "",
+    "en": "Whatcha wanna know?",
+    "pl": "Co chcesz wiedzieć?"
+  },
+  {
+    "id": "363575618076705",
+    "key": "",
+    "en": "I've got to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "363575618076706",
+    "key": "",
+    "en": "You said something about \"Mist exposure\"?",
+    "pl": "Mówiłaś coś o „działaniu Mgły”?"
+  },
+  {
+    "id": "363575618076707",
+    "key": "",
+    "en": "Well, that's how Alexei done explained it. I ain't medically trained or nothin'. But seems to me they's got so much Mist in those noggins, they got corrupted from the inside. Sometimes they <i>see</i> things and start talkin' all weird.",
+    "pl": "Tak to wyjaśnił Alexei. Nie mam medycznego wykształcenia. Ale chyba tyle Mgły zebrało im się w głowach, że wypaczyła ich od środka. Czasem <i>widzą</i> rzeczy i zaczynają dziwnie mówić."
+  },
+  {
+    "id": "363575618076708",
+    "key": "",
+    "en": "Ya know – I wish I could talk to a Mudlark 'bout this. Surely they know a <i>lot</i> more than folks like us! 'Cept they can't really *talk* like we do...",
+    "pl": "Wiesz, chciałabym pogadać o tym z Błotniarzem. Na pewno wiedzą <i>dużo</i> więcej od nas! Tylko nie umieją za bardzo *mówić* tak jak my..."
+  },
+  {
+    "id": "363575618076709",
+    "key": "",
+    "en": "I know a Mudlark who can talk. Ilya.",
+    "pl": "Znam Błotniarkę, która potrafi mówić. Ilyę."
+  },
+  {
+    "id": "363575618076710",
+    "key": "",
+    "en": "Oh, really now! Ain't that somethin'... I gotta go find this Ilya, then. Maybe she'll pass through these parts sometime...",
+    "pl": "Och, naprawdę! No proszę... Muszę znaleźć tę Ilyę. Może kiedyś będzie tędy przechodzić..."
+  },
+  {
+    "id": "363575618076711",
+    "key": "",
+    "en": "Would be nice to ask her 'bout the twins... And o' course, maybe if she's <i>real</i> nice, they could meet 'er...",
+    "pl": "Miło byłoby zapytać ją o bliźnięta... A jeśli jest <i>naprawdę</i> miła, może mogliby ją poznać..."
+  },
+  {
+    "id": "363575618076712",
+    "key": "",
+    "en": "Alexei's not at the Hospital right now.",
+    "pl": "Alexeia nie ma teraz w szpitalu."
+  },
+  {
+    "id": "363575618076713",
+    "key": "",
+    "en": "Holy – since when? The Twins is <i>alone?</i> Damn, I've been here a <i>while...</i> Shit. Gotta hurry on back...",
+    "pl": "Święta... Od kiedy? Bliźnięta są <i>same?</i> Cholera, jestem tu już <i>długo...</i> Kurwa. Muszę szybko wracać..."
+  },
+  {
+    "id": "363575618076714",
+    "key": "",
+    "en": "Just hav'ta finish up here right quick, go check on 'em... Head back, get those tools, can't forget... Ask scavenger for more tools, talk 'bout crops with Church, then food for the Twins. Get 'em changed... Maybe tomorrow... Need to till here... Water that spot... Have to...",
+    "pl": "Tylko skończyć tutaj, pójść do nich... Wrócić, zabrać narzędzia, nie zapomnieć... Poprosić zbieracza o narzędzia, omówić plony z Kościołem, potem jedzenie dla bliźniąt. Przebrać ich... Może jutro... Trzeba przekopać... Tam podlać... Muszę..."
+  },
+  {
+    "id": "363575618076715",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "363575618076716",
+    "key": "",
+    "en": "Not many young people here in Zalesye.",
+    "pl": "W Zalesye jest mało młodych ludzi."
+  },
+  {
+    "id": "363575618076717",
+    "key": "",
+    "en": "You're tellin' <i>me!</i> Those angels, dear Vera and Zoran, they's the only ones I gets to talk to on the regular.",
+    "pl": "<i>Mnie</i> to mówisz! Te aniołki, kochana Vera i Zoran, to jedyni młodzi, z którymi rozmawiam regularnie."
+  },
+  {
+    "id": "363575618076718",
+    "key": "",
+    "en": "I guess, well, I ain't no expert, but this ain't exactly the kinda world makes folks wanna <i>bone.</i>",
+    "pl": "Nie jestem znawczynią, ale ten świat nie bardzo zachęca do <i>bzykania.</i>"
+  },
+  {
+    "id": "363575618076719",
+    "key": "",
+    "en": "... Sorry I said <i>bone,</i> that's not becomin' of an Acolyte. I meant, y'know. Carnal... Carnal stuff. Welp, I s'pose there's another culprit of the whole \"no younglings\" thing – us Acolytes and our talk of chastity.",
+    "pl": "... Wybacz, że powiedziałam <i>bzykanie.</i> Nie przystoi Akolitce. Chodziło mi o, wiesz, cielesne... Sprawy cielesne. No i chyba mamy kolejnego winnego braku młodych: nas, Akolitów, z tym gadaniem o czystości."
+  },
+  {
+    "id": "363575618076720",
+    "key": "",
+    "en": "I don't know. Explain it to me.",
+    "pl": "Nie wiem. Wyjaśnij mi."
+  },
+  {
+    "id": "363575618076721",
+    "key": "",
+    "en": "Quit pullin' my leg, now, Vulture. I know y'all not as dumb as y'all act!",
+    "pl": "Nie nabieraj mnie, Sępie. Wiem, że nie jesteście tak głupi, jak udajecie!"
+  },
+  {
+    "id": "363575618076722",
+    "key": "",
+    "en": "It's OK, I don't mind.",
+    "pl": "W porządku, nie przeszkadza mi to."
+  },
+  {
+    "id": "363575618076723",
+    "key": "",
+    "en": "Thanks chum. Don't tell Alexei I said that word. He's always on my ass 'bout <i>language.</i>",
+    "pl": "Dzięki, kolego. Nie mów Alexeiowi, że użyłam tego słowa. Ciągle się czepia mojego <i>języka.</i>"
+  },
+  {
+    "id": "363575618076724",
+    "key": "",
+    "en": "Talking about something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "363575618076725",
+    "key": "",
+    "en": "I need to go, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "363575618076726",
+    "key": "",
+    "en": "How do ya do, fella.",
+    "pl": "Jak się masz, kolego?"
+  },
+  {
+    "id": "363575618076727",
+    "key": "",
+    "en": "Howdy there!",
+    "pl": "Siemasz!"
+  },
+  {
+    "id": "363575618076728",
+    "key": "",
+    "en": "How's it goin', Vulture.",
+    "pl": "Jak leci, Sępie?"
+  },
+  {
+    "id": "363575618076729",
+    "key": "",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "363575618076730",
+    "key": "",
+    "en": "We should talk.",
+    "pl": "Powinniśmy porozmawiać."
+  },
+  {
+    "id": "363575618076731",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "363575618076732",
+    "key": "",
+    "en": "Have anything to trade for?",
+    "pl": "Masz coś na wymianę?"
+  },
+  {
+    "id": "363575618076733",
+    "key": "",
+    "en": "Got any food worth trading?",
+    "pl": "Masz jakieś jedzenie na handel?"
+  },
+  {
+    "id": "363575618076734",
+    "key": "",
+    "en": "I want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "363575618076735",
+    "key": "",
+    "en": "I have some extra produce, sure.",
+    "pl": "Mam trochę nadmiarowych plonów, jasne."
+  },
+  {
+    "id": "363575618076736",
+    "key": "",
+    "en": "Anythin' not goin' to the Acolytes, ye can trade for.",
+    "pl": "Możesz kupić wszystko, co nie idzie do Akolitów."
+  },
+  {
+    "id": "363575618076737",
+    "key": "",
+    "en": "Welp, I'm more about donatin', but let's do this.",
+    "pl": "Wolę rozdawać, ale dobrze, handlujmy."
+  },
+  {
+    "id": "363575618076738",
+    "key": "",
+    "en": "Sure, let's trade some.",
+    "pl": "Jasne, pohandlujmy."
+  },
+  {
+    "id": "363575618076739",
+    "key": "",
+    "en": "Catch ya later, Vulture.",
+    "pl": "Do zobaczenia, Sępie."
+  },
+  {
+    "id": "363575618076740",
+    "key": "",
+    "en": "Sorry I'm too busy for a proper chat.",
+    "pl": "Wybacz, jestem zbyt zajęta na porządną rozmowę."
+  },
+  {
+    "id": "363575618076741",
+    "key": "",
+    "en": "Drop by again, chum.",
+    "pl": "Wpadnij jeszcze, kolego."
+  },
+  {
+    "id": "363575618076742",
+    "key": "",
+    "en": "Alright, later.",
+    "pl": "Dobra, na razie."
+  },
+  {
+    "id": "363575618076743",
+    "key": "",
+    "en": "I'll get those supplies, yeah.",
+    "pl": "Tak, zdobędę te zapasy."
+  },
+  {
+    "id": "363575618076744",
+    "key": "",
+    "en": "Yer a lifesaver! Let me know when you do!",
+    "pl": "Ratujesz mi życie! Daj znać, jak się uda!"
+  },
+  {
+    "id": "363575618076745",
+    "key": "",
+    "en": "Gotta think about it first.",
+    "pl": "Najpierw muszę się zastanowić."
+  },
+  {
+    "id": "363575618076746",
+    "key": "",
+    "en": "S'pose it ain't much of a rush.",
+    "pl": "Chyba aż tak się nie spieszy."
+  },
+  {
+    "id": "363575618076747",
+    "key": "",
+    "en": "Rather take a different request – got anything?",
+    "pl": "Wolę inne zlecenie. Masz coś?"
+  },
+  {
+    "id": "363575618076748",
+    "key": "",
+    "en": "I'll come by later for more work.",
+    "pl": "Wrócę później po więcej pracy."
+  },
+  {
+    "id": "363575618076749",
+    "key": "",
+    "en": "Thanks and take care.",
+    "pl": "Dzięki, trzymaj się."
+  },
+  {
+    "id": "363575618076750",
+    "key": "",
+    "en": "I'll go exterminate them.",
+    "pl": "Pójdę je wytępić."
+  },
+  {
+    "id": "363575618076751",
+    "key": "",
+    "en": "That's what I like to hear.",
+    "pl": "To lubię słyszeć."
+  },
+  {
+    "id": "363575618076752",
+    "key": "",
+    "en": "Let me think about it.",
+    "pl": "Daj mi się zastanowić."
+  },
+  {
+    "id": "363575618076753",
+    "key": "",
+    "en": "Well, sure, but... Sooner'd be better, rather than later...",
+    "pl": "No dobrze, ale... Im szybciej, tym lepiej..."
+  },
+  {
+    "id": "363575618076754",
+    "key": "",
+    "en": "Not up for it – got anything else?",
+    "pl": "Nie piszę się na to. Masz coś innego?"
+  },
+  {
+    "id": "363575618076755",
+    "key": "",
+    "en": "Wasn't a big deal. Take care.",
+    "pl": "To było nic takiego. Trzymaj się."
+  },
+  {
+    "id": "363575618076756",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "363575618076757",
+    "key": "",
+    "en": "You need help with something?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "363575618076758",
+    "key": "",
+    "en": "I need work. Got anything?",
+    "pl": "Potrzebuję pracy. Masz coś?"
+  },
+  {
+    "id": "363575618076759",
+    "key": "",
+    "en": "Something I can help you with?",
+    "pl": "Mogę ci w czymś pomóc?"
+  },
+  {
+    "id": "363575618076760",
+    "key": "",
+    "en": "Been runnin’ outta some basic things what you’ll find 'round here… Appreciate some help. Reward in it for ya. Whaddaya say?",
+    "pl": "Kończą mi się podstawowe rzeczy, które można znaleźć w okolicy... Przyda się pomoc. Będzie nagroda. Co ty na to?"
+  },
+  {
+    "id": "363575618076761",
+    "key": "",
+    "en": "I need some supplies to keep these crops goin’. Can reward you if you get some for me. You up for it?",
+    "pl": "Potrzebuję zapasów, żeby utrzymać te uprawy. Wynagrodzę cię, jeśli coś przyniesiesz. Wchodzisz w to?"
+  },
+  {
+    "id": "363575618076762",
+    "key": "",
+    "en": "Thanks a bunch, Vulture! That'll be a big help. Here's your reward.",
+    "pl": "Wielkie dzięki, Sępie! Bardzo mi to pomoże. Oto nagroda."
+  },
+  {
+    "id": "363575618076763",
+    "key": "",
+    "en": "I see you got everything I asked for! Here's your compensation.",
+    "pl": "Widzę, że masz wszystko, o co prosiłam! Oto wynagrodzenie."
+  },
+  {
+    "id": "363575618076764",
+    "key": "",
+    "en": "Oh, nice – everything I needed! Here's your pay.",
+    "pl": "O, świetnie, wszystko, czego potrzebowałam! Masz zapłatę."
+  },
+  {
+    "id": "363575618076765",
+    "key": "",
+    "en": "Me and some other Acolytes been havin’ plenty o’ trouble from those mutated critters. Bunch of ‘em are messing up the plantations… Help us get rid of ‘em, Vulture.",
+    "pl": "Mamy z innymi Akolitami sporo kłopotów ze zmutowanymi stworzeniami. Cała zgraja niszczy uprawy... Pomóż się ich pozbyć, Sępie."
+  },
+  {
+    "id": "363575618076766",
+    "key": "",
+    "en": "There’s been more than a lil’ bit of trouble lately – Mutants runnin’ in packs, attackin’ our crops. Would ya mind getting rid of 'em for us?",
+    "pl": "Ostatnio kłopotów co niemiara. Mutanci biegają stadami i atakują uprawy. Pozbędziesz się ich dla nas?"
+  },
+  {
+    "id": "363575618076767",
+    "key": "",
+    "en": "Got them all, huh? That's fantastic. Here, as I promised.",
+    "pl": "Wszystkie załatwione? Wspaniale. Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "363575618076768",
+    "key": "",
+    "en": "Nice – and you're in one piece, too. Here you go.",
+    "pl": "Świetnie, i jesteś cały. Proszę."
+  },
+  {
+    "id": "363575618076769",
+    "key": "",
+    "en": "Fantastic! I'll let the other Acolytes know. Here's your reward.",
+    "pl": "Wspaniale! Powiadomię innych Akolitów. Oto nagroda."
+  },
+  {
+    "id": "363575618076770",
+    "key": "",
+    "en": "I don't have any more requests for the time bein'.",
+    "pl": "Na razie nie mam więcej zleceń."
+  },
+  {
+    "id": "363575618076771",
+    "key": "",
+    "en": "Don't really need anythin' else right now.",
+    "pl": "Teraz nie potrzebuję niczego więcej."
+  },
+  {
+    "id": "363575618076772",
+    "key": "",
+    "en": "Hmm, got nothin' right now. Check back with me later.",
+    "pl": "Hmm, nic teraz nie mam. Zajrzyj później."
+  },
+  {
+    "id": "363575618076773",
+    "key": "",
+    "en": "How do ya do, Vulture? I'm Jasna, I take care of this place. Nothing to scavenge here, I'm afraid – this here's fertile land.",
+    "pl": "Jak się masz, Sępie? Jestem Jasna, zajmuję się tym miejscem. Nie ma tu czego szabrować. To żyzna ziemia."
+  },
+  {
+    "id": "367023805726720",
+    "key": "16_Jasna_v1_Talk_46UN",
+    "en": "Jasna, right? You're the farmer?",
+    "pl": "Jasna, tak? Jesteś rolniczką?"
+  },
+  {
+    "id": "367023830892544",
+    "key": "16_Jasna_v1_Talk_689F",
+    "en": "Yup! I watch those farmlands down South and help the Acolytes donate food. And I tell ya what, them Rada folk ain't got nothing on me! Heh heh.",
+    "pl": "Ano! Pilnuję pól na południu i pomagam Akolitom rozdawać jedzenie. I powiem ci, ludzie Rady nie mają do mnie startu! He, he."
+  },
+  {
+    "id": "367023830892545",
+    "key": "16_Jasna_v1_Talk_H3UP",
+    "en": "Not as talented but a <i>lot</i> more hardworking than them Rada folk, of that you can be sure.",
+    "pl": "Mniej utalentowana, ale <i>dużo</i> bardziej pracowita od ludzi Rady, możesz mi wierzyć."
+  },
+  {
+    "id": "367023830892546",
+    "key": "16_Jasna_v1_Talk_HIP9",
+    "en": "What do you have against the Rada?",
+    "pl": "Co masz przeciwko Radzie?"
+  },
+  {
+    "id": "367023830892547",
+    "key": "16_Jasna_v1_Talk_CLLN",
+    "en": "Oh it ain't that serious, dear. Got nothin' <i>against</i> them, it's just they don't help <i>themselves.</i>",
+    "pl": "Och, nie bierz tego tak poważnie, kochany. Nic nie mam <i>przeciwko</i> nim. Po prostu sami sobie <i>nie pomagają.</i>"
+  },
+  {
+    "id": "367023830892548",
+    "key": "16_Jasna_v1_Talk_JP46",
+    "en": "Actin' like they know enough 'bout agriculture to lecture <i>me...</i> Then I gets to Dubravka and it's all \"let's have more <i>meetings!!</i>\"...",
+    "pl": "Zachowują się, jakby tyle wiedzieli o rolnictwie, że mogą pouczać <i>mnie...</i> A potem jadę do Dubravki i słyszę tylko: „Zróbmy więcej <i>zebrań!!</i>”..."
+  },
+  {
+    "id": "367023830892549",
+    "key": "16_Jasna_v1_Talk_C8PZ",
+    "en": "So you <i>own</i> this land?",
+    "pl": "Czyli ta ziemia jest <i>twoja?</i>"
+  },
+  {
+    "id": "367023830892550",
+    "key": "16_Jasna_v1_Talk_5PR3",
+    "en": "Not quite, it's the Church's. I'm an Acolyte, so I gets to use it. Other Acolytes say they prefer indoor work... But me?",
+    "pl": "Niezupełnie, należy do Kościoła. Jestem Akolitką, więc mogę ją uprawiać. Inni Akolici wolą pracę pod dachem... Ale ja?"
+  },
+  {
+    "id": "367023830892551",
+    "key": "16_Jasna_v1_Talk_NE9F",
+    "en": "I got all this land all to meself and can work it how I please! I reckon that's the dream life right there, see.",
+    "pl": "Mam całą tę ziemię dla siebie i mogę pracować, jak mi się podoba! Dla mnie to wymarzone życie."
+  },
+  {
+    "id": "367023830892552",
+    "key": "16_Jasna_v1_Talk_8NMA",
+    "en": "Sounds like you got it good.",
+    "pl": "Chyba dobrze trafiłaś."
+  },
+  {
+    "id": "367023830892553",
+    "key": "16_Jasna_v1_Talk_DCKW",
+    "en": "Ha! That I do, that I do! Don't get me wrong, it's back-breakin' work, but it pays off. And the Church always steps in when the goin' gets too tough.",
+    "pl": "Ha! Oj tak! Nie zrozum mnie źle, plecy pękają, ale warto. A kiedy robi się zbyt ciężko, Kościół zawsze pomaga."
+  },
+  {
+    "id": "367023830892554",
+    "key": "16_Jasna_v1_Talk_WN5X",
+    "en": "Plus the feelin' when ya get to feed folks around ya – nuthin' like it! Just as sweet as carin' for sweet lil' Vera n' Zoran.",
+    "pl": "I to uczucie, gdy karmisz ludzi wokół siebie... Nic się z nim nie równa! Równie słodkie jak opieka nad kochanymi Verą i Zoranem."
+  },
+  {
+    "id": "367023830892555",
+    "key": "16_Jasna_v1_Talk_8ZAQ",
+    "en": "Sounds like you got the short end of the stick.",
+    "pl": "Chyba wylosowałaś najgorszą robotę."
+  },
+  {
+    "id": "367023830892556",
+    "key": "16_Jasna_v1_Talk_USHX",
+    "en": "Well it's back-breakin' work, sure, but <i>gratifyin'.</i> Out the doors, not stuck readin' books all day or patchin' up the wounded.",
+    "pl": "No, plecy pękają, owszem, ale daje <i>satysfakcję.</i> Na świeżym powietrzu, zamiast cały dzień tkwić nad książkami czy zszywać rannych."
+  },
+  {
+    "id": "367023830892557",
+    "key": "16_Jasna_v1_Talk_EBN1",
+    "en": "Be nice to have a helpin' hand, especially when Alexei can't care for Vera 'n' Zoran... But nah, I ain't complainin'.",
+    "pl": "Pomocna para rąk by się przydała, zwłaszcza gdy Alexei nie może zająć się Verą i Zoranem... Ale nie, nie narzekam."
+  },
+  {
+    "id": "367023830892558",
+    "key": "16_Jasna_v1_Talk_Z27C",
+    "en": "How is this land fertile?",
+    "pl": "Jakim cudem ta ziemia jest żyzna?"
+  },
+  {
+    "id": "367023830892559",
+    "key": "16_Jasna_v1_Talk_QW4V",
+    "en": "Might be just the case that it's still <i>a little</i> fertile <i>despite</i> everything... We's just usin' the knowledge what we learned from our forefolk.",
+    "pl": "Może po prostu nadal jest <i>trochę</i> żyzna <i>mimo</i> wszystkiego... Korzystamy z wiedzy przekazanej przez przodków."
+  },
+  {
+    "id": "367023830892560",
+    "key": "16_Jasna_v1_Talk_SNZ5",
+    "en": "It's good for Zalesye, see. I make stuff to feed the Acolytes, sure, but there's always somethin' left to trade or donate to Commonfolk.",
+    "pl": "To dobre dla Zalesye. Uprawiam jedzenie dla Akolitów, ale zawsze zostaje coś na handel albo do oddania Zwykłym Ludziom."
+  },
+  {
+    "id": "367023830892561",
+    "key": "16_Jasna_v1_Talk_XI1O",
+    "en": "Mechanists come by every now and then to make sure it ain't too radiated and has no Mist! It's all healthy, hundred percent!",
+    "pl": "Mechaniści wpadają od czasu do czasu, żeby sprawdzić promieniowanie i Mgłę! Wszystko zdrowe, na sto procent!"
+  },
+  {
+    "id": "367023830892562",
+    "key": "16_Jasna_v1_Talk_FXZW",
+    "en": "You mentioned Acolytes and chastity.",
+    "pl": "Wspomniałaś o Akolitach i czystości."
+  },
+  {
+    "id": "367023830892563",
+    "key": "16_Jasna_v1_Talk_LDCP",
+    "en": "Oh, that's a difficult subject... But yea, Acolytes like us, I guess there's religious reasons to avoid all them <i>carnal matters.</i>",
+    "pl": "Och, trudny temat... Ale tak, Akolici tacy jak my mają chyba religijne powody, by unikać <i>spraw cielesnych.</i>"
+  },
+  {
+    "id": "367023830892564",
+    "key": "16_Jasna_v1_Talk_E9OT",
+    "en": "Might be a <i>blasphemer</i> for this, but between us... I reckon that's just an excuse for people to <i>please</i> not give us another mouth to feed.",
+    "pl": "Może jestem <i>bluźnierczynią,</i> ale między nami... To chyba tylko wymówka, żeby ludzie, <i>bardzo proszę,</i> nie dawali nam kolejnej gęby do wykarmienia."
+  },
+  {
+    "id": "367023830892565",
+    "key": "16_Jasna_v1_Talk_S992",
+    "en": "That's just a guess tho. Please don't tell Alexei I said that.",
+    "pl": "Tylko zgaduję. Nie mów Alexeiowi, że tak powiedziałam."
+  },
+  {
+    "id": "367023830892566",
+    "key": "16_Jasna_v1_Talk_39RJ",
+    "en": "You know Vera and Zoran?",
+    "pl": "Znasz Verę i Zorana?"
+  },
+  {
+    "id": "367023830892567",
+    "key": "16_Jasna_v1_Talk_DSGF",
+    "en": "Sure! I take care of 'em. Jus' the loveliest angels you'll ever see! Rare to see such young folk in this cursed place...",
+    "pl": "Pewnie! Opiekuję się nimi. Najcudowniejsze aniołki, jakie zobaczysz! Rzadko widuje się tak młodych w tym przeklętym miejscu..."
+  },
+  {
+    "id": "367023830892568",
+    "key": "16_Jasna_v1_Talk_MFZN",
+    "en": "They're twins, an' they's both bedridden from Mist exposure – least that's what I reckon – so I help take care of 'em.",
+    "pl": "To bliźnięta. Oboje przykuci do łóżka przez Mgłę, tak przynajmniej myślę. Pomagam się nimi zajmować."
+  },
+  {
+    "id": "367023830892569",
+    "key": "16_Jasna_v1_Talk_6CI0",
+    "en": "Tell me more about them.",
+    "pl": "Opowiedz mi o nich więcej."
+  },
+  {
+    "id": "367023830892570",
+    "key": "16_Jasna_v1_Talk_582X",
+    "en": "Sure thing!",
+    "pl": "Pewnie!"
+  },
+  {
+    "id": "367023830892571",
+    "key": "16_Jasna_v1_Talk_A23S",
+    "en": "About something else.",
+    "pl": "O czymś innym."
+  },
+  {
+    "id": "367023830892572",
+    "key": "16_Jasna_v1_Talk_7W0G",
+    "en": "You're not very religious, are you?",
+    "pl": "Nie jesteś szczególnie religijna, prawda?"
+  },
+  {
+    "id": "367023830892573",
+    "key": "16_Jasna_v1_Talk_JORA",
+    "en": "Well, I mean... For me, this Church thing, that's a means to an end, see? Whether or not there's a God and a Jesus, it's just a way for folks to get <i>together.</i>",
+    "pl": "No, wiesz... Dla mnie ten cały Kościół to środek do celu. Niezależnie od tego, czy istnieją Bóg i Jezus, to sposób, żeby ludzie trzymali się <i>razem.</i>"
+  },
+  {
+    "id": "367023830892574",
+    "key": "16_Jasna_v1_Talk_S0V9",
+    "en": "Work for each other's sake and not just their own navels. Know what I mean? Kinda like the Rada, but <i>better.</i>",
+    "pl": "Pracowali dla siebie nawzajem, a nie tylko patrzyli we własny pępek. Rozumiesz? Trochę jak Rada, tylko <i>lepiej.</i>"
+  },
+  {
+    "id": "367023830892575",
+    "key": "16_Jasna_v1_Talk_75OO",
+    "en": "Tell me about Vera and Zoran.",
+    "pl": "Opowiedz mi o Verze i Zoranie."
+  },
+  {
+    "id": "367023830892576",
+    "key": "16_Jasna_v1_Talk_VVGQ",
+    "en": "Whatcha wanna know?",
+    "pl": "Co chcesz wiedzieć?"
+  },
+  {
+    "id": "367023830892577",
+    "key": "16_Jasna_v1_Talk_9ZAK",
+    "en": "I've got to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "367023830892578",
+    "key": "16_Jasna_v1_Talk_About_Twins_V3Y7",
+    "en": "You said something about \"Mist exposure\"?",
+    "pl": "Mówiłaś coś o „działaniu Mgły”?"
+  },
+  {
+    "id": "367023830892579",
+    "key": "16_Jasna_v1_Talk_About_Twins_DXC3",
+    "en": "Well, that's how Alexei explained it. I ain't medically trained, but seems to me that's why they started <i>seein'</i> things and talkin' all weird.",
+    "pl": "Tak to wyjaśnił Alexei. Nie znam się na medycynie, ale chyba dlatego zaczęli <i>widzieć</i> różne rzeczy i dziwnie mówić."
+  },
+  {
+    "id": "367023830892580",
+    "key": "16_Jasna_v1_Talk_About_Twins_L727",
+    "en": "Ya know – I wish I could talk to a Mudlark 'bout this. Surely they know a <i>lot</i> more than folks like us! 'Cept they can't really <i>talk</i> like we do...",
+    "pl": "Wiesz, chciałabym pogadać o tym z Błotniarzem. Na pewno wiedzą <i>dużo</i> więcej od nas! Tylko nie umieją za bardzo <i>mówić</i> tak jak my..."
+  },
+  {
+    "id": "367023830892581",
+    "key": "16_Jasna_v1_Talk_About_Twins_GNMT",
+    "en": "Ilya. She's a Mudlark who can talk.",
+    "pl": "Ilya. To Błotniarka, która potrafi mówić."
+  },
+  {
+    "id": "367023830892582",
+    "key": "16_Jasna_v1_Talk_About_Twins_UDHV",
+    "en": "Oh, really now! Ain't that somethin'... I gotta go find this Ilya, then. Maybe she'll pass through these parts sometime...",
+    "pl": "Och, naprawdę! No proszę... Muszę znaleźć tę Ilyę. Może kiedyś będzie tędy przechodzić..."
+  },
+  {
+    "id": "367023830892583",
+    "key": "16_Jasna_v1_Talk_About_Twins_ZN2Q",
+    "en": "Would be nice to ask her 'bout the twins... And o' course, maybe if she's <i>real</i> nice, they could <i>meet</i> 'er...",
+    "pl": "Miło byłoby zapytać ją o bliźnięta... A jeśli jest <i>naprawdę</i> miła, może mogliby ją <i>poznać...</i>"
+  },
+  {
+    "id": "367023830892584",
+    "key": "16_Jasna_v1_Talk_About_Twins_6MPB",
+    "en": "Alexei's not at the Hospital right now.",
+    "pl": "Alexeia nie ma teraz w szpitalu."
+  },
+  {
+    "id": "367023830892585",
+    "key": "16_Jasna_v1_Talk_About_Twins_K8PN",
+    "en": "Holy – since when? The Twins is <i>alone?</i> Damn, I've been here a <i>while...</i> Shit. Gotta hurry on back...",
+    "pl": "Święta... Od kiedy? Bliźnięta są <i>same?</i> Cholera, jestem tu już <i>długo...</i> Kurwa. Muszę szybko wracać..."
+  },
+  {
+    "id": "367023830892586",
+    "key": "16_Jasna_v1_Talk_About_Twins_PDUV",
+    "en": "Just hav'ta finish up here right quick, close up shop, get them tools, tell Church 'bout the crops, then get food... Get 'em changed, I... Have to...",
+    "pl": "Tylko szybko skończyć, zamknąć sklep, zabrać narzędzia, powiedzieć Kościołowi o plonach, potem jedzenie... Przebrać ich, ja... Muszę..."
+  },
+  {
+    "id": "367023830892587",
+    "key": "16_Jasna_v1_Talk_About_Twins_M34O",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "367023830892588",
+    "key": "16_Jasna_v1_Talk_About_Twins_816X",
+    "en": "Not many young people here in Zalesye.",
+    "pl": "W Zalesye jest mało młodych ludzi."
+  },
+  {
+    "id": "367023830892589",
+    "key": "16_Jasna_v1_Talk_About_Twins_X4NJ",
+    "en": "You're tellin' <i>me!</i> Those lovely twins are the only ones I talk to on the regular. Ain't no expert, but this world don't exactly make folks wanna <i>bone.</i>",
+    "pl": "<i>Mnie</i> to mówisz! Te kochane bliźnięta to jedyni młodzi, z którymi rozmawiam regularnie. Nie jestem znawczynią, ale ten świat nie bardzo zachęca do <i>bzykania.</i>"
+  },
+  {
+    "id": "367023830892590",
+    "key": "16_Jasna_v1_Talk_About_Twins_YK2L",
+    "en": "I guess, well, I ain't no expert, but this ain't exactly the kinda world makes folks wanna <i>bone.</i>",
+    "pl": "Nie jestem znawczynią, ale ten świat nie bardzo zachęca do <i>bzykania.</i>"
+  },
+  {
+    "id": "367023830892591",
+    "key": "16_Jasna_v1_Talk_About_Twins_WCRU",
+    "en": "... Sorry I said <i>bone,</i> that's not becomin' of an Acolyte. I meant \"carnal matters.\" Well there's another reason for it all: Acolytes and our talk o' chastity.",
+    "pl": "... Wybacz, że powiedziałam <i>bzykanie.</i> Nie przystoi Akolitce. Chodziło mi o „sprawy cielesne”. No i to kolejny powód: Akolici z naszym gadaniem o czystości."
+  },
+  {
+    "id": "367023830892592",
+    "key": "16_Jasna_v1_Talk_About_Twins_QE5L",
+    "en": "Chastity? Explain that to me.",
+    "pl": "Czystość? Wyjaśnij mi."
+  },
+  {
+    "id": "367023830892593",
+    "key": "16_Jasna_v1_Talk_About_Twins_A7DU",
+    "en": "Quit pullin' my leg, now, Vulture. I know y'all not as dumb as y'all act!",
+    "pl": "Nie nabieraj mnie, Sępie. Wiem, że nie jesteście tak głupi, jak udajecie!"
+  },
+  {
+    "id": "367023830892594",
+    "key": "16_Jasna_v1_Talk_About_Twins_A0GS",
+    "en": "I don't mind a little dirty talk.",
+    "pl": "Nie przeszkadza mi trochę sprośności."
+  },
+  {
+    "id": "367023830892595",
+    "key": "16_Jasna_v1_Talk_About_Twins_7U02",
+    "en": "Err, thanks, chum...? Just don't tell Alexei I said that word. He's always on my ass 'bout <i>language.</i>",
+    "pl": "Eee, dzięki, kolego...? Tylko nie mów Alexeiowi, że użyłam tego słowa. Ciągle się czepia mojego <i>języka.</i>"
+  },
+  {
+    "id": "367023830892596",
+    "key": "16_Jasna_v1_Talk_About_Twins_JP7Q",
+    "en": "About something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "367023830892597",
+    "key": "16_Jasna_v1_Talk_About_Twins_BVGM",
+    "en": "I need to go, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "367023830892598",
+    "key": "16_Jasna_v1_GetWelcomingMessage_3HBM",
+    "en": "How do ya do, fella.",
+    "pl": "Jak się masz, kolego?"
+  },
+  {
+    "id": "367023830892599",
+    "key": "16_Jasna_v1_GetWelcomingMessage_PSRO",
+    "en": "Howdy there!",
+    "pl": "Siemasz!"
+  },
+  {
+    "id": "367023830892600",
+    "key": "16_Jasna_v1_GetWelcomingMessage_2J8P",
+    "en": "How's it goin', Vulture.",
+    "pl": "Jak leci, Sępie?"
+  },
+  {
+    "id": "367023830892601",
+    "key": "16_Jasna_v1_GetTalkMessage_1CXP",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "367023830892602",
+    "key": "16_Jasna_v1_GetTalkMessage_ZQQM",
+    "en": "We should talk.",
+    "pl": "Powinniśmy porozmawiać."
+  },
+  {
+    "id": "367023830892603",
+    "key": "16_Jasna_v1_GetTalkMessage_9YMK",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "367023830892604",
+    "key": "16_Jasna_v1_GetTradeMessage_33PT",
+    "en": "Have anything to trade for?",
+    "pl": "Masz coś na wymianę?"
+  },
+  {
+    "id": "367023830892605",
+    "key": "16_Jasna_v1_GetTradeMessage_01HY",
+    "en": "Got any food worth trading?",
+    "pl": "Masz jakieś jedzenie na handel?"
+  },
+  {
+    "id": "367023830892606",
+    "key": "16_Jasna_v1_GetTradeMessage_07Y3",
+    "en": "I want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "367023830892607",
+    "key": "16_Jasna_v1_GetRandomTradeStart_65QF",
+    "en": "I have some extra produce, sure.",
+    "pl": "Mam trochę nadmiarowych plonów, jasne."
+  },
+  {
+    "id": "367023830892608",
+    "key": "16_Jasna_v1_GetRandomTradeStart_7WF8",
+    "en": "Anythin' not goin' to the Acolytes, ye can trade for.",
+    "pl": "Możesz kupić wszystko, co nie idzie do Akolitów."
+  },
+  {
+    "id": "367023830892609",
+    "key": "16_Jasna_v1_GetRandomTradeStart_42C9",
+    "en": "Welp, I'm more about donatin', but let's do this.",
+    "pl": "Wolę rozdawać, ale dobrze, handlujmy."
+  },
+  {
+    "id": "367023830892610",
+    "key": "16_Jasna_v1_GetRandomTradeStart_XNI5",
+    "en": "Sure, let's trade some.",
+    "pl": "Jasne, pohandlujmy."
+  },
+  {
+    "id": "367023830892611",
+    "key": "16_Jasna_v1_GetRandomLeaveMessage_C26J",
+    "en": "Catch ya later, Vulture.",
+    "pl": "Do zobaczenia, Sępie."
+  },
+  {
+    "id": "367023830892612",
+    "key": "16_Jasna_v1_GetRandomLeaveMessage_PKWM",
+    "en": "Sorry I'm too busy for a proper chat.",
+    "pl": "Wybacz, jestem zbyt zajęta na porządną rozmowę."
+  },
+  {
+    "id": "367023830892613",
+    "key": "16_Jasna_v1_GetRandomLeaveMessage_B4H1",
+    "en": "Drop by again, chum.",
+    "pl": "Wpadnij jeszcze, kolego."
+  },
+  {
+    "id": "367023830892614",
+    "key": "16_Jasna_v1_GetRandomLeaveMessage_T33J",
+    "en": "Alright, later.",
+    "pl": "Dobra, na razie."
+  },
+  {
+    "id": "367023830892615",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Show_XIZO",
+    "en": "I'll get those supplies, yeah.",
+    "pl": "Tak, zdobędę te zapasy."
+  },
+  {
+    "id": "367023830892616",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Show_RAPT",
+    "en": "Yer a lifesaver! Let me know when you do!",
+    "pl": "Ratujesz mi życie! Daj znać, jak się uda!"
+  },
+  {
+    "id": "367023830892617",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Show_3NO1",
+    "en": "Gotta think about it first.",
+    "pl": "Najpierw muszę się zastanowić."
+  },
+  {
+    "id": "367023830892618",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Show_XTMM",
+    "en": "S'pose it ain't much of a rush.",
+    "pl": "Chyba aż tak się nie spieszy."
+  },
+  {
+    "id": "367023830892619",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Show_DZ3C",
+    "en": "Rather take a different request – got anything?",
+    "pl": "Wolę inne zlecenie. Masz coś?"
+  },
+  {
+    "id": "367023830892620",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Complete_YRL3",
+    "en": "I'll come by later for more work.",
+    "pl": "Wrócę później po więcej pracy."
+  },
+  {
+    "id": "367023830892621",
+    "key": "16_Jasna_Jobs_v1_SupplyRun_Complete_3ZBX",
+    "en": "Thanks and take care.",
+    "pl": "Dzięki, trzymaj się."
+  },
+  {
+    "id": "367023830892622",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Show_HT4F",
+    "en": "I'll go exterminate them.",
+    "pl": "Pójdę je wytępić."
+  },
+  {
+    "id": "367023830892623",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Show_CRI8",
+    "en": "That's what I like to hear.",
+    "pl": "To lubię słyszeć."
+  },
+  {
+    "id": "367023830892624",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Show_PPWE",
+    "en": "Let me think about it.",
+    "pl": "Daj mi się zastanowić."
+  },
+  {
+    "id": "367023830892625",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Show_GPK1",
+    "en": "Well, sure, but... Sooner'd be better, rather than later...",
+    "pl": "No dobrze, ale... Im szybciej, tym lepiej..."
+  },
+  {
+    "id": "367023830892626",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Show_AVEV",
+    "en": "Not up for it – got anything else?",
+    "pl": "Nie piszę się na to. Masz coś innego?"
+  },
+  {
+    "id": "367023830892627",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Complete_EET9",
+    "en": "Wasn't a big deal. Take care.",
+    "pl": "To było nic takiego. Trzymaj się."
+  },
+  {
+    "id": "367023830892628",
+    "key": "16_Jasna_Jobs_v1_MutantExtermination_Complete_X7GE",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "367023830892629",
+    "key": "16_Jasna_Jobs_v1_GetJobsMessage_JHKG",
+    "en": "You need help with something?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "367023830892630",
+    "key": "16_Jasna_Jobs_v1_GetJobsMessage_19G8",
+    "en": "I need work. Got anything?",
+    "pl": "Potrzebuję pracy. Masz coś?"
+  },
+  {
+    "id": "367023830892631",
+    "key": "16_Jasna_Jobs_v1_GetJobsMessage_QFK6",
+    "en": "Something I can help you with?",
+    "pl": "Mogę ci w czymś pomóc?"
+  },
+  {
+    "id": "367023830892632",
+    "key": "16_Jasna_Jobs_v1_SupplyRunStart_GDRQ",
+    "en": "Been runnin’ outta some basic things what you’ll find 'round here… Appreciate some help. Reward in it for ya. Whaddaya say?",
+    "pl": "Kończą mi się podstawowe rzeczy, które można znaleźć w okolicy... Przyda się pomoc. Będzie nagroda. Co ty na to?"
+  },
+  {
+    "id": "367023830892633",
+    "key": "16_Jasna_Jobs_v1_SupplyRunStart_YB3A",
+    "en": "I need some supplies to keep these crops goin’. Can reward you if you get some for me. You up for it?",
+    "pl": "Potrzebuję zapasów, żeby utrzymać te uprawy. Wynagrodzę cię, jeśli coś przyniesiesz. Wchodzisz w to?"
+  },
+  {
+    "id": "367023830892634",
+    "key": "16_Jasna_Jobs_v1_SupplyRunComplete_CXTL",
+    "en": "Thanks a bunch, Vulture! That'll be a big help. Here's your reward.",
+    "pl": "Wielkie dzięki, Sępie! Bardzo mi to pomoże. Oto nagroda."
+  },
+  {
+    "id": "367023830892635",
+    "key": "16_Jasna_Jobs_v1_SupplyRunComplete_L6QX",
+    "en": "I see you got everything I asked for! Here's your compensation.",
+    "pl": "Widzę, że masz wszystko, o co prosiłam! Oto wynagrodzenie."
+  },
+  {
+    "id": "367023830892636",
+    "key": "16_Jasna_Jobs_v1_SupplyRunComplete_GK6M",
+    "en": "Oh, nice – everything I needed! Here's your pay.",
+    "pl": "O, świetnie, wszystko, czego potrzebowałam! Masz zapłatę."
+  },
+  {
+    "id": "367023830892637",
+    "key": "16_Jasna_Jobs_v1_MutantExterminationStart_3326",
+    "en": "Me and some other Acolytes been havin’ plenty o’ trouble from those mutated critters. Bunch of ‘em are messing up the plantations… Help us get rid of ‘em, Vulture.",
+    "pl": "Mamy z innymi Akolitami sporo kłopotów ze zmutowanymi stworzeniami. Cała zgraja niszczy uprawy... Pomóż się ich pozbyć, Sępie."
+  },
+  {
+    "id": "367023830892638",
+    "key": "16_Jasna_Jobs_v1_MutantExterminationStart_ZMNF",
+    "en": "There’s been more than a lil’ bit of trouble lately – Mutants runnin’ in packs, attackin’ our crops. Would ya mind getting rid of 'em for us?",
+    "pl": "Ostatnio kłopotów co niemiara. Mutanci biegają stadami i atakują uprawy. Pozbędziesz się ich dla nas?"
+  },
+  {
+    "id": "367023830892639",
+    "key": "16_Jasna_Jobs_v1_MutantExterminationComplete_M42Y",
+    "en": "Got them all, huh? That's fantastic. Here, as I promised.",
+    "pl": "Wszystkie załatwione? Wspaniale. Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "367023830892640",
+    "key": "16_Jasna_Jobs_v1_MutantExterminationComplete_SPOZ",
+    "en": "Nice – and you're in one piece, too. Here you go.",
+    "pl": "Świetnie, i jesteś cały. Proszę."
+  },
+  {
+    "id": "367023830892641",
+    "key": "16_Jasna_Jobs_v1_MutantExterminationComplete_TZ97",
+    "en": "Fantastic! I'll let the other Acolytes know. Here's your reward.",
+    "pl": "Wspaniale! Powiadomię innych Akolitów. Oto nagroda."
+  },
+  {
+    "id": "367023830892642",
+    "key": "16_Jasna_Jobs_v1_GetNoQuestsAvailable_N1AY",
+    "en": "I don't have any more requests for the time bein'.",
+    "pl": "Na razie nie mam więcej zleceń."
+  },
+  {
+    "id": "367023830892643",
+    "key": "16_Jasna_Jobs_v1_GetNoQuestsAvailable_9Z4L",
+    "en": "Don't really need anythin' else right now.",
+    "pl": "Teraz nie potrzebuję niczego więcej."
+  },
+  {
+    "id": "367023830892644",
+    "key": "16_Jasna_Jobs_v1_GetNoQuestsAvailable_RNIQ",
+    "en": "Hmm, got nothin' right now. Check back with me later.",
+    "pl": "Hmm, nic teraz nie mam. Zajrzyj później."
+  },
+  {
+    "id": "367023830892645",
+    "key": "16_Jasna_v1_GetWelcomingMessage_XY42",
+    "en": "How do ya do, Vulture? I'm Jasna, I take care of this place. Nothing to scavenge here, I'm afraid – this here's fertile land.",
+    "pl": "Jak się masz, Sępie? Jestem Jasna, zajmuję się tym miejscem. Nie ma tu czego szabrować. To żyzna ziemia."
+  },
+  {
+    "id": "48223281908580352",
+    "key": "16_Jasna_v1_GodWilling_ESKM",
+    "en": "Said something about a job?",
+    "pl": "Mówiłaś coś o zleceniu?"
+  },
+  {
+    "id": "48223281942134784",
+    "key": "16_Jasna_v1_GodWilling_ZRAN",
+    "en": "Need a Vulture?",
+    "pl": "Potrzebujesz Sępa?"
+  },
+  {
+    "id": "48223281942134785",
+    "key": "16_Jasna_v1_GodWilling_916D",
+    "en": "Got a special request?",
+    "pl": "Masz specjalną prośbę?"
+  },
+  {
+    "id": "48223281942134786",
+    "key": "16_Jasna_v1_GodWilling_NLQ3",
+    "en": "I need a Vulture now, yeah. Been waitin' on a supply drop to keep things movin' down th'farms... Church's usually on time with that stuff...",
+    "pl": "Tak, teraz potrzebuję Sępa. Czekam na dostawę, żeby praca na polach się nie zatrzymała... Kościół zwykle dostarcza wszystko na czas..."
+  },
+  {
+    "id": "48223281942134787",
+    "key": "16_Jasna_v1_GodWilling_TTDR",
+    "en": "Then my Sisters told me the delivery girl straight-up <i>vanished!</i> I need those supplies, Vulture, and it'd be good to make sure the girl's safe. D'you mind searching around for me?",
+    "pl": "A potem siostry powiedziały mi, że dostawczyni po prostu <i>zniknęła!</i> Potrzebuję zapasów, Sępie, a dobrze byłoby też sprawdzić, czy dziewczyna jest bezpieczna. Rozejrzysz się dla mnie?"
+  },
+  {
+    "id": "48223281942134788",
+    "key": "16_Jasna_v1_GodWilling_6UFK",
+    "en": "I'll see what I can do.",
+    "pl": "Zobaczę, co da się zrobić."
+  },
+  {
+    "id": "48223281942134789",
+    "key": "16_Jasna_v1_GodWilling_25JZ",
+    "en": "That's great to hear, mister. Here's hopin' ya find both the supplies 'n that poor lil' Acolyte! Won't do to just wait around...",
+    "pl": "Miło to słyszeć. Obyś znalazł i zapasy, i tę biedną Akolitkę! Nie można tylko czekać..."
+  },
+  {
+    "id": "48223281942134790",
+    "key": "16_Jasna_v1_GodWilling_NXU0",
+    "en": "Girl's probably dead. No use searching.",
+    "pl": "Dziewczyna pewnie nie żyje. Nie ma sensu szukać."
+  },
+  {
+    "id": "48223281942134791",
+    "key": "16_Jasna_v1_GodWilling_HNOQ",
+    "en": "... Kid. I <i>know</i> what the worst case scenario is. Been through it <i>before.</i> I'm just askin' ya to let me have a lil' <i>hope.</i> Ok? It's a simple gig.",
+    "pl": "... Dzieciaku. <i>Wiem,</i> jaki jest najgorszy scenariusz. Już przez to <i>przechodziłam.</i> Proszę tylko, żebyś zostawił mi trochę <i>nadziei.</i> Dobrze? To prosta robota."
+  },
+  {
+    "id": "48223281942134792",
+    "key": "16_Jasna_v1_GodWilling_GBSC",
+    "en": "... Fine. I'll do it.",
+    "pl": "... Dobra. Zrobię to."
+  },
+  {
+    "id": "48223281942134793",
+    "key": "16_Jasna_v1_GodWilling_6O7N",
+    "en": "Thank you, Vulture. Hopin' you can bring some good news. But I'll give ya a reward, even if you don't.",
+    "pl": "Dziękuję, Sępie. Obyś przyniósł dobre wieści. Ale nagrodę dostaniesz, nawet jeśli nie."
+  },
+  {
+    "id": "48223281942134794",
+    "key": "16_Jasna_v1_GodWilling_6X4M",
+    "en": "Not wasting my time on this.",
+    "pl": "Nie będę na to marnował czasu."
+  },
+  {
+    "id": "48223281942134795",
+    "key": "16_Jasna_v1_GodWilling_9J3T",
+    "en": "... I'll be charitable and assume that ruckus up there done made you a bit more <i>cautious</i> than usual. Come talk again when you're back in business.",
+    "pl": "... Będę łaskawa i założę, że przez tę całą awanturę zrobiłeś się bardziej <i>ostrożny</i> niż zwykle. Wróć porozmawiać, kiedy znów będziesz gotowy do pracy."
+  },
+  {
+    "id": "48223281942134796",
+    "key": "16_Jasna_v1_GodWilling_9GEO",
+    "en": "What's the route these supply drops take?",
+    "pl": "Jaką drogą idą dostawy?"
+  },
+  {
+    "id": "48223281942134797",
+    "key": "16_Jasna_v1_GodWilling_ZR6A",
+    "en": "Can't really tell ya... Church's got a pretty lil' garden right next to it, where they's always growin' somethin'. Might be some o' my supplies came from over there.",
+    "pl": "Nie bardzo wiem... Kościół ma tuż obok piękny ogród, w którym zawsze coś rośnie. Może część moich zapasów pochodzi stamtąd."
+  },
+  {
+    "id": "48223281942134798",
+    "key": "16_Jasna_v1_GodWilling_QAT8",
+    "en": "Also, they get Palatines 'n Vultures actin' as bodyguards... Well, probably just Palatines now that the number o' Vultures done <i>dwindled</i> a bit.",
+    "pl": "Mają też Palatynów i Sępy jako ochronę... No, teraz pewnie tylko Palatynów, skoro Sępów trochę <i>ubyło.</i>"
+  },
+  {
+    "id": "48223281942134799",
+    "key": "16_Jasna_v1_GodWilling_AHNJ",
+    "en": "So the carrier was an Acolyte?",
+    "pl": "Czyli dostawczyni była Akolitką?"
+  },
+  {
+    "id": "48223281942134800",
+    "key": "16_Jasna_v1_GodWilling_ED2C",
+    "en": "That's right... Dunno her personally, just heard she's a lady, bit young maybe. S'pose she'd stand out a bit from her surroundings... Wait, that might be a <i>bad</i> thing...",
+    "pl": "Tak... Nie znam jej osobiście. Słyszałam tylko, że kobieta, chyba dość młoda. Pewnie wyróżniałaby się w otoczeniu... Czekaj, to może być <i>złe...</i>"
+  },
+  {
+    "id": "48223281942134801",
+    "key": "16_Jasna_v1_GodWilling_95O4",
+    "en": "I'm gonna get to it.",
+    "pl": "Zabieram się do tego."
+  },
+  {
+    "id": "48223281942134802",
+    "key": "16_Jasna_v1_GodWilling_3X0X",
+    "en": "Alrighty, best of luck to ya.",
+    "pl": "Dobrze, powodzenia."
+  },
+  {
+    "id": "48223281942134803",
+    "key": "16_Jasna_v1_GodWilling_F089",
+    "en": "About those missing supplies.",
+    "pl": "Co do tych zaginionych zapasów."
+  },
+  {
+    "id": "48223281942134804",
+    "key": "16_Jasna_v1_GodWilling_GPQP",
+    "en": "Jasna. Here to report.",
+    "pl": "Jasna. Mam wieści."
+  },
+  {
+    "id": "48223281942134805",
+    "key": "16_Jasna_v1_GodWilling_7ENP",
+    "en": "About the job.",
+    "pl": "Co do zlecenia."
+  },
+  {
+    "id": "48223281942134806",
+    "key": "16_Jasna_v1_GodWilling_TMHT",
+    "en": "Welp, what is it, mister? Got my treasure?",
+    "pl": "No i co, panie? Masz mój skarb?"
+  },
+  {
+    "id": "48223281942134807",
+    "key": "16_Jasna_v1_GodWilling_U2KJ",
+    "en": "Found this. (Hand over Church Supplies.)",
+    "pl": "Znalazłem to. (Oddaj zapasy Kościoła.)"
+  },
+  {
+    "id": "48223281942134808",
+    "key": "16_Jasna_v1_GodWilling_PUYA",
+    "en": "Well I'll be damned! Was honestly thinkin' these woulda been long gone already... Good job, Vulture. This'll make the next weeks a <i>lot</i> easier...",
+    "pl": "No niech mnie! Szczerze myślałam, że już dawno przepadły... Dobra robota, Sępie. Następne tygodnie będą <i>dużo</i> łatwiejsze..."
+  },
+  {
+    "id": "48223281942134809",
+    "key": "16_Jasna_v1_GodWilling_9EKH",
+    "en": "But... Don't tell me... That girl? Kinda lookin' like you ain't exactly found and led her to safety...",
+    "pl": "Ale... Tylko nie mów... Ta dziewczyna? Nie wyglądasz, jakbyś znalazł ją i odprowadził w bezpieczne miejsce..."
+  },
+  {
+    "id": "48223281942134810",
+    "key": "16_Jasna_v1_GodWilling_RSHJ",
+    "en": "She didn't make it.",
+    "pl": "Nie przeżyła."
+  },
+  {
+    "id": "48223281942134811",
+    "key": "16_Jasna_v1_GodWilling_0BBT",
+    "en": "Oh, God... Poor thing. Didn't even have a chance to meet 'er. Life 'round here sure is tough sometimes...",
+    "pl": "Och, Boże... Biedactwo. Nawet nie zdążyłam jej poznać. Życie tutaj bywa naprawdę ciężkie..."
+  },
+  {
+    "id": "48223281942134812",
+    "key": "16_Jasna_v1_GodWilling_97Y7",
+    "en": "Would she be alive if I hadn't yelled at the Church for help? Managed on my own?... Actin' like a spoiled brat... Wantin' a <i>break...</i> Shit... I can't...",
+    "pl": "Czy żyłaby, gdybym nie krzyczała do Kościoła o pomoc? Gdybym radziła sobie sama?... Jak rozpieszczony bachor... Chciałam <i>odpocząć...</i> Kurwa... Nie mogę..."
+  },
+  {
+    "id": "48223281942134813",
+    "key": "16_Jasna_v1_GodWilling_QM7K",
+    "en": "Got shredded by Bandits.",
+    "pl": "Bandyci ją rozstrzelali."
+  },
+  {
+    "id": "48223281942134814",
+    "key": "16_Jasna_v1_GodWilling_UFMA",
+    "en": "Christ, Vulture, that's terrible... Here I was hopin' for the best but nah, good ol' Zalesye reminds us what a <i>hellscape</i> it is...",
+    "pl": "Chryste, Sępie, to straszne... Liczyłam na najlepsze, ale nie. Stare dobre Zalesye przypomina, jakim jest <i>piekłem...</i>"
+  },
+  {
+    "id": "48223281942134815",
+    "key": "16_Jasna_v1_GodWilling_OSVW",
+    "en": "I mean, I just ask for <i>supplies,</i> don't even <i>know</i> who they sendin', suddenly this young girl's up n' dying... If I hadn't been so <i>lazy...</i>",
+    "pl": "Proszę tylko o <i>zapasy,</i> nawet <i>nie wiem,</i> kogo wysyłają, a nagle młoda dziewczyna ginie... Gdybym nie była taka <i>leniwa...</i>"
+  },
+  {
+    "id": "48223281942134816",
+    "key": "16_Jasna_v1_GodWilling_WOBI",
+    "en": "Searched everywhere. Nothing. (Keep Church Supplies.)",
+    "pl": "Wszędzie szukałem. Nic. (Zatrzymaj zapasy Kościoła.)"
+  },
+  {
+    "id": "48223281942134817",
+    "key": "16_Jasna_v1_GodWilling_9UWX",
+    "en": "Dammit, tsk. This gon' make my next few weeks a hell of a lot <i>tougher.</i> Plus next time Vera 'n Zoran need somethin', I'm not sure I'll trust the Church to...",
+    "pl": "Cholera. Przez to następne tygodnie będą o wiele <i>cięższe.</i> A kiedy Vera i Zoran znów czegoś potrzebują, nie wiem, czy zaufam Kościołowi, że..."
+  },
+  {
+    "id": "48223281942134818",
+    "key": "16_Jasna_v1_GodWilling_5KAU",
+    "en": "Wait... You didn't find the supplies, but... What about the Acolyte bringing 'em over? My Sister Acolyte...?",
+    "pl": "Czekaj... Nie znalazłeś zapasów, ale... A Akolitka, która je niosła? Moja siostra Akolitka...?"
+  },
+  {
+    "id": "48223281942134819",
+    "key": "16_Jasna_v1_GodWilling_67LY",
+    "en": "Bandits ambushed me near the Church. Her corpse was nearby.",
+    "pl": "Bandyci napadli mnie koło kościoła. Jej ciało leżało niedaleko."
+  },
+  {
+    "id": "48223281942134820",
+    "key": "16_Jasna_v1_GodWilling_0FX3",
+    "en": "Christ... Well if yer here to tell the tale, 'least ya gave those sorry fucks the what-for... Not that it matters much in this land...",
+    "pl": "Chryste... Skoro tu jesteś i o tym mówisz, to przynajmniej dałeś tym skurwielom nauczkę... Nie żeby to wiele zmieniało w tej krainie..."
+  },
+  {
+    "id": "48223281942134821",
+    "key": "16_Jasna_v1_GodWilling_3CKT",
+    "en": "Anyways, Vulture. You deserve a lil' compensation, it's just... 'Fraid I can't spare much, knowing how <i>fucked</i> I am now...",
+    "pl": "Tak czy inaczej, Sępie, zasługujesz na zapłatę. Tylko... Niewiele mogę dać, wiedząc, jak bardzo mam teraz <i>przejebane...</i>"
+  },
+  {
+    "id": "48223281942134822",
+    "key": "16_Jasna_v1_GodWilling_G5ME",
+    "en": "Bandits gunned her down and escaped.",
+    "pl": "Bandyci ją zastrzelili i uciekli."
+  },
+  {
+    "id": "48223281942134823",
+    "key": "16_Jasna_v1_GodWilling_4GLC",
+    "en": "God... Not even a tiny lil' taste o' that \"divine retribution\", huh? Startin' to think it's all sum' quackery...",
+    "pl": "Boże... Nawet odrobiny tej „boskiej odpłaty”, co? Zaczynam myśleć, że to wszystko jakieś brednie..."
+  },
+  {
+    "id": "48223281942134824",
+    "key": "16_Jasna_v1_GodWilling_QUTU",
+    "en": "But that don't mean ya don't deserve yer reward, o' course. Just... Not tryin' to swindle ya, but I just found out I'm in <i>trouble</i> here...",
+    "pl": "Oczywiście nadal zasługujesz na nagrodę. Tylko... Nie chcę cię oszukać, ale właśnie się dowiedziałam, że jestem w <i>kłopotach...</i>"
+  },
+  {
+    "id": "112012562806407168",
+    "key": "16_Jasna_v1_GetRandomGodWillingCompletedStart_7ENP",
+    "en": "About the job.",
+    "pl": "Co do zlecenia."
+  },
+  {
+    "id": "112012562823184384",
+    "key": "16_Jasna_v1_GetRandomGodWillingCompletedStart_F089",
+    "en": "About those missing supplies.",
+    "pl": "Co do tych zaginionych zapasów."
+  },
+  {
+    "id": "112012562823184385",
+    "key": "16_Jasna_v1_GetRandomGodWillingCompletedStart_GPQP",
+    "en": "Jasna. Here to report.",
+    "pl": "Jasna. Mam wieści."
+  },
+  {
+    "id": "112012562823184386",
+    "key": "16_Jasna_v1_GetRandomGodWillingStart_916D",
+    "en": "Got a special request?",
+    "pl": "Masz specjalną prośbę?"
+  },
+  {
+    "id": "112012562823184387",
+    "key": "16_Jasna_v1_GetRandomGodWillingStart_ESKM",
+    "en": "Said something about a job?",
+    "pl": "Mówiłaś coś o zleceniu?"
+  },
+  {
+    "id": "112012562823184388",
+    "key": "16_Jasna_v1_GetRandomGodWillingStart_ZRAN",
+    "en": "Need a Vulture?",
+    "pl": "Potrzebujesz Sępa?"
+  },
+  {
+    "id": "112012562823184389",
+    "key": "16_Jasna_v1_GetRandomLeaveMessage_L8E8",
+    "en": "Come back sometime, you's good company.",
+    "pl": "Wpadnij kiedyś. Dobrze się z tobą rozmawia."
+  },
+  {
+    "id": "112012562823184390",
+    "key": "16_Jasna_v1_GetRandomTradeMessage_42C9",
+    "en": "Welp, I'm more about donatin', but let's do this.",
+    "pl": "Wolę rozdawać, ale dobrze, handlujmy."
+  },
+  {
+    "id": "112012562823184391",
+    "key": "16_Jasna_v1_GetRandomTradeMessage_65QF",
+    "en": "I have some extra produce, sure.",
+    "pl": "Mam trochę nadmiarowych plonów, jasne."
+  },
+  {
+    "id": "112012562823184392",
+    "key": "16_Jasna_v1_GetRandomTradeMessage_7WF8",
+    "en": "Anythin' not goin' to the Acolytes, ye can trade for.",
+    "pl": "Możesz kupić wszystko, co nie idzie do Akolitów."
+  },
+  {
+    "id": "112012562823184393",
+    "key": "16_Jasna_v1_GetRandomTradeMessage_XNI5",
+    "en": "Sure, let's trade some.",
+    "pl": "Jasne, pohandlujmy."
+  },
+  {
+    "id": "112012562823184394",
+    "key": "16_Jasna_v1_GetRandomTradeStart_01HY",
+    "en": "Got any food worth trading?",
+    "pl": "Masz jakieś jedzenie na handel?"
+  },
+  {
+    "id": "112012562823184395",
+    "key": "16_Jasna_v1_GetRandomTradeStart_07Y3",
+    "en": "I want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "112012562823184396",
+    "key": "16_Jasna_v1_GetRandomTradeStart_33PT",
+    "en": "Have anything to trade for?",
+    "pl": "Masz coś na wymianę?"
+  },
+  {
+    "id": "112012562827378688",
+    "key": "16_Jasna_v1_Talk_8E6O",
+    "en": "About something else.",
+    "pl": "O czymś innym."
+  },
+  {
+    "id": "112012562827378689",
+    "key": "16_Jasna_v1_Talk_BV2G",
+    "en": "See you later.",
+    "pl": "Do zobaczenia."
+  },
+  {
+    "id": "112012562827378690",
+    "key": "16_Jasna_v1_Talk_C2MV",
+    "en": "Acolytes grow food for donations?",
+    "pl": "Akolici uprawiają żywność do rozdawania?"
+  },
+  {
+    "id": "112012562827378691",
+    "key": "16_Jasna_v1_Talk_OUXU",
+    "en": "Of course! We take care o' the flock, Vulture. Folks <i>rely</i> on us... Though dependin' on the harvest it can be tough enough carin' for our own.",
+    "pl": "Oczywiście! Dbamy o trzodę, Sępie. Ludzie na nas <i>polegają...</i> Choć zależnie od zbiorów czasem trudno wyżywić choćby swoich."
+  },
+  {
+    "id": "119643976758525952",
+    "key": "16_Jasna_v1_Talk_About_Twins_XB93",
+    "en": "Hmm. Can't help you there.",
+    "pl": "Hmm. W tym nie pomogę."
+  },
+  {
+    "id": "119643976808857600",
+    "key": "16_Jasna_v1_Talk_About_Twins_JG88",
+    "en": "Guess they're all too mutated to talk after all...",
+    "pl": "Chyba jednak wszyscy są zbyt zmutowani, żeby mówić..."
+  }
+]

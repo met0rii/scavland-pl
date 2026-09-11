@@ -1,0 +1,2090 @@
+[
+  {
+    "id": "1087406080",
+    "key": "",
+    "en": "You know Alexei?",
+    "pl": "Znasz Alexeia?"
+  },
+  {
+    "id": "1108377600",
+    "key": "",
+    "en": "Course I do! Been helping out the Church since he was a <i>baby!</i> Taught him some prayers meself! And has he a single word of gratitude for me? No, not that I can hear...",
+    "pl": "Pewnie! Pomagam Kościołowi, odkąd był <i>niemowlęciem!</i> Sama uczyłam go modlitw! A ma dla mnie choć słowo wdzięczności? Nie, jakoś nie słyszę..."
+  },
+  {
+    "id": "1108377601",
+    "key": "",
+    "en": "But Jesus is with him for sure, I can see it in his eyes. He often comes for a chat when work allows: about God, about the East... Keeps an old hag like me a bit of company, bless his soul.",
+    "pl": "Ale Jezus na pewno jest z nim, widzę to w jego oczach. Często wpada pogadać, kiedy praca pozwala. O Bogu, o Wschodzie... Dotrzymuje starej jędzy towarzystwa, niech go Bóg błogosławi."
+  },
+  {
+    "id": "1108377602",
+    "key": "",
+    "en": "What do you do around here?",
+    "pl": "Czym się tu zajmujesz?"
+  },
+  {
+    "id": "1108377603",
+    "key": "",
+    "en": "I'm the chef! I prepare all sorts of meals for folks, especially those that we, the Acolytes, help.",
+    "pl": "Jestem kucharką! Przygotowuję różne posiłki dla ludzi, zwłaszcza tych, którym pomagamy my, Akolici."
+  },
+  {
+    "id": "1108377604",
+    "key": "",
+    "en": "Some recipes are from this area, but frankly, they're mostly dreadful. My favorites are the ones I remember from the East...",
+    "pl": "Część przepisów jest miejscowa, ale szczerze, większość okropna. Najbardziej lubię te, które pamiętam ze Wschodu..."
+  },
+  {
+    "id": "1108377605",
+    "key": "",
+    "en": "Of course, <i>everything</i> is made worse when you have to use Mutant meat!... So I avoid that, when I can.",
+    "pl": "Oczywiście <i>wszystko</i> smakuje gorzej, gdy trzeba użyć mięsa Mutantów!... Więc unikam go, kiedy mogę."
+  },
+  {
+    "id": "1108377606",
+    "key": "",
+    "en": "You're from the East?",
+    "pl": "Jesteś ze Wschodu?"
+  },
+  {
+    "id": "1108377607",
+    "key": "",
+    "en": "Oh, let that slip out, did I... Wrinkly old brain...  Keep it between us, wouldn't you. Too many distrustful eyes as is...",
+    "pl": "Och, wymsknęło mi się... Pomarszczony stary mózg... Niech to zostanie między nami, dobrze? I tak za dużo podejrzliwych spojrzeń..."
+  },
+  {
+    "id": "1108377608",
+    "key": "",
+    "en": "Yes, I was born East of here – can't remember the name of the place... Not sure it really <i>had</i> a name. It was a ghost shaped like land – in my mind, it's just a flash of gray prairies and visions of farm work.",
+    "pl": "Tak, urodziłam się na wschód stąd. Nie pamiętam nazwy... Nie wiem, czy to miejsce w ogóle ją <i>miało.</i> Było duchem w kształcie ziemi. Pamiętam tylko przebłyski szarych prerii i pracy w gospodarstwie."
+  },
+  {
+    "id": "1108377609",
+    "key": "",
+    "en": "My dad's rusty tools and some ugly, brown-green grass... That's all that's left of the East in this old noggin'. Maybe the Mist took all else away. Maybe there was never anything there.",
+    "pl": "Zardzewiałe narzędzia ojca i brzydka, brunatnozielona trawa... Tyle ze Wschodu zostało w tej starej głowie. Może Mgła zabrała resztę. Może nigdy nic więcej tam nie było."
+  },
+  {
+    "id": "1108377610",
+    "key": "",
+    "en": "Tell me more about the East.",
+    "pl": "Opowiedz więcej o Wschodzie."
+  },
+  {
+    "id": "1108377611",
+    "key": "",
+    "en": "I can certainly try.",
+    "pl": "Mogę spróbować."
+  },
+  {
+    "id": "1108377612",
+    "key": "",
+    "en": "Tell me more about your job.",
+    "pl": "Opowiedz więcej o swojej pracy."
+  },
+  {
+    "id": "1108377613",
+    "key": "",
+    "en": "Oh, dear. A Vulture who wants to learn how to <i>cook?</i>",
+    "pl": "O rety. Sęp, który chce nauczyć się <i>gotować?</i>"
+  },
+  {
+    "id": "1108377614",
+    "key": "",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "1108377615",
+    "key": "",
+    "en": "How do you get ingredients?",
+    "pl": "Skąd bierzesz składniki?"
+  },
+  {
+    "id": "1108377616",
+    "key": "",
+    "en": "My dear, being an Acolyte and having connections to the Rada makes things quite easy sometimes. Suppose Vultures can't really grasp the idea of a \"business network\" so good.",
+    "pl": "Mój drogi, bycie Akolitką i znajomości w Radzie czasem bardzo ułatwiają sprawę. Sępom chyba trudno pojąć, czym jest „sieć kontaktów handlowych”."
+  },
+  {
+    "id": "1108377617",
+    "key": "",
+    "en": "I get my meat from Bogdan, the butcher. He's with the Rada. The vegetables I get from Jasna, the farmer. She is with us Acolytes.",
+    "pl": "Mięso biorę od rzeźnika Bogdana. Należy do Rady. Warzywa od rolniczki Jasny. Ona jest z nami, Akolitami."
+  },
+  {
+    "id": "1108377618",
+    "key": "",
+    "en": "Sometimes I hire Vultures to bring me extra things that I need... So if you're interested in some work, do come by.",
+    "pl": "Czasem wynajmuję Sępy, żeby przyniosły coś dodatkowego... Więc jeśli szukasz roboty, zajrzyj."
+  },
+  {
+    "id": "1108377619",
+    "key": "",
+    "en": "Don't the radiation and Mist poison everything?",
+    "pl": "Promieniowanie i Mgła nie zatruwają wszystkiego?"
+  },
+  {
+    "id": "1108377620",
+    "key": "",
+    "en": "Well, there are ways to make the contaminated stuff edible. Even Mutant meat can be nutritious and, as far as we know, harmless – long as you cook it right.",
+    "pl": "Są sposoby, żeby skażone rzeczy nadawały się do jedzenia. Nawet mięso Mutantów może być pożywne i, z tego, co wiemy, nieszkodliwe. Byle je odpowiednio ugotować."
+  },
+  {
+    "id": "1108377621",
+    "key": "",
+    "en": "Of course, for stuff like vegetables and water you'll need the filters invented by those stuck-up Mechanists – otherwise, you'll lay sick after every meal!... Which I imagine is a common feeling for your kind...",
+    "pl": "Oczywiście do warzyw i wody potrzebujesz filtrów tych zadufanych Mechanistów. Inaczej będziesz chorował po każdym posiłku!... Co pewnie dobrze znasz..."
+  },
+  {
+    "id": "1108377622",
+    "key": "",
+    "en": "Do you sell all the food you make?",
+    "pl": "Sprzedajesz wszystko, co ugotujesz?"
+  },
+  {
+    "id": "1108377623",
+    "key": "",
+    "en": "Nah, only a portion of it. Most of what I make goes to Acolytes and our charity work, help the starving mouths of Zalesye 'n all that.",
+    "pl": "Nie, tylko część. Większość trafia do Akolitów i na naszą dobroczynność. Karmienie głodnych w Zalesye i tak dalej."
+  },
+  {
+    "id": "1108377624",
+    "key": "",
+    "en": "'Fraid you don't qualify for such donations, my dear. You have the means to buy weapons and armor, so food should not be given to you freely.",
+    "pl": "Obawiam się, że nie kwalifikujesz się do takich darów, mój drogi. Stać cię na broń i pancerz, więc nie powinieneś dostawać jedzenia za darmo."
+  },
+  {
+    "id": "1108377625",
+    "key": "",
+    "en": "Let me ask about other things.",
+    "pl": "Zapytam o coś innego."
+  },
+  {
+    "id": "1108377626",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1108377627",
+    "key": "",
+    "en": "Was it peaceful, like the tales?",
+    "pl": "Było spokojnie, jak w opowieściach?"
+  },
+  {
+    "id": "1108377628",
+    "key": "",
+    "en": "Most surely the tales speak of somewhere even further East, much further, too distant from my old place to affect me in any way... Such is my burden, that no one believes me when I say that.",
+    "pl": "Opowieści na pewno mówią o miejscu jeszcze dalej na wschodzie. Dużo dalej, zbyt odległym, żeby miało wpływ na moje strony... Taki mój los, że nikt mi nie wierzy, gdy to mówię."
+  },
+  {
+    "id": "1108377629",
+    "key": "",
+    "en": "But yes – there was a lotta toil, but... It seemed like a peaceful place. But remember: we left 'cause we were fleein' the Mist, and the Violence. There was another war that folks 'round here seem to have forgot all about. Misplaced in their collective knowledge of history.",
+    "pl": "Ale tak. Było dużo harówki, lecz... Wydawało się spokojnie. Tylko pamiętaj: uciekliśmy przed Mgłą i przemocą. Była jeszcze jedna wojna, o której tutejsi jakby zapomnieli. Zgubili ją w zbiorowej pamięci historii."
+  },
+  {
+    "id": "1108377630",
+    "key": "",
+    "en": "Something tore away the peace just like it did in the West.",
+    "pl": "Coś zniszczyło spokój, tak jak na Zachodzie."
+  },
+  {
+    "id": "1108377631",
+    "key": "",
+    "en": "Why do folks not believe you?",
+    "pl": "Czemu ludzie ci nie wierzą?"
+  },
+  {
+    "id": "1108377632",
+    "key": "",
+    "en": "To most Commonfolk, I'm too suspicious. A foreign woman, trying to make it in Zalesye even though she's from the Promised Land? Well, she ain't deserve no trust.",
+    "pl": "Dla większości Zwykłych Ludzi jestem podejrzana. Obca kobieta próbuje żyć w Zalesye, chociaż pochodzi z Ziemi Obiecanej? No, takiej ufać nie można."
+  },
+  {
+    "id": "1108377633",
+    "key": "",
+    "en": "How could she choose this dump over Wyraj? From such an idyllic place to the heart of the bends? And <i>this</i> lady cooks our <i>food?</i>",
+    "pl": "Jak mogła wybrać to zadupie zamiast Wyraju? Z takiej idylli w samo serce skażenia? I <i>ta</i> kobieta gotuje nam <i>jedzenie?</i>"
+  },
+  {
+    "id": "1108377634",
+    "key": "",
+    "en": "It don't take much to be rejected by a community you weren't born into, I'm afraid. Thankfully... I have the Church. The house of God is most welcomin'.",
+    "pl": "Niestety niewiele trzeba, żeby odrzuciła cię społeczność, w której się nie urodziłaś. Na szczęście... Mam Kościół. Dom Boży przyjmuje serdecznie."
+  },
+  {
+    "id": "1108377635",
+    "key": "",
+    "en": "Was it truly free of radiation and Mist?",
+    "pl": "Naprawdę nie było tam promieniowania ani Mgły?"
+  },
+  {
+    "id": "1108377636",
+    "key": "",
+    "en": "No. We fled from those things, just like you Westerners did.",
+    "pl": "Nie. Uciekliśmy przed nimi, tak jak wy z Zachodu."
+  },
+  {
+    "id": "1108377637",
+    "key": "",
+    "en": "Why not flee Eastward, then?",
+    "pl": "To czemu nie uciekliście na wschód?"
+  },
+  {
+    "id": "1108377638",
+    "key": "",
+    "en": "There was a Violence going on; I won't be mad if you don't believe me, but... Yeah, another war, apart from the main conflict between us and the West.",
+    "pl": "Trwała tam przemoc. Nie obrażę się, jeśli nie uwierzysz, ale... Tak, jeszcze jedna wojna, poza głównym konfliktem między nami a Zachodem."
+  },
+  {
+    "id": "1108377639",
+    "key": "",
+    "en": "Seems the people of Rhos were fighting themselves, brother versus brother, and it got bloody enough that the West with its higher spread of Mist still seemed preferable...",
+    "pl": "Podobno ludzie Rhos walczyli między sobą, brat przeciw bratu. Zrobiło się tak krwawo, że Zachód, choć bardziej spowity Mgłą, wydawał się lepszy..."
+  },
+  {
+    "id": "1108377640",
+    "key": "",
+    "en": "Tell me more about the Eastern War.",
+    "pl": "Opowiedz więcej o wojnie na Wschodzie."
+  },
+  {
+    "id": "1108377641",
+    "key": "",
+    "en": "Are you sure? I have nothing but a hazy memory of third-hand accounts.",
+    "pl": "Na pewno? Mam tylko mgliste wspomnienia relacji z trzeciej ręki."
+  },
+  {
+    "id": "1108377642",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "1108377643",
+    "key": "",
+    "en": "I'll see you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "1108377644",
+    "key": "",
+    "en": "What was the conflict about?",
+    "pl": "O co był ten konflikt?"
+  },
+  {
+    "id": "1108377645",
+    "key": "",
+    "en": "Most certainly on account of the main War, y'know? With the West.",
+    "pl": "Na pewno miał związek z główną wojną, wiesz? Tą z Zachodem."
+  },
+  {
+    "id": "1112571904",
+    "key": "",
+    "en": "Internal tensions between pro- and anti-government groups... In short, a civil war.",
+    "pl": "Napięcia między zwolennikami i przeciwnikami rządu... Jednym słowem wojna domowa."
+  },
+  {
+    "id": "1112571905",
+    "key": "",
+    "en": "Fightin' for control over our future as a nation: rebellion and continued struggle against the West, or submission to the imperialists as a way to end the carnage...",
+    "pl": "Walka o przyszłość naszego narodu: bunt i dalszy opór przeciw Zachodowi albo podporządkowanie się imperialistom, żeby zakończyć rzeź..."
+  },
+  {
+    "id": "1112571906",
+    "key": "",
+    "en": "Is that really worth warring over?",
+    "pl": "Naprawdę warto o to toczyć wojnę?"
+  },
+  {
+    "id": "1112571907",
+    "key": "",
+    "en": "How else do you resolve this kinda thing? One day we'll see the same cycles of destruction here, in Zalesye; maybe not in my time, but still...",
+    "pl": "A jak inaczej rozwiązać takie sprawy? Kiedyś te same cykle zniszczenia zobaczymy tutaj, w Zalesye. Może już nie za mojego życia, ale jednak..."
+  },
+  {
+    "id": "1112571908",
+    "key": "",
+    "en": "Violence 'tween Gunners and Palatines, Rada actin' all mighty, religious fervor which even as an Acolyte, I must say – can be corrupted, exploited...",
+    "pl": "Przemoc między Strzelcami a Palatynami, Rada panosząca się wszędzie, religijna gorliwość, którą nawet jako Akolitka muszę przyznać: można wypaczyć i wykorzystać..."
+  },
+  {
+    "id": "1112571909",
+    "key": "",
+    "en": "One day, folks we've known for years will take up arms, and they might be on a different side than ours. And we'll all be right <i>bastards.</i>",
+    "pl": "Pewnego dnia ludzie, których znamy od lat, chwycą za broń. I mogą stanąć po przeciwnej stronie. Wszyscy staniemy się skończonymi <i>draniami.</i>"
+  },
+  {
+    "id": "1112571910",
+    "key": "",
+    "en": "Until then, we do what we can.",
+    "pl": "Do tego czasu robimy, co możemy."
+  },
+  {
+    "id": "1112571911",
+    "key": "",
+    "en": "Is the war over?",
+    "pl": "Wojna się skończyła?"
+  },
+  {
+    "id": "1112571912",
+    "key": "",
+    "en": "Who knows? Been so, so long – surely there's a winner by now?",
+    "pl": "Kto wie? Minęło tyle czasu, chyba ktoś już wygrał?"
+  },
+  {
+    "id": "1112571913",
+    "key": "",
+    "en": "But then again, maybe it's a still-living reason for us to know next to nothing about the East. If a civil war is still on, surely it blocks our way into this Wyraj, and Wyraj's way to <i>us.</i> And makes whatever's in-between into Hell.",
+    "pl": "Ale może to wciąż powód, dla którego prawie nic nie wiemy o Wschodzie. Jeśli wojna domowa trwa, blokuje nam drogę do Wyraju, a Wyrajowi do <i>nas.</i> I zamienia wszystko pomiędzy w piekło."
+  },
+  {
+    "id": "1112571914",
+    "key": "",
+    "en": "By the way – I've heard a mighty scavenger's come in from the RO-29 highway recently. Scary, tough, with some next-level weapons. Maybe it's a harsher environment than this which produces these kinda folk – them who truly <i>thrive</i> in violence.",
+    "pl": "Przy okazji, słyszałam, że z autostrady RO-29 przybył niedawno potężny zbieracz. Straszny, twardy, z niespotykaną bronią. Może trudniejsze warunki niż te tworzą takich ludzi. Takich, którzy naprawdę <i>rozkwitają</i> w przemocy."
+  },
+  {
+    "id": "1112571915",
+    "key": "",
+    "en": "Changing the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "1112571916",
+    "key": "",
+    "en": "Gotta go.",
+    "pl": "Muszę iść."
+  },
+  {
+    "id": "1112571917",
+    "key": "",
+    "en": "Oh, you're that Vulture done got shot the other day? I'm Rosa. You've been giving Alexei too much trouble, young man.",
+    "pl": "Och, to ty jesteś tym Sępem, którego ostatnio postrzelili? Jestem Rosa. Za dużo kłopotu sprawiasz Alexeiowi, młody człowieku."
+  },
+  {
+    "id": "1112571918",
+    "key": "",
+    "en": "A Vulture. What is it?",
+    "pl": "Sęp. O co chodzi?"
+  },
+  {
+    "id": "1112571919",
+    "key": "",
+    "en": "Back from a scavenge?",
+    "pl": "Wracasz ze zbierania?"
+  },
+  {
+    "id": "1112571920",
+    "key": "",
+    "en": "What do you need?",
+    "pl": "Czego potrzebujesz?"
+  },
+  {
+    "id": "1112571921",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "1112571922",
+    "key": "",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "1112571923",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "1112571924",
+    "key": "",
+    "en": "I need some food.",
+    "pl": "Potrzebuję jedzenia."
+  },
+  {
+    "id": "1112571925",
+    "key": "",
+    "en": "What do you have to trade?",
+    "pl": "Co masz do wymiany?"
+  },
+  {
+    "id": "1112571926",
+    "key": "",
+    "en": "Need food – what do you have?",
+    "pl": "Potrzebuję jedzenia. Co masz?"
+  },
+  {
+    "id": "1112571927",
+    "key": "",
+    "en": "Let me show you what I've been cooking.",
+    "pl": "Pokażę ci, co ugotowałam."
+  },
+  {
+    "id": "1112571928",
+    "key": "",
+    "en": "Just finished a batch for you.",
+    "pl": "Właśnie skończyłam dla ciebie porcję."
+  },
+  {
+    "id": "1112571929",
+    "key": "",
+    "en": "I have some fresh food.",
+    "pl": "Mam świeże jedzenie."
+  },
+  {
+    "id": "1112571930",
+    "key": "",
+    "en": "Here's today's menu.",
+    "pl": "Oto dzisiejsze menu."
+  },
+  {
+    "id": "1112571931",
+    "key": "",
+    "en": "Come back later.",
+    "pl": "Wróć później."
+  },
+  {
+    "id": "1112571932",
+    "key": "",
+    "en": "Keep yourself nourished.",
+    "pl": "Dbaj, żebyś był najedzony."
+  },
+  {
+    "id": "1112571933",
+    "key": "",
+    "en": "Take care with your nutrition.",
+    "pl": "Uważaj na to, co jesz."
+  },
+  {
+    "id": "1112571934",
+    "key": "",
+    "en": "Bye, dear.",
+    "pl": "Pa, kochany."
+  },
+  {
+    "id": "1112571935",
+    "key": "",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "1112571936",
+    "key": "",
+    "en": "Good to hear. Let me know.",
+    "pl": "Miło słyszeć. Daj znać."
+  },
+  {
+    "id": "1112571937",
+    "key": "",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "1112571938",
+    "key": "",
+    "en": "Don't keep me waiting too long, now.",
+    "pl": "Nie każ mi za długo czekać."
+  },
+  {
+    "id": "1112571939",
+    "key": "",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "1112571940",
+    "key": "",
+    "en": "Tell me if you need more.",
+    "pl": "Powiedz, jeśli potrzebujesz więcej."
+  },
+  {
+    "id": "1112571941",
+    "key": "",
+    "en": "Cook something for me next time.",
+    "pl": "Następnym razem ugotuj coś dla mnie."
+  },
+  {
+    "id": "1112571942",
+    "key": "",
+    "en": "I'll get some medicine, then.",
+    "pl": "To zdobędę lekarstwa."
+  },
+  {
+    "id": "1112571943",
+    "key": "",
+    "en": "Aight then, go get 'em.",
+    "pl": "Dobrze, idź po nie."
+  },
+  {
+    "id": "1112571944",
+    "key": "",
+    "en": "I need some time to think.",
+    "pl": "Potrzebuję czasu do namysłu."
+  },
+  {
+    "id": "1112571945",
+    "key": "",
+    "en": "Oh dear, don't keep this old lady waiting.",
+    "pl": "Och, kochany, nie każ starej kobiecie czekać."
+  },
+  {
+    "id": "1112571946",
+    "key": "",
+    "en": "Not sure about this one. Any other requests?",
+    "pl": "Nie jestem pewien. Inne zlecenia?"
+  },
+  {
+    "id": "1112571947",
+    "key": "",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "1112571948",
+    "key": "",
+    "en": "Maybe don't poison people next time.",
+    "pl": "Może następnym razem nie truj ludzi."
+  },
+  {
+    "id": "1112571949",
+    "key": "",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "1112571950",
+    "key": "",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "1112571951",
+    "key": "",
+    "en": "Need help from a Vulture?",
+    "pl": "Potrzebujesz pomocy Sępa?"
+  },
+  {
+    "id": "1112571952",
+    "key": "",
+    "en": "I’m having trouble finding certain ingredients. Here’s what I need. Think you can help?",
+    "pl": "Trudno mi znaleźć pewne składniki. Oto czego potrzebuję. Pomożesz?"
+  },
+  {
+    "id": "1112571953",
+    "key": "",
+    "en": "I’m trying out some new recipes and, as usual, there’s ingredients I just can’t find. Bring them to me and I’ll give you a reward.",
+    "pl": "Próbuję nowych przepisów i jak zwykle nie mogę znaleźć niektórych składników. Przynieś je, a dostaniesz nagrodę."
+  },
+  {
+    "id": "1112571954",
+    "key": "",
+    "en": "Yes,  these will do great. Thank you!",
+    "pl": "Tak, te będą doskonałe. Dziękuję!"
+  },
+  {
+    "id": "1112571955",
+    "key": "",
+    "en": "Ah, just what I needed. Now for my end of the deal.",
+    "pl": "Ach, właśnie tego potrzebowałam. Teraz moja część umowy."
+  },
+  {
+    "id": "1112571956",
+    "key": "",
+    "en": "Nice! These will help me with the next batch. Here you go.",
+    "pl": "Świetnie! Przydadzą się do następnej porcji. Proszę."
+  },
+  {
+    "id": "1112571957",
+    "key": "",
+    "en": "Some of the Commonfolk are getting dysentery from rotten ingredients in their food. We’re feeding them better now, but still need some medicine... Got anything?",
+    "pl": "Niektórzy Zwykli Ludzie dostają czerwonki od zepsutych składników. Teraz karmimy ich lepiej, ale wciąż potrzebujemy leków... Masz coś?"
+  },
+  {
+    "id": "1112571958",
+    "key": "",
+    "en": "I think the last batch of food we made had spoiled meat in it – folks’ve been getting sick. Help us find some medicine and I’ll reward you.",
+    "pl": "Chyba w ostatniej partii jedzenia było zepsute mięso. Ludzie chorują. Pomóż znaleźć lekarstwa, a cię wynagrodzę."
+  },
+  {
+    "id": "1112571959",
+    "key": "",
+    "en": "Oh, you're a lifesaver. These will help a lot. Here you go...",
+    "pl": "Och, ratujesz nam życie. Bardzo się przydadzą. Proszę..."
+  },
+  {
+    "id": "1112571960",
+    "key": "",
+    "en": "These will do wonderfully. Here's your reward!",
+    "pl": "Te będą znakomite. Oto nagroda!"
+  },
+  {
+    "id": "1112571961",
+    "key": "",
+    "en": "Thank you, these are just what I needed. Your reward...",
+    "pl": "Dziękuję, właśnie tego potrzebowałam. Twoja nagroda..."
+  },
+  {
+    "id": "1112571962",
+    "key": "",
+    "en": "I don't need anything right now... Maybe later I'll think of ingredients I could use.",
+    "pl": "Teraz niczego nie potrzebuję... Może później przypomną mi się jakieś składniki."
+  },
+  {
+    "id": "1112571963",
+    "key": "",
+    "en": "I don't really have any requests at this moment. Come by later.",
+    "pl": "W tej chwili nie mam żadnych zleceń. Zajrzyj później."
+  },
+  {
+    "id": "1112571964",
+    "key": "",
+    "en": "Got nothing right now. Come back later, after I'm done with this batch...",
+    "pl": "Teraz nic nie mam. Wróć później, jak skończę to gotować..."
+  },
+  {
+    "id": "363572140998656",
+    "key": "",
+    "en": "You know Alexei?",
+    "pl": "Znasz Alexeia?"
+  },
+  {
+    "id": "363572157775872",
+    "key": "",
+    "en": "Course I do! Been helping out the Church since he was a <i>baby!</i> Taught him some prayers meself! And has he a single word of gratitude for me? No, not that I can hear...",
+    "pl": "Pewnie! Pomagam Kościołowi, odkąd był <i>niemowlęciem!</i> Sama uczyłam go modlitw! A ma dla mnie choć słowo wdzięczności? Nie, jakoś nie słyszę..."
+  },
+  {
+    "id": "363572157775873",
+    "key": "",
+    "en": "But Jesus is with him for sure, I can see it in his eyes. He often comes for a chat when work allows: about God, about the East... Keeps an old hag like me a bit of company, bless his soul.",
+    "pl": "Ale Jezus na pewno jest z nim, widzę to w jego oczach. Często wpada pogadać, kiedy praca pozwala. O Bogu, o Wschodzie... Dotrzymuje starej jędzy towarzystwa, niech go Bóg błogosławi."
+  },
+  {
+    "id": "363572157775874",
+    "key": "",
+    "en": "What do you do around here?",
+    "pl": "Czym się tu zajmujesz?"
+  },
+  {
+    "id": "363572157775875",
+    "key": "",
+    "en": "I'm the chef! I prepare all sorts of meals for folks, especially those that we, the Acolytes, help.",
+    "pl": "Jestem kucharką! Przygotowuję różne posiłki dla ludzi, zwłaszcza tych, którym pomagamy my, Akolici."
+  },
+  {
+    "id": "363572157775876",
+    "key": "",
+    "en": "Some recipes are from this area, but frankly, they're mostly dreadful. My favorites are the ones I remember from the East...",
+    "pl": "Część przepisów jest miejscowa, ale szczerze, większość okropna. Najbardziej lubię te, które pamiętam ze Wschodu..."
+  },
+  {
+    "id": "363572157775877",
+    "key": "",
+    "en": "Of course, <i>everything</i> is made worse when you have to use Mutant meat!... So I avoid that, when I can.",
+    "pl": "Oczywiście <i>wszystko</i> smakuje gorzej, gdy trzeba użyć mięsa Mutantów!... Więc unikam go, kiedy mogę."
+  },
+  {
+    "id": "363572157775878",
+    "key": "",
+    "en": "You're from the East?",
+    "pl": "Jesteś ze Wschodu?"
+  },
+  {
+    "id": "363572157775879",
+    "key": "",
+    "en": "Oh, let that slip out, did I... Wrinkly old brain...  Keep it between us, wouldn't you. Too many distrustful eyes as is...",
+    "pl": "Och, wymsknęło mi się... Pomarszczony stary mózg... Niech to zostanie między nami, dobrze? I tak za dużo podejrzliwych spojrzeń..."
+  },
+  {
+    "id": "363572157775880",
+    "key": "",
+    "en": "Yes, I was born East of here – can't remember the name of the place... Not sure it really <i>had</i> a name. It was a ghost shaped like land – in my mind, it's just a flash of gray prairies and visions of farm work.",
+    "pl": "Tak, urodziłam się na wschód stąd. Nie pamiętam nazwy... Nie wiem, czy to miejsce w ogóle ją <i>miało.</i> Było duchem w kształcie ziemi. Pamiętam tylko przebłyski szarych prerii i pracy w gospodarstwie."
+  },
+  {
+    "id": "363572157775881",
+    "key": "",
+    "en": "My dad's rusty tools and some ugly, brown-green grass... That's all that's left of the East in this old noggin'. Maybe the Mist took all else away. Maybe there was never anything there.",
+    "pl": "Zardzewiałe narzędzia ojca i brzydka, brunatnozielona trawa... Tyle ze Wschodu zostało w tej starej głowie. Może Mgła zabrała resztę. Może nigdy nic więcej tam nie było."
+  },
+  {
+    "id": "363572157775882",
+    "key": "",
+    "en": "Tell me more about the East.",
+    "pl": "Opowiedz więcej o Wschodzie."
+  },
+  {
+    "id": "363572157775883",
+    "key": "",
+    "en": "I can certainly try.",
+    "pl": "Mogę spróbować."
+  },
+  {
+    "id": "363572157775884",
+    "key": "",
+    "en": "Tell me more about your job.",
+    "pl": "Opowiedz więcej o swojej pracy."
+  },
+  {
+    "id": "363572157775885",
+    "key": "",
+    "en": "Oh, dear. A Vulture who wants to learn how to <i>cook?</i>",
+    "pl": "O rety. Sęp, który chce nauczyć się <i>gotować?</i>"
+  },
+  {
+    "id": "363572157775886",
+    "key": "",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "363572157775887",
+    "key": "",
+    "en": "How do you get ingredients?",
+    "pl": "Skąd bierzesz składniki?"
+  },
+  {
+    "id": "363572157775888",
+    "key": "",
+    "en": "My dear, being an Acolyte and having connections to the Rada makes things quite easy sometimes. Suppose Vultures can't really grasp the idea of a \"business network\" so good.",
+    "pl": "Mój drogi, bycie Akolitką i znajomości w Radzie czasem bardzo ułatwiają sprawę. Sępom chyba trudno pojąć, czym jest „sieć kontaktów handlowych”."
+  },
+  {
+    "id": "363572157775889",
+    "key": "",
+    "en": "I get my meat from Bogdan, the butcher. He's with the Rada. The vegetables I get from Jasna, the farmer. She is with us Acolytes.",
+    "pl": "Mięso biorę od rzeźnika Bogdana. Należy do Rady. Warzywa od rolniczki Jasny. Ona jest z nami, Akolitami."
+  },
+  {
+    "id": "363572157775890",
+    "key": "",
+    "en": "Sometimes I hire Vultures to bring me extra things that I need... So if you're interested in some work, do come by.",
+    "pl": "Czasem wynajmuję Sępy, żeby przyniosły coś dodatkowego... Więc jeśli szukasz roboty, zajrzyj."
+  },
+  {
+    "id": "363572157775891",
+    "key": "",
+    "en": "Don't the radiation and Mist poison everything?",
+    "pl": "Promieniowanie i Mgła nie zatruwają wszystkiego?"
+  },
+  {
+    "id": "363572157775892",
+    "key": "",
+    "en": "Well, there are ways to make the contaminated stuff edible. Even Mutant meat can be nutritious and, as far as we know, harmless – long as you cook it right.",
+    "pl": "Są sposoby, żeby skażone rzeczy nadawały się do jedzenia. Nawet mięso Mutantów może być pożywne i, z tego, co wiemy, nieszkodliwe. Byle je odpowiednio ugotować."
+  },
+  {
+    "id": "363572157775893",
+    "key": "",
+    "en": "Of course, for stuff like vegetables and water you'll need the filters invented by those stuck-up Mechanists – otherwise, you'll lay sick after every meal!... Which I imagine is a common feeling for your kind...",
+    "pl": "Oczywiście do warzyw i wody potrzebujesz filtrów tych zadufanych Mechanistów. Inaczej będziesz chorował po każdym posiłku!... Co pewnie dobrze znasz..."
+  },
+  {
+    "id": "363572157775894",
+    "key": "",
+    "en": "Do you sell all the food you make?",
+    "pl": "Sprzedajesz wszystko, co ugotujesz?"
+  },
+  {
+    "id": "363572157775895",
+    "key": "",
+    "en": "Nah, only a portion of it. Most of what I make goes to Acolytes and our charity work, help the starving mouths of Zalesye 'n all that.",
+    "pl": "Nie, tylko część. Większość trafia do Akolitów i na naszą dobroczynność. Karmienie głodnych w Zalesye i tak dalej."
+  },
+  {
+    "id": "363572157775896",
+    "key": "",
+    "en": "'Fraid you don't qualify for such donations, my dear. You have the means to buy weapons and armor, so food should not be given to you freely.",
+    "pl": "Obawiam się, że nie kwalifikujesz się do takich darów, mój drogi. Stać cię na broń i pancerz, więc nie powinieneś dostawać jedzenia za darmo."
+  },
+  {
+    "id": "363572157775897",
+    "key": "",
+    "en": "Let me ask about other things.",
+    "pl": "Zapytam o coś innego."
+  },
+  {
+    "id": "363572157775898",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "363572157775899",
+    "key": "",
+    "en": "Was it peaceful, like the tales?",
+    "pl": "Było spokojnie, jak w opowieściach?"
+  },
+  {
+    "id": "363572157775900",
+    "key": "",
+    "en": "Most surely the tales speak of somewhere even further East, much further, too distant from my old place to affect me in any way... Such is my burden, that no one believes me when I say that.",
+    "pl": "Opowieści na pewno mówią o miejscu jeszcze dalej na wschodzie. Dużo dalej, zbyt odległym, żeby miało wpływ na moje strony... Taki mój los, że nikt mi nie wierzy, gdy to mówię."
+  },
+  {
+    "id": "363572157775901",
+    "key": "",
+    "en": "But yes – there was a lotta toil, but... It seemed like a peaceful place. But remember: we left 'cause we were fleein' the Mist, and the Violence. There was another war that folks 'round here seem to have forgot all about. Misplaced in their collective knowledge of history.",
+    "pl": "Ale tak. Było dużo harówki, lecz... Wydawało się spokojnie. Tylko pamiętaj: uciekliśmy przed Mgłą i przemocą. Była jeszcze jedna wojna, o której tutejsi jakby zapomnieli. Zgubili ją w zbiorowej pamięci historii."
+  },
+  {
+    "id": "363572157775902",
+    "key": "",
+    "en": "Something tore away the peace just like it did in the West.",
+    "pl": "Coś zniszczyło spokój, tak jak na Zachodzie."
+  },
+  {
+    "id": "363572157775903",
+    "key": "",
+    "en": "Why do folks not believe you?",
+    "pl": "Czemu ludzie ci nie wierzą?"
+  },
+  {
+    "id": "363572157775904",
+    "key": "",
+    "en": "To most Commonfolk, I'm too suspicious. A foreign woman, trying to make it in Zalesye even though she's from the Promised Land? Well, she ain't deserve no trust.",
+    "pl": "Dla większości Zwykłych Ludzi jestem podejrzana. Obca kobieta próbuje żyć w Zalesye, chociaż pochodzi z Ziemi Obiecanej? No, takiej ufać nie można."
+  },
+  {
+    "id": "363572157775905",
+    "key": "",
+    "en": "How could she choose this dump over Wyraj? From such an idyllic place to the heart of the bends? And <i>this</i> lady cooks our <i>food?</i>",
+    "pl": "Jak mogła wybrać to zadupie zamiast Wyraju? Z takiej idylli w samo serce skażenia? I <i>ta</i> kobieta gotuje nam <i>jedzenie?</i>"
+  },
+  {
+    "id": "363572157775906",
+    "key": "",
+    "en": "It don't take much to be rejected by a community you weren't born into, I'm afraid. Thankfully... I have the Church. The house of God is most welcomin'.",
+    "pl": "Niestety niewiele trzeba, żeby odrzuciła cię społeczność, w której się nie urodziłaś. Na szczęście... Mam Kościół. Dom Boży przyjmuje serdecznie."
+  },
+  {
+    "id": "363572157775907",
+    "key": "",
+    "en": "Was it truly free of radiation and Mist?",
+    "pl": "Naprawdę nie było tam promieniowania ani Mgły?"
+  },
+  {
+    "id": "363572157775908",
+    "key": "",
+    "en": "No. We fled from those things, just like you Westerners did.",
+    "pl": "Nie. Uciekliśmy przed nimi, tak jak wy z Zachodu."
+  },
+  {
+    "id": "363572157775909",
+    "key": "",
+    "en": "Why not flee Eastward, then?",
+    "pl": "To czemu nie uciekliście na wschód?"
+  },
+  {
+    "id": "363572157775910",
+    "key": "",
+    "en": "There was a Violence going on; I won't be mad if you don't believe me, but... Yeah, another war, apart from the main conflict between us and the West.",
+    "pl": "Trwała tam przemoc. Nie obrażę się, jeśli nie uwierzysz, ale... Tak, jeszcze jedna wojna, poza głównym konfliktem między nami a Zachodem."
+  },
+  {
+    "id": "363572157775911",
+    "key": "",
+    "en": "Seems the people of Rhos were fighting themselves, brother versus brother, and it got bloody enough that the West with its higher spread of Mist still seemed preferable...",
+    "pl": "Podobno ludzie Rhos walczyli między sobą, brat przeciw bratu. Zrobiło się tak krwawo, że Zachód, choć bardziej spowity Mgłą, wydawał się lepszy..."
+  },
+  {
+    "id": "363572157775912",
+    "key": "",
+    "en": "Tell me more about the Eastern War.",
+    "pl": "Opowiedz więcej o wojnie na Wschodzie."
+  },
+  {
+    "id": "363572157775913",
+    "key": "",
+    "en": "Are you sure? I have nothing but a hazy memory of third-hand accounts.",
+    "pl": "Na pewno? Mam tylko mgliste wspomnienia relacji z trzeciej ręki."
+  },
+  {
+    "id": "363572157775914",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "363572157775915",
+    "key": "",
+    "en": "I'll see you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "363572157775916",
+    "key": "",
+    "en": "What was the conflict about?",
+    "pl": "O co był ten konflikt?"
+  },
+  {
+    "id": "363572157775917",
+    "key": "",
+    "en": "Most certainly on account of the main War, y'know? With the West.",
+    "pl": "Na pewno miał związek z główną wojną, wiesz? Tą z Zachodem."
+  },
+  {
+    "id": "363572157775918",
+    "key": "",
+    "en": "Internal tensions between pro- and anti-government groups... In short, a civil war.",
+    "pl": "Napięcia między zwolennikami i przeciwnikami rządu... Jednym słowem wojna domowa."
+  },
+  {
+    "id": "363572157775919",
+    "key": "",
+    "en": "Fightin' for control over our future as a nation: rebellion and continued struggle against the West, or submission to the imperialists as a way to end the carnage...",
+    "pl": "Walka o przyszłość naszego narodu: bunt i dalszy opór przeciw Zachodowi albo podporządkowanie się imperialistom, żeby zakończyć rzeź..."
+  },
+  {
+    "id": "363572157775920",
+    "key": "",
+    "en": "Is that really worth warring over?",
+    "pl": "Naprawdę warto o to toczyć wojnę?"
+  },
+  {
+    "id": "363572157775921",
+    "key": "",
+    "en": "How else do you resolve this kinda thing? One day we'll see the same cycles of destruction here, in Zalesye; maybe not in my time, but still...",
+    "pl": "A jak inaczej rozwiązać takie sprawy? Kiedyś te same cykle zniszczenia zobaczymy tutaj, w Zalesye. Może już nie za mojego życia, ale jednak..."
+  },
+  {
+    "id": "363572157775922",
+    "key": "",
+    "en": "Violence 'tween Gunners and Palatines, Rada actin' all mighty, religious fervor which even as an Acolyte, I must say – can be corrupted, exploited...",
+    "pl": "Przemoc między Strzelcami a Palatynami, Rada panosząca się wszędzie, religijna gorliwość, którą nawet jako Akolitka muszę przyznać: można wypaczyć i wykorzystać..."
+  },
+  {
+    "id": "363572157775923",
+    "key": "",
+    "en": "One day, folks we've known for years will take up arms, and they might be on a different side than ours. And we'll all be right <i>bastards.</i>",
+    "pl": "Pewnego dnia ludzie, których znamy od lat, chwycą za broń. I mogą stanąć po przeciwnej stronie. Wszyscy staniemy się skończonymi <i>draniami.</i>"
+  },
+  {
+    "id": "363572157775924",
+    "key": "",
+    "en": "Until then, we do what we can.",
+    "pl": "Do tego czasu robimy, co możemy."
+  },
+  {
+    "id": "363572157775925",
+    "key": "",
+    "en": "Is the war over?",
+    "pl": "Wojna się skończyła?"
+  },
+  {
+    "id": "363572157775926",
+    "key": "",
+    "en": "Who knows? Been so, so long – surely there's a winner by now?",
+    "pl": "Kto wie? Minęło tyle czasu, chyba ktoś już wygrał?"
+  },
+  {
+    "id": "363572157775927",
+    "key": "",
+    "en": "But then again, maybe it's a still-living reason for us to know next to nothing about the East. If a civil war is still on, surely it blocks our way into this Wyraj, and Wyraj's way to <i>us.</i> And makes whatever's in-between into Hell.",
+    "pl": "Ale może to wciąż powód, dla którego prawie nic nie wiemy o Wschodzie. Jeśli wojna domowa trwa, blokuje nam drogę do Wyraju, a Wyrajowi do <i>nas.</i> I zamienia wszystko pomiędzy w piekło."
+  },
+  {
+    "id": "363572157775928",
+    "key": "",
+    "en": "By the way – I've heard a mighty scavenger's come in from the RO-29 highway recently. Scary, tough, with some next-level weapons. Maybe it's a harsher environment than this which produces these kinda folk – them who truly <i>thrive</i> in violence.",
+    "pl": "Przy okazji, słyszałam, że z autostrady RO-29 przybył niedawno potężny zbieracz. Straszny, twardy, z niespotykaną bronią. Może trudniejsze warunki niż te tworzą takich ludzi. Takich, którzy naprawdę <i>rozkwitają</i> w przemocy."
+  },
+  {
+    "id": "363572157775929",
+    "key": "",
+    "en": "Changing the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "363572157775930",
+    "key": "",
+    "en": "Gotta go.",
+    "pl": "Muszę iść."
+  },
+  {
+    "id": "363572157775931",
+    "key": "",
+    "en": "Oh, you're that Vulture done got shot the other day? I'm Rosa. You've been giving Alexei too much trouble, young man.",
+    "pl": "Och, to ty jesteś tym Sępem, którego ostatnio postrzelili? Jestem Rosa. Za dużo kłopotu sprawiasz Alexeiowi, młody człowieku."
+  },
+  {
+    "id": "363572157775932",
+    "key": "",
+    "en": "A Vulture. What is it?",
+    "pl": "Sęp. O co chodzi?"
+  },
+  {
+    "id": "363572157775933",
+    "key": "",
+    "en": "Back from a scavenge?",
+    "pl": "Wracasz ze zbierania?"
+  },
+  {
+    "id": "363572157775934",
+    "key": "",
+    "en": "What do you need?",
+    "pl": "Czego potrzebujesz?"
+  },
+  {
+    "id": "363572157775935",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "363572157775936",
+    "key": "",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "363572157775937",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "363572157775938",
+    "key": "",
+    "en": "I need some food.",
+    "pl": "Potrzebuję jedzenia."
+  },
+  {
+    "id": "363572157775939",
+    "key": "",
+    "en": "What do you have to trade?",
+    "pl": "Co masz do wymiany?"
+  },
+  {
+    "id": "363572157775940",
+    "key": "",
+    "en": "Need food – what do you have?",
+    "pl": "Potrzebuję jedzenia. Co masz?"
+  },
+  {
+    "id": "363572157775941",
+    "key": "",
+    "en": "Let me show you what I've been cooking.",
+    "pl": "Pokażę ci, co ugotowałam."
+  },
+  {
+    "id": "363572157775942",
+    "key": "",
+    "en": "Just finished a batch for you.",
+    "pl": "Właśnie skończyłam dla ciebie porcję."
+  },
+  {
+    "id": "363572157775943",
+    "key": "",
+    "en": "I have some fresh food.",
+    "pl": "Mam świeże jedzenie."
+  },
+  {
+    "id": "363572157775944",
+    "key": "",
+    "en": "Here's today's menu.",
+    "pl": "Oto dzisiejsze menu."
+  },
+  {
+    "id": "363572157775945",
+    "key": "",
+    "en": "Come back later.",
+    "pl": "Wróć później."
+  },
+  {
+    "id": "363572157775946",
+    "key": "",
+    "en": "Keep yourself nourished.",
+    "pl": "Dbaj, żebyś był najedzony."
+  },
+  {
+    "id": "363572157775947",
+    "key": "",
+    "en": "Take care with your nutrition.",
+    "pl": "Uważaj na to, co jesz."
+  },
+  {
+    "id": "363572157775948",
+    "key": "",
+    "en": "Bye, dear.",
+    "pl": "Pa, kochany."
+  },
+  {
+    "id": "363572157775949",
+    "key": "",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "363572157775950",
+    "key": "",
+    "en": "Good to hear. Let me know.",
+    "pl": "Miło słyszeć. Daj znać."
+  },
+  {
+    "id": "363572157775951",
+    "key": "",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "363572157775952",
+    "key": "",
+    "en": "Don't keep me waiting too long, now.",
+    "pl": "Nie każ mi za długo czekać."
+  },
+  {
+    "id": "363572157775953",
+    "key": "",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "363572157775954",
+    "key": "",
+    "en": "Tell me if you need more.",
+    "pl": "Powiedz, jeśli potrzebujesz więcej."
+  },
+  {
+    "id": "363572157775955",
+    "key": "",
+    "en": "Cook something for me next time.",
+    "pl": "Następnym razem ugotuj coś dla mnie."
+  },
+  {
+    "id": "363572157775956",
+    "key": "",
+    "en": "I'll get some medicine, then.",
+    "pl": "To zdobędę lekarstwa."
+  },
+  {
+    "id": "363572157775957",
+    "key": "",
+    "en": "Aight then, go get 'em.",
+    "pl": "Dobrze, idź po nie."
+  },
+  {
+    "id": "363572157775958",
+    "key": "",
+    "en": "I need some time to think.",
+    "pl": "Potrzebuję czasu do namysłu."
+  },
+  {
+    "id": "363572157775959",
+    "key": "",
+    "en": "Oh dear, don't keep this old lady waiting.",
+    "pl": "Och, kochany, nie każ starej kobiecie czekać."
+  },
+  {
+    "id": "363572157775960",
+    "key": "",
+    "en": "Not sure about this one. Any other requests?",
+    "pl": "Nie jestem pewien. Inne zlecenia?"
+  },
+  {
+    "id": "363572157775961",
+    "key": "",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "363572157775962",
+    "key": "",
+    "en": "Maybe don't poison people next time.",
+    "pl": "Może następnym razem nie truj ludzi."
+  },
+  {
+    "id": "363572157775963",
+    "key": "",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "363572157775964",
+    "key": "",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "363572157775965",
+    "key": "",
+    "en": "Need help from a Vulture?",
+    "pl": "Potrzebujesz pomocy Sępa?"
+  },
+  {
+    "id": "363572157775966",
+    "key": "",
+    "en": "I’m having trouble finding certain ingredients. Here’s what I need. Think you can help?",
+    "pl": "Trudno mi znaleźć pewne składniki. Oto czego potrzebuję. Pomożesz?"
+  },
+  {
+    "id": "363572157775967",
+    "key": "",
+    "en": "I’m trying out some new recipes and, as usual, there’s ingredients I just can’t find. Bring them to me and I’ll give you a reward.",
+    "pl": "Próbuję nowych przepisów i jak zwykle nie mogę znaleźć niektórych składników. Przynieś je, a dostaniesz nagrodę."
+  },
+  {
+    "id": "363572157775968",
+    "key": "",
+    "en": "Yes,  these will do great. Thank you!",
+    "pl": "Tak, te będą doskonałe. Dziękuję!"
+  },
+  {
+    "id": "363572157775969",
+    "key": "",
+    "en": "Ah, just what I needed. Now for my end of the deal.",
+    "pl": "Ach, właśnie tego potrzebowałam. Teraz moja część umowy."
+  },
+  {
+    "id": "363572157775970",
+    "key": "",
+    "en": "Nice! These will help me with the next batch. Here you go.",
+    "pl": "Świetnie! Przydadzą się do następnej porcji. Proszę."
+  },
+  {
+    "id": "363572157775971",
+    "key": "",
+    "en": "Some of the Commonfolk are getting dysentery from rotten ingredients in their food. We’re feeding them better now, but still need some medicine... Got anything?",
+    "pl": "Niektórzy Zwykli Ludzie dostają czerwonki od zepsutych składników. Teraz karmimy ich lepiej, ale wciąż potrzebujemy leków... Masz coś?"
+  },
+  {
+    "id": "363572157775972",
+    "key": "",
+    "en": "I think the last batch of food we made had spoiled meat in it – folks’ve been getting sick. Help us find some medicine and I’ll reward you.",
+    "pl": "Chyba w ostatniej partii jedzenia było zepsute mięso. Ludzie chorują. Pomóż znaleźć lekarstwa, a cię wynagrodzę."
+  },
+  {
+    "id": "363572157775973",
+    "key": "",
+    "en": "Oh, you're a lifesaver. These will help a lot. Here you go...",
+    "pl": "Och, ratujesz nam życie. Bardzo się przydadzą. Proszę..."
+  },
+  {
+    "id": "363572157775974",
+    "key": "",
+    "en": "These will do wonderfully. Here's your reward!",
+    "pl": "Te będą znakomite. Oto nagroda!"
+  },
+  {
+    "id": "363572157775975",
+    "key": "",
+    "en": "Thank you, these are just what I needed. Your reward...",
+    "pl": "Dziękuję, właśnie tego potrzebowałam. Twoja nagroda..."
+  },
+  {
+    "id": "363572157775976",
+    "key": "",
+    "en": "I don't need anything right now... Maybe later I'll think of ingredients I could use.",
+    "pl": "Teraz niczego nie potrzebuję... Może później przypomną mi się jakieś składniki."
+  },
+  {
+    "id": "363572157775977",
+    "key": "",
+    "en": "I don't really have any requests at this moment. Come by later.",
+    "pl": "W tej chwili nie mam żadnych zleceń. Zajrzyj później."
+  },
+  {
+    "id": "363572157775978",
+    "key": "",
+    "en": "Got nothing right now. Come back later, after I'm done with this batch...",
+    "pl": "Teraz nic nie mam. Wróć później, jak skończę to gotować..."
+  },
+  {
+    "id": "367017958866944",
+    "key": "14_Rosa_v1_Talk_BR7W",
+    "en": "You know Alexei?",
+    "pl": "Znasz Alexeia?"
+  },
+  {
+    "id": "367017975644160",
+    "key": "14_Rosa_v1_Talk_GMUV",
+    "en": "'Course I do, been helpin' the Church since he was a <i>baby.</i> Taught him most his prayers! And does he show any gratitude? No, 'course not...",
+    "pl": "Pewnie, pomagam Kościołowi, odkąd był <i>niemowlęciem.</i> Nauczyłam go większości modlitw! A okazuje wdzięczność? Oczywiście, że nie..."
+  },
+  {
+    "id": "367017975644161",
+    "key": "14_Rosa_v1_Talk_G46P",
+    "en": "But Jesus is with 'im for sure, I see it in his eyes. He often comes for a chat when there's time, we sit 'n talk 'bout God and His teachings... Keeps an old hag like me a bit of company, bless his soul.",
+    "pl": "Ale Jezus na pewno z nim jest, widzę to w oczach. Często wpada, gdy ma czas, siadamy i mówimy o Bogu i Jego naukach... Dotrzymuje starej jędzy towarzystwa, niech go Bóg błogosławi."
+  },
+  {
+    "id": "367017975644162",
+    "key": "14_Rosa_v1_Talk_KNVC",
+    "en": "What do you do around here?",
+    "pl": "Czym się tu zajmujesz?"
+  },
+  {
+    "id": "367017975644163",
+    "key": "14_Rosa_v1_Talk_JQMJ",
+    "en": "I'm the <i>chef!</i> Make all sortsa meals for folks that us Acolytes help.",
+    "pl": "Jestem <i>kucharką!</i> Gotuję najróżniejsze posiłki dla ludzi, którym pomagamy my, Akolici."
+  },
+  {
+    "id": "367017975644164",
+    "key": "14_Rosa_v1_Talk_66JH",
+    "en": "Nothin' better than cookin' up my favorite Eastern recipes... The ones I can remember.",
+    "pl": "Nie ma nic lepszego niż gotowanie ulubionych dań ze Wschodu... Tych, które jeszcze pamiętam."
+  },
+  {
+    "id": "367017975644165",
+    "key": "14_Rosa_v1_Talk_RUYD",
+    "en": "Of course, <i>everything</i> tastes worse when you gotta use that Mutant meat. But no avoidin' that here.",
+    "pl": "Oczywiście <i>wszystko</i> smakuje gorzej, kiedy trzeba użyć mięsa Mutantów. Ale tutaj tego nie unikniesz."
+  },
+  {
+    "id": "367017975644166",
+    "key": "14_Rosa_v1_Talk_TFEZ",
+    "en": "You're from the East?",
+    "pl": "Jesteś ze Wschodu?"
+  },
+  {
+    "id": "367017975644167",
+    "key": "14_Rosa_v1_Talk_7P9D",
+    "en": "Oh, let that slip out, did I... Wrinkly old brain...  Keep it 'tween us, wouldn't ya. Too many distrustful eyes as is...",
+    "pl": "Och, wymsknęło mi się... Pomarszczony stary mózg... Niech to zostanie między nami, dobrze? I tak za dużo podejrzliwych spojrzeń..."
+  },
+  {
+    "id": "367017975644168",
+    "key": "14_Rosa_v1_Talk_B8Q8",
+    "en": "Yep, I was born East of here – can't remember the name of where... Not sure it <i>had</i> a name. Place was so barren it made me feel like a ghost. Can barely picture the gray prairies and all the farm work.",
+    "pl": "Tak, urodziłam się na wschód stąd. Nie pamiętam nazwy... Nie wiem, czy to miejsce w ogóle ją <i>miało.</i> Było tak jałowe, że czułam się jak duch. Ledwo pamiętam szare prerie i tę całą pracę w gospodarstwie."
+  },
+  {
+    "id": "367017975644169",
+    "key": "14_Rosa_v1_Talk_SYB5",
+    "en": "Remember my dad's rusty tools, and some ugly brown grass... That's all that's left of the East in this old noggin'. Wonder what it's like there now. Maybe it's just like <i>this</i> dump...",
+    "pl": "Pamiętam zardzewiałe narzędzia ojca i brzydką brunatną trawę... Tyle ze Wschodu zostało w starej głowie. Ciekawe, jak jest tam teraz. Może to takie samo zadupie jak <i>tutaj...</i>"
+  },
+  {
+    "id": "367017975644170",
+    "key": "14_Rosa_v1_Talk_1YZC",
+    "en": "Tell me more about the East.",
+    "pl": "Opowiedz więcej o Wschodzie."
+  },
+  {
+    "id": "367017975644171",
+    "key": "14_Rosa_v1_Talk_198F",
+    "en": "I mean, I can <i>try.</i>",
+    "pl": "To znaczy, mogę <i>spróbować.</i>"
+  },
+  {
+    "id": "367017975644172",
+    "key": "14_Rosa_v1_Talk_MWJJ",
+    "en": "Tell me more about your job.",
+    "pl": "Opowiedz więcej o swojej pracy."
+  },
+  {
+    "id": "367017975644173",
+    "key": "14_Rosa_v1_Talk_J4ID",
+    "en": "Oh, dear. Don't tell me this Vulture means to learn how to <i>cook?</i>",
+    "pl": "O rety. Tylko nie mów, że ten Sęp chce nauczyć się <i>gotować?</i>"
+  },
+  {
+    "id": "367017975644174",
+    "key": "14_Rosa_v1_Talk_OOQ6",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "367017975644175",
+    "key": "14_Rosa_v1_Talk_About_Cooking_28N1",
+    "en": "How do you find ingredients?",
+    "pl": "Jak znajdujesz składniki?"
+  },
+  {
+    "id": "367017975644176",
+    "key": "14_Rosa_v1_Talk_About_Cooking_T0U4",
+    "en": "Well dear, bein' an Acolyte with some Rada connections has its perks. S'pose Vultures can't really grasp this kinda 'business network' so good.",
+    "pl": "Kochany, bycie Akolitką ze znajomościami w Radzie ma zalety. Sępom chyba trudno pojąć taką „sieć kontaktów handlowych”."
+  },
+  {
+    "id": "367017975644177",
+    "key": "14_Rosa_v1_Talk_About_Cooking_VPLR",
+    "en": "I get meats from Bogdan, the butcher. He's with the Rada. Vegetables I get from Jasna, the farmer. She's an Acolyte too.",
+    "pl": "Mięso mam od rzeźnika Bogdana z Rady. Warzywa od rolniczki Jasny. Ona też jest Akolitką."
+  },
+  {
+    "id": "367017975644178",
+    "key": "14_Rosa_v1_Talk_About_Cooking_MN8W",
+    "en": "And sometimes I hire Vultures to bring some extra stuff... Which reminds me, if you need some work, do drop by.",
+    "pl": "Czasem wynajmuję Sępy, żeby przyniosły coś ekstra... Właśnie, jeśli szukasz roboty, zajrzyj."
+  },
+  {
+    "id": "367017975644179",
+    "key": "14_Rosa_v1_Talk_About_Cooking_U8L7",
+    "en": "Don't the radiation and Mist poison everything?",
+    "pl": "Promieniowanie i Mgła nie zatruwają wszystkiego?"
+  },
+  {
+    "id": "367017975644180",
+    "key": "14_Rosa_v1_Talk_About_Cooking_JO2N",
+    "en": "Yep, but there's ways to make that stuff edible. Even Mutant meat can be nutritious, y'know? And harmless too, far as we know. Long as you <i>cook</i> it right.",
+    "pl": "Tak, ale można sprawić, żeby to było jadalne. Nawet mięso Mutantów jest pożywne, wiesz? I z tego, co wiemy, nieszkodliwe. Byle je dobrze <i>ugotować.</i>"
+  },
+  {
+    "id": "367017975644181",
+    "key": "14_Rosa_v1_Talk_About_Cooking_F5JG",
+    "en": "Of course, for water you'll need filters invented by those stuck-up Mechanists – get sick otherwise. I imagine that's pretty common for your kind...",
+    "pl": "Oczywiście do wody trzeba filtrów wymyślonych przez tych zadufanych Mechanistów, inaczej zachorujesz. Pewnie dobrze to znasz..."
+  },
+  {
+    "id": "367017975644182",
+    "key": "14_Rosa_v1_Talk_About_Cooking_ZBFC",
+    "en": "Do you sell all the food you make?",
+    "pl": "Sprzedajesz wszystko, co ugotujesz?"
+  },
+  {
+    "id": "367017975644183",
+    "key": "14_Rosa_v1_Talk_About_Cooking_1TD4",
+    "en": "Nah, just a portion of it. Most what I make goes to Acolytes and our charity work, help the starving mouths of Zalesye 'n all that.",
+    "pl": "Nie, tylko część. Większość idzie dla Akolitów i na naszą dobroczynność. Karmienie głodnych w Zalesye i tak dalej."
+  },
+  {
+    "id": "367017975644184",
+    "key": "14_Rosa_v1_Talk_About_Cooking_AU2W",
+    "en": "Hm, 'fraid you don't qualify for the donations, my dear. If you've got the means to buy weapons, food shouldn't be free for ya.",
+    "pl": "Hm, obawiam się, że nie kwalifikujesz się do darów, mój drogi. Jeśli stać cię na broń, jedzenie nie powinno być za darmo."
+  },
+  {
+    "id": "367017975644185",
+    "key": "14_Rosa_v1_Talk_About_Cooking_0EVT",
+    "en": "Let me ask about other things.",
+    "pl": "Zapytam o coś innego."
+  },
+  {
+    "id": "367017975644186",
+    "key": "14_Rosa_v1_Talk_About_Cooking_0R8T",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "367017975644187",
+    "key": "14_Rosa_v1_Talk_About_East_8LB0",
+    "en": "Was it peaceful, like the tales?",
+    "pl": "Było spokojnie, jak w opowieściach?"
+  },
+  {
+    "id": "367017975644188",
+    "key": "14_Rosa_v1_Talk_About_East_65B6",
+    "en": "Those stories speak of somewhere much further down East than my hometown... 'Course, <i>no one</i> believes me when I say that.",
+    "pl": "Te historie dotyczą miejsc dużo dalej na wschód od moich stron... Oczywiście <i>nikt</i> mi nie wierzy, kiedy to mówię."
+  },
+  {
+    "id": "367017975644189",
+    "key": "14_Rosa_v1_Talk_About_East_DX63",
+    "en": "But yes – there was a lotta toil, but... It seemed like a peaceful place. But remember: we left 'cause we were fleein' the Mist, and the Violence. There was another war that folks 'round here seem to have forgot all about. Misplaced in their collective knowledge of history.",
+    "pl": "Ale tak. Było dużo harówki, lecz... Wydawało się spokojnie. Tylko pamiętaj: uciekliśmy przed Mgłą i przemocą. Była jeszcze jedna wojna, o której tutejsi jakby zapomnieli. Zgubili ją w zbiorowej pamięci historii."
+  },
+  {
+    "id": "367017975644190",
+    "key": "14_Rosa_v1_Talk_About_East_ITJ2",
+    "en": "Something tore away the peace just like it did in the West.",
+    "pl": "Coś zniszczyło spokój, tak jak na Zachodzie."
+  },
+  {
+    "id": "367017975644191",
+    "key": "14_Rosa_v1_Talk_About_East_RG8R",
+    "en": "Why do folks not believe you?",
+    "pl": "Czemu ludzie ci nie wierzą?"
+  },
+  {
+    "id": "367017975644192",
+    "key": "14_Rosa_v1_Talk_About_East_O7SD",
+    "en": "A foreign woman, trying to make it in Zalesye even though she's from the Promised Land, or so they think? Well, \"she don't deserve no trust\".",
+    "pl": "Obca kobieta próbuje żyć w Zalesye, chociaż pochodzi z Ziemi Obiecanej, przynajmniej ich zdaniem? No to „takiej ufać nie można”."
+  },
+  {
+    "id": "367017975644193",
+    "key": "14_Rosa_v1_Talk_About_East_VRX0",
+    "en": "If I was from Wyraj, why the h-... Why would I be <i>here?</i> Who would go from such an idyllic place to the heart of the bends? And she cooks our <i>food?</i>",
+    "pl": "Gdybym była z Wyraju, po jaką cho... Czemu miałabym być <i>tutaj?</i> Kto opuściłby taką idyllę dla samego serca skażenia? I ona gotuje nam <i>jedzenie?</i>"
+  },
+  {
+    "id": "367017975644194",
+    "key": "14_Rosa_v1_Talk_About_East_1X38",
+    "en": "Don't take much to be rejected by a community you weren't born into, Vulture. With all the violence 'gainst your kind lately, I'm sure you understand. Thankfully, the house of God is very welcomin'.",
+    "pl": "Niewiele trzeba, żeby odrzuciła cię obca społeczność, Sępie. Po ostatniej przemocy wobec was na pewno rozumiesz. Na szczęście dom Boży przyjmuje serdecznie."
+  },
+  {
+    "id": "367017975644195",
+    "key": "14_Rosa_v1_Talk_About_East_E3SX",
+    "en": "Was it truly free of radiation and Mist?",
+    "pl": "Naprawdę nie było tam promieniowania ani Mgły?"
+  },
+  {
+    "id": "367017975644196",
+    "key": "14_Rosa_v1_Talk_About_East_R28L",
+    "en": "No. We fled from those things, just like you Westerners did.",
+    "pl": "Nie. Uciekliśmy przed nimi, tak jak wy z Zachodu."
+  },
+  {
+    "id": "367017975644197",
+    "key": "14_Rosa_v1_Talk_About_East_W201",
+    "en": "Why not flee Eastward, then?",
+    "pl": "To czemu nie uciekliście na wschód?"
+  },
+  {
+    "id": "367017975644198",
+    "key": "14_Rosa_v1_Talk_About_East_9K0X",
+    "en": "Sumthin' about it bein'... Violent? The soldiers who came mighta blocked the way, and Zalesye was the only option. It's just like them Gunners and Bandits blockin' our roads!",
+    "pl": "Coś tam, że było... Niebezpiecznie? Żołnierze, którzy przyszli, mogli zablokować drogę. Zalesye było jedyną opcją. Jak Strzelcy i Bandyci blokujący nasze drogi!"
+  },
+  {
+    "id": "367017975644199",
+    "key": "14_Rosa_v1_Talk_About_East_L63W",
+    "en": "Seems the people of Rhos got a knack for gunnin' down their brothers and sisters. No wonder some folk think we should just surrender to the Mist...",
+    "pl": "Ludzie Rhos chyba mają smykałkę do strzelania do braci i sióstr. Nic dziwnego, że niektórzy chcą po prostu poddać się Mgle..."
+  },
+  {
+    "id": "367017975644200",
+    "key": "14_Rosa_v1_Talk_About_East_7CM2",
+    "en": "About that conflict near your hometown.",
+    "pl": "Co do tego konfliktu w twoich stronach."
+  },
+  {
+    "id": "367017975644201",
+    "key": "14_Rosa_v1_Talk_About_East_SZK3",
+    "en": "You sure? Got nothing but some hazy old memories.",
+    "pl": "Na pewno? Mam tylko mgliste stare wspomnienia."
+  },
+  {
+    "id": "367017975644202",
+    "key": "14_Rosa_v1_Talk_About_East_NC8P",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "367017975644203",
+    "key": "14_Rosa_v1_Talk_About_East_OTLA",
+    "en": "I'll see you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "367017975644204",
+    "key": "14_Rosa_v1_Talk_About_War_RJ2O",
+    "en": "What was the conflict about?",
+    "pl": "O co był ten konflikt?"
+  },
+  {
+    "id": "367017975644205",
+    "key": "14_Rosa_v1_Talk_About_War_WXLE",
+    "en": "Most certainly on account of the main War, y'know? With the West.",
+    "pl": "Na pewno miał związek z główną wojną, wiesz? Tą z Zachodem."
+  },
+  {
+    "id": "367017975644206",
+    "key": "14_Rosa_v1_Talk_About_War_HPPI",
+    "en": "They called it an insurgency, but I don't know what that meant back then. Ain't like the West had invaded us or nothin', right...?",
+    "pl": "Nazywali to rebelią, ale nie wiedziałam wtedy, co to znaczy. Przecież Zachód nas nie najechał ani nic, prawda...?"
+  },
+  {
+    "id": "367017975644207",
+    "key": "14_Rosa_v1_Talk_About_War_6VGQ",
+    "en": "I just remember different colors on different soldiers, and the stripes were different, too. Some of 'em looked nothin' like any of us here in Rhos... Wonder if the <i>imperialists</i> came all the way over here.",
+    "pl": "Pamiętam różne kolory żołnierzy i różne naszywki. Niektórzy zupełnie nie wyglądali jak my w Rhos... Ciekawe, czy <i>imperialiści</i> dotarli aż tutaj."
+  },
+  {
+    "id": "367017975644208",
+    "key": "14_Rosa_v1_Talk_About_War_VRP3",
+    "en": "... \"Imperialists\"?",
+    "pl": "... „Imperialiści”?"
+  },
+  {
+    "id": "367017975644209",
+    "key": "14_Rosa_v1_Talk_About_War_GWOV",
+    "en": "Oh, y'know. Heard the term thrown around a bunch when I was a youngin'. Folks from the West, basically, that's what they called 'em.",
+    "pl": "Och, wiesz. Często słyszałam to słowo za młodu. Po prostu ludzie z Zachodu, tak na nich mówili."
+  },
+  {
+    "id": "367017975644210",
+    "key": "14_Rosa_v1_Talk_About_War_E172",
+    "en": "Y'know, maybe it weren't no different from what we got now. Violence 'tween Gunners and Palatines, Bandits runnin' loose, no one even knows who they are.",
+    "pl": "Może to się niewiele różniło od tego, co mamy teraz. Strzelcy walczą z Palatynami, Bandyci grasują, nikt nawet nie wie, kim są."
+  },
+  {
+    "id": "367017975644211",
+    "key": "14_Rosa_v1_Talk_About_War_OZY4",
+    "en": "Folks we've known for years can just decide to join them bastards, and now they're suddenly on a different side of the Bastion. And we'll have a war of our own. Ain't it so?",
+    "pl": "Ludzie, których znamy od lat, mogą dołączyć do tych drani i nagle stoją po drugiej stronie Bastionu. I będziemy mieć własną wojnę. Nie jest tak?"
+  },
+  {
+    "id": "367017975644212",
+    "key": "14_Rosa_v1_Talk_About_War_0HGX",
+    "en": "Until then, we do what we can.",
+    "pl": "Do tego czasu robimy, co możemy."
+  },
+  {
+    "id": "367017975644213",
+    "key": "14_Rosa_v1_Talk_About_War_4LOC",
+    "en": "Is the war over?",
+    "pl": "Wojna się skończyła?"
+  },
+  {
+    "id": "367017975644214",
+    "key": "14_Rosa_v1_Talk_About_War_94N0",
+    "en": "Who knows? Been so, so long – surely there's a <i>winner</i> by now?",
+    "pl": "Kto wie? Minęło tyle czasu, chyba jest już <i>zwycięzca?</i>"
+  },
+  {
+    "id": "367017975644215",
+    "key": "14_Rosa_v1_Talk_About_War_D4TM",
+    "en": "Then again, maybe it's a still-livin' reason for us to know next to nothin' 'bout the East. Would be blockin' our way into Wyraj, and Wyraj's way to <i>us.</i> And whatever's in-between becomes Hell.",
+    "pl": "Ale może to nadal powód, dla którego prawie nic nie wiemy o Wschodzie. Blokowałoby nam drogę do Wyraju, a Wyrajowi do <i>nas.</i> Wszystko pomiędzy staje się piekłem."
+  },
+  {
+    "id": "367017975644216",
+    "key": "14_Rosa_v1_Talk_About_War_QU91",
+    "en": "And now, apparently there's all sortsa super soldiers comin' in to whack you Vultures bloody. Please don't get yourself involved in the <i>next</i> war, dear, and stop worryin' 'bout the <i>East</i> so much.",
+    "pl": "A teraz podobno zjawiają się jacyś superżołnierze i masakrują was, Sępy. Nie pakuj się w <i>następną</i> wojnę, kochany, i przestań tyle myśleć o <i>Wschodzie.</i>"
+  },
+  {
+    "id": "367017975644217",
+    "key": "14_Rosa_v1_Talk_About_War_QBBK",
+    "en": "Changing the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "367017975644218",
+    "key": "14_Rosa_v1_Talk_About_War_G1B5",
+    "en": "Gotta go.",
+    "pl": "Muszę iść."
+  },
+  {
+    "id": "367017975644219",
+    "key": "14_Rosa_v1_GetWelcomingMessage_TR9O",
+    "en": "You! You're that Vulture done got shot, no? Name's Rosa. You're givin' Alexei too much trouble, young man.",
+    "pl": "Ty! Jesteś tym Sępem, którego postrzelili, tak? Jestem Rosa. Za dużo kłopotu sprawiasz Alexeiowi, młody człowieku."
+  },
+  {
+    "id": "367017975644220",
+    "key": "14_Rosa_v1_GetWelcomingMessage_3LQG",
+    "en": "Heya. What is it?",
+    "pl": "Hej. O co chodzi?"
+  },
+  {
+    "id": "367017975644221",
+    "key": "14_Rosa_v1_GetWelcomingMessage_RYKP",
+    "en": "Back from a scavenge?",
+    "pl": "Wracasz ze zbierania?"
+  },
+  {
+    "id": "367017975644222",
+    "key": "14_Rosa_v1_GetWelcomingMessage_OQ4Z",
+    "en": "Howdy. Need somethin'?",
+    "pl": "Witaj. Potrzebujesz czegoś?"
+  },
+  {
+    "id": "367017975644223",
+    "key": "14_Rosa_v1_GetTalkMessage_K50N",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "367017975644224",
+    "key": "14_Rosa_v1_GetTalkMessage_24DA",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "367017975644225",
+    "key": "14_Rosa_v1_GetTalkMessage_ISZE",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "367017975644226",
+    "key": "14_Rosa_v1_GetTradeMessage_KAZT",
+    "en": "I need some food.",
+    "pl": "Potrzebuję jedzenia."
+  },
+  {
+    "id": "367017975644227",
+    "key": "14_Rosa_v1_GetTradeMessage_1E81",
+    "en": "What do you have to trade?",
+    "pl": "Co masz do wymiany?"
+  },
+  {
+    "id": "367017975644228",
+    "key": "14_Rosa_v1_GetTradeMessage_NEUL",
+    "en": "Need food – what do you have?",
+    "pl": "Potrzebuję jedzenia. Co masz?"
+  },
+  {
+    "id": "367017975644229",
+    "key": "14_Rosa_v1_Trade_T8LQ",
+    "en": "Let me show you what I've been cooking.",
+    "pl": "Pokażę ci, co ugotowałam."
+  },
+  {
+    "id": "367017975644230",
+    "key": "14_Rosa_v1_Trade_WPN0",
+    "en": "Just finished a batch for you.",
+    "pl": "Właśnie skończyłam dla ciebie porcję."
+  },
+  {
+    "id": "367017975644231",
+    "key": "14_Rosa_v1_Trade_5B4W",
+    "en": "I have some fresh food.",
+    "pl": "Mam świeże jedzenie."
+  },
+  {
+    "id": "367017975644232",
+    "key": "14_Rosa_v1_Trade_98BN",
+    "en": "Here's today's menu.",
+    "pl": "Oto dzisiejsze menu."
+  },
+  {
+    "id": "367017975644233",
+    "key": "14_Rosa_v1_Leave_5RE7",
+    "en": "Come back later.",
+    "pl": "Wróć później."
+  },
+  {
+    "id": "367017975644234",
+    "key": "14_Rosa_v1_Leave_68DW",
+    "en": "Keep yourself nourished.",
+    "pl": "Dbaj, żebyś był najedzony."
+  },
+  {
+    "id": "367017975644235",
+    "key": "14_Rosa_v1_Leave_UF8G",
+    "en": "Take care with your nutrition.",
+    "pl": "Uważaj na to, co jesz."
+  },
+  {
+    "id": "367017975644236",
+    "key": "14_Rosa_v1_Leave_KJ8A",
+    "en": "Bye, dear.",
+    "pl": "Pa, kochany."
+  },
+  {
+    "id": "367017975644237",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_EACX",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "367017975644238",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_MKM5",
+    "en": "Good to hear. Let me know.",
+    "pl": "Miło słyszeć. Daj znać."
+  },
+  {
+    "id": "367017975644239",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_SL8Q",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "367017975644240",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_XOP7",
+    "en": "Don't keep me waiting too long, now.",
+    "pl": "Nie każ mi za długo czekać."
+  },
+  {
+    "id": "367017975644241",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_422K",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "367017975644242",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Complete_OJDP",
+    "en": "Tell me if you need more.",
+    "pl": "Powiedz, jeśli potrzebujesz więcej."
+  },
+  {
+    "id": "367017975644243",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Complete_RXXX",
+    "en": "Cook something for me next time.",
+    "pl": "Następnym razem ugotuj coś dla mnie."
+  },
+  {
+    "id": "367017975644244",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_5HZT",
+    "en": "I'll get some medicine, then.",
+    "pl": "To zdobędę lekarstwa."
+  },
+  {
+    "id": "367017975644245",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_PHNW",
+    "en": "Aight then, go get 'em.",
+    "pl": "Dobrze, idź po nie."
+  },
+  {
+    "id": "367017975644246",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_AWM8",
+    "en": "I need some time to think.",
+    "pl": "Potrzebuję czasu do namysłu."
+  },
+  {
+    "id": "367017975644247",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_F5QZ",
+    "en": "Oh dear, don't keep this old lady waiting.",
+    "pl": "Och, kochany, nie każ starej kobiecie czekać."
+  },
+  {
+    "id": "367017975644248",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_EDY0",
+    "en": "Not sure about this one. Any other requests?",
+    "pl": "Nie jestem pewien. Inne zlecenia?"
+  },
+  {
+    "id": "367017975644249",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Complete_UYPB",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "367017975644250",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Complete_FFUV",
+    "en": "Maybe don't poison people next time.",
+    "pl": "Może następnym razem nie truj ludzi."
+  },
+  {
+    "id": "367017975644251",
+    "key": "14_Rosa_Jobs_v1_GetJobsMessage_ZR3A",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "367017975644252",
+    "key": "14_Rosa_Jobs_v1_GetJobsMessage_BJKQ",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "367017975644253",
+    "key": "14_Rosa_Jobs_v1_GetJobsMessage_5P7T",
+    "en": "Need help from a Vulture?",
+    "pl": "Potrzebujesz pomocy Sępa?"
+  },
+  {
+    "id": "367017975644254",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_O7MN",
+    "en": "I’m having trouble finding certain ingredients. Here’s what I need. Think you can help?",
+    "pl": "Trudno mi znaleźć pewne składniki. Oto czego potrzebuję. Pomożesz?"
+  },
+  {
+    "id": "367017975644255",
+    "key": "14_Rosa_Jobs_v1_SupplyRun_Show_TY2M",
+    "en": "I’m trying out some new recipes and, as usual, there’s ingredients I just can’t find. Bring them to me and I’ll give you a reward.",
+    "pl": "Próbuję nowych przepisów i jak zwykle nie mogę znaleźć niektórych składników. Przynieś je, a dostaniesz nagrodę."
+  },
+  {
+    "id": "367017975644256",
+    "key": "14_Rosa_Jobs_v1_Supply_Run_Complete_9M7X",
+    "en": "Yes,  these will do great. Thank you!",
+    "pl": "Tak, te będą doskonałe. Dziękuję!"
+  },
+  {
+    "id": "367017975644257",
+    "key": "14_Rosa_Jobs_v1_Supply_Run_Complete_89JZ",
+    "en": "Ah, just what I needed. Now for my end of the deal.",
+    "pl": "Ach, właśnie tego potrzebowałam. Teraz moja część umowy."
+  },
+  {
+    "id": "367017975644258",
+    "key": "14_Rosa_Jobs_v1_Supply_Run_Complete_XBI9",
+    "en": "Nice! These will help me with the next batch. Here you go.",
+    "pl": "Świetnie! Przydadzą się do następnej porcji. Proszę."
+  },
+  {
+    "id": "367017975644259",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_X7M3",
+    "en": "Some of the Commonfolk are getting dysentery from rotten ingredients in their food. We’re feeding them better now, but still need some medicine... Got anything?",
+    "pl": "Niektórzy Zwykli Ludzie dostają czerwonki od zepsutych składników. Teraz karmimy ich lepiej, ale wciąż potrzebujemy leków... Masz coś?"
+  },
+  {
+    "id": "367017975644260",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Show_DAH7",
+    "en": "I think the last batch of food we made had spoiled meat in it – folks’ve been getting sick. Help us find some medicine and I’ll reward you.",
+    "pl": "Chyba w ostatniej partii jedzenia było zepsute mięso. Ludzie chorują. Pomóż znaleźć lekarstwa, a cię wynagrodzę."
+  },
+  {
+    "id": "367017975644261",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Complete_65RB",
+    "en": "Oh, you're a lifesaver. These will help a lot. Here you go...",
+    "pl": "Och, ratujesz nam życie. Bardzo się przydadzą. Proszę..."
+  },
+  {
+    "id": "367017975644262",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Complete_Q1M6",
+    "en": "These will do wonderfully. Here's your reward!",
+    "pl": "Te będą znakomite. Oto nagroda!"
+  },
+  {
+    "id": "367017975644263",
+    "key": "14_Rosa_Jobs_v1_MedicalEmergency_Complete_DZUW",
+    "en": "Thank you, these are just what I needed. Your reward...",
+    "pl": "Dziękuję, właśnie tego potrzebowałam. Twoja nagroda..."
+  },
+  {
+    "id": "367017975644264",
+    "key": "14_Rosa_Jobs_v1_NoQuestsAvailable_AMHP",
+    "en": "I don't need anything right now... Maybe later I'll think of ingredients I could use.",
+    "pl": "Teraz niczego nie potrzebuję... Może później przypomną mi się jakieś składniki."
+  },
+  {
+    "id": "367017975644265",
+    "key": "14_Rosa_Jobs_v1_NoQuestsAvailable_H28A",
+    "en": "I don't really have any requests at this moment. Come by later.",
+    "pl": "W tej chwili nie mam żadnych zleceń. Zajrzyj później."
+  },
+  {
+    "id": "367017975644266",
+    "key": "14_Rosa_Jobs_v1_NoQuestsAvailable_1UO6",
+    "en": "Got nothing right now. Come back later, after I'm done with this batch...",
+    "pl": "Teraz nic nie mam. Wróć później, jak skończę to gotować..."
+  },
+  {
+    "id": "61667921047298048",
+    "key": "14_Rosa_v1_CropsAndRobbers_Z0IJ",
+    "en": "Woah, been waitin' so long I actually forgot! It's no surprise a butcher ain't too good at farm work. Whatcha got for me?",
+    "pl": "Oho, tyle czekałam, że aż zapomniałam! Nic dziwnego, że rzeźnik słabo radzi sobie z uprawą. Co mi przyniosłeś?"
+  },
+  {
+    "id": "61667921068269568",
+    "key": "14_Rosa_v1_CropsAndRobbers_OZR0",
+    "en": "(Deliver the berries.) ",
+    "pl": "(Dostarcz jagody.) "
+  },
+  {
+    "id": "61667921068269569",
+    "key": "14_Rosa_v1_GetRandomCropsAndRobbersStart_YJ14",
+    "en": "Got something for you.",
+    "pl": "Mam coś dla ciebie."
+  },
+  {
+    "id": "61667921068269570",
+    "key": "14_Rosa_v1_GetRandomCropsAndRobbersStart_R148",
+    "en": "You're the one waiting for Bogdan's supplies?",
+    "pl": "To ty czekasz na zapasy od Bogdana?"
+  },
+  {
+    "id": "61667921068269571",
+    "key": "14_Rosa_v1_GetRandomCropsAndRobbersStart_KG9G",
+    "en": "Bogdan sent me.",
+    "pl": "Przysłał mnie Bogdan."
+  },
+  {
+    "id": "61670356058873856",
+    "key": "14_Rosa_v1_CropsAndRobbers_UNTR",
+    "en": "Thank you, Vulture! Now go yell at him for makin' you run around in his stead.",
+    "pl": "Dziękuję, Sępie! A teraz idź i nakrzycz na niego, że kazał ci biegać za siebie."
+  },
+  {
+    "id": "107258611591749632",
+    "key": "14_Rosa_v1_GetRandomLeaveMessage_5RE7",
+    "en": "Come back later, dear.",
+    "pl": "Wróć później, kochany."
+  },
+  {
+    "id": "107258611600138240",
+    "key": "14_Rosa_v1_GetRandomLeaveMessage_68DW",
+    "en": "Keep yourself nourished.",
+    "pl": "Dbaj, żebyś był najedzony."
+  },
+  {
+    "id": "107258611600138241",
+    "key": "14_Rosa_v1_GetRandomLeaveMessage_KJ8A",
+    "en": "Bye, dear.",
+    "pl": "Pa, kochany."
+  },
+  {
+    "id": "107258611600138242",
+    "key": "14_Rosa_v1_GetRandomLeaveMessage_UF8G",
+    "en": "Take care with nutrition, right?",
+    "pl": "Dbaj o odżywianie, dobrze?"
+  },
+  {
+    "id": "107258611600138243",
+    "key": "14_Rosa_v1_GetRandomTalkStart_24DA",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "107258611600138244",
+    "key": "14_Rosa_v1_GetRandomTalkStart_ISZE",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "107258611600138245",
+    "key": "14_Rosa_v1_GetRandomTalkStart_K50N",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "107258611600138246",
+    "key": "14_Rosa_v1_GetRandomTradeMessage_5B4W",
+    "en": "Got some warm meals here.",
+    "pl": "Mam tu ciepłe posiłki."
+  },
+  {
+    "id": "107258611600138247",
+    "key": "14_Rosa_v1_GetRandomTradeMessage_98BN",
+    "en": "Today's menu.",
+    "pl": "Dzisiejsze menu."
+  },
+  {
+    "id": "107258611600138248",
+    "key": "14_Rosa_v1_GetRandomTradeMessage_T8LQ",
+    "en": "Let me show you the goods.",
+    "pl": "Pokażę ci towar."
+  },
+  {
+    "id": "107258611600138249",
+    "key": "14_Rosa_v1_GetRandomTradeMessage_WPN0",
+    "en": "Just finished cookin' up a batch.",
+    "pl": "Właśnie skończyłam gotować porcję."
+  },
+  {
+    "id": "107258611600138250",
+    "key": "14_Rosa_v1_GetRandomTradeStart_1E81",
+    "en": "What do you have to trade?",
+    "pl": "Co masz do wymiany?"
+  },
+  {
+    "id": "107258611600138251",
+    "key": "14_Rosa_v1_GetRandomTradeStart_KAZT",
+    "en": "Looking for food.",
+    "pl": "Szukam jedzenia."
+  },
+  {
+    "id": "107258611600138252",
+    "key": "14_Rosa_v1_GetRandomTradeStart_NEUL",
+    "en": "Need food – what do you have?",
+    "pl": "Potrzebuję jedzenia. Co masz?"
+  },
+  {
+    "id": "107258611600138253",
+    "key": "14_Rosa_v1_Talk_About_East_C3VZ",
+    "en": "Plus we did flee, 'cuz of when the soldiers came, and the violence began. And the Mist, too... So none o' that sound like Wyraj to <i>me.</i>",
+    "pl": "Zresztą uciekliśmy, bo przyszli żołnierze i zaczęła się przemoc. I Mgła też... Dla <i>mnie</i> to wcale nie brzmi jak Wyraj."
+  },
+  {
+    "id": "107258611600138254",
+    "key": "14_Rosa_v1_Talk_About_East_CHWF",
+    "en": "Ah, but that's easy to say to an old hag who can barely remember what the situation really was. Don't be too hasty to judge others, boy.",
+    "pl": "Łatwo tak mówić starej jędzy, która ledwo pamięta, jak naprawdę było. Nie osądzaj innych pochopnie, chłopcze."
+  },
+  {
+    "id": "107258611600138255",
+    "key": "14_Rosa_v1_Talk_About_East_MF30",
+    "en": "I mean, it wasn't a paradise, more like a... <i>Boring</i> place? Always a lotta work to do, just like here, but... Less folk goin' around. Peaceful enough, but...",
+    "pl": "To nie był raj, raczej... <i>Nudne</i> miejsce? Zawsze dużo pracy, jak tutaj, ale... Mniej ludzi się kręciło. Dość spokojnie, lecz..."
+  },
+  {
+    "id": "107258611600138256",
+    "key": "14_Rosa_v1_Talk_About_East_YXPA",
+    "en": "You should've stayed there, I think.",
+    "pl": "Chyba powinnaś była tam zostać."
+  }
+]

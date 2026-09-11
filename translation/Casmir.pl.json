@@ -1,0 +1,482 @@
+[
+  {
+    "id": "78961246208",
+    "key": "29_Casmir_v1_GetWelcomingMessage_LFCI",
+    "en": "<i>Salut,</i> Returner. I am Casmir, I've heard of you. I'm with luck: you must be good enough for what I need.",
+    "pl": "<i>Salut,</i> Powracający. Jestem Casmir, słyszałem o tobie. Mam szczęście. Powinieneś wystarczyć do mojego zadania."
+  },
+  {
+    "id": "78982217728",
+    "key": "29_Casmir_v1_GetWelcomingMessage_WFY3",
+    "en": "Returner.",
+    "pl": "Powracający."
+  },
+  {
+    "id": "78982217729",
+    "key": "29_Casmir_v1_GetWelcomingMessage_RNVT",
+    "en": "No sudden movements.",
+    "pl": "Bez gwałtownych ruchów."
+  },
+  {
+    "id": "78982217730",
+    "key": "29_Casmir_v1_GetWelcomingMessage_4R1S",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "78982217731",
+    "key": "29_Casmir_v1_GetWelcomingMessage_W0AN",
+    "en": "Hmm...",
+    "pl": "Hmm..."
+  },
+  {
+    "id": "78982217732",
+    "key": "29_Casmir_v1_GetRandomTalkStart_0ROT",
+    "en": "Need to talk to you.",
+    "pl": "Muszę z tobą porozmawiać."
+  },
+  {
+    "id": "78982217733",
+    "key": "29_Casmir_v1_GetRandomTalkStart_384U",
+    "en": "Can we chat?",
+    "pl": "Możemy pogadać?"
+  },
+  {
+    "id": "78982217734",
+    "key": "29_Casmir_v1_GetRandomTalkStart_Q86Y",
+    "en": "We should talk.",
+    "pl": "Powinniśmy porozmawiać."
+  },
+  {
+    "id": "78982217735",
+    "key": "29_Casmir_v1_GetRandomTradeStart_81L6",
+    "en": "Want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "78982217736",
+    "key": "29_Casmir_v1_GetRandomTradeStart_QNRO",
+    "en": "Let's trade.",
+    "pl": "Pohandlujmy."
+  },
+  {
+    "id": "78982217737",
+    "key": "29_Casmir_v1_GetRandomTradeStart_NI4O",
+    "en": "What do you have for trading?",
+    "pl": "Co masz na wymianę?"
+  },
+  {
+    "id": "78982217738",
+    "key": "29_Casmir_v1_GetRandomTradeMessage_TFZM",
+    "en": "Hm, I don't usually trade much.",
+    "pl": "Hm, zwykle niewiele handluję."
+  },
+  {
+    "id": "78982217739",
+    "key": "29_Casmir_v1_GetRandomTradeMessage_QLYV",
+    "en": "Don't have much to trade for.",
+    "pl": "Nie mam wiele na wymianę."
+  },
+  {
+    "id": "78982217740",
+    "key": "29_Casmir_v1_GetRandomTradeMessage_ONXK",
+    "en": "Got any interesting scraps?",
+    "pl": "Masz jakieś ciekawe graty?"
+  },
+  {
+    "id": "78982217741",
+    "key": "29_Casmir_v1_GetRandomTradeMessage_H0CE",
+    "en": "I'll see what you have.",
+    "pl": "Zobaczę, co masz."
+  },
+  {
+    "id": "78982217742",
+    "key": "29_Casmir_v1_GetRandomLeaveMessage_N423",
+    "en": "Don't die.",
+    "pl": "Nie umieraj."
+  },
+  {
+    "id": "78982217743",
+    "key": "29_Casmir_v1_GetRandomLeaveMessage_93J7",
+    "en": "Until we meet again.",
+    "pl": "Do ponownego spotkania."
+  },
+  {
+    "id": "78982217744",
+    "key": "29_Casmir_v1_GetRandomLeaveMessage_LKP0",
+    "en": "<i>Au revoir.</i>",
+    "pl": "<i>Au revoir.</i>"
+  },
+  {
+    "id": "78982217745",
+    "key": "29_Casmir_v1_GetRandomLeaveMessage_WFAC",
+    "en": "<i>Salut,</i> Returner.",
+    "pl": "<i>Salut,</i> Powracający."
+  },
+  {
+    "id": "78982217746",
+    "key": "29_Casmir_v1_GetRandomLeaveMessage_JNQ7",
+    "en": "Yes yes, 'til later.",
+    "pl": "Tak, tak, do później."
+  },
+  {
+    "id": "78982217747",
+    "key": "29_Casmir_v1_GetRandomJustProcedureStart_K4JO",
+    "en": "Need my services?",
+    "pl": "Potrzebujesz moich usług?"
+  },
+  {
+    "id": "78982217748",
+    "key": "29_Casmir_v1_GetRandomJustProcedureStart_8M26",
+    "en": "Need something done?",
+    "pl": "Trzeba coś zrobić?"
+  },
+  {
+    "id": "78982217749",
+    "key": "29_Casmir_v1_GetRandomJustProcedureStart_23TZ",
+    "en": "Got work for me?",
+    "pl": "Masz dla mnie pracę?"
+  },
+  {
+    "id": "78982217750",
+    "key": "29_Casmir_v1_GetRandomJustProcedureCompletedStart_M6NA",
+    "en": "Found your Work Order.",
+    "pl": "Znalazłem twoje polecenie służbowe."
+  },
+  {
+    "id": "78982217751",
+    "key": "29_Casmir_v1_GetRandomJustProcedureCompletedStart_2MG7",
+    "en": "Found this on a corpse... (Give Work Order.)",
+    "pl": "Znalazłem to przy zwłokach... (Daj polecenie służbowe.)"
+  },
+  {
+    "id": "78982217752",
+    "key": "29_Casmir_v1_GetRandomJustProcedureCompletedStart_LBJC",
+    "en": "Here – found this. (Give Work Order.)",
+    "pl": "Proszę, znalazłem to. (Daj polecenie służbowe.)"
+  },
+  {
+    "id": "78982217753",
+    "key": "29_Casmir_v1_Talk_EQFB",
+    "en": "You're a Mechanist. What are you doing with the Rada?",
+    "pl": "Jesteś Mechanistą. Co robisz z Radą?"
+  },
+  {
+    "id": "78982217754",
+    "key": "29_Casmir_v1_Talk_UDNC",
+    "en": "Hmph! Dubravka is the name of a pit I seem to have walked into. Working with them seemed a fine choice a couple years ago; I thought I could devote myself to making weapons for them, aligning my skills with that recent passion.",
+    "pl": "Hm! Dubravka to nazwa dołu, w który najwyraźniej wpadłem. Parę lat temu współpraca z nimi wydawała się dobrym wyborem. Myślałem, że poświęcę się tworzeniu dla nich broni, łącząc swoje umiejętności z nowo odkrytą pasją."
+  },
+  {
+    "id": "78982217755",
+    "key": "29_Casmir_v1_Talk_2NNV",
+    "en": "But in little time I was assigned \"more urgent tasks\" – fixing filters, unclogging pipes, devising systems of irrigation, sanitation, ugh!, one unpleasant job after the next.",
+    "pl": "Ale szybko przydzielono mi „pilniejsze zadania”: naprawianie filtrów, udrażnianie rur, projektowanie systemów nawadniania, kanalizacji... Ugh! Jedna odrażająca robota za drugą."
+  },
+  {
+    "id": "78982217756",
+    "key": "29_Casmir_v1_Talk_KAYU",
+    "en": "So you're a gunsmith?",
+    "pl": "Czyli jesteś rusznikarzem?"
+  },
+  {
+    "id": "78982217757",
+    "key": "29_Casmir_v1_Talk_YKTW",
+    "en": "Gunsmith... I am yet to <i>earn</i> that title. I've been tinkering with these wonderful devices for the past few years.",
+    "pl": "Rusznikarz... Jeszcze muszę <i>zasłużyć</i> na to miano. Od paru lat majstruję przy tych wspaniałych urządzeniach."
+  },
+  {
+    "id": "78982217758",
+    "key": "29_Casmir_v1_Talk_LAHF",
+    "en": "Turning scraps into deadly firearms – or augmenting <i>la puissance</i> and <i>précision</i> of a War-era instrument – such is my art, my <i>métier,</i> which I've found much too recently...",
+    "pl": "Zmienianie złomu w zabójczą broń albo zwiększanie <i>la puissance</i> i <i>précision</i> wojennego narzędzia — oto moja sztuka, moje <i>métier,</i> odkryte tak niedawno..."
+  },
+  {
+    "id": "78982217759",
+    "key": "29_Casmir_v1_Talk_14LE",
+    "en": "So I have much to learn. Under someone like Grigory – yes, I would be happy to seek his apprenticeship... But with this much work, there is no <i>time.</i>",
+    "pl": "Mam więc wiele do nauczenia. Pod okiem kogoś takiego jak Grigory — tak, chętnie zostałbym jego uczniem... Ale przy tylu obowiązkach nie ma <i>czasu.</i>"
+  },
+  {
+    "id": "78982217760",
+    "key": "29_Casmir_v1_Talk_4MYV",
+    "en": "Grigory, the trader up near the Hospital?",
+    "pl": "Grigory, handlarz koło szpitala?"
+  },
+  {
+    "id": "78982217761",
+    "key": "29_Casmir_v1_Talk_WP55",
+    "en": "Yes, the same. That man has an aura of... Confidence. <i>Fermeté</i> in all of his responses and attitudes. That is worth gold, Returner.",
+    "pl": "Tak, ten sam. Otacza go aura... Pewności siebie. <i>Fermeté</i> w każdej odpowiedzi i każdym geście. To jest warte złota, Powracający."
+  },
+  {
+    "id": "78982217762",
+    "key": "29_Casmir_v1_Talk_JBVZ",
+    "en": "He only <i>sells</i> guns, I think...",
+    "pl": "Myślałem, że on tylko <i>sprzedaje</i> broń..."
+  },
+  {
+    "id": "78982217763",
+    "key": "29_Casmir_v1_Talk_89X4",
+    "en": "No, no, <i>mon ami.</i> He tinkers with them too, and quite expertly at that. You must not have paid much attention. Look beyond your preconceptions!",
+    "pl": "Nie, nie, <i>mon ami.</i> On też przy niej majstruje, i to bardzo fachowo. Musiałeś nie zwracać uwagi. Spójrz poza swoje uprzedzenia!"
+  },
+  {
+    "id": "78982217764",
+    "key": "29_Casmir_v1_Talk_XH38",
+    "en": "Can't really vouch for the quality of his wares...",
+    "pl": "Nie mogę ręczyć za jakość jego towarów..."
+  },
+  {
+    "id": "78982217765",
+    "key": "29_Casmir_v1_Talk_WB1K",
+    "en": "Why, but they have a beauty and are well-designed... Not that I've used many guns myself, but I have it on good word that a weapon from Grigory is <i>une bonne affaire.</i>",
+    "pl": "Ależ mają w sobie piękno i są dobrze zaprojektowane... Sam wprawdzie nie używałem wielu sztuk broni, lecz z dobrego źródła wiem, że broń od Grigory'ego to <i>une bonne affaire.</i>"
+  },
+  {
+    "id": "78982217766",
+    "key": "29_Casmir_v1_Talk_IJY1",
+    "en": "Why do you talk... Weird, like that?",
+    "pl": "Dlaczego mówisz... Tak dziwnie?"
+  },
+  {
+    "id": "78982217767",
+    "key": "29_Casmir_v1_Talk_HKSA",
+    "en": "Like what? Ah, <i>comme ça?</i> Ha ha! There is nothing weird about it. It turns out, Returner, we were imbibed in the West's culture long before they dropped their bombs on us.",
+    "pl": "Jak? Ach, <i>comme ça?</i> Ha, ha! Nie ma w tym nic dziwnego. Widzisz, Powracający, przesiąkliśmy kulturą Zachodu na długo, zanim zrzucili na nas bomby."
+  },
+  {
+    "id": "78982217768",
+    "key": "29_Casmir_v1_Talk_BLFB",
+    "en": "These little bits and pieces I remember of one of the West's many languages... They come from the conversations of nobility, of the old, pre-War rulers of our Continent... My parents were very cultured, and they taught me a bit.",
+    "pl": "Te strzępki jednego z wielu języków Zachodu, które pamiętam... Pochodzą z rozmów szlachty, dawnych, przedwojennych władców naszego kontynentu. Moi rodzice byli bardzo kulturalni i trochę mnie nauczyli."
+  },
+  {
+    "id": "78982217769",
+    "key": "29_Casmir_v1_Talk_MXAE",
+    "en": "Why bother talking in that tongue still?",
+    "pl": "Po co nadal mówić w tym języku?"
+  },
+  {
+    "id": "78982217770",
+    "key": "29_Casmir_v1_Talk_WD2N",
+    "en": "In a just world, we would still be in contact with the West – a world my mother and father got to see for a bit, but which is lost to us <i>now.</i>",
+    "pl": "W sprawiedliwym świecie nadal utrzymywalibyśmy kontakt z Zachodem. Moi rodzice przez chwilę oglądali taki świat, lecz dla nas jest już <i>stracony.</i>"
+  },
+  {
+    "id": "78982217771",
+    "key": "29_Casmir_v1_Talk_6TDS",
+    "en": "I, for one, simply enjoy the sounds and stories I associate with this Western language. They flow out of me naturally.",
+    "pl": "Ja po prostu lubię dźwięki i opowieści, które kojarzą mi się z tym zachodnim językiem. Słowa same płyną z ust."
+  },
+  {
+    "id": "78982217772",
+    "key": "29_Casmir_v1_Talk_JEPE",
+    "en": "So... Everyone here used to know that weird language?",
+    "pl": "Czyli... Kiedyś wszyscy znali ten dziwny język?"
+  },
+  {
+    "id": "78982217773",
+    "key": "29_Casmir_v1_Talk_V7PD",
+    "en": "Well, not <i>everyone.</i> It was a <i>lingua franca:</i> a diplomatic and cultural necessity for our leaders and nobles.",
+    "pl": "Cóż, nie <i>wszyscy.</i> Był to <i>lingua franca,</i> dyplomatyczna i kulturowa konieczność dla naszych przywódców i szlachty."
+  },
+  {
+    "id": "78982217774",
+    "key": "29_Casmir_v1_Talk_SOVV",
+    "en": "Not just diplomacy, but also the greatest arts and sciences of all time were produced with it: learned men had to learn it to obtain any success in life. Such was the case with my father.",
+    "pl": "Nie tylko dyplomacja. Powstały w nim także największe dzieła sztuki i nauki. Uczeni musieli go opanować, by cokolwiek osiągnąć w życiu. Tak było z moim ojcem."
+  },
+  {
+    "id": "78982217775",
+    "key": "29_Casmir_v1_Talk_QPHZ",
+    "en": "Never mind; I have to go.",
+    "pl": "Nieważne, muszę iść."
+  },
+  {
+    "id": "78982217776",
+    "key": "29_Casmir_v1_JustProcedure_PLOV",
+    "en": "Yes, yes, I've a simple task for you. Things are busy, I can't keep up with all the requests from these useless Rada – so I asked Sontse for an assistant, and he never showed! It's been <i>days!</i>",
+    "pl": "Tak, tak, mam proste zadanie. Jestem zajęty, nie nadążam z żądaniami tych bezużytecznych ludzi Rady. Poprosiłem więc Sontse o asystenta, a on się nie zjawił! Minęły już <i>dni!</i>"
+  },
+  {
+    "id": "78982217777",
+    "key": "29_Casmir_v1_JustProcedure_UJ19",
+    "en": "He must've <i>died</i> on the way over. Our Palatine friends could not find a body, however, so, <i>hypothesis:</i> his corpse has already been taken to Dazbog Hollow by the Mudlarks. Rotten fucking luck!",
+    "pl": "Musiał <i>umrzeć</i> po drodze. Nasi palatyńscy przyjaciele nie znaleźli jednak ciała. Zatem <i>hipoteza:</i> Błotniarze zabrali je już do Kotliny Dazbog. Pierdolony pech!"
+  },
+  {
+    "id": "78982217778",
+    "key": "29_Casmir_v1_JustProcedure_TSH9",
+    "en": "But I must <i>prove</i> to Sontse that the boy has died, or they will not send me a new one, the bureaucrats. Finding the signed Work Order he surely carried would be the proof I need. So won't you venture to Dazbog and find it for me?",
+    "pl": "Ale muszę <i>udowodnić</i> Sontse, że chłopak zginął, inaczej ci biurokraci nie wyślą następnego. Podpisane polecenie służbowe, które na pewno miał przy sobie, wystarczy za dowód. Pójdziesz do Dazbog je znaleźć?"
+  },
+  {
+    "id": "78982217779",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_GKA6",
+    "en": "Search corpses at Dazbog for a \"work order\". I can do that.",
+    "pl": "Przeszukać zwłoki w Dazbog, znaleźć „polecenie służbowe”. Dam radę."
+  },
+  {
+    "id": "78982217780",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_K1TV",
+    "en": "Good. But just in case – search your mind for questions <i>now.</i>",
+    "pl": "Dobrze. Na wszelki wypadek zastanów się nad pytaniami <i>teraz.</i>"
+  },
+  {
+    "id": "78982217781",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_HS3T",
+    "en": "Got some questions first.",
+    "pl": "Najpierw mam kilka pytań."
+  },
+  {
+    "id": "78982217782",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_YEQX",
+    "en": "Well, sure, fair enough. What is it?",
+    "pl": "Oczywiście, słusznie. O co chodzi?"
+  },
+  {
+    "id": "78982217783",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_B9PQ",
+    "en": "Sounds sketchy – not interested.",
+    "pl": "Brzmi podejrzanie. Nie interesuje mnie to."
+  },
+  {
+    "id": "78982217784",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Decision_XXQ8",
+    "en": "Why? Isn't this what you do for a living? <i>C'est absurde.</i>",
+    "pl": "Dlaczego? Przecież z tego żyjesz? <i>C'est absurde.</i>"
+  },
+  {
+    "id": "78982217785",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_F30J",
+    "en": "How do you <i>know</i> the assistant's dead?",
+    "pl": "Skąd <i>wiesz,</i> że asystent nie żyje?"
+  },
+  {
+    "id": "78982217786",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_4VSK",
+    "en": "All good scientists work off an initial <i>hunch,</i> see, which they then try to <i>disprove</i> to avoid confirmation bias.",
+    "pl": "Każdy dobry naukowiec zaczyna od <i>przeczucia,</i> które następnie próbuje <i>obalić,</i> by uniknąć błędu potwierdzenia."
+  },
+  {
+    "id": "78982217787",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_BI1Y",
+    "en": "The young and weak often die in Zalesye, simple as their tasks may be. I hired Palatines to search for him along the route to Sontse and they came up short. Come on, Returner. What <i>else</i> could have happened?",
+    "pl": "Młodzi i słabi często giną w Zalesye, choćby ich zadania były proste. Wynająłem Palatynów, żeby szukali go na drodze do Sontse, lecz zawiedli. No proszę, Powracający. Co <i>innego</i> mogło się stać?"
+  },
+  {
+    "id": "78982217788",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_893M",
+    "en": "Well, I suppose he <i>could</i> still be alive, but if that's the case – please find him, kill him and take the papers anyway. If he is this slow, he is no good for me.",
+    "pl": "Cóż, przypuszczam, że <i>mógłby</i> jeszcze żyć, ale w takim razie znajdź go, zabij i tak czy inaczej zabierz dokumenty. Jeśli jest tak powolny, nie ma z niego pożytku."
+  },
+  {
+    "id": "78982217789",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_10ZO",
+    "en": "You have means. Why not get someone else to help?",
+    "pl": "Masz środki. Dlaczego nie poprosisz kogoś innego?"
+  },
+  {
+    "id": "78982217790",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_ZTCB",
+    "en": "Usually I <i>would</i> use my status to get some Palatines to look into this to the end. But they are bad with the corpse-bearers, and my status is shot since I've been doing such menial work for the Rada.",
+    "pl": "Zwykle <i>wykorzystałbym</i> swoją pozycję, żeby Palatyni doprowadzili sprawę do końca. Ale źle dogadują się z tragarzami zwłok, a moja pozycja podupadła, odkąd wykonuję takie przyziemne prace dla Rady."
+  },
+  {
+    "id": "78982217791",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_8RCU",
+    "en": "I was considering bidding farewell to the promise of an assistant, Returner, but then <i>you</i> came along! You have a certain <i>je ne sais quois;</i> I feel that I can <i>trust</i> you with this.",
+    "pl": "Już rozważałem pożegnanie się z nadzieją na asystenta, Powracający, ale pojawiłeś się <i>ty!</i> Masz w sobie pewne <i>je ne sais quois.</i> Czuję, że mogę ci w tej sprawie <i>zaufać.</i>"
+  },
+  {
+    "id": "78982217792",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_WTVA",
+    "en": "I don't have any more questions.",
+    "pl": "Nie mam więcej pytań."
+  },
+  {
+    "id": "78982217793",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_6V15",
+    "en": "Very well, then. In that case... Hop to it! <i>Au travail!</i>",
+    "pl": "Bardzo dobrze. W takim razie... Do dzieła! <i>Au travail!</i>"
+  },
+  {
+    "id": "78982217794",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_C2AD",
+    "en": "My decision...",
+    "pl": "Moja decyzja..."
+  },
+  {
+    "id": "78982217795",
+    "key": "29_Casmir_v1_JustProcedure_Quest_Questions_IYQZ",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "78982217796",
+    "key": "29_Casmir_v1_JustProcedure_Inform_Quest_TM7P",
+    "en": "Have you found my dead boy and his work order, Returner?",
+    "pl": "Znalazłeś mojego martwego chłopca i jego polecenie służbowe, Powracający?"
+  },
+  {
+    "id": "78982217797",
+    "key": "29_Casmir_v1_JustProcedure_Inform_Quest_EWY2",
+    "en": "Not yet.",
+    "pl": "Jeszcze nie."
+  },
+  {
+    "id": "78982217798",
+    "key": "29_Casmir_v1_JustProcedure_Inform_Quest_ABJ3",
+    "en": "Need I remind you that the boy's corpse could be thrown in the Lake any time, now? Meaning, no reward for you. Hurry up!",
+    "pl": "Muszę przypominać, że w każdej chwili mogą wrzucić jego zwłoki do jeziora? A wtedy nici z twojej nagrody. Pospiesz się!"
+  },
+  {
+    "id": "78982217799",
+    "key": "29_Casmir_v1_JustProcedure_Inform_Quest_RS3S",
+    "en": "Had some questions, actually.",
+    "pl": "Właściwie mam kilka pytań."
+  },
+  {
+    "id": "78982217800",
+    "key": "29_Casmir_v1_JustProcedure_Inform_Quest_V556",
+    "en": "Agh, <i>vraiment?</i> Okay, ask away.",
+    "pl": "Ech, <i>vraiment?</i> Dobrze, pytaj."
+  },
+  {
+    "id": "78982217801",
+    "key": "29_Casmir_v1_Quest_Completed_EASR",
+    "en": "Hmm, let's see. Looks like his papers are in order, if a bit scruffed. You did well. This should suffice for me to request a new assistant – and also for him to be properly <i>escorted</i> this time.",
+    "pl": "Hmm, zobaczmy. Dokumenty wyglądają na kompletne, choć nieco zniszczone. Dobra robota. Powinny wystarczyć, bym zażądał nowego asystenta. I tym razem odpowiedniej <i>eskorty.</i>"
+  },
+  {
+    "id": "78982217802",
+    "key": "29_Casmir_v1_Quest_Completed_G21S",
+    "en": "One measly Palatine to take that Mutant bite in the next boy's place – is that too much to ask, Returner?",
+    "pl": "Jeden marny Palatyn, żeby przyjął ugryzienie Mutanta zamiast następnego chłopaka. Czy to zbyt wiele, Powracający?"
+  },
+  {
+    "id": "78982217803",
+    "key": "29_Casmir_v1_Quest_Completed_MXEO",
+    "en": "Don't care. My reward?",
+    "pl": "Nie obchodzi mnie to. Moja nagroda?"
+  },
+  {
+    "id": "78982217804",
+    "key": "29_Casmir_v1_Quest_Completed_CJFO",
+    "en": "Of course, <i>pardon.</i> Here it is, Returner.",
+    "pl": "Oczywiście, <i>pardon.</i> Oto ona, Powracający."
+  },
+  {
+    "id": "78982217805",
+    "key": "29_Casmir_v1_Quest_Completed_N6TR",
+    "en": "No, it's not, Casmir. And my reward?",
+    "pl": "Nie, Casmir. A moja nagroda?"
+  },
+  {
+    "id": "78982217806",
+    "key": "29_Casmir_v1_Quest_Completed_QEHA",
+    "en": "Right, right. Here you go – you've more than earned it! <i>Tu l'as bien gagné!</i>",
+    "pl": "Racja, racja. Proszę, w pełni na nią zasłużyłeś! <i>Tu l'as bien gagné!</i>"
+  }
+]

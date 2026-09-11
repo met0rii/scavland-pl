@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "1062240256",
+    "key": "",
+    "en": "You know my name?",
+    "pl": "Znasz moje imię?"
+  },
+  {
+    "id": "1083211776",
+    "key": "",
+    "en": "Of course! You've been a good customer. How's that piece of armor holding up?",
+    "pl": "Oczywiście! Dobry z ciebie klient. Jak się trzyma ten pancerz?"
+  },
+  {
+    "id": "1083211777",
+    "key": "",
+    "en": "Huh? Wait. I don't see it on you... Shit, did someone take it?",
+    "pl": "Hm? Chwila. Nie widzę go na tobie... Cholera, ktoś ci go zabrał?"
+  },
+  {
+    "id": "1083211778",
+    "key": "",
+    "en": "Well ain't that a bummer. You're slower than you used to be, huh? Be careful out there.",
+    "pl": "No to kiepsko. Jesteś wolniejszy niż kiedyś, co? Uważaj na siebie."
+  },
+  {
+    "id": "1083211779",
+    "key": "",
+    "en": "Why are you here?",
+    "pl": "Czemu tu jesteś?"
+  },
+  {
+    "id": "1083211780",
+    "key": "",
+    "en": "Huh? Because this is my post? People from all corners of Zalesye know I'm <i>right here</i> with some great deals.",
+    "pl": "Co? Bo to moje stoisko? Ludzie z całego Zalesye wiedzą, że <i>właśnie tutaj</i> mają świetne okazje."
+  },
+  {
+    "id": "1083211781",
+    "key": "",
+    "en": "Since I specialize in armor, it's important that everyone with a mind for survival knows where to find me at all times. First thing to get nicked during a gunfight, after all.",
+    "pl": "Specjalizuję się w pancerzach, więc każdy, komu zależy na przeżyciu, powinien zawsze wiedzieć, gdzie mnie znaleźć. W końcu pancerz pierwszy obrywa w strzelaninie."
+  },
+  {
+    "id": "1083211782",
+    "key": "",
+    "en": "You know that too well, don't ya...",
+    "pl": "Aż za dobrze o tym wiesz, prawda..."
+  },
+  {
+    "id": "1083211783",
+    "key": "",
+    "en": "So I *did* get my armor stolen...",
+    "pl": "No tak, *ukradli* mi pancerz..."
+  },
+  {
+    "id": "1083211784",
+    "key": "",
+    "en": "... That sucks. Sold it to you just the other day...",
+    "pl": "... Do dupy. Dopiero co ci go sprzedałem..."
+  },
+  {
+    "id": "1083211785",
+    "key": "",
+    "en": "Listen... Dear Ves – my wife Vesna, that is – has been helping me out a lot lately. We've got a pretty good scheme going, and she's helping me expand my inventory, so...",
+    "pl": "Słuchaj... Kochana Ves, czyli moja żona Vesna, ostatnio bardzo pomaga. Dobrze nam idzie i dzięki niej powiększam asortyment, więc..."
+  },
+  {
+    "id": "1083211786",
+    "key": "",
+    "en": "Shouldn't hurt to give you a bit of a discount. Just keep it on the hush-hush and all. Ok?",
+    "pl": "Mogę dać ci mały rabat. Tylko cicho sza, dobrze?"
+  },
+  {
+    "id": "1083211787",
+    "key": "",
+    "en": "Vesna is your wife?",
+    "pl": "Vesna to twoja żona?"
+  },
+  {
+    "id": "1083211788",
+    "key": "",
+    "en": "Yes! Have you met her? She's the best. We help each other out a lot.",
+    "pl": "Tak! Poznałeś ją? Jest najlepsza. Bardzo sobie pomagamy."
+  },
+  {
+    "id": "1083211789",
+    "key": "",
+    "en": "Has its ups and downs, being together with someone all the time. I'm sure it would weird the hell out of a Vulture.",
+    "pl": "Ciągłe bycie z kimś ma wady i zalety. Sęp pewnie czułby się cholernie dziwnie."
+  },
+  {
+    "id": "1083211790",
+    "key": "",
+    "en": "But ultimately... Can't imagine life in Zalesye without her. It's a strange feeling...",
+    "pl": "Ale ostatecznie... Nie wyobrażam sobie życia w Zalesye bez niej. Dziwne uczucie..."
+  },
+  {
+    "id": "1083211791",
+    "key": "",
+    "en": "How did you and Vesna get together?",
+    "pl": "Jak zeszliście się z Vesną?"
+  },
+  {
+    "id": "1083211792",
+    "key": "",
+    "en": "Well, I did some business with her, essentially. She needed fabrics that were a part of some armor I was reselling.",
+    "pl": "Właściwie przez interesy. Potrzebowała tkanin z pancerzy, które odsprzedawałem."
+  },
+  {
+    "id": "1083211793",
+    "key": "",
+    "en": "I made her a good deal and asked her what it was all for. She mentioned she was a member of the Rada and was helping them out with some charity...",
+    "pl": "Dałem dobrą cenę i spytałem, do czego ich użyje. Powiedziała, że należy do Rady i pomaga w dobroczynności..."
+  },
+  {
+    "id": "1083211794",
+    "key": "",
+    "en": "Seeing her eyes light up like that, at that moment... Talking about helping out her peers... I was hooked.",
+    "pl": "Gdy zobaczyłem, jak rozbłysły jej oczy, kiedy mówiła o pomaganiu swoim... Przepadłem."
+  },
+  {
+    "id": "1083211795",
+    "key": "",
+    "en": "Why haven't you joined the Rada?",
+    "pl": "Czemu nie dołączyłeś do Rady?"
+  },
+  {
+    "id": "1083211796",
+    "key": "",
+    "en": "Don't wanna join any one specific group. You do that as a merchant and next thing you know your entire business model is partial to specific people. Not a good mode of operations.",
+    "pl": "Nie chcę do jednej konkretnej grupy. Handlarz dołączy, a zaraz cały jego interes zaczyna faworyzować określonych ludzi. Kiepski sposób działania."
+  },
+  {
+    "id": "1083211797",
+    "key": "",
+    "en": "I want everybody's business; everyone's a friend! Doesn't matter if I like 'em, if I refuse someone service I am <i>no longer</i> a real merchant.",
+    "pl": "Chcę handlować ze wszystkimi. Każdy jest przyjacielem! Nieważne, czy go lubię. Jeśli komuś odmówię, <i>przestaję</i> być prawdziwym handlarzem."
+  },
+  {
+    "id": "1083211798",
+    "key": "",
+    "en": "And then it'll just take a million years <i>more</i> for me to get rich and hop on a Great Train or whatever – escape this hellhole...",
+    "pl": "A wtedy wzbogacenie się i wskoczenie do Wielkiego Pociągu czy coś zajmie mi <i>kolejny</i> milion lat. Ucieczka z tego piekła..."
+  },
+  {
+    "id": "1083211799",
+    "key": "",
+    "en": "You mentioned the \"Great Trains\"?",
+    "pl": "Wspomniałeś o „Wielkich Pociągach”?"
+  },
+  {
+    "id": "1083211800",
+    "key": "",
+    "en": "Well, it's a bit embarrassing, but... I really <i>do</i> believe they exist. I mean, this world is full of strangeness... Take the Mist, for example.",
+    "pl": "Trochę się wstydzę, ale... Naprawdę <i>wierzę,</i> że istnieją. Świat jest pełen dziwów. Weź choćby Mgłę."
+  },
+  {
+    "id": "1083211801",
+    "key": "",
+    "en": "I feel like the Mist has power. The Mist... Can do <i>anything.</i> It twists us in a magical and cruel way, as it wills.",
+    "pl": "Czuję, że Mgła ma moc. Mgła... Potrafi <i>wszystko.</i> Wypacza nas magicznie i okrutnie, wedle własnej woli."
+  },
+  {
+    "id": "1083211802",
+    "key": "",
+    "en": "There <i>has</i> to be a force just like that, but... For good. Y'know? Some magic to counter the Mist – like the Great Trains, flying towards the East...",
+    "pl": "<i>Musi</i> istnieć podobna siła, ale... Dobra. Rozumiesz? Magia przeciwna Mgle. Jak Wielkie Pociągi lecące na wschód..."
+  },
+  {
+    "id": "1083211803",
+    "key": "",
+    "en": "Want to know more about Great Trains.",
+    "pl": "Chcę wiedzieć więcej o Wielkich Pociągach."
+  },
+  {
+    "id": "1083211804",
+    "key": "",
+    "en": "Interesting, isn't it? This whole story.",
+    "pl": "Ciekawa ta cała historia, prawda?"
+  },
+  {
+    "id": "1083211805",
+    "key": "",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "1083211806",
+    "key": "",
+    "en": "What are the Great Trains, exactly?",
+    "pl": "Czym dokładnie są Wielkie Pociągi?"
+  },
+  {
+    "id": "1083211807",
+    "key": "",
+    "en": "As a Vulture, I'm sure you've heard it: the clanky whistle of a ghost ride, emanating from the disjointed tracks that go from the deep Dola to Zakrajev Line just above us.",
+    "pl": "Jako Sęp na pewno słyszałeś ten zgrzytliwy gwizd widmowego składu. Dochodzi z porozrywanych torów biegnących z głębi Doli do linii Zakrajev tuż nad nami."
+  },
+  {
+    "id": "1083211808",
+    "key": "",
+    "en": "An impossible metallic rattle of a wagon moving between other wagons, through containers and bits of rail-less land; the silhouette of some great magical device, or perhaps a product of pre-War science – mankind's last great achievement, still levitating a chosen few in its rusty carcass...",
+    "pl": "Niemożliwy metaliczny łoskot wagonu jadącego między wagonami, przez kontenery i ziemię bez szyn. Sylwetka wielkiego magicznego urządzenia albo wytworu przedwojennej nauki. Ostatniego wielkiego osiągnięcia ludzkości, wciąż niosącego wybrańców w zardzewiałym cielsku..."
+  },
+  {
+    "id": "1083211809",
+    "key": "",
+    "en": "They serve to take us East, Rodion. They appear to us the same way the Acolytes talk of Jesus reappearing from the dead... A resurrection that means salvation for us all – or so I understand.",
+    "pl": "Zabierają nas na wschód, Rodion. Ukazują się nam tak, jak Akolici mówią o Jezusie powstającym z martwych. Zmartwychwstanie oznaczające zbawienie dla wszystkich. Tak to rozumiem."
+  },
+  {
+    "id": "1083211810",
+    "key": "",
+    "en": "They take us East... To Wyraj?",
+    "pl": "Wiozą nas na wschód... Do Wyraju?"
+  },
+  {
+    "id": "1083211811",
+    "key": "",
+    "en": "Indeed. A land with no Mist. Nothing in the world like it – at least not here, in Rhos.",
+    "pl": "Właśnie. Kraina bez Mgły. Nic podobnego nie ma na świecie. Przynajmniej tutaj, w Rhos."
+  },
+  {
+    "id": "1083211812",
+    "key": "",
+    "en": "That's impossible.",
+    "pl": "To niemożliwe."
+  },
+  {
+    "id": "1083211813",
+    "key": "",
+    "en": "So is a Mist that corrupts man and animal alike into unsightly beasts. So is the defeat of our kind by our own hand – so are a lot of things that happened not *today*, not *yesterday*, but *throughout history*. History itself has the power to do the impossible, and we're *always* living through it.",
+    "pl": "Tak jak Mgła zmieniająca ludzi i zwierzęta w odrażające bestie. Tak jak klęska naszego rodzaju z własnej ręki. Tak jak mnóstwo rzeczy, które zdarzyły się nie *dzisiaj*, nie *wczoraj*, ale *na przestrzeni dziejów*. Historia potrafi czynić niemożliwe, a my *zawsze* w niej żyjemy."
+  },
+  {
+    "id": "1083211814",
+    "key": "",
+    "en": "How do you get aboard a Great Train?",
+    "pl": "Jak wejść na pokład Wielkiego Pociągu?"
+  },
+  {
+    "id": "1083211815",
+    "key": "",
+    "en": "From what I've heard, and felt... It's wealth. Being able to afford it. Becoming the richest motherfucker in Zalesye... Then leaving it behind.",
+    "pl": "Z tego, co słyszałem i czułem... Chodzi o bogactwo. Żeby było cię stać. Zostać najbogatszym skurwielem w Zalesye... A potem to zostawić."
+  },
+  {
+    "id": "1083211816",
+    "key": "",
+    "en": "Maybe it's a dog-eat-dog world after all, and the rich shall triumph over the poor. Or maybe it's about letting go... Get to the top only to give it up and go to a mystical place where that doesn't even matter. Reminds me of the Church's teachings.",
+    "pl": "Może jednak człowiek człowiekowi wilkiem, a bogaci zatriumfują nad biednymi. A może chodzi o wyrzeczenie. Dotrzeć na szczyt, porzucić go i pójść do mistycznego miejsca, gdzie nic z tego nie ma znaczenia. Przypomina nauki Kościoła."
+  },
+  {
+    "id": "1083211817",
+    "key": "",
+    "en": "Maybe it's just material necessity for a Great Train which is non-magical, simply a bit of machinery. I don't really know.",
+    "pl": "Może to po prostu materialna potrzeba Wielkiego Pociągu, który nie jest magiczny, tylko jest maszyną. Nie wiem."
+  },
+  {
+    "id": "1083211818",
+    "key": "",
+    "en": "Either way... Gotta bust your ass to get there, I suppose. Nothing's easy in this world.",
+    "pl": "Tak czy inaczej... Trzeba zapieprzać, żeby się tam dostać. Nic na tym świecie nie przychodzi łatwo."
+  },
+  {
+    "id": "1083211819",
+    "key": "",
+    "en": "Have you ever seen one?",
+    "pl": "Widziałeś kiedyś taki?"
+  },
+  {
+    "id": "1083211820",
+    "key": "",
+    "en": "I think I have, yes. Sometimes I tell myself I'm <i>sure,</i> but fuck, I don't think that's fair.",
+    "pl": "Chyba tak. Czasem mówię sobie, że jestem <i>pewien,</i> ale, cholera, to chyba nieuczciwe."
+  },
+  {
+    "id": "1083211821",
+    "key": "",
+    "en": "I've seen its silhouette, when I went the furthest into the Dola I ever have. Heard its sounds, its whistling... The rattle of some invisible railroad.",
+    "pl": "Widziałem jego sylwetkę, kiedy zapuściłem się najdalej w Dolę. Słyszałem odgłosy, gwizdy... Łoskot niewidzialnej kolei."
+  },
+  {
+    "id": "1083211822",
+    "key": "",
+    "en": "I've seen it in my dreams <i>and</i> in what I <i>think</i> was my waking life. Had the wagon's shadows in the corner of my eye. I've even felt its inside walls supporting my back, shaking gently, a warm blanket over my knees...",
+    "pl": "Widziałem go we śnie <i>i</i> chyba na jawie. Tak mi się <i>wydaje.</i> Dostrzegałem kątem oka cienie wagonu. Czułem nawet jego ściany pod plecami, lekkie drżenie, ciepły koc na kolanach..."
+  },
+  {
+    "id": "1083211823",
+    "key": "",
+    "en": "Before you think I'm crazy, friend – I know for sure the <i>sounds</i> were real. That, at least. Too constant for me to doubt them. And I'm <i>sure</i> you've heard them too.",
+    "pl": "Zanim uznasz mnie za szalonego, przyjacielu: <i>dźwięki</i> na pewno były prawdziwe. Przynajmniej tyle. Zbyt stałe, by wątpić. I jestem <i>pewien,</i> że też je słyszałeś."
+  },
+  {
+    "id": "1083211824",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "1083211825",
+    "key": "",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "1083211826",
+    "key": "",
+    "en": "Rodion. Looking not too shabby. Remember me, Yefim? Got new merch, y'should see it.",
+    "pl": "Rodion. Nieźle wyglądasz. Pamiętasz mnie, Yefima? Mam nowy towar, powinieneś zobaczyć."
+  },
+  {
+    "id": "1083211827",
+    "key": "",
+    "en": "Hey, Rodion. Looking to buy?",
+    "pl": "Hej, Rodion. Chcesz coś kupić?"
+  },
+  {
+    "id": "1083211828",
+    "key": "",
+    "en": "How's it going?",
+    "pl": "Jak leci?"
+  },
+  {
+    "id": "1083211829",
+    "key": "",
+    "en": "Hey there!",
+    "pl": "Cześć!"
+  },
+  {
+    "id": "1083211830",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "1083211831",
+    "key": "",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "1083211832",
+    "key": "",
+    "en": "Got something to talk about.",
+    "pl": "Mam sprawę do omówienia."
+  },
+  {
+    "id": "1083211833",
+    "key": "",
+    "en": "Want to see your wares.",
+    "pl": "Chcę zobaczyć twój towar."
+  },
+  {
+    "id": "1083211834",
+    "key": "",
+    "en": "How about we trade?",
+    "pl": "Może pohandlujemy?"
+  },
+  {
+    "id": "1083211835",
+    "key": "",
+    "en": "Have some stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "1083211836",
+    "key": "",
+    "en": "Let's get into it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "1083211837",
+    "key": "",
+    "en": "Time to trade, then.",
+    "pl": "Pora na handel."
+  },
+  {
+    "id": "1083211838",
+    "key": "",
+    "en": "Got plenty in stock for you.",
+    "pl": "Mam dla ciebie duży wybór."
+  },
+  {
+    "id": "1083211839",
+    "key": "",
+    "en": "Let's do this.",
+    "pl": "Zaczynajmy."
+  },
+  {
+    "id": "1083211840",
+    "key": "",
+    "en": "Great! Let's.",
+    "pl": "Świetnie! Zaczynajmy."
+  },
+  {
+    "id": "1083211841",
+    "key": "",
+    "en": "See you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "1083211842",
+    "key": "",
+    "en": "Take care, Rodion.",
+    "pl": "Trzymaj się, Rodion."
+  },
+  {
+    "id": "1083211843",
+    "key": "",
+    "en": "Take care out there.",
+    "pl": "Uważaj na siebie."
+  },
+  {
+    "id": "1083211844",
+    "key": "",
+    "en": "Be careful. See ya.",
+    "pl": "Ostrożnie. Do zobaczenia."
+  },
+  {
+    "id": "1083211845",
+    "key": "",
+    "en": "Talk to you later.",
+    "pl": "Porozmawiamy później."
+  },
+  {
+    "id": "1083211846",
+    "key": "",
+    "en": "Sounds easy enough.",
+    "pl": "Brzmi dość łatwo."
+  },
+  {
+    "id": "1083211847",
+    "key": "",
+    "en": "Well, not so sure about that. But I'm glad you accepted.",
+    "pl": "Nie byłbym taki pewien. Ale cieszę się, że przyjąłeś."
+  },
+  {
+    "id": "1083211848",
+    "key": "",
+    "en": "I need to think on it.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "1083211849",
+    "key": "",
+    "en": "Sure, but please don't leave me hanging, here.",
+    "pl": "Jasne, tylko nie trzymaj mnie w niepewności."
+  },
+  {
+    "id": "1083211850",
+    "key": "",
+    "en": "Do you have anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "1083211851",
+    "key": "",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "1083211852",
+    "key": "",
+    "en": "Let me know if something else comes up.",
+    "pl": "Daj znać, jak pojawi się coś jeszcze."
+  },
+  {
+    "id": "1083211853",
+    "key": "",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "1083211854",
+    "key": "",
+    "en": "I'm sure you will – just be careful out there.",
+    "pl": "Na pewno. Tylko uważaj na siebie."
+  },
+  {
+    "id": "1083211855",
+    "key": "",
+    "en": "Need to think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "1083211856",
+    "key": "",
+    "en": "Ok, I'm not in a rush.",
+    "pl": "Dobrze, nie spieszy mi się."
+  },
+  {
+    "id": "1083211857",
+    "key": "",
+    "en": "Hmm. Anything else you need?",
+    "pl": "Hmm. Potrzebujesz czegoś jeszcze?"
+  },
+  {
+    "id": "1083211858",
+    "key": "",
+    "en": "A present, huh...",
+    "pl": "Prezent, co..."
+  },
+  {
+    "id": "1083211859",
+    "key": "",
+    "en": "Take care.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "1083211860",
+    "key": "",
+    "en": "It's been hard getting hold of everything me and Vesna need. There's supplies I need in order to keep givin' you these sweet deals, hehe. Wanna help out?",
+    "pl": "Trudno zdobyć wszystko, czego potrzebujemy z Vesną. Brakuje mi zapasów, żeby dalej oferować ci te świetne okazje, hehe. Pomożesz?"
+  },
+  {
+    "id": "1083211861",
+    "key": "",
+    "en": "Hardest thing about this job – the inconsistency. Suddenly my inventory's full of holes. What do you say to finding me some supplies?",
+    "pl": "Najtrudniejsza w tej pracy jest nieregularność dostaw. Nagle w zapasach same braki. Może zdobędziesz mi trochę zaopatrzenia?"
+  },
+  {
+    "id": "1083211862",
+    "key": "",
+    "en": "You got all of it! Wouldn't expect less of ya. Here's your pay.",
+    "pl": "Masz wszystko! Nie spodziewałem się mniej. Oto zapłata."
+  },
+  {
+    "id": "1083211863",
+    "key": "",
+    "en": "Nice, this is going to be a <i>huge</i> help for the week. Thank you!",
+    "pl": "Świetnie, to <i>ogromnie</i> pomoże w tym tygodniu. Dziękuję!"
+  },
+  {
+    "id": "1083211864",
+    "key": "",
+    "en": "You did it – nice going, Rodion. Here you go.",
+    "pl": "Udało się! Dobra robota, Rodion. Proszę."
+  },
+  {
+    "id": "1083211865",
+    "key": "",
+    "en": "I've been thinking about surprising my wife with a present of sorts. Problem is, with all this work I don't have time to go out and find one myself. Would you help?",
+    "pl": "Chcę sprawić żonie niespodziankę, jakiś prezent. Tylko przez tę pracę nie mam czasu sam czegoś poszukać. Pomożesz?"
+  },
+  {
+    "id": "1083211866",
+    "key": "",
+    "en": "I don't always have my head on straight when negotiating... Passed on a couple items last week, been regretting it – could you find them for me?",
+    "pl": "Nie zawsze negocjuję z głową... W zeszłym tygodniu odpuściłem parę rzeczy i teraz żałuję. Znajdziesz mi je?"
+  },
+  {
+    "id": "1083211867",
+    "key": "",
+    "en": "You found just what I needed. This'll make a great present!",
+    "pl": "Znalazłeś dokładnie to, czego chciałem. Będzie świetny prezent!"
+  },
+  {
+    "id": "1083211868",
+    "key": "",
+    "en": "Nice... This'll make her happy...",
+    "pl": "Świetnie... Ucieszy się..."
+  },
+  {
+    "id": "1083211869",
+    "key": "",
+    "en": "Oh, great! Yeah, this'll do just fine. Should I just give it to her like this?... Wrap it, maybe...",
+    "pl": "Och, znakomicie! Tak, nada się. Dać jej tak po prostu?... Może zapakować..."
+  },
+  {
+    "id": "1083211870",
+    "key": "",
+    "en": "I don't have any requests right now, Rodion. Maybe tomorrow.",
+    "pl": "Teraz nie mam zleceń, Rodion. Może jutro."
+  },
+  {
+    "id": "1083211871",
+    "key": "",
+    "en": "Got no other work for a scavenger right now, sorry.",
+    "pl": "Nie mam teraz innej roboty dla zbieracza, wybacz."
+  },
+  {
+    "id": "1083211872",
+    "key": "",
+    "en": "I'm busy with other things – not really looking for a scavenger for the time being. My bad.",
+    "pl": "Mam inne sprawy. Na razie nie szukam zbieracza. Wybacz."
+  },
+  {
+    "id": "1083211873",
+    "key": "",
+    "en": "What can I help you with?",
+    "pl": "W czym mogę pomóc?"
+  },
+  {
+    "id": "1083211874",
+    "key": "",
+    "en": "Need a scavenger's help?",
+    "pl": "Potrzebujesz pomocy zbieracza?"
+  },
+  {
+    "id": "1083211875",
+    "key": "",
+    "en": "Got some work?",
+    "pl": "Masz jakąś pracę?"
+  },
+  {
+    "id": "363570257756160",
+    "key": "",
+    "en": "You know my name?",
+    "pl": "Znasz moje imię?"
+  },
+  {
+    "id": "363570282921984",
+    "key": "",
+    "en": "Of course! You've been a good customer. How's that piece of armor holding up?",
+    "pl": "Oczywiście! Dobry z ciebie klient. Jak się trzyma ten pancerz?"
+  },
+  {
+    "id": "363570282921985",
+    "key": "",
+    "en": "Huh? Wait. I don't see it on you... Shit, did someone take it?",
+    "pl": "Hm? Chwila. Nie widzę go na tobie... Cholera, ktoś ci go zabrał?"
+  },
+  {
+    "id": "363570282921986",
+    "key": "",
+    "en": "Well ain't that a bummer. You're slower than you used to be, huh? Be careful out there.",
+    "pl": "No to kiepsko. Jesteś wolniejszy niż kiedyś, co? Uważaj na siebie."
+  },
+  {
+    "id": "363570282921987",
+    "key": "",
+    "en": "Why are you here?",
+    "pl": "Czemu tu jesteś?"
+  },
+  {
+    "id": "363570282921988",
+    "key": "",
+    "en": "Huh? Because this is my post? People from all corners of Zalesye know I'm <i>right here</i> with some great deals.",
+    "pl": "Co? Bo to moje stoisko? Ludzie z całego Zalesye wiedzą, że <i>właśnie tutaj</i> mają świetne okazje."
+  },
+  {
+    "id": "363570282921989",
+    "key": "",
+    "en": "Since I specialize in armor, it's important that everyone with a mind for survival knows where to find me at all times. First thing to get nicked during a gunfight, after all.",
+    "pl": "Specjalizuję się w pancerzach, więc każdy, komu zależy na przeżyciu, powinien zawsze wiedzieć, gdzie mnie znaleźć. W końcu pancerz pierwszy obrywa w strzelaninie."
+  },
+  {
+    "id": "363570282921990",
+    "key": "",
+    "en": "You know that too well, don't ya...",
+    "pl": "Aż za dobrze o tym wiesz, prawda..."
+  },
+  {
+    "id": "363570282921991",
+    "key": "",
+    "en": "So I *did* get my armor stolen...",
+    "pl": "No tak, *ukradli* mi pancerz..."
+  },
+  {
+    "id": "363570282921992",
+    "key": "",
+    "en": "... That sucks. Sold it to you just the other day...",
+    "pl": "... Do dupy. Dopiero co ci go sprzedałem..."
+  },
+  {
+    "id": "363570282921993",
+    "key": "",
+    "en": "Listen... Dear Ves – my wife Vesna, that is – has been helping me out a lot lately. We've got a pretty good scheme going, and she's helping me expand my inventory, so...",
+    "pl": "Słuchaj... Kochana Ves, czyli moja żona Vesna, ostatnio bardzo pomaga. Dobrze nam idzie i dzięki niej powiększam asortyment, więc..."
+  },
+  {
+    "id": "363570282921994",
+    "key": "",
+    "en": "Shouldn't hurt to give you a bit of a discount. Just keep it on the hush-hush and all. Ok?",
+    "pl": "Mogę dać ci mały rabat. Tylko cicho sza, dobrze?"
+  },
+  {
+    "id": "363570282921995",
+    "key": "",
+    "en": "Vesna is your wife?",
+    "pl": "Vesna to twoja żona?"
+  },
+  {
+    "id": "363570282921996",
+    "key": "",
+    "en": "Yes! Have you met her? She's the best. We help each other out a lot.",
+    "pl": "Tak! Poznałeś ją? Jest najlepsza. Bardzo sobie pomagamy."
+  },
+  {
+    "id": "363570282921997",
+    "key": "",
+    "en": "Has its ups and downs, being together with someone all the time. I'm sure it would weird the hell out of a Vulture.",
+    "pl": "Ciągłe bycie z kimś ma wady i zalety. Sęp pewnie czułby się cholernie dziwnie."
+  },
+  {
+    "id": "363570282921998",
+    "key": "",
+    "en": "But ultimately... Can't imagine life in Zalesye without her. It's a strange feeling...",
+    "pl": "Ale ostatecznie... Nie wyobrażam sobie życia w Zalesye bez niej. Dziwne uczucie..."
+  },
+  {
+    "id": "363570282921999",
+    "key": "",
+    "en": "How did you and Vesna get together?",
+    "pl": "Jak zeszliście się z Vesną?"
+  },
+  {
+    "id": "363570282922000",
+    "key": "",
+    "en": "Well, I did some business with her, essentially. She needed fabrics that were a part of some armor I was reselling.",
+    "pl": "Właściwie przez interesy. Potrzebowała tkanin z pancerzy, które odsprzedawałem."
+  },
+  {
+    "id": "363570282922001",
+    "key": "",
+    "en": "I made her a good deal and asked her what it was all for. She mentioned she was a member of the Rada and was helping them out with some charity...",
+    "pl": "Dałem dobrą cenę i spytałem, do czego ich użyje. Powiedziała, że należy do Rady i pomaga w dobroczynności..."
+  },
+  {
+    "id": "363570282922002",
+    "key": "",
+    "en": "Seeing her eyes light up like that, at that moment... Talking about helping out her peers... I was hooked.",
+    "pl": "Gdy zobaczyłem, jak rozbłysły jej oczy, kiedy mówiła o pomaganiu swoim... Przepadłem."
+  },
+  {
+    "id": "363570282922003",
+    "key": "",
+    "en": "Why haven't you joined the Rada?",
+    "pl": "Czemu nie dołączyłeś do Rady?"
+  },
+  {
+    "id": "363570282922004",
+    "key": "",
+    "en": "Don't wanna join any one specific group. You do that as a merchant and next thing you know your entire business model is partial to specific people. Not a good mode of operations.",
+    "pl": "Nie chcę do jednej konkretnej grupy. Handlarz dołączy, a zaraz cały jego interes zaczyna faworyzować określonych ludzi. Kiepski sposób działania."
+  },
+  {
+    "id": "363570282922005",
+    "key": "",
+    "en": "I want everybody's business; everyone's a friend! Doesn't matter if I like 'em, if I refuse someone service I am <i>no longer</i> a real merchant.",
+    "pl": "Chcę handlować ze wszystkimi. Każdy jest przyjacielem! Nieważne, czy go lubię. Jeśli komuś odmówię, <i>przestaję</i> być prawdziwym handlarzem."
+  },
+  {
+    "id": "363570282922006",
+    "key": "",
+    "en": "And then it'll just take a million years <i>more</i> for me to get rich and hop on a Great Train or whatever – escape this hellhole...",
+    "pl": "A wtedy wzbogacenie się i wskoczenie do Wielkiego Pociągu czy coś zajmie mi <i>kolejny</i> milion lat. Ucieczka z tego piekła..."
+  },
+  {
+    "id": "363570282922007",
+    "key": "",
+    "en": "You mentioned the \"Great Trains\"?",
+    "pl": "Wspomniałeś o „Wielkich Pociągach”?"
+  },
+  {
+    "id": "363570282922008",
+    "key": "",
+    "en": "Well, it's a bit embarrassing, but... I really <i>do</i> believe they exist. I mean, this world is full of strangeness... Take the Mist, for example.",
+    "pl": "Trochę się wstydzę, ale... Naprawdę <i>wierzę,</i> że istnieją. Świat jest pełen dziwów. Weź choćby Mgłę."
+  },
+  {
+    "id": "363570282922009",
+    "key": "",
+    "en": "I feel like the Mist has power. The Mist... Can do <i>anything.</i> It twists us in a magical and cruel way, as it wills.",
+    "pl": "Czuję, że Mgła ma moc. Mgła... Potrafi <i>wszystko.</i> Wypacza nas magicznie i okrutnie, wedle własnej woli."
+  },
+  {
+    "id": "363570282922010",
+    "key": "",
+    "en": "There <i>has</i> to be a force just like that, but... For good. Y'know? Some magic to counter the Mist – like the Great Trains, flying towards the East...",
+    "pl": "<i>Musi</i> istnieć podobna siła, ale... Dobra. Rozumiesz? Magia przeciwna Mgle. Jak Wielkie Pociągi lecące na wschód..."
+  },
+  {
+    "id": "363570282922011",
+    "key": "",
+    "en": "Want to know more about Great Trains.",
+    "pl": "Chcę wiedzieć więcej o Wielkich Pociągach."
+  },
+  {
+    "id": "363570282922012",
+    "key": "",
+    "en": "Interesting, isn't it? This whole story.",
+    "pl": "Ciekawa ta cała historia, prawda?"
+  },
+  {
+    "id": "363570282922013",
+    "key": "",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "363570282922014",
+    "key": "",
+    "en": "What are the Great Trains, exactly?",
+    "pl": "Czym dokładnie są Wielkie Pociągi?"
+  },
+  {
+    "id": "363570282922015",
+    "key": "",
+    "en": "As a Vulture, I'm sure you've heard it: the clanky whistle of a ghost ride, emanating from the disjointed tracks that go from the deep Dola to Zakrajev Line just above us.",
+    "pl": "Jako Sęp na pewno słyszałeś ten zgrzytliwy gwizd widmowego składu. Dochodzi z porozrywanych torów biegnących z głębi Doli do linii Zakrajev tuż nad nami."
+  },
+  {
+    "id": "363570282922016",
+    "key": "",
+    "en": "An impossible metallic rattle of a wagon moving between other wagons, through containers and bits of rail-less land; the silhouette of some great magical device, or perhaps a product of pre-War science – mankind's last great achievement, still levitating a chosen few in its rusty carcass...",
+    "pl": "Niemożliwy metaliczny łoskot wagonu jadącego między wagonami, przez kontenery i ziemię bez szyn. Sylwetka wielkiego magicznego urządzenia albo wytworu przedwojennej nauki. Ostatniego wielkiego osiągnięcia ludzkości, wciąż niosącego wybrańców w zardzewiałym cielsku..."
+  },
+  {
+    "id": "363570282922017",
+    "key": "",
+    "en": "They serve to take us East, Rodion. They appear to us the same way the Acolytes talk of Jesus reappearing from the dead... A resurrection that means salvation for us all – or so I understand.",
+    "pl": "Zabierają nas na wschód, Rodion. Ukazują się nam tak, jak Akolici mówią o Jezusie powstającym z martwych. Zmartwychwstanie oznaczające zbawienie dla wszystkich. Tak to rozumiem."
+  },
+  {
+    "id": "363570282922018",
+    "key": "",
+    "en": "They take us East... To Wyraj?",
+    "pl": "Wiozą nas na wschód... Do Wyraju?"
+  },
+  {
+    "id": "363570282922019",
+    "key": "",
+    "en": "Indeed. A land with no Mist. Nothing in the world like it – at least not here, in Rhos.",
+    "pl": "Właśnie. Kraina bez Mgły. Nic podobnego nie ma na świecie. Przynajmniej tutaj, w Rhos."
+  },
+  {
+    "id": "363570282922020",
+    "key": "",
+    "en": "That's impossible.",
+    "pl": "To niemożliwe."
+  },
+  {
+    "id": "363570282922021",
+    "key": "",
+    "en": "So is a Mist that corrupts man and animal alike into unsightly beasts. So is the defeat of our kind by our own hand – so are a lot of things that happened not *today*, not *yesterday*, but *throughout history*. History itself has the power to do the impossible, and we're *always* living through it.",
+    "pl": "Tak jak Mgła zmieniająca ludzi i zwierzęta w odrażające bestie. Tak jak klęska naszego rodzaju z własnej ręki. Tak jak mnóstwo rzeczy, które zdarzyły się nie *dzisiaj*, nie *wczoraj*, ale *na przestrzeni dziejów*. Historia potrafi czynić niemożliwe, a my *zawsze* w niej żyjemy."
+  },
+  {
+    "id": "363570282922022",
+    "key": "",
+    "en": "How do you get aboard a Great Train?",
+    "pl": "Jak wejść na pokład Wielkiego Pociągu?"
+  },
+  {
+    "id": "363570282922023",
+    "key": "",
+    "en": "From what I've heard, and felt... It's wealth. Being able to afford it. Becoming the richest motherfucker in Zalesye... Then leaving it behind.",
+    "pl": "Z tego, co słyszałem i czułem... Chodzi o bogactwo. Żeby było cię stać. Zostać najbogatszym skurwielem w Zalesye... A potem to zostawić."
+  },
+  {
+    "id": "363570282922024",
+    "key": "",
+    "en": "Maybe it's a dog-eat-dog world after all, and the rich shall triumph over the poor. Or maybe it's about letting go... Get to the top only to give it up and go to a mystical place where that doesn't even matter. Reminds me of the Church's teachings.",
+    "pl": "Może jednak człowiek człowiekowi wilkiem, a bogaci zatriumfują nad biednymi. A może chodzi o wyrzeczenie. Dotrzeć na szczyt, porzucić go i pójść do mistycznego miejsca, gdzie nic z tego nie ma znaczenia. Przypomina nauki Kościoła."
+  },
+  {
+    "id": "363570282922025",
+    "key": "",
+    "en": "Maybe it's just material necessity for a Great Train which is non-magical, simply a bit of machinery. I don't really know.",
+    "pl": "Może to po prostu materialna potrzeba Wielkiego Pociągu, który nie jest magiczny, tylko jest maszyną. Nie wiem."
+  },
+  {
+    "id": "363570282922026",
+    "key": "",
+    "en": "Either way... Gotta bust your ass to get there, I suppose. Nothing's easy in this world.",
+    "pl": "Tak czy inaczej... Trzeba zapieprzać, żeby się tam dostać. Nic na tym świecie nie przychodzi łatwo."
+  },
+  {
+    "id": "363570282922027",
+    "key": "",
+    "en": "Have you ever seen one?",
+    "pl": "Widziałeś kiedyś taki?"
+  },
+  {
+    "id": "363570282922028",
+    "key": "",
+    "en": "I think I have, yes. Sometimes I tell myself I'm <i>sure,</i> but fuck, I don't think that's fair.",
+    "pl": "Chyba tak. Czasem mówię sobie, że jestem <i>pewien,</i> ale, cholera, to chyba nieuczciwe."
+  },
+  {
+    "id": "363570282922029",
+    "key": "",
+    "en": "I've seen its silhouette, when I went the furthest into the Dola I ever have. Heard its sounds, its whistling... The rattle of some invisible railroad.",
+    "pl": "Widziałem jego sylwetkę, kiedy zapuściłem się najdalej w Dolę. Słyszałem odgłosy, gwizdy... Łoskot niewidzialnej kolei."
+  },
+  {
+    "id": "363570282922030",
+    "key": "",
+    "en": "I've seen it in my dreams <i>and</i> in what I <i>think</i> was my waking life. Had the wagon's shadows in the corner of my eye. I've even felt its inside walls supporting my back, shaking gently, a warm blanket over my knees...",
+    "pl": "Widziałem go we śnie <i>i</i> chyba na jawie. Tak mi się <i>wydaje.</i> Dostrzegałem kątem oka cienie wagonu. Czułem nawet jego ściany pod plecami, lekkie drżenie, ciepły koc na kolanach..."
+  },
+  {
+    "id": "363570282922031",
+    "key": "",
+    "en": "Before you think I'm crazy, friend – I know for sure the <i>sounds</i> were real. That, at least. Too constant for me to doubt them. And I'm <i>sure</i> you've heard them too.",
+    "pl": "Zanim uznasz mnie za szalonego, przyjacielu: <i>dźwięki</i> na pewno były prawdziwe. Przynajmniej tyle. Zbyt stałe, by wątpić. I jestem <i>pewien,</i> że też je słyszałeś."
+  },
+  {
+    "id": "363570282922032",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "363570282922033",
+    "key": "",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "363570282922034",
+    "key": "",
+    "en": "Rodion. Looking not too shabby. Remember me, Yefim? Got new merch, y'should see it.",
+    "pl": "Rodion. Nieźle wyglądasz. Pamiętasz mnie, Yefima? Mam nowy towar, powinieneś zobaczyć."
+  },
+  {
+    "id": "363570282922035",
+    "key": "",
+    "en": "Hey, Rodion. Looking to buy?",
+    "pl": "Hej, Rodion. Chcesz coś kupić?"
+  },
+  {
+    "id": "363570282922036",
+    "key": "",
+    "en": "How's it going?",
+    "pl": "Jak leci?"
+  },
+  {
+    "id": "363570282922037",
+    "key": "",
+    "en": "Hey there!",
+    "pl": "Cześć!"
+  },
+  {
+    "id": "363570282922038",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "363570282922039",
+    "key": "",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "363570282922040",
+    "key": "",
+    "en": "Got something to talk about.",
+    "pl": "Mam sprawę do omówienia."
+  },
+  {
+    "id": "363570282922041",
+    "key": "",
+    "en": "Want to see your wares.",
+    "pl": "Chcę zobaczyć twój towar."
+  },
+  {
+    "id": "363570282922042",
+    "key": "",
+    "en": "How about we trade?",
+    "pl": "Może pohandlujemy?"
+  },
+  {
+    "id": "363570282922043",
+    "key": "",
+    "en": "Have some stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "363570282922044",
+    "key": "",
+    "en": "Let's get into it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "363570282922045",
+    "key": "",
+    "en": "Time to trade, then.",
+    "pl": "Pora na handel."
+  },
+  {
+    "id": "363570282922046",
+    "key": "",
+    "en": "Got plenty in stock for you.",
+    "pl": "Mam dla ciebie duży wybór."
+  },
+  {
+    "id": "363570282922047",
+    "key": "",
+    "en": "Let's do this.",
+    "pl": "Zaczynajmy."
+  },
+  {
+    "id": "363570282922048",
+    "key": "",
+    "en": "Great! Let's.",
+    "pl": "Świetnie! Zaczynajmy."
+  },
+  {
+    "id": "363570282922049",
+    "key": "",
+    "en": "See you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "363570282922050",
+    "key": "",
+    "en": "Take care, Rodion.",
+    "pl": "Trzymaj się, Rodion."
+  },
+  {
+    "id": "363570282922051",
+    "key": "",
+    "en": "Take care out there.",
+    "pl": "Uważaj na siebie."
+  },
+  {
+    "id": "363570282922052",
+    "key": "",
+    "en": "Be careful. See ya.",
+    "pl": "Ostrożnie. Do zobaczenia."
+  },
+  {
+    "id": "363570282922053",
+    "key": "",
+    "en": "Talk to you later.",
+    "pl": "Porozmawiamy później."
+  },
+  {
+    "id": "363570282922054",
+    "key": "",
+    "en": "Sounds easy enough.",
+    "pl": "Brzmi dość łatwo."
+  },
+  {
+    "id": "363570282922055",
+    "key": "",
+    "en": "Well, not so sure about that. But I'm glad you accepted.",
+    "pl": "Nie byłbym taki pewien. Ale cieszę się, że przyjąłeś."
+  },
+  {
+    "id": "363570282922056",
+    "key": "",
+    "en": "I need to think on it.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "363570282922057",
+    "key": "",
+    "en": "Sure, but please don't leave me hanging, here.",
+    "pl": "Jasne, tylko nie trzymaj mnie w niepewności."
+  },
+  {
+    "id": "363570282922058",
+    "key": "",
+    "en": "Do you have anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "363570282922059",
+    "key": "",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "363570282922060",
+    "key": "",
+    "en": "Let me know if something else comes up.",
+    "pl": "Daj znać, jak pojawi się coś jeszcze."
+  },
+  {
+    "id": "363570282922061",
+    "key": "",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "363570282922062",
+    "key": "",
+    "en": "I'm sure you will – just be careful out there.",
+    "pl": "Na pewno. Tylko uważaj na siebie."
+  },
+  {
+    "id": "363570282922063",
+    "key": "",
+    "en": "Need to think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "363570282922064",
+    "key": "",
+    "en": "Ok, I'm not in a rush.",
+    "pl": "Dobrze, nie spieszy mi się."
+  },
+  {
+    "id": "363570282922065",
+    "key": "",
+    "en": "Hmm. Anything else you need?",
+    "pl": "Hmm. Potrzebujesz czegoś jeszcze?"
+  },
+  {
+    "id": "363570282922066",
+    "key": "",
+    "en": "A present, huh...",
+    "pl": "Prezent, co..."
+  },
+  {
+    "id": "363570282922067",
+    "key": "",
+    "en": "Take care.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "363570282922068",
+    "key": "",
+    "en": "It's been hard getting hold of everything me and Vesna need. There's supplies I need in order to keep givin' you these sweet deals, hehe. Wanna help out?",
+    "pl": "Trudno zdobyć wszystko, czego potrzebujemy z Vesną. Brakuje mi zapasów, żeby dalej oferować ci te świetne okazje, hehe. Pomożesz?"
+  },
+  {
+    "id": "363570282922069",
+    "key": "",
+    "en": "Hardest thing about this job – the inconsistency. Suddenly my inventory's full of holes. What do you say to finding me some supplies?",
+    "pl": "Najtrudniejsza w tej pracy jest nieregularność dostaw. Nagle w zapasach same braki. Może zdobędziesz mi trochę zaopatrzenia?"
+  },
+  {
+    "id": "363570282922070",
+    "key": "",
+    "en": "You got all of it! Wouldn't expect less of ya. Here's your pay.",
+    "pl": "Masz wszystko! Nie spodziewałem się mniej. Oto zapłata."
+  },
+  {
+    "id": "363570282922071",
+    "key": "",
+    "en": "Nice, this is going to be a <i>huge</i> help for the week. Thank you!",
+    "pl": "Świetnie, to <i>ogromnie</i> pomoże w tym tygodniu. Dziękuję!"
+  },
+  {
+    "id": "363570282922072",
+    "key": "",
+    "en": "You did it – nice going, Rodion. Here you go.",
+    "pl": "Udało się! Dobra robota, Rodion. Proszę."
+  },
+  {
+    "id": "363570282922073",
+    "key": "",
+    "en": "I've been thinking about surprising my wife with a present of sorts. Problem is, with all this work I don't have time to go out and find one myself. Would you help?",
+    "pl": "Chcę sprawić żonie niespodziankę, jakiś prezent. Tylko przez tę pracę nie mam czasu sam czegoś poszukać. Pomożesz?"
+  },
+  {
+    "id": "363570282922074",
+    "key": "",
+    "en": "I don't always have my head on straight when negotiating... Passed on a couple items last week, been regretting it – could you find them for me?",
+    "pl": "Nie zawsze negocjuję z głową... W zeszłym tygodniu odpuściłem parę rzeczy i teraz żałuję. Znajdziesz mi je?"
+  },
+  {
+    "id": "363570282922075",
+    "key": "",
+    "en": "You found just what I needed. This'll make a great present!",
+    "pl": "Znalazłeś dokładnie to, czego chciałem. Będzie świetny prezent!"
+  },
+  {
+    "id": "363570282922076",
+    "key": "",
+    "en": "Nice... This'll make her happy...",
+    "pl": "Świetnie... Ucieszy się..."
+  },
+  {
+    "id": "363570282922077",
+    "key": "",
+    "en": "Oh, great! Yeah, this'll do just fine. Should I just give it to her like this?... Wrap it, maybe...",
+    "pl": "Och, znakomicie! Tak, nada się. Dać jej tak po prostu?... Może zapakować..."
+  },
+  {
+    "id": "363570282922078",
+    "key": "",
+    "en": "I don't have any requests right now, Rodion. Maybe tomorrow.",
+    "pl": "Teraz nie mam zleceń, Rodion. Może jutro."
+  },
+  {
+    "id": "363570282922079",
+    "key": "",
+    "en": "Got no other work for a scavenger right now, sorry.",
+    "pl": "Nie mam teraz innej roboty dla zbieracza, wybacz."
+  },
+  {
+    "id": "363570282922080",
+    "key": "",
+    "en": "I'm busy with other things – not really looking for a scavenger for the time being. My bad.",
+    "pl": "Mam inne sprawy. Na razie nie szukam zbieracza. Wybacz."
+  },
+  {
+    "id": "363570282922081",
+    "key": "",
+    "en": "What can I help you with?",
+    "pl": "W czym mogę pomóc?"
+  },
+  {
+    "id": "363570282922082",
+    "key": "",
+    "en": "Need a scavenger's help?",
+    "pl": "Potrzebujesz pomocy zbieracza?"
+  },
+  {
+    "id": "363570282922083",
+    "key": "",
+    "en": "Got some work?",
+    "pl": "Masz jakąś pracę?"
+  },
+  {
+    "id": "367014574063616",
+    "key": "13_Yefim_v1_Talk_ZE0R",
+    "en": "You know my name?",
+    "pl": "Znasz moje imię?"
+  },
+  {
+    "id": "367014590840832",
+    "key": "13_Yefim_v1_Talk_K3KL",
+    "en": "You shared that with us during one of Marko's get-togethers, long time ago. I was a bit faceless back then, I guess.",
+    "pl": "Powiedziałeś nam na jednym ze spotkań Marko, dawno temu. Wtedy chyba niczym się nie wyróżniałem."
+  },
+  {
+    "id": "367014590840833",
+    "key": "13_Yefim_v1_Talk_XNW4",
+    "en": "But how's that piece of armor I sold ya holding up? Don't see it on you... Don't tell me someone took it?",
+    "pl": "A jak trzyma się pancerz, który ci sprzedałem? Nie widzę go... Tylko nie mów, że ktoś go zabrał?"
+  },
+  {
+    "id": "367014590840834",
+    "key": "13_Yefim_v1_Talk_65C4",
+    "en": "Well ain't that a bummer. You're slower than you used to be, huh? Be careful out there.",
+    "pl": "No to kiepsko. Jesteś wolniejszy niż kiedyś, co? Uważaj na siebie."
+  },
+  {
+    "id": "367014590840835",
+    "key": "13_Yefim_v1_Talk_AHNK",
+    "en": "Why are you here?",
+    "pl": "Czemu tu jesteś?"
+  },
+  {
+    "id": "367014590840836",
+    "key": "13_Yefim_v1_Talk_4T0F",
+    "en": "This is my post, now. Decided to stop that vagrant shit. People from all corners of Zalesye should know I'm <i>right here</i> with some great deals.",
+    "pl": "Teraz to moje stoisko. Skończyłem z tą włóczęgą. Ludzie z całego Zalesye powinni wiedzieć, że <i>właśnie tutaj</i> mają świetne okazje."
+  },
+  {
+    "id": "367014590840837",
+    "key": "13_Yefim_v1_Talk_7R4Z",
+    "en": "I specialize in armor, after all. First thing to get nicked in a gunfight; I should make myself available.",
+    "pl": "W końcu specjalizuję się w pancerzach. Pierwsze obrywają w strzelaninie, więc powinienem być pod ręką."
+  },
+  {
+    "id": "367014590840838",
+    "key": "13_Yefim_v1_Talk_D6X8",
+    "en": "You know that too well, don't ya...",
+    "pl": "Aż za dobrze o tym wiesz, prawda..."
+  },
+  {
+    "id": "367014590840839",
+    "key": "13_Yefim_v1_Talk_T3AQ",
+    "en": "Well, I <i>did</i> get my armor stolen...",
+    "pl": "No tak, <i>ukradli</i> mi pancerz..."
+  },
+  {
+    "id": "367014590840840",
+    "key": "13_Yefim_v1_Talk_8GJB",
+    "en": "... You're slower than you used to be, huh? That sucks. Sold it to you just the other day...",
+    "pl": "... Jesteś wolniejszy niż kiedyś, co? Do dupy. Dopiero co ci go sprzedałem..."
+  },
+  {
+    "id": "367014590840841",
+    "key": "13_Yefim_v1_Talk_PIWQ",
+    "en": "Listen... Dear Ves – my wife Vesna, that is – has been helping me out lately. We've got a decent scheme going, and she's helping me expand my inventory, so...",
+    "pl": "Słuchaj... Kochana Ves, czyli moja żona Vesna, ostatnio pomaga. Dobrze nam idzie i dzięki niej powiększam asortyment, więc..."
+  },
+  {
+    "id": "367014590840842",
+    "key": "13_Yefim_v1_Talk_YHXO",
+    "en": "Shouldn't hurt to give you a bit of a discount. Just keep it on the hush-hush and all. Ok?",
+    "pl": "Mogę dać ci mały rabat. Tylko cicho sza, dobrze?"
+  },
+  {
+    "id": "367014590840843",
+    "key": "13_Yefim_v1_Talk_N6VB",
+    "en": "Vesna is your wife?",
+    "pl": "Vesna to twoja żona?"
+  },
+  {
+    "id": "367014590840844",
+    "key": "13_Yefim_v1_Talk_GAFM",
+    "en": "Yes! Have you met her? She's the best. We help each other out a lot.",
+    "pl": "Tak! Poznałeś ją? Jest najlepsza. Bardzo sobie pomagamy."
+  },
+  {
+    "id": "367014590840845",
+    "key": "13_Yefim_v1_Talk_GCU0",
+    "en": "Has its ups and downs, being together with someone all the time. I'm sure it would weird the hell out of a Vulture.",
+    "pl": "Ciągłe bycie z kimś ma wady i zalety. Sęp pewnie czułby się cholernie dziwnie."
+  },
+  {
+    "id": "367014590840846",
+    "key": "13_Yefim_v1_Talk_H0QW",
+    "en": "But ultimately... Can't imagine life in Zalesye without her. It's a strange feeling...",
+    "pl": "Ale ostatecznie... Nie wyobrażam sobie życia w Zalesye bez niej. Dziwne uczucie..."
+  },
+  {
+    "id": "367014590840847",
+    "key": "13_Yefim_v1_Talk_7VTK",
+    "en": "How did you and Vesna get together?",
+    "pl": "Jak zeszliście się z Vesną?"
+  },
+  {
+    "id": "367014590840848",
+    "key": "13_Yefim_v1_Talk_O6XH",
+    "en": "Well, I did some business with her, essentially. She needed fabrics that were a part of some armor I was reselling.",
+    "pl": "Właściwie przez interesy. Potrzebowała tkanin z pancerzy, które odsprzedawałem."
+  },
+  {
+    "id": "367014590840849",
+    "key": "13_Yefim_v1_Talk_FG7M",
+    "en": "I made her a good deal and asked her what it was all for. She mentioned she was a member of the Rada and was helping them out with some charity...",
+    "pl": "Dałem dobrą cenę i spytałem, do czego ich użyje. Powiedziała, że należy do Rady i pomaga w dobroczynności..."
+  },
+  {
+    "id": "367014590840850",
+    "key": "13_Yefim_v1_Talk_VQX5",
+    "en": "Seeing her eyes light up like that, at that moment... I was hooked.",
+    "pl": "Gdy zobaczyłem, jak rozbłysły jej oczy... Przepadłem."
+  },
+  {
+    "id": "367014590840851",
+    "key": "13_Yefim_v1_Talk_ESBV",
+    "en": "Why haven't you joined the Rada?",
+    "pl": "Czemu nie dołączyłeś do Rady?"
+  },
+  {
+    "id": "367014590840852",
+    "key": "13_Yefim_v1_Talk_UGSK",
+    "en": "Don't wanna join any one specific group. You do that as a merchant and next thing you know your entire business model is partial. Which means: fragile.",
+    "pl": "Nie chcę do jednej konkretnej grupy. Handlarz dołączy, a zaraz cały jego model działania staje się stronniczy. Czyli podatny na ciosy."
+  },
+  {
+    "id": "367014590840853",
+    "key": "13_Yefim_v1_Talk_K1CU",
+    "en": "I want everybody's business, doesn't matter if I like 'em. If I refuse someone service I am <i>no longer</i> a real merchant.",
+    "pl": "Chcę handlować ze wszystkimi, nieważne, czy ich lubię. Jeśli komuś odmówię, <i>przestaję</i> być prawdziwym handlarzem."
+  },
+  {
+    "id": "367014590840854",
+    "key": "13_Yefim_v1_Talk_J79S",
+    "en": "And then it'll just take a million years <i>more</i> for me to get rich and hop on a Great Train or whatever – escape this hellhole...",
+    "pl": "A wtedy wzbogacenie się i wskoczenie do Wielkiego Pociągu czy coś zajmie mi <i>kolejny</i> milion lat. Ucieczka z tego piekła..."
+  },
+  {
+    "id": "367014590840855",
+    "key": "13_Yefim_v1_Talk_MAJU",
+    "en": "You mentioned the \"Great Trains\"?",
+    "pl": "Wspomniałeś o „Wielkich Pociągach”?"
+  },
+  {
+    "id": "367014590840856",
+    "key": "13_Yefim_v1_Talk_79V0",
+    "en": "Well, it's a bit embarrassing, but... I really <i>do</i> believe they exist. I mean, this world is full of strangeness... Take the Mist, for example.",
+    "pl": "Trochę się wstydzę, ale... Naprawdę <i>wierzę,</i> że istnieją. Świat jest pełen dziwów. Weź choćby Mgłę."
+  },
+  {
+    "id": "367014590840857",
+    "key": "13_Yefim_v1_Talk_HETF",
+    "en": "I feel like the Mist has power. The Mist... Can do <i>anything.</i> It twists us in a magical and cruel way, as it wills.",
+    "pl": "Czuję, że Mgła ma moc. Mgła... Potrafi <i>wszystko.</i> Wypacza nas magicznie i okrutnie, wedle własnej woli."
+  },
+  {
+    "id": "367014590840858",
+    "key": "13_Yefim_v1_Talk_CL0R",
+    "en": "There <i>has</i> to be a force just like that, but... For good. Y'know? Some magic to counter the Mist – like the Great Trains, flying towards the East...",
+    "pl": "<i>Musi</i> istnieć podobna siła, ale... Dobra. Rozumiesz? Magia przeciwna Mgle. Jak Wielkie Pociągi lecące na wschód..."
+  },
+  {
+    "id": "367014590840859",
+    "key": "13_Yefim_v1_Talk_5MMX",
+    "en": "Want to know more about Great Trains.",
+    "pl": "Chcę wiedzieć więcej o Wielkich Pociągach."
+  },
+  {
+    "id": "367014590840860",
+    "key": "13_Yefim_v1_Talk_T9X8",
+    "en": "Interesting, isn't it? This whole story.",
+    "pl": "Ciekawa ta cała historia, prawda?"
+  },
+  {
+    "id": "367014590840861",
+    "key": "13_Yefim_v1_Talk_SAX1",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "367014590840862",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_HC9Q",
+    "en": "What are the Great Trains, exactly?",
+    "pl": "Czym dokładnie są Wielkie Pociągi?"
+  },
+  {
+    "id": "367014590840863",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_0BN7",
+    "en": "As a Vulture, I'm sure you've heard them. The clanky whistle of a ghost ride, emanating from disjointed tracks going all the way from the Dola to Zakrajev.",
+    "pl": "Jako Sęp na pewno je słyszałeś. Zgrzytliwy gwizd widmowego składu na porozrywanych torach ciągnących się od Doli do Zakrajeva."
+  },
+  {
+    "id": "367014590840864",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_2X6S",
+    "en": "A ghostly metallic rattle, moving impossibly through containers and bits of rail-less land. Like some great magical device, or maybe a product of pre-War science.",
+    "pl": "Widmowy metaliczny łoskot sunący niemożliwie przez kontenery i ziemię bez szyn. Jak wielkie magiczne urządzenie albo wytwór przedwojennej nauki."
+  },
+  {
+    "id": "367014590840865",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_KC0N",
+    "en": "Imagine that: mankind's last great achievement, still levitating a chosen few in its rusty carcass... Taking us East... Saving us like the Jesus that Acolytes talk about.",
+    "pl": "Wyobraź sobie: ostatnie wielkie osiągnięcie ludzkości, wciąż niosące wybrańców w zardzewiałym cielsku... Wiozące nas na wschód... Zbawiające jak Jezus, o którym mówią Akolici."
+  },
+  {
+    "id": "367014590840866",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_3WH5",
+    "en": "Taking us East... To Wyraj?",
+    "pl": "Wiozą nas na wschód... Do Wyraju?"
+  },
+  {
+    "id": "367014590840867",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_VRWI",
+    "en": "Indeed. A land with no Mist. Nothing in the world like it – at least not here, in Rhos.",
+    "pl": "Właśnie. Kraina bez Mgły. Nic podobnego nie ma na świecie. Przynajmniej tutaj, w Rhos."
+  },
+  {
+    "id": "367014590840868",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_WGG0",
+    "en": "You do realize that's impossible?",
+    "pl": "Wiesz, że to niemożliwe?"
+  },
+  {
+    "id": "367014590840869",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_462A",
+    "en": "So is a Mist that corrupts man and animal alike into beasts, yet here we are. That's just the amount of power held by History.",
+    "pl": "Tak jak Mgła zmieniająca ludzi i zwierzęta w bestie, a jednak tu jesteśmy. Taką moc ma Historia."
+  },
+  {
+    "id": "367014590840870",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_UWIY",
+    "en": "How do you get aboard a Great Train?",
+    "pl": "Jak wejść na pokład Wielkiego Pociągu?"
+  },
+  {
+    "id": "367014590840871",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_U6MJ",
+    "en": "Can only tell you my intuition: it's wealth. Becoming the richest motherfucker in Zalesye... Then leaving it all behind. Reminds me of the Church's teachings.",
+    "pl": "Mogę powiedzieć tylko, co podpowiada intuicja: bogactwo. Zostać najbogatszym skurwielem w Zalesye... Potem wszystko zostawić. Przypomina nauki Kościoła."
+  },
+  {
+    "id": "367014590840872",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_DIA4",
+    "en": "Maybe it's a dog-eat-dog world after all, and the rich shall triumph over the poor. Or maybe it's about letting go... Get to the top only to give it up and go to a mystical place where that doesn't even matter. Reminds me of the Church's teachings.",
+    "pl": "Może jednak człowiek człowiekowi wilkiem, a bogaci zatriumfują nad biednymi. A może chodzi o wyrzeczenie. Dotrzeć na szczyt, porzucić go i pójść do mistycznego miejsca, gdzie nic z tego nie ma znaczenia. Przypomina nauki Kościoła."
+  },
+  {
+    "id": "367014590840873",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_LFLA",
+    "en": "Maybe it's something to do with the rich being somehow chosen. Maybe it's a material necessity for a Great Train which is non-magical, simply a bit of machinery. Don't really know. Either way... Gotta bust your ass.",
+    "pl": "Może bogaci są jakoś wybrani. Może to materialna potrzeba Wielkiego Pociągu, który nie jest magiczny, tylko jest maszyną. Nie wiem. Tak czy inaczej... Trzeba zapieprzać."
+  },
+  {
+    "id": "367014590840874",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_PC7C",
+    "en": "Either way... Gotta bust your ass to get there, I suppose. Nothing's easy in this world.",
+    "pl": "Tak czy inaczej... Trzeba zapieprzać, żeby się tam dostać. Nic na tym świecie nie przychodzi łatwo."
+  },
+  {
+    "id": "367014590840875",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_ALBC",
+    "en": "Have you ever seen one?",
+    "pl": "Widziałeś kiedyś taki?"
+  },
+  {
+    "id": "367014590840876",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_YW62",
+    "en": "I think I have, yes. Not <i>sure,</i> but... Saw its silhouette when I went the furthest into the Dola I ever have.",
+    "pl": "Chyba tak. Nie jestem <i>pewien,</i> ale... Widziałem jego sylwetkę, kiedy zapuściłem się najdalej w Dolę."
+  },
+  {
+    "id": "367014590840877",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_NZV4",
+    "en": "I've seen its silhouette, when I went the furthest into the Dola I ever have. Heard its sounds, its whistling... The rattle of some invisible railroad.",
+    "pl": "Widziałem jego sylwetkę, kiedy zapuściłem się najdalej w Dolę. Słyszałem odgłosy, gwizdy... Łoskot niewidzialnej kolei."
+  },
+  {
+    "id": "367014590840878",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_1Y5C",
+    "en": "I've had the wagon's shadows in the corner of my eye. Even felt its inside walls supporting my back, shaking gently, a warm blanket over my knees...",
+    "pl": "Dostrzegałem kątem oka cienie wagonu. Czułem nawet jego ściany pod plecami, lekkie drżenie, ciepły koc na kolanach..."
+  },
+  {
+    "id": "367014590840879",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_GDS2",
+    "en": "Before you think I'm crazy, friend – I know for sure the <i>sounds</i> were real. That, at least. Too constant for me to doubt them. And I'm <i>sure</i> you've heard them too.",
+    "pl": "Zanim uznasz mnie za szalonego, przyjacielu: <i>dźwięki</i> na pewno były prawdziwe. Przynajmniej tyle. Zbyt stałe, by wątpić. I jestem <i>pewien,</i> że też je słyszałeś."
+  },
+  {
+    "id": "367014590840880",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_W4GY",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "367014590840881",
+    "key": "13_Yefim_v1_Talk_About_GreatTrains_6VAG",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "367014590840882",
+    "key": "13_Yefim_v1_GetWelcomingMessage_0ORT",
+    "en": "Rodion. Looking not too shabby. Got new merch, and a special gig for you.",
+    "pl": "Rodion. Nieźle wyglądasz. Mam nowy towar i szczególne zlecenie."
+  },
+  {
+    "id": "367014590840883",
+    "key": "13_Yefim_v1_GetWelcomingMessage_0DC3",
+    "en": "Hey, Rodion. Looking to buy?",
+    "pl": "Hej, Rodion. Chcesz coś kupić?"
+  },
+  {
+    "id": "367014590840884",
+    "key": "13_Yefim_v1_GetWelcomingMessage_W5RS",
+    "en": "How's it going?",
+    "pl": "Jak leci?"
+  },
+  {
+    "id": "367014590840885",
+    "key": "13_Yefim_v1_GetWelcomingMessage_HEYS",
+    "en": "Hey there!",
+    "pl": "Cześć!"
+  },
+  {
+    "id": "367014590840886",
+    "key": "13_Yefim_v1_GetTalkMessage_AAC3",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "367014590840887",
+    "key": "13_Yefim_v1_GetTalkMessage_HOVN",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "367014590840888",
+    "key": "13_Yefim_v1_GetTalkMessage_LMWX",
+    "en": "Got something to talk about.",
+    "pl": "Mam sprawę do omówienia."
+  },
+  {
+    "id": "367014590840889",
+    "key": "13_Yefim_v1_GetTradeMessage_HR8G",
+    "en": "Want to see your wares.",
+    "pl": "Chcę zobaczyć twój towar."
+  },
+  {
+    "id": "367014590840890",
+    "key": "13_Yefim_v1_GetTradeMessage_PC88",
+    "en": "How about we trade?",
+    "pl": "Może pohandlujemy?"
+  },
+  {
+    "id": "367014590840891",
+    "key": "13_Yefim_v1_GetTradeMessage_ZCZH",
+    "en": "Have some stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "367014590840892",
+    "key": "13_Yefim_v1_Trade_3Z6J",
+    "en": "Let's get into it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "367014590840893",
+    "key": "13_Yefim_v1_Trade_JJ2F",
+    "en": "Time to trade, then.",
+    "pl": "Pora na handel."
+  },
+  {
+    "id": "367014590840894",
+    "key": "13_Yefim_v1_Trade_5F8H",
+    "en": "Got plenty in stock for you.",
+    "pl": "Mam dla ciebie duży wybór."
+  },
+  {
+    "id": "367014590840895",
+    "key": "13_Yefim_v1_Trade_E0IC",
+    "en": "Let's do this.",
+    "pl": "Zaczynajmy."
+  },
+  {
+    "id": "367014590840896",
+    "key": "13_Yefim_v1_Trade_X1LO",
+    "en": "Great! Let's.",
+    "pl": "Świetnie! Zaczynajmy."
+  },
+  {
+    "id": "367014590840897",
+    "key": "13_Yefim_v1_Leave_7OAJ",
+    "en": "See you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "367014590840898",
+    "key": "13_Yefim_v1_Leave_MTV0",
+    "en": "Take care, Rodion.",
+    "pl": "Trzymaj się, Rodion."
+  },
+  {
+    "id": "367014590840899",
+    "key": "13_Yefim_v1_Leave_CXF1",
+    "en": "Take care out there.",
+    "pl": "Uważaj na siebie."
+  },
+  {
+    "id": "367014590840900",
+    "key": "13_Yefim_v1_Leave_YSBE",
+    "en": "Be careful. See ya.",
+    "pl": "Ostrożnie. Do zobaczenia."
+  },
+  {
+    "id": "367014590840901",
+    "key": "13_Yefim_v1_Leave_9YPD",
+    "en": "Talk to you later.",
+    "pl": "Porozmawiamy później."
+  },
+  {
+    "id": "367014590840902",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_8O4Z",
+    "en": "Sounds easy enough.",
+    "pl": "Brzmi dość łatwo."
+  },
+  {
+    "id": "367014590840903",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_4KIK",
+    "en": "Well, not so sure about that. But I'm glad you accepted.",
+    "pl": "Nie byłbym taki pewien. Ale cieszę się, że przyjąłeś."
+  },
+  {
+    "id": "367014590840904",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_YJD9",
+    "en": "I need to think on it.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "367014590840905",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_VY83",
+    "en": "Sure, but please don't leave me hanging, here.",
+    "pl": "Jasne, tylko nie trzymaj mnie w niepewności."
+  },
+  {
+    "id": "367014590840906",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_442I",
+    "en": "Do you have anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "367014590840907",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Complete_5YWE",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "367014590840908",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Complete_TD2X",
+    "en": "Let me know if something else comes up.",
+    "pl": "Daj znać, jak pojawi się coś jeszcze."
+  },
+  {
+    "id": "367014590840909",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_D47B",
+    "en": "I'll find what you need.",
+    "pl": "Znajdę, czego potrzebujesz."
+  },
+  {
+    "id": "367014590840910",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_YQKV",
+    "en": "I'm sure you will – just be careful out there.",
+    "pl": "Na pewno. Tylko uważaj na siebie."
+  },
+  {
+    "id": "367014590840911",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_C31I",
+    "en": "Need to think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "367014590840912",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_0ERD",
+    "en": "Ok, I'm not in a rush.",
+    "pl": "Dobrze, nie spieszy mi się."
+  },
+  {
+    "id": "367014590840913",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_PH58",
+    "en": "Hmm. Anything else you need?",
+    "pl": "Hmm. Potrzebujesz czegoś jeszcze?"
+  },
+  {
+    "id": "367014590840914",
+    "key": "13_Yefim_Jobs_v1_Collection_Complete_0TIO",
+    "en": "A present, huh...",
+    "pl": "Prezent, co..."
+  },
+  {
+    "id": "367014590840915",
+    "key": "13_Yefim_Jobs_v1_Collection_Complete_JJTR",
+    "en": "Take care.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "367014590840916",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_XGQF",
+    "en": "It's been hard getting hold of everything me and Vesna need. There's supplies I need in order to keep givin' you these sweet deals, hehe. Wanna help out?",
+    "pl": "Trudno zdobyć wszystko, czego potrzebujemy z Vesną. Brakuje mi zapasów, żeby dalej oferować ci te świetne okazje, hehe. Pomożesz?"
+  },
+  {
+    "id": "367014590840917",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Show_4EFL",
+    "en": "Hardest thing about this job – the inconsistency. Suddenly my inventory's full of holes. What do you say to finding me some supplies?",
+    "pl": "Najtrudniejsza w tej pracy jest nieregularność dostaw. Nagle w zapasach same braki. Może zdobędziesz mi trochę zaopatrzenia?"
+  },
+  {
+    "id": "367014590840918",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Complete_H3HT",
+    "en": "You got all of it! Wouldn't expect less of ya. Here's your pay.",
+    "pl": "Masz wszystko! Nie spodziewałem się mniej. Oto zapłata."
+  },
+  {
+    "id": "367014590840919",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Complete_VGDQ",
+    "en": "Nice, this is going to be a <i>huge</i> help for the week. Thank you!",
+    "pl": "Świetnie, to <i>ogromnie</i> pomoże w tym tygodniu. Dziękuję!"
+  },
+  {
+    "id": "367014590840920",
+    "key": "13_Yefim_Jobs_v1_SupplyRun_Complete_SYSG",
+    "en": "You did it – nice going, Rodion. Here you go.",
+    "pl": "Udało się! Dobra robota, Rodion. Proszę."
+  },
+  {
+    "id": "367014590840921",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_34AK",
+    "en": "I've been thinking about surprising my wife with a present of sorts. Problem is, with all this work I don't have time to go out and find one myself. Would you help?",
+    "pl": "Chcę sprawić żonie niespodziankę, jakiś prezent. Tylko przez tę pracę nie mam czasu sam czegoś poszukać. Pomożesz?"
+  },
+  {
+    "id": "367014590840922",
+    "key": "13_Yefim_Jobs_v1_Collection_Show_YGHO",
+    "en": "I don't always have my head on straight when negotiating... Passed on a couple items last week, been regretting it – could you find them for me?",
+    "pl": "Nie zawsze negocjuję z głową... W zeszłym tygodniu odpuściłem parę rzeczy i teraz żałuję. Znajdziesz mi je?"
+  },
+  {
+    "id": "367014590840923",
+    "key": "13_Yefim_Jobs_v1_Collection_Complete_PGXO",
+    "en": "You found just what I needed. This'll make a great present!",
+    "pl": "Znalazłeś dokładnie to, czego chciałem. Będzie świetny prezent!"
+  },
+  {
+    "id": "367014590840924",
+    "key": "13_Yefim_Jobs_v1_Collection_Complete_BW3K",
+    "en": "Nice... This'll make her happy...",
+    "pl": "Świetnie... Ucieszy się..."
+  },
+  {
+    "id": "367014590840925",
+    "key": "13_Yefim_Jobs_v1_Collection_Complete_HJ95",
+    "en": "Oh, great! Yeah, this'll do just fine. Should I just give it to her like this?... Wrap it, maybe...",
+    "pl": "Och, znakomicie! Tak, nada się. Dać jej tak po prostu?... Może zapakować..."
+  },
+  {
+    "id": "367014590840926",
+    "key": "13_Yefim_Jobs_v1_NoQuestsAvailable_ZPVK",
+    "en": "I don't have any requests right now, Rodion. Maybe tomorrow.",
+    "pl": "Teraz nie mam zleceń, Rodion. Może jutro."
+  },
+  {
+    "id": "367014590840927",
+    "key": "13_Yefim_Jobs_v1_NoQuestsAvailable_D4LG",
+    "en": "Got no other work for a scavenger right now, sorry.",
+    "pl": "Nie mam teraz innej roboty dla zbieracza, wybacz."
+  },
+  {
+    "id": "367014590840928",
+    "key": "13_Yefim_Jobs_v1_NoQuestsAvailable_AQFF",
+    "en": "I'm busy with other things – not really looking for a scavenger for the time being. My bad.",
+    "pl": "Mam inne sprawy. Na razie nie szukam zbieracza. Wybacz."
+  },
+  {
+    "id": "367014590840929",
+    "key": "13_Yefim_Jobs_v1_GetJobsMessage_6QYU",
+    "en": "What can I help you with?",
+    "pl": "W czym mogę pomóc?"
+  },
+  {
+    "id": "367014590840930",
+    "key": "13_Yefim_Jobs_v1_GetJobsMessage_9OKH",
+    "en": "Need a scavenger's help?",
+    "pl": "Potrzebujesz pomocy zbieracza?"
+  },
+  {
+    "id": "367014590840931",
+    "key": "13_Yefim_Jobs_v1_GetJobsMessage_EVWF",
+    "en": "Got some work?",
+    "pl": "Masz jakąś pracę?"
+  },
+  {
+    "id": "107258609326825472",
+    "key": "13_Yefim_v1_BetterInfantry_55AR",
+    "en": "Still not doing it.",
+    "pl": "Nadal odmawiam."
+  },
+  {
+    "id": "107258609335214080",
+    "key": "13_Yefim_v1_BetterInfantry_7ISW",
+    "en": "Well, I trust you, so here goes: Palatines found an old military barracks in a bunker down Southeast, <i>full</i> of armor and clothing... And me and my dear Ves <i>desperately</i> need the extra inventory.",
+    "pl": "Ufam ci, więc powiem: Palatyni znaleźli stare koszary w bunkrze na południowym wschodzie. <i>Pełno</i> pancerzy i ubrań... A mnie i kochanej Ves <i>rozpaczliwie</i> brakuje towaru."
+  },
+  {
+    "id": "107258609335214081",
+    "key": "13_Yefim_v1_BetterInfantry_CI9C",
+    "en": "Ok, but the reward had better be worth it.",
+    "pl": "Dobra, ale nagroda musi być tego warta."
+  },
+  {
+    "id": "107258609335214082",
+    "key": "13_Yefim_v1_BetterInfantry_FN5Y",
+    "en": "They've just sent a detachment nearby to keep the bunker \"safe.\" Probably not the friendliest bunch, but I can't think of how to get there without their key. Hell, don't even exactly know where they <i>are.</i>",
+    "pl": "Wysłali w pobliże oddział, żeby „pilnował” bunkra. Pewnie niezbyt przyjazny, ale nie wiem, jak wejść bez klucza. Cholera, nawet nie wiem dokładnie, gdzie <i>są.</i>"
+  },
+  {
+    "id": "107258609335214083",
+    "key": "13_Yefim_v1_BetterInfantry_MZIV",
+    "en": "That's a shame, friend. You'll have to contend with my dwindling inventory, right after the Palatines failed to protect you and your valuable gear...",
+    "pl": "Szkoda, przyjacielu. Musisz zadowolić się moim topniejącym asortymentem. Akurat po tym, jak Palatyni nie ochronili ciebie i twojego cennego sprzętu..."
+  },
+  {
+    "id": "107258609335214084",
+    "key": "13_Yefim_v1_BetterInfantry_NT5L",
+    "en": "I know it's a lot to ask, but I want that bunker found, breached and cleared. Can't do any of that on my own, gotta work all day. So... Will you help?",
+    "pl": "Wiem, że proszę o wiele, ale chcę, żebyś znalazł bunkier, dostał się do środka i go oczyścił. Sam nie dam rady, pracuję całymi dniami. Więc... Pomożesz?"
+  },
+  {
+    "id": "107258609335214085",
+    "key": "13_Yefim_v1_BetterInfantry_QTKM",
+    "en": "Sounds too involved.",
+    "pl": "Brzmi jak duże przedsięwzięcie."
+  },
+  {
+    "id": "107258609335214086",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_0E40",
+    "en": "I don't doubt that for a second; hopefully you'll find the whole thing was worth it when you're straddling around with a nice piece of armor a few weeks from now.",
+    "pl": "Ani przez chwilę nie wątpię. Obyś za kilka tygodni, paradując w dobrym pancerzu, uznał, że było warto."
+  },
+  {
+    "id": "107258609335214087",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_1K30",
+    "en": "Palatines won't be happy about this.",
+    "pl": "Palatyni nie będą zadowoleni."
+  },
+  {
+    "id": "107258609335214088",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_53WL",
+    "en": "Oh, err, of course. You were more <i>directly involved</i> and all. But Vultures have their own ways of getting back on someone's good side, no?",
+    "pl": "Och, yyy, oczywiście. Byłeś bardziej <i>bezpośrednio zaangażowany.</i> Ale Sępy mają sposoby na powrót do łask, prawda?"
+  },
+  {
+    "id": "107258609335214089",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_BHWC",
+    "en": "Soon they'll be buying back some of that equipment from me without even realizing it!",
+    "pl": "Wkrótce sami odkupią ode mnie część sprzętu i nawet się nie zorientują!"
+  },
+  {
+    "id": "107258609335214090",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_L9FE",
+    "en": "Anyway, here's what I owe ya. Do take care of yourself and come back later for some extra goodies in the shop.",
+    "pl": "W każdym razie oto, co ci wiszę. Dbaj o siebie i zajrzyj później po nowe cudeńka do sklepu."
+  },
+  {
+    "id": "107258609335214091",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_LESA",
+    "en": "Alone? No, never <i>alone.</i> I have some contacts who can help with those runs. There's more investments to make before this venture pays off.",
+    "pl": "Sam? Nie, nigdy <i>sam.</i> Mam kontakty, które pomogą z transportem. Jeszcze trzeba zainwestować, zanim interes się zwróci."
+  },
+  {
+    "id": "107258609335214092",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_LMN5",
+    "en": "Heard you've been making moves out there, so I knew it was just a matter of time! Most other Vultures aren't resourceful enough to pull this off, y'know. Do look forward to some discounts in the future!",
+    "pl": "Słyszałem, że działasz, więc wiedziałem, że to tylko kwestia czasu! Większość Sępów nie jest dość zaradna, żeby to załatwić. Możesz liczyć na przyszłe rabaty!"
+  },
+  {
+    "id": "107258609335214093",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_N7GF",
+    "en": "That can only happen if I get paid.",
+    "pl": "Tylko jeśli dostanę zapłatę."
+  },
+  {
+    "id": "107258609335214094",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_RC0A",
+    "en": "This was exhausting.",
+    "pl": "To było wyczerpujące."
+  },
+  {
+    "id": "107258609335214095",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_RIYN",
+    "en": "Oh, right. Here you go, Rodion. And come back some other time to check out the new inventory, alright?",
+    "pl": "Ach, racja. Proszę, Rodion. Wpadnij kiedyś obejrzeć nowy towar, dobrze?"
+  },
+  {
+    "id": "107258609335214096",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_T3HS",
+    "en": "Worried about myself, mostly.",
+    "pl": "Martwię się głównie o siebie."
+  },
+  {
+    "id": "107258609335214097",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_XWSJ",
+    "en": "Oh, I'll be fine; got close friends in their ranks. 'Sides, right now they're too concerned about the Gunners to care about some bunker so far away...",
+    "pl": "Och, mnie nic nie będzie. Mam bliskich przyjaciół w ich szeregach. Zresztą teraz za bardzo martwią się Strzelcami, żeby przejmować się odległym bunkrem..."
+  },
+  {
+    "id": "107258609335214098",
+    "key": "13_Yefim_v1_BetterInfantry_QuestCompleted_Y0S3",
+    "en": "Will you be alright sneaking into that bunker alone?",
+    "pl": "Poradzisz sobie z samodzielnym zakradaniem do bunkra?"
+  },
+  {
+    "id": "107258609335214099",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_3J8T",
+    "en": "Asking nicely for the key won't cut it, unless someone high up in their hierarchy owes you a favor or something.",
+    "pl": "Grzeczna prośba o klucz nie wystarczy. Chyba że ktoś wysoko postawiony jest ci winien przysługę."
+  },
+  {
+    "id": "107258609335214100",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_5QTW",
+    "en": "Haven't seen the door myself, so I don't know if it can be \"breached,\" per se. Bet a Mechanist would know, though.",
+    "pl": "Sam nie widziałem drzwi, więc nie wiem, czy da się je „sforsować”. Ale Mechanista pewnie będzie wiedział."
+  },
+  {
+    "id": "107258609335214101",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_D2RY",
+    "en": "Any ideas on how to breach the bunker?",
+    "pl": "Masz pomysł, jak dostać się do bunkra?"
+  },
+  {
+    "id": "107258609335214102",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_FMUW",
+    "en": "I'll get to it, then.",
+    "pl": "To się tym zajmę."
+  },
+  {
+    "id": "107258609335214103",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_IN8N",
+    "en": "I'll be waiting for your report then. Do take care and uh, keep all this between us, would you.",
+    "pl": "Będę czekał na raport. Uważaj i, yyy, niech to zostanie między nami, dobrze?"
+  },
+  {
+    "id": "107258609335214104",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_MFRV",
+    "en": "My source says you'll find that bunker going down and East from here. The soldier camp should be around there, somewhere safe, good vantage point...",
+    "pl": "Moje źródło mówi, że bunkier znajdziesz na południowy wschód stąd. Obóz żołnierzy powinien być w pobliżu, gdzieś bezpiecznie, z dobrym widokiem..."
+  },
+  {
+    "id": "107258609335214105",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_OEU0",
+    "en": "Going against Palatines? Thought everyone was a friend.",
+    "pl": "Przeciw Palatynom? Podobno każdy jest przyjacielem."
+  },
+  {
+    "id": "107258609335214106",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_OFYB",
+    "en": "What are the steps here, exactly?",
+    "pl": "Co dokładnie mam zrobić?"
+  },
+  {
+    "id": "107258609335214107",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_PAFT",
+    "en": "I need the locations of both the bunker and the camp – gotta know where it is so I can avoid it when it's time to get the goods. It has to be clear of Mutants, too.",
+    "pl": "Potrzebuję położenia bunkra i obozu. Muszę wiedzieć, gdzie ten drugi jest, żeby go ominąć przy odbiorze towaru. W bunkrze nie może też zostać żaden Mutant."
+  },
+  {
+    "id": "107258609339408384",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_VJCN",
+    "en": "Other than that, you know the drill, Rodion. I'm well aware of how Vultures operate: they either go unnoticed or cause a huge ruckus in their wake. No middle ground.",
+    "pl": "Poza tym wiesz, co robić, Rodion. Znam sposoby Sępów: albo przechodzą niezauważeni, albo zostawiają za sobą wielki chaos. Nic pomiędzy."
+  },
+  {
+    "id": "107258609339408385",
+    "key": "13_Yefim_v1_BetterInfantry_QuestHints_W9NB",
+    "en": "Hey, having friends in the Palatines is how I got this tip in the first place. But I still gotta get my hands dirty sometimes, that's just a part of the job.",
+    "pl": "Hej, to dzięki znajomym Palatynom mam ten cynk. Ale czasem i tak muszę ubrudzić ręce. Taka praca."
+  },
+  {
+    "id": "107258609339408386",
+    "key": "13_Yefim_v1_BetterInfantry_R6G1",
+    "en": "Oh, it definitely is. Again, I realize I'm asking a lot. Wouldn't be offering the gig if I didn't think we <i>both</i> stand to gain from it, though.",
+    "pl": "Och, zdecydowanie. Wiem, że proszę o dużo. Nie oferowałbym zlecenia, gdybym nie uważał, że <i>obaj</i> skorzystamy."
+  },
+  {
+    "id": "107258609339408387",
+    "key": "13_Yefim_v1_BetterInfantry_RFQ5",
+    "en": "Better be a lifetime discount after all that work...",
+    "pl": "Po tej robocie rabat powinien być dożywotni..."
+  },
+  {
+    "id": "107258609339408388",
+    "key": "13_Yefim_v1_BetterInfantry_VF4L",
+    "en": "Oh, it will be. Both myself and Ves will make sure to share some of the goods with you, plus some pay.",
+    "pl": "Och, będzie warto. Ja i Ves podzielimy się towarem, do tego zapłata."
+  },
+  {
+    "id": "107258609339408389",
+    "key": "13_Yefim_v1_BetterInfantry_XOJG",
+    "en": "I'll take that as a yes! As for a <i>lifetime</i> discount, no promises. But there'll be <i>something,</i> for sure.",
+    "pl": "Uznaję to za zgodę! Co do <i>dożywotniego</i> rabatu, nic nie obiecuję. Ale <i>coś</i> będzie na pewno."
+  },
+  {
+    "id": "107258609339408390",
+    "key": "13_Yefim_v1_BetterInfantryCompletedStart_2562",
+    "en": "Saw about that bunker for you.",
+    "pl": "Zająłem się tym bunkrem."
+  },
+  {
+    "id": "107258609339408391",
+    "key": "13_Yefim_v1_BetterInfantryCompletedStart_7508",
+    "en": "It's done, Yefim.",
+    "pl": "Gotowe, Yefim."
+  },
+  {
+    "id": "107258609339408392",
+    "key": "13_Yefim_v1_BetterInfantryCompletedStart_RO1W",
+    "en": "You should head to that bunker soon.",
+    "pl": "Powinieneś niedługo ruszyć do bunkra."
+  },
+  {
+    "id": "107258609339408393",
+    "key": "13_Yefim_v1_BetterInfantryStart_15FC",
+    "en": "Need a Vulture for something riskier?",
+    "pl": "Potrzebujesz Sępa do czegoś ryzykowniejszego?"
+  },
+  {
+    "id": "107258609339408394",
+    "key": "13_Yefim_v1_BetterInfantryStart_2OFU",
+    "en": "Got a special request for me?",
+    "pl": "Masz dla mnie szczególne zlecenie?"
+  },
+  {
+    "id": "107258609339408395",
+    "key": "13_Yefim_v1_BetterInfantryStart_XDX3",
+    "en": "Any special gigs for me?",
+    "pl": "Jakieś wyjątkowe fuchy dla mnie?"
+  },
+  {
+    "id": "107258609339408396",
+    "key": "13_Yefim_v1_GetRandomLeaveMessage_7OAJ",
+    "en": "See you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "107258609339408397",
+    "key": "13_Yefim_v1_GetRandomLeaveMessage_9YPD",
+    "en": "Talk to you later.",
+    "pl": "Porozmawiamy później."
+  },
+  {
+    "id": "107258609339408398",
+    "key": "13_Yefim_v1_GetRandomLeaveMessage_CXF1",
+    "en": "Take care out there.",
+    "pl": "Uważaj na siebie."
+  },
+  {
+    "id": "107258609339408399",
+    "key": "13_Yefim_v1_GetRandomLeaveMessage_MTV0",
+    "en": "Take care, Rodion.",
+    "pl": "Trzymaj się, Rodion."
+  },
+  {
+    "id": "107258609339408400",
+    "key": "13_Yefim_v1_GetRandomLeaveMessage_YSBE",
+    "en": "Be careful. See ya.",
+    "pl": "Ostrożnie. Do zobaczenia."
+  },
+  {
+    "id": "107258609339408401",
+    "key": "13_Yefim_v1_GetRandomTalkStart_AAC3",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "107258609339408402",
+    "key": "13_Yefim_v1_GetRandomTalkStart_HOVN",
+    "en": "Let's talk a bit.",
+    "pl": "Porozmawiajmy chwilę."
+  },
+  {
+    "id": "107258609339408403",
+    "key": "13_Yefim_v1_GetRandomTalkStart_LMWX",
+    "en": "Got something to talk about.",
+    "pl": "Mam sprawę do omówienia."
+  },
+  {
+    "id": "107258609339408404",
+    "key": "13_Yefim_v1_GetRandomTradeMessage_3Z6J",
+    "en": "Let's get into it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "107258609339408405",
+    "key": "13_Yefim_v1_GetRandomTradeMessage_5F8H",
+    "en": "Got plenty in stock for you.",
+    "pl": "Mam dla ciebie duży wybór."
+  },
+  {
+    "id": "107258609339408406",
+    "key": "13_Yefim_v1_GetRandomTradeMessage_E0IC",
+    "en": "Let's do this.",
+    "pl": "Zaczynajmy."
+  },
+  {
+    "id": "107258609339408407",
+    "key": "13_Yefim_v1_GetRandomTradeMessage_JJ2F",
+    "en": "Time to trade, then.",
+    "pl": "Pora na handel."
+  },
+  {
+    "id": "107258609339408408",
+    "key": "13_Yefim_v1_GetRandomTradeStart_HR8G",
+    "en": "Want to see your wares.",
+    "pl": "Chcę zobaczyć twój towar."
+  },
+  {
+    "id": "107258609339408409",
+    "key": "13_Yefim_v1_GetRandomTradeStart_PC88",
+    "en": "How about we trade?",
+    "pl": "Może pohandlujemy?"
+  },
+  {
+    "id": "107258609339408410",
+    "key": "13_Yefim_v1_GetRandomTradeStart_ZCZH",
+    "en": "Have some stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "121007753677934592",
+    "key": "13_Yefim_Jobs_v1_FindMissingItemStart_C5HR",
+    "en": "I have to pick up a note with some important info, but I can't be seen doing it. Take care of that for me, will you.",
+    "pl": "Muszę odebrać notatkę z ważnymi informacjami, ale nikt nie może mnie przy tym widzieć. Załatwisz to dla mnie?"
+  },
+  {
+    "id": "121007753732460544",
+    "key": "13_Yefim_Jobs_v1_FindMissingItemStart_E9QL",
+    "en": "Hey friend, how about picking something up for me? It's just a letter I need, but I can't leave the shop, y'know. Easy peasy work.",
+    "pl": "Hej, przyjacielu, może coś dla mnie odbierzesz? Tylko list, ale nie mogę wyjść ze sklepu. Bułka z masłem."
+  },
+  {
+    "id": "121007753732460545",
+    "key": "13_Yefim_Jobs_v1_FindMissingItemComplete_T4MD",
+    "en": "That's the one. Appreciate it, buddy. Could've been more discreet about it, though.",
+    "pl": "To ten. Dzięki, kumplu. Choć mogłeś być bardziej dyskretny."
+  },
+  {
+    "id": "121007753732460546",
+    "key": "13_Yefim_Jobs_v1_FindMissingItemComplete_G7XA",
+    "en": "Nicely done, friend. You didn't read it, did you? Hehe. Please keep this between us.",
+    "pl": "Dobra robota, przyjacielu. Nie czytałeś, prawda? Hehe. Zachowaj to dla siebie."
+  },
+  {
+    "id": "121007753732460547",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Show_K4WP",
+    "en": "Sounds simple enough.",
+    "pl": "Brzmi dość prosto."
+  },
+  {
+    "id": "121007753732460548",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Show_M8RC",
+    "en": "Oh, it is, it is.",
+    "pl": "Och, jest proste, jest."
+  },
+  {
+    "id": "121007753732460549",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Show_P2YJ",
+    "en": "I need to think on it.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "121007753732460550",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Show_S6HB",
+    "en": "Hmm, don't make trouble for me, now.",
+    "pl": "Hmm, nie rób mi kłopotów."
+  },
+  {
+    "id": "121007753732460551",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Show_V1QT",
+    "en": "Do you have anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "121007753732460552",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Complete_A7DK",
+    "en": "Don't understand why all this secrecy.",
+    "pl": "Nie rozumiem, po co ta tajemnica."
+  },
+  {
+    "id": "121007753732460553",
+    "key": "13_Yefim_Jobs_v1_FindMissingItem_Complete_N3ZL",
+    "en": "Don't wanna get involved with your business.",
+    "pl": "Nie chcę mieszać się w twoje interesy."
+  },
+  {
+    "id": "121045019938951168",
+    "key": "13_Yefim_v1_GetRandomTradeMessage_X1LO",
+    "en": "Great! Let's.",
+    "pl": "Świetnie! Zaczynajmy."
+  }
+]

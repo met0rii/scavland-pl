@@ -1,0 +1,557 @@
+[
+  {
+    "id": "2933496684544",
+    "key": "24_Gavron_v1_Talk_MGI8",
+    "en": "You get plenty of work?"
+  },
+  {
+    "id": "2933505073152",
+    "key": "24_Gavron_v1_Talk_AZE3",
+    "en": "Easy work. Many Vulture body. Gavron no search, see corpse all over."
+  },
+  {
+    "id": "2933505073153",
+    "key": "24_Gavron_v1_Talk_U9R6",
+    "en": "Scav friends?"
+  },
+  {
+    "id": "2933505073154",
+    "key": "24_Gavron_v1_Talk_8DPX",
+    "en": "We don't have friends. But colleagues... Yeah."
+  },
+  {
+    "id": "2933505073155",
+    "key": "24_Gavron_v1_Talk_4N6Y",
+    "en": "Mudlark together, no die. You... Should care more \"colleagues\"."
+  },
+  {
+    "id": "2933505073156",
+    "key": "24_Gavron_v1_Talk_E93F",
+    "en": "Maybe a couple of them were. Worked together sometimes."
+  },
+  {
+    "id": "2933505073157",
+    "key": "24_Gavron_v1_Talk_WKPD",
+    "en": "Hmm. Well. Mist will unite. All must do wait."
+  },
+  {
+    "id": "2933505073158",
+    "key": "24_Gavron_v1_Talk_UF9T",
+    "en": "You seem like you can hold a conversation."
+  },
+  {
+    "id": "2933505073159",
+    "key": "24_Gavron_v1_Talk_T14O",
+    "en": "Old man... New Mudlark. Was Commonfolk before. No go back. With Mudlark, with Mist, has life. Goal."
+  },
+  {
+    "id": "2933505073160",
+    "key": "24_Gavron_v1_Talk_KEJO",
+    "en": "Everyone else blind. You be corpse soon... But not me. Not us."
+  },
+  {
+    "id": "2933505073161",
+    "key": "24_Gavron_v1_Talk_TU6C",
+    "en": "You said something about the Gunners?"
+  },
+  {
+    "id": "2933505073162",
+    "key": "24_Gavron_v1_Talk_S34O",
+    "en": "Gunner make trade. Mudlark... No good for sale. No talk well. But Gunner yes. Distr... D... <i>Distribution.</i>"
+  },
+  {
+    "id": "2933505073163",
+    "key": "24_Gavron_v1_Talk_HN07",
+    "en": "Ah... Ah... D-thing, give drug all Zalesye. Good for us... Good for them..."
+  },
+  {
+    "id": "2933505073164",
+    "key": "24_Gavron_v1_Talk_ZF66",
+    "en": "About the Gunners again..."
+  },
+  {
+    "id": "2933505073165",
+    "key": "24_Gavron_v1_Talk_I9A3",
+    "en": "What need?"
+  },
+  {
+    "id": "2933505073166",
+    "key": "24_Gavron_v1_Talk_GP6Q",
+    "en": "Never mind, have to go."
+  },
+  {
+    "id": "2933505073167",
+    "key": "24_Gavron_v1_Talk_About_Gunners_PH1P",
+    "en": "So the Gunners help you with your drug trade?"
+  },
+  {
+    "id": "2933505073168",
+    "key": "24_Gavron_v1_Talk_About_Gunners_86VH",
+    "en": "Not yet... Deal, we try out. See if work. But soon... Mudlark made... Gunner sell... To West... The Dola, the slums."
+  },
+  {
+    "id": "2933505073169",
+    "key": "24_Gavron_v1_Talk_About_Gunners_SLX5",
+    "en": "Where Commonfolk want escape. We give..."
+  },
+  {
+    "id": "2933505073170",
+    "key": "24_Gavron_v1_Talk_About_Gunners_7GK9",
+    "en": "Why them? Aren't they aggressive?"
+  },
+  {
+    "id": "2933505073171",
+    "key": "24_Gavron_v1_Talk_About_Gunners_8HH4",
+    "en": "Not to us. All others, more aggressive. Palatines. Acolytes. Call us when need, but... When not need... Treat like dirt."
+  },
+  {
+    "id": "2933505073172",
+    "key": "24_Gavron_v1_Talk_About_Gunners_2V8K",
+    "en": "Gunner... All business. Make good promise."
+  },
+  {
+    "id": "2933505073173",
+    "key": "24_Gavron_v1_Talk_About_Gunners_7940",
+    "en": "About something else."
+  },
+  {
+    "id": "2933505073174",
+    "key": "24_Gavron_v1_TheDeadZone_OC33",
+    "en": "Got drug. But Mudlark only. Trusted man only. Who you? Where from? Some scav."
+  },
+  {
+    "id": "2933505073175",
+    "key": "24_Gavron_v1_TheDeadZone_0K7U",
+    "en": "I need them. Can't I buy them from you?"
+  },
+  {
+    "id": "2933505073176",
+    "key": "24_Gavron_v1_TheDeadZone_FY3B",
+    "en": "Hmm, supply fresh out. Need ingredients. Do that for Gavron, we good, make drug. Go Gunner, sell, get money. Everybody satisfaction."
+  },
+  {
+    "id": "2933505073177",
+    "key": "24_Gavron_v1_TheDeadZone_I5C7",
+    "en": "Marko said he bought some from you. C'mon – I'll match his price."
+  },
+  {
+    "id": "2933505073178",
+    "key": "24_Gavron_v1_TheDeadZone_S2MW",
+    "en": "What look for? \"Some\". No even tell type. Drunk man no trust, no sell again. That's why Gunner deal... But maybe, get ingredient, make exception for scav."
+  },
+  {
+    "id": "2933505073179",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_TXHW",
+    "en": "Drug name... <i>Razgon Herb.</i> Get ingredients, we make. From Bunker... In Microrayon. Old, old boxes. Lost access... Because Rada said: \"not safe\"."
+  },
+  {
+    "id": "2933505073180",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_BS9H",
+    "en": "Ok... But what am I looking for?"
+  },
+  {
+    "id": "2933505073181",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_HEXJ",
+    "en": "Glass of... Dried thing. Near container of... Old... Cereal. Grain."
+  },
+  {
+    "id": "2933505073182",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_N5CP",
+    "en": "In bunker... Small bottle... \"Ergot Fungus\". Should has label."
+  },
+  {
+    "id": "2933505073183",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_Y39M",
+    "en": "Find Ergot Fungus at the Microrayon Bunker. Got it."
+  },
+  {
+    "id": "2933505073184",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_CCBY",
+    "en": "Yes. Look place... Where cereal. Old grain. Farming things. Or, small bottle... V-vial."
+  },
+  {
+    "id": "2933505073185",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_57OT",
+    "en": "If I go <i>all the way there</i> and find <i>nothing...</i>"
+  },
+  {
+    "id": "2933505073186",
+    "key": "24_Gavron_v1_TheDeadZone_Quest_Questions_ET6X",
+    "en": "No, Vulture. No threat me. Will follow. Will wait. When tired... When sleep... Gavron stab. See? No good."
+  },
+  {
+    "id": "2933505073187",
+    "key": "24_Gavron_v1_TheDeadZone_Inform_Quest_XRFY",
+    "en": "You get fungus?"
+  },
+  {
+    "id": "2933505073188",
+    "key": "24_Gavron_v1_TheDeadZone_Inform_Quest_6PMA",
+    "en": "Not yet."
+  },
+  {
+    "id": "2933505073189",
+    "key": "24_Gavron_v1_TheDeadZone_Inform_Quest_T891",
+    "en": "What wait for? Go Microrayon."
+  },
+  {
+    "id": "2933505073190",
+    "key": "24_Gavron_v1_TheDeadZone_Inform_Quest_5IQO",
+    "en": "What's the name of the drug again?"
+  },
+  {
+    "id": "2933505073191",
+    "key": "24_Gavron_v1_Scavengers_LHGA",
+    "en": "Actually got?! Thought death. Took long."
+  },
+  {
+    "id": "2933505073192",
+    "key": "24_Gavron_v1_Scavengers_1N7T",
+    "en": "Let take look. Hmmm, not recognize name on bottle. But yes, this what need. Look smell touch same. Ergot Fungus..."
+  },
+  {
+    "id": "2933505073193",
+    "key": "24_Gavron_v1_Scavengers_PIGE",
+    "en": "You'll make some Razgon Herb, then? How does this work?"
+  },
+  {
+    "id": "2933505073194",
+    "key": "24_Gavron_v1_Scavengers_K1BD",
+    "en": "Hmm. Gavron, troubled. Can start process, but... Strange man come, make much trouble. Kill many Mudlark and Mutant, disrupt peace in swamp..."
+  },
+  {
+    "id": "2933505073195",
+    "key": "24_Gavron_v1_Scavengers_058T",
+    "en": "It took long indeed. I want that Herb, Gavron."
+  },
+  {
+    "id": "2933505073196",
+    "key": "24_Gavron_v1_Scavengers_AQMP",
+    "en": "Wait! Some wrong thing... A man, old, big gun. Kill Mudlark, kill Mutant, up up in North swamp."
+  },
+  {
+    "id": "2933505073197",
+    "key": "24_Gavron_v1_Scavengers_0QPH",
+    "en": "Also... Strange feel in Mist... A pulse... Ba-dump... Ba-dump... Blood in air... Scare me... At same time... If use on Herb... Hmm..."
+  },
+  {
+    "id": "2933505073198",
+    "key": "24_Gavron_v1_Scavengers_5OCU",
+    "en": "What are you talking about?! Blood in the air..."
+  },
+  {
+    "id": "2933505073199",
+    "key": "24_Gavron_v1_Scavengers_OHWT",
+    "en": "Yes... Pulse... Ba-dump... We feel, it strong, it come from Mist! It... <i>Hurt head!...</i>"
+  },
+  {
+    "id": "2933505073200",
+    "key": "24_Gavron_v1_Scavengers_M47C",
+    "en": "We no make Herb while this... Pulse... Please... Can go? See what is?"
+  },
+  {
+    "id": "2933505073201",
+    "key": "24_Gavron_v1_Scavengers_AP2X",
+    "en": "A single man, all this killing? ... <i>Angel.</i>"
+  },
+  {
+    "id": "2933505073202",
+    "key": "24_Gavron_v1_Scavengers_FH8L",
+    "en": "You know... Who is? It pulse... Any Mudlark now, no work, much head <i>hurt.</i> Hurt so <i>much.</i> You go... Find man... Fix this?"
+  },
+  {
+    "id": "2933505073203",
+    "key": "24_Gavron_v1_Scavengers_Quest_Decision_HS1Y",
+    "en": "I'll go handle it."
+  },
+  {
+    "id": "2933505073204",
+    "key": "24_Gavron_v1_Scavengers_Quest_Decision_XD8Z",
+    "en": "Yes... Please..."
+  },
+  {
+    "id": "2933505073205",
+    "key": "24_Gavron_v1_Scavengers_Quest_Decision_U3GQ",
+    "en": "Sure, stay here. But you'll <i>owe</i> me afterwards."
+  },
+  {
+    "id": "2933505073206",
+    "key": "24_Gavron_v1_Scavengers_Quest_Decision_V2U4",
+    "en": "... Well... Yes..."
+  },
+  {
+    "id": "2933505073207",
+    "key": "24_Gavron_v1_JustProcedure_31U9",
+    "en": "What Vulture do here?"
+  },
+  {
+    "id": "2933505073208",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_QZHO",
+    "en": "Searching for a corpse. Over quick."
+  },
+  {
+    "id": "2933505073209",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_DXWM",
+    "en": "No good. Totems sacred. Set fire. Make dance. Vulture no touch, no mess, go away. Away!"
+  },
+  {
+    "id": "2933505073210",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_0ZTS",
+    "en": "Won't <i>mess.</i> Just take tiny paper. Need search. Promise."
+  },
+  {
+    "id": "2933505073211",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_5AH2",
+    "en": "Hmm... Vulture around here much. Small trust..."
+  },
+  {
+    "id": "2933505073212",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_H65C",
+    "en": "This totem, no paper... More North... Up up the swamp... Young science boy. Over there. Go quick... No disturb."
+  },
+  {
+    "id": "2933505073213",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_3Q7A",
+    "en": "I'm doing this whether you approve or not."
+  },
+  {
+    "id": "2933505073214",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_JDWF",
+    "en": "No... Don't think don't fight. Careful. Stay away. Or else."
+  },
+  {
+    "id": "2933505073215",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_1GSE",
+    "en": "I don't need this shit..."
+  },
+  {
+    "id": "2933505073216",
+    "key": "24_Gavron_v1_JustProcedure_Quest_Talk_6OZU",
+    "en": "And Gavron no give shit. Go away. Out of Dazbog. Out."
+  },
+  {
+    "id": "2933505073217",
+    "key": "24_Gavron_v1_GetWelcomingMessage_ANSZ",
+    "en": "Name Gavron. You? What Vulture need?"
+  },
+  {
+    "id": "2933505073218",
+    "key": "24_Gavron_v1_GetWelcomingMessage_C5S7",
+    "en": "What need?"
+  },
+  {
+    "id": "2933505073219",
+    "key": "24_Gavron_v1_GetWelcomingMessage_IDZN",
+    "en": "Gavron busy. Fast talk."
+  },
+  {
+    "id": "2933505073220",
+    "key": "24_Gavron_v1_GetWelcomingMessage_LOGI",
+    "en": "Gavron... Work..."
+  },
+  {
+    "id": "2933505073221",
+    "key": "24_Gavron_v1_GetWelcomingMessage_TEIV",
+    "en": "What want?"
+  },
+  {
+    "id": "2933505073222",
+    "key": "24_Gavron_v1_GetRandomTalkStart_IX01",
+    "en": "Need to talk."
+  },
+  {
+    "id": "2933505073223",
+    "key": "24_Gavron_v1_GetRandomTalkStart_2BMU",
+    "en": "Just want to chat."
+  },
+  {
+    "id": "2933505073224",
+    "key": "24_Gavron_v1_GetRandomTalkStart_8DMQ",
+    "en": "Up for a chat?"
+  },
+  {
+    "id": "2933505073225",
+    "key": "24_Gavron_v1_GetRandomTradeStart_MKR1",
+    "en": "Got anything to trade?"
+  },
+  {
+    "id": "2933505073226",
+    "key": "24_Gavron_v1_GetRandomTradeStart_6NIE",
+    "en": "Want to trade."
+  },
+  {
+    "id": "2933505073227",
+    "key": "24_Gavron_v1_GetRandomTradeStart_NUAK",
+    "en": "Let's trade."
+  },
+  {
+    "id": "2933505073228",
+    "key": "24_Gavron_v1_GetRandomTradeMessage_N05W",
+    "en": "Scavs always trade."
+  },
+  {
+    "id": "2933505073229",
+    "key": "24_Gavron_v1_GetRandomTradeMessage_IK05",
+    "en": "See what have."
+  },
+  {
+    "id": "2933505073230",
+    "key": "24_Gavron_v1_GetRandomTradeMessage_1IIN",
+    "en": "Trade then."
+  },
+  {
+    "id": "2933505073231",
+    "key": "24_Gavron_v1_GetRandomTradeMessage_0ZFI",
+    "en": "Can trade."
+  },
+  {
+    "id": "2933505073232",
+    "key": "24_Gavron_v1_GetRandomLeaveMessage_53V4",
+    "en": "Right."
+  },
+  {
+    "id": "2933505073233",
+    "key": "24_Gavron_v1_GetRandomLeaveMessage_KPKD",
+    "en": "Leave."
+  },
+  {
+    "id": "2933505073234",
+    "key": "24_Gavron_v1_GetRandomLeaveMessage_F6RL",
+    "en": "..."
+  },
+  {
+    "id": "2933505073235",
+    "key": "24_Gavron_v1_GetRandomLeaveMessage_5UGL",
+    "en": "Fine."
+  },
+  {
+    "id": "2933505073236",
+    "key": "24_Gavron_v1_GetRandomTheDeadZoneStart_SEHD",
+    "en": "Heard you sell drugs that cause visions."
+  },
+  {
+    "id": "2933505073237",
+    "key": "24_Gavron_v1_GetRandomTheDeadZoneStart_25D7",
+    "en": "I'm looking for something to give me visions."
+  },
+  {
+    "id": "2933505073238",
+    "key": "24_Gavron_v1_GetRandomTheDeadZoneStart_F9DZ",
+    "en": "You got a product that can make me see things?"
+  },
+  {
+    "id": "2933505073239",
+    "key": "24_Gavron_v1_GetRandomScavengersStart_2C93",
+    "en": "Finally got those compounds for you."
+  },
+  {
+    "id": "2933505073240",
+    "key": "24_Gavron_v1_GetRandomScavengersStart_11BB",
+    "en": "Got the ingredients for the Herb. Wasn't easy."
+  },
+  {
+    "id": "2933505073241",
+    "key": "24_Gavron_v1_GetRandomScavengersStart_WOZP",
+    "en": "Got what you needed. Now make me the Herb."
+  },
+  {
+    "id": "2933505073242",
+    "key": "24_Gavron_v1_GetRandomJustProcedureStart_FBI9",
+    "en": "... Excuse me."
+  },
+  {
+    "id": "2933505073243",
+    "key": "24_Gavron_v1_GetRandomJustProcedureStart_W6MW",
+    "en": "Don't mind me."
+  },
+  {
+    "id": "13725516092313600",
+    "key": "24_Gavron_Jobs_v1_GetJobsMessage_A4JN",
+    "en": "Need something from a Vulture?"
+  },
+  {
+    "id": "13725516142645248",
+    "key": "24_Gavron_Jobs_v1_GetJobsMessage_B8WK",
+    "en": "Got any Vulture work?"
+  },
+  {
+    "id": "13725516142645249",
+    "key": "24_Gavron_Jobs_v1_GetJobsMessage_C2HQ",
+    "en": "Got jobs for me?"
+  },
+  {
+    "id": "13725516142645250",
+    "key": "24_Gavron_Jobs_v1_SupplyRunStart_D7YM",
+    "en": "Need mutant parts. Make sing dance with flesh. You find?"
+  },
+  {
+    "id": "13725516142645251",
+    "key": "24_Gavron_Jobs_v1_SupplyRunStart_E3VL",
+    "en": "You get mutant piece for Gavron. You rip flesh and give. I glad. You pay. Good?"
+  },
+  {
+    "id": "13725516142645252",
+    "key": "24_Gavron_Jobs_v1_SupplyRunComplete_F6TR",
+    "en": "Good, very parts, blood, flesh. We sing."
+  },
+  {
+    "id": "13725516142645253",
+    "key": "24_Gavron_Jobs_v1_SupplyRunComplete_G1XC",
+    "en": "You bring. Thank you for bring. Now out. Gavron go."
+  },
+  {
+    "id": "13725516142645254",
+    "key": "24_Gavron_Jobs_v1_SupplyRunComplete_H9QB",
+    "en": "Good. Many flesh... We will use."
+  },
+  {
+    "id": "13725516142645255",
+    "key": "24_Gavron_Jobs_v1_GetNoQuestsAvailable_J5MD",
+    "en": "No Vulture need. Go away."
+  },
+  {
+    "id": "13725516142645256",
+    "key": "24_Gavron_Jobs_v1_GetNoQuestsAvailable_K2PF",
+    "en": "There no help need. We occupy with other thing."
+  },
+  {
+    "id": "13725516142645257",
+    "key": "24_Gavron_Jobs_v1_GetNoQuestsAvailable_L7WS",
+    "en": "No work. Fast leave."
+  },
+  {
+    "id": "13725516142645258",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Show_M4HK",
+    "en": "I'll get what you need."
+  },
+  {
+    "id": "13725516142645259",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Show_N8YJ",
+    "en": "Good. Bring fast. Mist await."
+  },
+  {
+    "id": "13725516142645260",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Show_P3RC",
+    "en": "I need to think."
+  },
+  {
+    "id": "13725516142645261",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Show_Q6TN",
+    "en": "Why? Less think, less pain."
+  },
+  {
+    "id": "13725516142645262",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Show_R1VB",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "13725516142645263",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Complete_S9WL",
+    "en": "Okay, freak."
+  },
+  {
+    "id": "13725516142645264",
+    "key": "24_Gavron_Jobs_v1_SupplyRun_Complete_T2QE",
+    "en": "See you."
+  }
+]

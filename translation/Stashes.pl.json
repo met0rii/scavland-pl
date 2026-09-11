@@ -1,0 +1,242 @@
+[
+  {
+    "id": "55747575808",
+    "key": "Acolyte",
+    "en": "Acolyte",
+    "pl": "Akolita"
+  },
+  {
+    "id": "55806296064",
+    "key": "AcolytesCorpse",
+    "en": "Acolyte's Corpse",
+    "pl": "Zwłoki Akolity"
+  },
+  {
+    "id": "55806296065",
+    "key": "Bandit",
+    "en": "Bandit",
+    "pl": "Bandyta"
+  },
+  {
+    "id": "55806296066",
+    "key": "BigMilitaryContainer",
+    "en": "Big Military Container",
+    "pl": "Duży kontener wojskowy"
+  },
+  {
+    "id": "55806296067",
+    "key": "CampingTent",
+    "en": "Camping Tent",
+    "pl": "Namiot turystyczny"
+  },
+  {
+    "id": "55806296068",
+    "key": "ClosedSafe",
+    "en": "Closed Safe",
+    "pl": "Zamknięty sejf"
+  },
+  {
+    "id": "55806296069",
+    "key": "Desk",
+    "en": "Desk",
+    "pl": "Biurko"
+  },
+  {
+    "id": "55806296070",
+    "key": "Drawer",
+    "en": "Drawer",
+    "pl": "Szuflada"
+  },
+  {
+    "id": "55806296071",
+    "key": "DuffleBag",
+    "en": "Duffle Bag",
+    "pl": "Torba podróżna"
+  },
+  {
+    "id": "55806296072",
+    "key": "Fridge",
+    "en": "Fridge",
+    "pl": "Lodówka"
+  },
+  {
+    "id": "55806296073",
+    "key": "GunCrate",
+    "en": "Gun Crate",
+    "pl": "Skrzynia na broń"
+  },
+  {
+    "id": "55806296074",
+    "key": "GunCrateStack",
+    "en": "Gun Crate Stack",
+    "pl": "Stos skrzyń na broń"
+  },
+  {
+    "id": "55806296075",
+    "key": "Gunner",
+    "en": "Gunner",
+    "pl": "Strzelec"
+  },
+  {
+    "id": "55806296076",
+    "key": "Hellhound",
+    "en": "Hellhound",
+    "pl": "Piekielny ogar"
+  },
+  {
+    "id": "55806296077",
+    "key": "HospitalDrawer",
+    "en": "Hospital Drawer",
+    "pl": "Szpitalna szuflada"
+  },
+  {
+    "id": "55806296078",
+    "key": "IllichsCorpse",
+    "en": "Illich's Corpse",
+    "pl": "Zwłoki Illicha"
+  },
+  {
+    "id": "55806296079",
+    "key": "KingTormentil",
+    "en": "King Tormentil",
+    "pl": "Król dręczycieli"
+  },
+  {
+    "id": "55806296080",
+    "key": "LargeGunCrate",
+    "en": "Large Gun Crate",
+    "pl": "Duża skrzynia na broń"
+  },
+  {
+    "id": "55806296081",
+    "key": "LargeMedicalBox",
+    "en": "Large Medical Box",
+    "pl": "Duża skrzynia medyczna"
+  },
+  {
+    "id": "55806296082",
+    "key": "Mechanist",
+    "en": "Mechanist",
+    "pl": "Mechanista"
+  },
+  {
+    "id": "55806296083",
+    "key": "MotherMora",
+    "en": "Mother Mora",
+    "pl": "Matka mor"
+  },
+  {
+    "id": "55806296084",
+    "key": "Mudlark",
+    "en": "Mudlark",
+    "pl": "Błotniarz"
+  },
+  {
+    "id": "55806296085",
+    "key": "Neurogeist",
+    "en": "Neurogeist",
+    "pl": "Neurogeist"
+  },
+  {
+    "id": "55806296086",
+    "key": "OpenSafe",
+    "en": "Open Safe",
+    "pl": "Otwarty sejf"
+  },
+  {
+    "id": "55806296087",
+    "key": "PlayerStash",
+    "en": "Player stash",
+    "pl": "Skrytka gracza"
+  },
+  {
+    "id": "55806296088",
+    "key": "Rabbit",
+    "en": "Rabbit",
+    "pl": "Królik"
+  },
+  {
+    "id": "55806296089",
+    "key": "Rada",
+    "en": "Rada",
+    "pl": "Rada"
+  },
+  {
+    "id": "55806296090",
+    "key": "SmallMedicalBox",
+    "en": "Small Medical Box",
+    "pl": "Mała skrzynka medyczna"
+  },
+  {
+    "id": "55806296091",
+    "key": "SmallMilitaryBox",
+    "en": "Small Military Box",
+    "pl": "Mała skrzynka wojskowa"
+  },
+  {
+    "id": "55806296092",
+    "key": "SmallRat",
+    "en": "Small Rat",
+    "pl": "Mały szczur"
+  },
+  {
+    "id": "55806296093",
+    "key": "Stove",
+    "en": "Stove",
+    "pl": "Kuchenka"
+  },
+  {
+    "id": "55806296094",
+    "key": "Sucker",
+    "en": "Sucker",
+    "pl": "Wysysacz"
+  },
+  {
+    "id": "55806296095",
+    "key": "Toolbox",
+    "en": "Toolbox",
+    "pl": "Skrzynka narzędziowa"
+  },
+  {
+    "id": "55806296096",
+    "key": "Veles",
+    "en": "Veles",
+    "pl": "Veles"
+  },
+  {
+    "id": "55806296097",
+    "key": "Vulture",
+    "en": "Vulture",
+    "pl": "Sęp"
+  },
+  {
+    "id": "55806296098",
+    "key": "Wardrobe",
+    "en": "Wardrobe",
+    "pl": "Szafa"
+  },
+  {
+    "id": "55806296099",
+    "key": "WorkerTormentil",
+    "en": "Worker Tormentil",
+    "pl": "Dręczyciel robotnik"
+  },
+  {
+    "id": "55806296100",
+    "key": "Worm",
+    "en": "Worm",
+    "pl": "Robak"
+  },
+  {
+    "id": "55806296101",
+    "key": "ZalesyeWoundwort",
+    "en": "Zalesye Woundwort",
+    "pl": "Czyściec z Zalesye"
+  },
+  {
+    "id": "3777681438007296",
+    "key": "Stash",
+    "en": "Stash",
+    "pl": "Skrytka"
+  }
+]

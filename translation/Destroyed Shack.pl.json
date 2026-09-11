@@ -1,0 +1,182 @@
+[
+  {
+    "id": "26549223424",
+    "key": "20_DestroyedShack_WelcomingMessage_H73V",
+    "en": "< It's all gone. They took it while you slept. >",
+    "pl": "< Wszystko przepadło. Zabrali to, kiedy spałeś. >"
+  },
+  {
+    "id": "26578583552",
+    "key": "20_DestroyedShack_WelcomingMessage_IY83",
+    "en": "< Years of work trapped in an unsalvageable pile of rubble. >",
+    "pl": "< Lata pracy uwięzione w stercie gruzu, z której nic nie da się odzyskać. >"
+  },
+  {
+    "id": "26578583553",
+    "key": "20_DestroyedShack_ScorchedEarthStart_2YSJ",
+    "en": "... This is the one.",
+    "pl": "... To tutaj."
+  },
+  {
+    "id": "26578583554",
+    "key": "20_DestroyedShack_ScorchedEarthStart_2H1H",
+    "en": "This... My spot...",
+    "pl": "To... Moje miejsce..."
+  },
+  {
+    "id": "26578583555",
+    "key": "20_DestroyedShack_ScorchedEarth_8R3V",
+    "en": "< It's been too long, Returner. I hope my smell doesn't offend; it's the burnt corpses all around us, see? The whole Villa is gone. Did you know this would happen? >",
+    "pl": "< Dawno cię nie było, Powracający. Mam nadzieję, że nie przeszkadza ci mój zapach. To te spalone zwłoki wokół nas, widzisz? Cała Willa przepadła. Wiedziałeś, że tak się stanie? >"
+  },
+  {
+    "id": "26578583556",
+    "key": "20_DestroyedShack_ScorchedEarth_WWWM",
+    "en": "< Did you come here to comfort me? Or are you looking for something? Like all that stuff you kept stashed here? >",
+    "pl": "< Przyszedłeś mnie pocieszyć? A może czegoś szukasz? Choćby tych wszystkich rzeczy, które tu chowałeś? >"
+  },
+  {
+    "id": "26578583557",
+    "key": "20_DestroyedShack_ScorchedEarth_HPB3",
+    "en": "Anything, please... (Dig into the rubble.)",
+    "pl": "Cokolwiek, proszę... (Przekop gruz.)"
+  },
+  {
+    "id": "26578583558",
+    "key": "20_DestroyedShack_ScorchedEarth_3Z18",
+    "en": "< Sorry, Returner. It's not my fault I'm dead. I see the rubble is burning your hands; I want to help... Do I have anything to salvage? >",
+    "pl": "< Wybacz, Powracający. To nie moja wina, że umarłam. Widzę, że gruz parzy ci dłonie. Chcę pomóc... Czy zostało mi coś, co da się uratować? >"
+  },
+  {
+    "id": "26578583559",
+    "key": "20_DestroyedShack_ScorchedEarth_6BHC",
+    "en": "< Oh. An old <u>military ration.</u> You brought this to me a few days ago; it smelled like dead Bandits. And something else: a small <u>wooden box</u> where you used to keep some ammo... That is the best I can do. >",
+    "pl": "< Och. Stara <u>wojskowa racja żywnościowa.</u> Przyniosłeś mi ją kilka dni temu. Pachniała martwymi Bandytami. I coś jeszcze: małe <u>drewniane pudełko,</u> w którym trzymałeś trochę amunicji... Tylko tyle mogę dla ciebie zrobić. >"
+  },
+  {
+    "id": "26578583560",
+    "key": "20_DestroyedShack_ScorchedEarth_1OJR",
+    "en": "How...? (Take a look around.)",
+    "pl": "Jak...? (Rozejrzyj się.)"
+  },
+  {
+    "id": "26578583561",
+    "key": "20_DestroyedShack_ScorchedEarth_KH88",
+    "en": "< They destroyed me, Returner. Lobbed explosives to collapse me and my friends, then rushed in to execute your trapped fellows-in-scavenge. See their <u>limbs?</u> Then they set fire to us all. >",
+    "pl": "< Zniszczyli mnie, Powracający. Rzucali materiały wybuchowe, żeby zawalić mnie i sąsiednie chaty. Potem wpadli do środka, żeby dobić twoich towarzyszy zbieraczy uwięzionych pod gruzami. Widzisz ich <u>kończyny?</u> A później podpalili nas wszystkich. >"
+  },
+  {
+    "id": "26578583562",
+    "key": "20_DestroyedShack_ScorchedEarth_N0IB",
+    "en": "< We are no longer a place where life happens. So I've been sitting here, in a <u>pool of blood,</u> resisting the rain. What about you? Were you sleeping? Is that why you abandoned me? >",
+    "pl": "< Nie jesteśmy już miejscem, w którym toczy się życie. Więc tkwię tutaj, w <u>kałuży krwi,</u> opierając się deszczowi. A ty? Spałeś? Dlatego mnie opuściłeś? >"
+  },
+  {
+    "id": "26578583563",
+    "key": "20_DestroyedShack_ScorchedEarth_XJGK",
+    "en": "(Prepare to leave.)",
+    "pl": "(Przygotuj się do odejścia.)"
+  },
+  {
+    "id": "26578583564",
+    "key": "20_DestroyedShack_ScorchedEarth_EGJ2",
+    "en": "(Open the wooden box.)",
+    "pl": "(Otwórz drewniane pudełko.)"
+  },
+  {
+    "id": "26578583565",
+    "key": "20_DestroyedShack_ScorchedEarth_QS7K",
+    "en": "< Isn't this great? The box avoided the fire somehow... However, seems like the cartridges are bust. Unusable, even if you had a proper gun. >",
+    "pl": "< Czy to nie wspaniałe? Pudełko jakoś uniknęło ognia... Ale naboje chyba są zniszczone. Bezużyteczne, nawet gdybyś miał odpowiednią broń. >"
+  },
+  {
+    "id": "26578583566",
+    "key": "20_DestroyedShack_ScorchedEarth_70ST",
+    "en": "< I will count this as a win, Returner. You still have the box. Don't you want it? You're putting my gift back. >",
+    "pl": "< Uznaję to za zwycięstwo, Powracający. Nadal masz pudełko. Nie chcesz go? Odkładasz mój prezent. >"
+  },
+  {
+    "id": "26578583567",
+    "key": "20_DestroyedShack_ScorchedEarth_HGI1",
+    "en": "(Pick up the ration.)",
+    "pl": "(Podnieś rację żywnościową.)"
+  },
+  {
+    "id": "26578583568",
+    "key": "20_DestroyedShack_ScorchedEarth_HL00",
+    "en": "< Ah, the package has melted at the corner... Must have been directly exposed to fire. You shouldn't try to eat this. >",
+    "pl": "< Ach, róg opakowania się stopił... Musiał go dosięgnąć ogień. Nie próbuj tego jeść. >"
+  },
+  {
+    "id": "26578583569",
+    "key": "20_DestroyedShack_ScorchedEarth_FFKS",
+    "en": "< Looks like all those small, hard-won comforts you used to enjoy within me are gone, dissolved under the embers. But don't be too sad, Returner – everyone loses to Zalesye, not just you. >",
+    "pl": "< Wygląda na to, że wszystkie te drobne, z trudem zdobyte wygody, którymi się we mnie cieszyłeś, przepadły pod żarem. Ale nie smuć się zanadto, Powracający — każdy przegrywa z Zalesye, nie tylko ty. >"
+  },
+  {
+    "id": "26578583570",
+    "key": "20_DestroyedShack_ScorchedEarth_HM1U",
+    "en": "(Squint at a body part.) Vultures...",
+    "pl": "(Przyjrzyj się fragmentowi ciała.) Sępy..."
+  },
+  {
+    "id": "26578583571",
+    "key": "20_DestroyedShack_ScorchedEarth_GHG8",
+    "en": "< Yes. There are also foreign limbs among the destruction: two, for each two-dozen of ours. A massacre. And <i>they'll</i> be hunting you down, see. No one gets to survive <i>them.</i> >",
+    "pl": "< Tak. Wśród zniszczeń są też obce kończyny: po dwie na każde dwa tuziny naszych. Masakra. A teraz <i>oni</i> będą na ciebie polować, rozumiesz. Nikt nie może <i>ich</i> przeżyć. >"
+  },
+  {
+    "id": "26578583572",
+    "key": "20_DestroyedShack_ScorchedEarth_HFPT",
+    "en": "< All those warmongers know is cruel violence, unrelated to survival. I do not blame you for hiding. >",
+    "pl": "< Ci podżegacze wojenni znają tylko okrutną przemoc, która nie ma nic wspólnego z przetrwaniem. Nie winię cię za to, że się ukryłeś. >"
+  },
+  {
+    "id": "26578583573",
+    "key": "20_DestroyedShack_ScorchedEarth_8T2B",
+    "en": "(Check the blood under your boots.) Why...?",
+    "pl": "(Spójrz na krew pod butami.) Dlaczego...?"
+  },
+  {
+    "id": "26578583574",
+    "key": "20_DestroyedShack_ScorchedEarth_COKW",
+    "en": "< Dried, red clumps corroded by acidic rain. Are we sure your own blood doesn't look like this, Returner? You have <i>been</i> here so long. >",
+    "pl": "< Zaschnięte czerwone skrzepy, wyżerane przez kwaśny deszcz. Jesteśmy pewni, że twoja własna krew tak nie wygląda, Powracający? Przecież <i>jesteś</i> tu już tak długo. >"
+  },
+  {
+    "id": "26578583575",
+    "key": "20_DestroyedShack_ScorchedEarth_0TAV",
+    "en": "< I don't know why this happened. I'm just an ex-shack with no notion of politics. Why, I don't even know what's on the North side of Lake Pavlie... Do you? >",
+    "pl": "< Nie wiem, dlaczego to się stało. Jestem tylko dawną chatą, która nie zna się na polityce. Nie wiem nawet, co leży na północnym brzegu jeziora Pavlie... A ty? >"
+  },
+  {
+    "id": "26578583576",
+    "key": "20_DestroyedShack_ScorchedEarth_S82X",
+    "en": "< You know you can't stand being here anymore. >",
+    "pl": "< Wiesz, że nie możesz już znieść tego miejsca. >"
+  },
+  {
+    "id": "26578583577",
+    "key": "20_DestroyedShack_ScorchedEarth_Z3U4",
+    "en": "... Nothing I can do here.",
+    "pl": "... Nic tu po mnie."
+  },
+  {
+    "id": "26578583578",
+    "key": "20_DestroyedShack_ScorchedEarth_T8Y0",
+    "en": "< I will still be here after you leave. So will my friends. >",
+    "pl": "< Nadal tu będę, kiedy odejdziesz. Tak jak moi sąsiedzi. >"
+  },
+  {
+    "id": "26578583579",
+    "key": "20_DestroyedShack_ScorchedEarth_2SDS",
+    "en": "... Can't be wasting time...",
+    "pl": "... Nie mogę tracić czasu..."
+  },
+  {
+    "id": "26578583580",
+    "key": "20_DestroyedShack_ScorchedEarth_CAJX",
+    "en": "< Are you thinking about \"rebuilding?\" They will just take everything away again. >",
+    "pl": "< Myślisz o „odbudowie”? Po prostu znowu wszystko zabiorą. >"
+  }
+]

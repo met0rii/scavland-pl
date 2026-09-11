@@ -1,0 +1,1027 @@
+[
+  {
+    "id": "43802198016",
+    "key": "06_Grigory_v1_Talk_J3CG",
+    "en": "Long time no see, arms dealer."
+  },
+  {
+    "id": "43831558144",
+    "key": "06_Grigory_v1_Talk_M57X",
+    "en": "After all, you'll need me again now that you've been shot and your house got burned down and yer probably bein' hunted by foreign soldiers with the best gear in the wastes! Right?"
+  },
+  {
+    "id": "43835752448",
+    "key": "06_Grigory_v1_Talk_12CX",
+    "en": "Don't have any money to trade, though."
+  },
+  {
+    "id": "43835752449",
+    "key": "06_Grigory_v1_Talk_14J8",
+    "en": "Hearin' that hurts my feelings, ya know? After all those discounts I gave, all the sweet deals? Don'tcha <i>trust</i> me to take <i>care</i> of my clients, buddy?"
+  },
+  {
+    "id": "43839946752",
+    "key": "06_Grigory_v1_Talk_9JQS",
+    "en": "We're meant to be, buddy, don't deny it! Now let's get tradin'!"
+  },
+  {
+    "id": "43839946753",
+    "key": "06_Grigory_v1_Talk_YML8",
+    "en": "I... Do have a feeling we'll trade often."
+  },
+  {
+    "id": "43839946754",
+    "key": "06_Grigory_v1_Talk_XF9X",
+    "en": "That's right, Returner! Don't forget ol' Grigory, he's the one done gave you yer <i>best</i> weapons!"
+  },
+  {
+    "id": "43839946755",
+    "key": "06_Grigory_v1_Talk_V7A1",
+    "en": "I'll hook you up with better discounts than ever! Startin' <i>tomorrow!</i>"
+  },
+  {
+    "id": "43839946756",
+    "key": "06_Grigory_v1_Talk_3NGG",
+    "en": "So are you gonna give me a gun?"
+  },
+  {
+    "id": "43839946757",
+    "key": "06_Grigory_v1_Talk_R7ES",
+    "en": "Uhh... Wait. You thought I meant, like, <u>for free?</u>"
+  },
+  {
+    "id": "43839946758",
+    "key": "06_Grigory_v1_Talk_TE7N",
+    "en": "HA HA HA HA HA HA HA HA HA HA HA HA HA HA"
+  },
+  {
+    "id": "43839946759",
+    "key": "06_Grigory_v1_Talk_YSC1",
+    "en": "HA HA HA HA HA! Brother. Gettin' shot musta knocked yer screws <i>loose.</i>"
+  },
+  {
+    "id": "43839946760",
+    "key": "06_Grigory_v1_Talk_37MS",
+    "en": "About Zalesye..."
+  },
+  {
+    "id": "43839946761",
+    "key": "06_Grigory_v1_Talk_L0O7",
+    "en": "Tell me more about Zalesye."
+  },
+  {
+    "id": "43839946762",
+    "key": "06_Grigory_v1_Talk_JYS1",
+    "en": "Ah yes, beautiful ol' Zalesye! Finest shithole in Rhos!"
+  },
+  {
+    "id": "43839946763",
+    "key": "06_Grigory_v1_Talk_YD6G",
+    "en": "What kinds of weapons do you sell?"
+  },
+  {
+    "id": "43839946764",
+    "key": "06_Grigory_v1_Talk_O091",
+    "en": "Basically <i>all kinds!</i> Pistols, rifles, grenades! Those freak Bandits and gnarly Mutants won't know what hit 'em – but <i>you</i> will, and you'll know it's <i>quality!</i>"
+  },
+  {
+    "id": "43839946765",
+    "key": "06_Grigory_v1_Talk_7TT0",
+    "en": "What about... A sniper rifle?"
+  },
+  {
+    "id": "43839946766",
+    "key": "06_Grigory_v1_Talk_5C27",
+    "en": "Ahh, you must <i>really</i> want someone dead! But I'm afraid that kinda weapon's pretty <i>rare</i> in Zalesye!"
+  },
+  {
+    "id": "43839946767",
+    "key": "06_Grigory_v1_Talk_RNY1",
+    "en": "<i>Someone's</i> been 'round here with one; it's what I got hit with."
+  },
+  {
+    "id": "43839946768",
+    "key": "06_Grigory_v1_Talk_KPGW",
+    "en": "<i>Pffft,</i> are you sure? That would have exploded ya from the inside out, bud. Unless the bullet done bounced off yer giant steel balls or sumthin'! Ha ha ha!"
+  },
+  {
+    "id": "43839946769",
+    "key": "06_Grigory_v1_Talk_CP6V",
+    "en": "One way or another, that kinda firepower... We're talkin' <i>Eastern</i> goods here. Kind I could maybe put an order for, but... You couldn't afford it. No offense."
+  },
+  {
+    "id": "43839946770",
+    "key": "06_Grigory_v1_Talk_X2EZ",
+    "en": "About the East..."
+  },
+  {
+    "id": "43839946771",
+    "key": "06_Grigory_v1_Talk_QVNU",
+    "en": "Tell me more about the East."
+  },
+  {
+    "id": "43839946772",
+    "key": "06_Grigory_v1_Talk_ELTH",
+    "en": "You want deets on my connections or sumthin'?"
+  },
+  {
+    "id": "43839946773",
+    "key": "06_Grigory_v1_Talk_KWY8",
+    "en": "I've got to get going."
+  },
+  {
+    "id": "43839946774",
+    "key": "06_Grigory_v1_Talk_About_East_D3YZ",
+    "en": "What's out East?"
+  },
+  {
+    "id": "43839946775",
+    "key": "06_Grigory_v1_Talk_About_East_DJHB",
+    "en": "Ahh! An endless prairie with none Mist, no Mutants, plenty o' food 'n' water... Everybody livin' harmonious-like. Nice to believe, ain't it?"
+  },
+  {
+    "id": "43839946776",
+    "key": "06_Grigory_v1_Talk_About_East_YCNS",
+    "en": "But if it exists, and I ain't too sure it <i>does,</i> no offense... Still gotta cross that Highway and further up a looong ways through the wastes before reachin' it."
+  },
+  {
+    "id": "43839946777",
+    "key": "06_Grigory_v1_Talk_About_East_QT0P",
+    "en": "... You don't think Wyraj is real?"
+  },
+  {
+    "id": "43839946778",
+    "key": "06_Grigory_v1_Talk_About_East_93YZ",
+    "en": "Don't matter what I think, Returner. Ain't real to <i>me,</i> I ain't ever reachin' it. 'Cuz the East <i>I</i> know, the one that's <i>near</i> us? It's a <i>fuckton</i> o' trouble."
+  },
+  {
+    "id": "43839946779",
+    "key": "06_Grigory_v1_Talk_About_East_IMW6",
+    "en": "Bandits who are actually organized, with the gear to take down an armored vehicle. Heavy-hittin' military what make our Palatines look like a buncha boy scouts..."
+  },
+  {
+    "id": "43839946780",
+    "key": "06_Grigory_v1_Talk_About_East_YLSK",
+    "en": "It's no joke out there, man. If you can get past all that, \"paradise\" is wherever you strut around, fearin' no one, takin' all you want. Ain't <i>that</i> the dream."
+  },
+  {
+    "id": "43839946781",
+    "key": "06_Grigory_v1_Talk_About_East_IEYF",
+    "en": "How do the trade routes work?"
+  },
+  {
+    "id": "43839946782",
+    "key": "06_Grigory_v1_Talk_About_East_3V7P",
+    "en": "Welp, some heavy-duty caravans from wealthy traders out East come down here sometimes. Sell us some tech, not just weapons but everyday tools like those them Mechanists make."
+  },
+  {
+    "id": "43839946783",
+    "key": "06_Grigory_v1_Talk_About_East_7I40",
+    "en": "Sell us some tech, not just weapons but everyday tools like those them Mechanists make."
+  },
+  {
+    "id": "43839946784",
+    "key": "06_Grigory_v1_Talk_About_East_U341",
+    "en": "Charge us a fuckin' kidney too, 'cuz they know we ain't got no choice, right? That's why folks like me and Mechanists – we're tryin' ta make Zalesye a bit more <i>independent.</i>"
+  },
+  {
+    "id": "43839946785",
+    "key": "06_Grigory_v1_Talk_About_East_TR9G",
+    "en": "And if I wanted to go East myself?"
+  },
+  {
+    "id": "43839946786",
+    "key": "06_Grigory_v1_Talk_About_East_DYO4",
+    "en": "... Ahh, buddy. You want an honest answer?"
+  },
+  {
+    "id": "43839946787",
+    "key": "06_Grigory_v1_Talk_About_East_XS5V",
+    "en": "Lay it on me."
+  },
+  {
+    "id": "43839946788",
+    "key": "06_Grigory_v1_Talk_About_East_4674",
+    "en": "Aight, well..."
+  },
+  {
+    "id": "43839946789",
+    "key": "06_Grigory_v1_Talk_About_East_GCTN",
+    "en": "Your gear's shit; ya look bony and dehydrated; you're alone – I s'pose every Vulture is alone most o' the time, especially now, after that Villa thing cut yer numbers."
+  },
+  {
+    "id": "43839946790",
+    "key": "06_Grigory_v1_Talk_About_East_FD7J",
+    "en": "You're recently injured; tired, too – when's last you <i>really</i> slept? And frankly, ya look <i>dispirited,</i> bud. Zalesye's been treatin' ya rough, huh?"
+  },
+  {
+    "id": "43839946791",
+    "key": "06_Grigory_v1_Talk_About_East_Z34W",
+    "en": "You seem like y'know how ta handle yerself, all in all... But I don't think you'd last two days out there, man. Best stay here and keep doin' whatcha do."
+  },
+  {
+    "id": "43839946792",
+    "key": "06_Grigory_v1_Talk_About_East_UCI8",
+    "en": "On second thought, forget it."
+  },
+  {
+    "id": "43839946793",
+    "key": "06_Grigory_v1_Talk_About_East_QUJT",
+    "en": "Okay. We got a sensitive Vulture over here! Ha ha! You're alright, bud."
+  },
+  {
+    "id": "43839946794",
+    "key": "06_Grigory_v1_Talk_About_East_GUZ2",
+    "en": "You keep mentioning Wyraj..."
+  },
+  {
+    "id": "43839946795",
+    "key": "06_Grigory_v1_Talk_About_East_AM3P",
+    "en": "Oh yeah, Wyraj, the \"promised land\". A paradise city in the East..."
+  },
+  {
+    "id": "43839946796",
+    "key": "06_Grigory_v1_Talk_About_East_3E59",
+    "en": "Commonfolk keep spreadin' rumors, and Vultures like yer own self keep gunnin' for that place only to get themselves killed in them early stretches of the Highway..."
+  },
+  {
+    "id": "43839946797",
+    "key": "06_Grigory_v1_Talk_About_East_BJ4Z",
+    "en": "Believe me, bud. Such superstitions are like a drug poisonin' yer brain. Best just stay in Zalesye... It is what it is."
+  },
+  {
+    "id": "43839946798",
+    "key": "06_Grigory_v1_Talk_About_East_OQ8U",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "43839946799",
+    "key": "06_Grigory_v1_Talk_About_East_GJZI",
+    "en": "I actually have to go, now."
+  },
+  {
+    "id": "43839946800",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_HRYT",
+    "en": "You seem to know a lot about this region."
+  },
+  {
+    "id": "43839946801",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_J730",
+    "en": "Well sure I do! I ain't from here, but I know my customers!"
+  },
+  {
+    "id": "43839946802",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_RP7P",
+    "en": "Set up in Sontse at first, made some acquaintances. But 'em Mechanists are some stuck-up nerds, insufferable!"
+  },
+  {
+    "id": "43839946803",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_NL1R",
+    "en": "So now I'm here, in the Mire, tryna snatch some Vultures like yerself! Ha ha!"
+  },
+  {
+    "id": "43844141056",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_LPCQ",
+    "en": "Do folks treat you well here?"
+  },
+  {
+    "id": "43844141057",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_NA29",
+    "en": "Most of 'em do, yeah! Some Acolytes take issue with my business, but they're the ones keepin' my customers alive after they get gnawed on by Mutants, so... No complaints!"
+  },
+  {
+    "id": "43844141058",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_KRRY",
+    "en": "Palatines seem to like me well enough, and the Gunners? Ha, I'm basically <i>one of 'em!</i>"
+  },
+  {
+    "id": "43844141059",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_10EQ",
+    "en": "You get along with the other factions?"
+  },
+  {
+    "id": "43844141060",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_0MKQ",
+    "en": "Sure I do, I'm a businessman after all! Only exception's the Rada folks. Authoritarian <i>fucks.</i> Tryna tell me to <i>donate</i> weapons, <i>give away</i> ammo to the COMMONFOLK!"
+  },
+  {
+    "id": "43844141061",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_3Q5R",
+    "en": "That kinda vocabulary, Returner, it hurts me <i>physically.</i> See, I'm an <i>entrepreneur,</i> dealin' in the sensible verbs of a <i>free market.</i> <u>Buy! Sell! Invest!</u> None o' this collectivist <i>bullshit!</i>"
+  },
+  {
+    "id": "43844141062",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_UA24",
+    "en": "About something else..."
+  },
+  {
+    "id": "43844141063",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_26YI",
+    "en": "That's all for now, see ya."
+  },
+  {
+    "id": "43844141064",
+    "key": "06_Grigory_v1_EasternConnection_XW2D",
+    "en": "I gotta make mine too, buddy... But me being your <i>friend</i> and all... Do a job for me and I'll give you a reward <u>plus</u> a discount."
+  },
+  {
+    "id": "43844141065",
+    "key": "06_Grigory_v1_EasternConnection_5GZ1",
+    "en": "Do a job for me and I'll give you a reward <b>plus</b> a discount."
+  },
+  {
+    "id": "43844141066",
+    "key": "06_Grigory_v1_EasternConnection_HMD8",
+    "en": "Just clear out the East Bunker for me and you're set. Whaddaya say?"
+  },
+  {
+    "id": "43844141067",
+    "key": "06_Grigory_v1_EasternConnection_GY7F",
+    "en": "Sure, I'll do it."
+  },
+  {
+    "id": "43844141068",
+    "key": "06_Grigory_v1_EasternConnection_VXA9",
+    "en": "Yes!! Knew I could count on ya. When can ya start?"
+  },
+  {
+    "id": "43844141069",
+    "key": "06_Grigory_v1_EasternConnection_3TLS",
+    "en": "Sure, but I have some questions."
+  },
+  {
+    "id": "43844141070",
+    "key": "06_Grigory_v1_EasternConnection_HHT6",
+    "en": "That's great!! Ask away, friend."
+  },
+  {
+    "id": "43844141071",
+    "key": "06_Grigory_v1_EasternConnection_YGYA",
+    "en": "I don't know... Will decide later."
+  },
+  {
+    "id": "43844141072",
+    "key": "06_Grigory_v1_EasternConnection_CMXR",
+    "en": "Ya sure? I got <i>other</i> friends might take <i>interest,</i> ya know?"
+  },
+  {
+    "id": "43844141073",
+    "key": "06_Grigory_v1_EasternConnection_8F9Z",
+    "en": "On second thought, I gotta go."
+  },
+  {
+    "id": "43844141074",
+    "key": "06_Grigory_v1_EasternConnection_1SCL",
+    "en": "Shit, don't keep me waiting, bud!"
+  },
+  {
+    "id": "43844141075",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_XFJ7",
+    "en": "What do you need me to do, exactly?"
+  },
+  {
+    "id": "43844141076",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_2R3K",
+    "en": "Simple as pie, buddy. East of here there's a bunker. Call it the East Bunker!"
+  },
+  {
+    "id": "43844141077",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_TUKL",
+    "en": "It's a great space with plenty o' valuables inside and it'd be <i>perfect</i> for me to store my ever-expandin' inventory without much concern, y'see."
+  },
+  {
+    "id": "43844141078",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_T738",
+    "en": "Problem is... <i>Might</i> be a buncha Mutants inside, wreakin' havoc and all. So I ask myself, \"who do I know that's good at killin' Mutants\"? And that's <i>YOU,</i> buddy boy!"
+  },
+  {
+    "id": "43844141079",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_2N9Y",
+    "en": "What kinds of Mutants are in there?"
+  },
+  {
+    "id": "43844141080",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_LOSQ",
+    "en": "I'm no expert, Returner! That's <i>you!</i> I reckon they ain't <i>that</i> scary, tho!"
+  },
+  {
+    "id": "43844141081",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_914C",
+    "en": "Really? Based on what?"
+  },
+  {
+    "id": "43844141082",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_43BN",
+    "en": "Based on <i>reports</i> I've received, bein' well <i>connected</i> as I am!"
+  },
+  {
+    "id": "43844141083",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_V214",
+    "en": "Couldn't a Palatine do this?"
+  },
+  {
+    "id": "43844141084",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_IS5M",
+    "en": "Well maybe they <i>could!</i> But I don't care, ya know why? 'Cause me and you, we're on the <u>same team,</u> Returner!"
+  },
+  {
+    "id": "43844141085",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_ELVO",
+    "en": "We ain't a group o' privileged grunts, we're the <i>common man.</i> Pullin' ourselves by the bootstraps, beatin' those assholes against all odds, through sheer fuckin' willpower."
+  },
+  {
+    "id": "43844141086",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_5ZPK",
+    "en": "Ain't it so? Don't you wanna fuck those snobs right in the ass, Returner? Oh, plus you're more affordable."
+  },
+  {
+    "id": "43844141087",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_6719",
+    "en": "Okay, I know enough."
+  },
+  {
+    "id": "43844141088",
+    "key": "06_Grigory_v1_EasternConnection_Quest_Questions_O11I",
+    "en": "Get goin' then, bud! I'm sure you'll do just fine!"
+  },
+  {
+    "id": "43844141089",
+    "key": "06_Grigory_v1_EasternConnection_Inform_Quest_LMMT",
+    "en": "Buddy!! Ya find the time to <i>do the deed</i> yet? East Bunker clear?"
+  },
+  {
+    "id": "43844141090",
+    "key": "06_Grigory_v1_EasternConnection_Inform_Quest_Q852",
+    "en": "Haven't done it yet."
+  },
+  {
+    "id": "43844141091",
+    "key": "06_Grigory_v1_EasternConnection_Inform_Quest_J29K",
+    "en": "I actually had some questions."
+  },
+  {
+    "id": "43844141092",
+    "key": "06_Grigory_v1_EasternConnection_Inform_Quest_946W",
+    "en": "Sheesh! Ask them <i>all at once,</i> bud!"
+  },
+  {
+    "id": "43844141093",
+    "key": "06_Grigory_v1_Complete_Quest_HOWI",
+    "en": "Thank you, Returner! I knew I could count on your help. As for your reward..."
+  },
+  {
+    "id": "43844141094",
+    "key": "06_Grigory_v1_Repair_5VSE",
+    "en": "You don't know how to do it?"
+  },
+  {
+    "id": "43844141095",
+    "key": "06_Grigory_v1_Repair_57OQ",
+    "en": "'Course not, man! Geez, how've you made it this far without knowin'... Uhh, I guess you <i>did</i> get shot earlier, so maybe it's just the trauma..."
+  },
+  {
+    "id": "43844141096",
+    "key": "06_Grigory_v1_Repair_R45T",
+    "en": "Anyway, I'm pretty sure you just like, use cloths and stuff...? Random junk you find. Oh, and gun repair kits, which I <i>sell,</i> of course!"
+  },
+  {
+    "id": "43844141097",
+    "key": "06_Grigory_v1_Repair_XCPC",
+    "en": "Uhh, never mind then."
+  },
+  {
+    "id": "43844141098",
+    "key": "06_Grigory_v1_Repair_4ITG",
+    "en": "Sheesh..."
+  },
+  {
+    "id": "43844141099",
+    "key": "06_Grigory_v1_ABoxOfScraps_LFNB",
+    "en": "Oh boy, do I got the thing for ya! Just cleared a container right next to this van; that's <u>prime real estate,</u> safe from monsters and unsavory persons! I'll make it cheap for ya, but hurry! There's other folk lookin'!"
+  },
+  {
+    "id": "43844141100",
+    "key": "06_Grigory_v1_ABoxOfScraps_CantBuy_Dialogue_FVMI",
+    "en": "Huh, you don't got any money though, do ya? This deal ain't gettin' cheaper, so I suggest you <i>hustle</i> and come back with the dough, bud."
+  },
+  {
+    "id": "43844141101",
+    "key": "06_Grigory_v1_ABoxOfScraps_Buy_Dialogue_3IW2",
+    "en": "I see the glint in yer eye! Yer <i>loaded,</i> ain'tcha? Come now – buy the stash 'fore someone else does!"
+  },
+  {
+    "id": "43844141102",
+    "key": "06_Grigory_v1_ABoxOfScraps_Buy_Dialogue_OSYI",
+    "en": "I'll buy the stash, then."
+  },
+  {
+    "id": "43844141103",
+    "key": "06_Grigory_v1_ABoxOfScraps_Buy_Dialogue_2KYE",
+    "en": "Oh boy, ain'tcha the smartest Vulture I know! Ye won't regret it, bud, I swear! Just be sure to dust it off before you fill it up with them scraps 'n bits of food y'all like to hoard."
+  },
+  {
+    "id": "43844141104",
+    "key": "06_Grigory_v1_ABoxOfScraps_Buy_Dialogue_HA7F",
+    "en": "I have to think on it."
+  },
+  {
+    "id": "43844141105",
+    "key": "06_Grigory_v1_ABoxOfScraps_Buy_Dialogue_8DT1",
+    "en": "Now now Returner, don't be that waaay. Folks out there are dyin' for this kinda chance, so why blow it? I don't play games, buddy!"
+  },
+  {
+    "id": "43844141106",
+    "key": "06_Grigory_v1_WelcomeMessage_CBN4",
+    "en": "There ya are!! When I heard my favorite Vulture'd been shot, I was <i>worried sick!</i> Then the Villa burned down?! Hope yer not plannin' on goin' out there without a <i>piece!</i>"
+  },
+  {
+    "id": "43844141107",
+    "key": "06_Grigory_v1_WelcomeMessage_YN26",
+    "en": "My favorite customer! Make yerself at home!"
+  },
+  {
+    "id": "43844141108",
+    "key": "06_Grigory_v1_WelcomeMessage_X3JL",
+    "en": "Welcome, welcome! Check out my wares, ya won't regret it!"
+  },
+  {
+    "id": "43844141109",
+    "key": "06_Grigory_v1_WelcomeMessage_IRJG",
+    "en": "Howdy there – lookin' like ya could use some new gear!"
+  },
+  {
+    "id": "43844141110",
+    "key": "06_Grigory_v1_EasternConnectionStart_A13B",
+    "en": "Can't afford much lately... You got work?"
+  },
+  {
+    "id": "43848335360",
+    "key": "06_Grigory_v1_EasternConnectionStart_T0OU",
+    "en": "Got any jobs for a Vulture?"
+  },
+  {
+    "id": "43848335361",
+    "key": "06_Grigory_v1_EasternConnectionStart_GFX9",
+    "en": "Any work I could do for a discount?"
+  },
+  {
+    "id": "43848335362",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneResponse_LDGJ",
+    "en": "Time is <b>money</b>, Returner! That's a nugget of <b>business knowledge</b> for ya, free of charge!"
+  },
+  {
+    "id": "43848335363",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneResponse_TWUN",
+    "en": "Still didn't do it? Don't make me wait too much, buddy..."
+  },
+  {
+    "id": "43848335364",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneResponse_FHZN",
+    "en": "C'mon now, Returner... My patience is wearing thin, man..."
+  },
+  {
+    "id": "43848335365",
+    "key": "06_Grigory_v1_CompleteQuestEasternConnection_G09H",
+    "en": "Completed that job for you."
+  },
+  {
+    "id": "43848335366",
+    "key": "06_Grigory_v1_CompleteQuestEasternConnection_UEV9",
+    "en": "Cleared that spot, like you asked."
+  },
+  {
+    "id": "43848335367",
+    "key": "06_Grigory_v1_CompleteQuestEasternConnection_HPTV",
+    "en": "East Bunker's all clear."
+  },
+  {
+    "id": "43848335368",
+    "key": "06_Grigory_v1_ABoxOfScrapsStart_T990",
+    "en": "I need some sort of storage space."
+  },
+  {
+    "id": "43848335369",
+    "key": "06_Grigory_v1_ABoxOfScrapsStart_G2IB",
+    "en": "Do you have a place where I can stash my things?"
+  },
+  {
+    "id": "43848335370",
+    "key": "06_Grigory_v1_ABoxOfScrapsStart_JSN4",
+    "en": "I need to stash my stuff somewhere."
+  },
+  {
+    "id": "297493997846528",
+    "key": "06_Grigory_v1_LeaveResponse_8Q0A",
+    "en": "See ya around, Vulture!"
+  },
+  {
+    "id": "297494027206656",
+    "key": "06_Grigory_v1_LeaveResponse_VI1V",
+    "en": "Come back when you can, I'll have a sweet deal for ya!"
+  },
+  {
+    "id": "297494027206657",
+    "key": "06_Grigory_v1_LeaveResponse_RL1V",
+    "en": "Come back when ya need somethin'!"
+  },
+  {
+    "id": "297494027206658",
+    "key": "06_Grigory_v1_LeaveResponse_DOVI",
+    "en": "Always a pleasure, buddy!"
+  },
+  {
+    "id": "297494027206659",
+    "key": "06_Grigory_v1_LeaveResponse_4XAU",
+    "en": "Go do your thing, pal!"
+  },
+  {
+    "id": "1090662599524352",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Show_JP0U",
+    "en": "I'll look into it, sure."
+  },
+  {
+    "id": "1090662603718656",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Show_G6IW",
+    "en": "Look into it, then solve it! Ha ha! Don't let ol' Grigory down, now!"
+  },
+  {
+    "id": "1090662603718657",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Show_59MM",
+    "en": "I'll consider it – answer later."
+  },
+  {
+    "id": "1090662603718658",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Show_AMMG",
+    "en": "What! Don't tell me yer gettin' better deals somewhere else?!"
+  },
+  {
+    "id": "1090662603718659",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Show_K59L",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "1090662603718660",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Complete_HVQ2",
+    "en": "Let me know if you need me again."
+  },
+  {
+    "id": "1090662603718661",
+    "key": "06_Grigory_Jobs_v1_SupplyRun_Complete_9GG1",
+    "en": "See you around."
+  },
+  {
+    "id": "1090662603718662",
+    "key": "06_Grigory_Jobs_v1_GetJobsMessage_S3K9",
+    "en": "Wanna do some work for you."
+  },
+  {
+    "id": "1090662603718663",
+    "key": "06_Grigory_Jobs_v1_GetJobsMessage_MS0F",
+    "en": "Any requests for a Vulture?"
+  },
+  {
+    "id": "1090662603718664",
+    "key": "06_Grigory_Jobs_v1_GetJobsMessage_6MM2",
+    "en": "Need anything from me?"
+  },
+  {
+    "id": "1090662603718665",
+    "key": "06_Grigory_Jobs_v1_SupplyRunStart_3QCV",
+    "en": "I gots waaay too much on my plate and supplies’ve been low! I <b>know</b> y'all find plenty of this stuff on your runs, so go get some for me!"
+  },
+  {
+    "id": "1090662603718666",
+    "key": "06_Grigory_Jobs_v1_SupplyRunStart_HYGE",
+    "en": "Need some trinkets, scraps and leftovers to uhh, restock my inventory, you see. Wanna help?"
+  },
+  {
+    "id": "1090662603718667",
+    "key": "06_Grigory_Jobs_v1_SupplyRunComplete_4BRP",
+    "en": "That's how it's done, baby! Ya got me what I needed, now here's some of ol' Grigory's generosity!"
+  },
+  {
+    "id": "1090662603718668",
+    "key": "06_Grigory_Jobs_v1_SupplyRunComplete_EKKR",
+    "en": "Woo! Didn't think you'd be comin' back so soon – good goin', bud!"
+  },
+  {
+    "id": "1090662603718669",
+    "key": "06_Grigory_Jobs_v1_SupplyRunComplete_G2OO",
+    "en": "Well well, if it ain't my favorite Vulture! Good to hear it's done. Here be thine <i>recompense!</i>"
+  },
+  {
+    "id": "1090662603718670",
+    "key": "06_Grigory_Jobs_v1_MutantExterminationStart_Q5O0",
+    "en": "D’you know what’s <b>fucked,</b> Vulture? There's this big beautiful place chock-full of lil’ nuts ‘n’ bolts I need – but a buncha <i>monsters</i> patrollin' it. Would ya help?"
+  },
+  {
+    "id": "1090662603718671",
+    "key": "06_Grigory_Jobs_v1_MutantExterminationStart_97NE",
+    "en": "I can’t stand it anymore, bud! All them Mutants, Bandits, runnin’ around and scarin’ away customers! Do somethin’ about it!"
+  },
+  {
+    "id": "1090662603718672",
+    "key": "06_Grigory_Jobs_v1_MutantExterminationComplete_YKPK",
+    "en": "Would ya look at that! Guess this means you're done? We all clear to traverse and all? <i>Wooo!</i>"
+  },
+  {
+    "id": "1090662603718673",
+    "key": "06_Grigory_Jobs_v1_MutantExterminationComplete_M7MT",
+    "en": "Hey bud, nice job out there! Here's what I done promised!"
+  },
+  {
+    "id": "1090662603718674",
+    "key": "06_Grigory_Jobs_v1_MutantExterminationComplete_F2QW",
+    "en": "Well well, some good news for once, eh! You've gotten me in a great mood again, bud."
+  },
+  {
+    "id": "1090662603718675",
+    "key": "06_Grigory_Jobs_v1_KillBanditsStart_STVY",
+    "en": "Now I ain't one to kill potential <i>customers,</i> but these fellas are messin' with my <i>supply chain!</i> That won't do. Take care of 'em for me, bud."
+  },
+  {
+    "id": "1090662603718676",
+    "key": "06_Grigory_Jobs_v1_KillBanditsStart_QTA5",
+    "en": "Here's a thing what can <b>ruin</b> my <b>day:</b> seein' them Bandits totin' 'round guns they ain't get from <i>me.</i> Go show them my product, if you know what I mean."
+  },
+  {
+    "id": "1090662603718677",
+    "key": "06_Grigory_Jobs_v1_KillBanditsStart_JV5C",
+    "en": "I'll be honest with ya, Returner. Nobody likes 'em Bandits, not even me. Some are <i>too</i> nasty – no peace of mind for any of us – so wouldn't ya take care of them?"
+  },
+  {
+    "id": "1090662603718678",
+    "key": "06_Grigory_Jobs_v1_KillBanditsComplete_GBC2",
+    "en": "Well I'll be gosh darned. You're more reliable than any of my gu-- uhh well you're <i>reliable</i> for sure, ain't ya! Here's some <i>recompense</i>!"
+  },
+  {
+    "id": "1090662603718679",
+    "key": "06_Grigory_Jobs_v1_KillBanditsComplete_9D8O",
+    "en": "Hey if it ain't my boy! Returner! Alive and well and ready to leave a little richer! ('Less you wanna <i>spend it</i> right now...)"
+  },
+  {
+    "id": "1090662603718680",
+    "key": "06_Grigory_Jobs_v1_KillBanditsComplete_08QJ",
+    "en": "I knew it! Them Bandits didn't stand a chance. How could they? You're rockin' <i>my gear,</i> after all."
+  },
+  {
+    "id": "1090662603718681",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemStart_7VZ7",
+    "en": "Arghhh, now I've done it. So much junk in this trailer that I went'n lost something I actually <i>needed.</i> Hey bud, would ya mind retrievin' it for good ol' Grigory?"
+  },
+  {
+    "id": "1090662603718682",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemStart_P04Q",
+    "en": "Look, ain't no secret some o' what I sell is made from an <i>assortment of quality items</i> I find on the floor. Help me with my <i>supply!</i>"
+  },
+  {
+    "id": "1090662603718683",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemStart_5LVS",
+    "en": "We all lose stuff sometimes, even good ol' Grigory. Question is, d'you have the <i>money</i> to hire someone to get that stuff <i>back?</i> I certainly do."
+  },
+  {
+    "id": "1090662603718684",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemComplete_69NH",
+    "en": "Oh if this ain't a surprise! Returner, you got me my stuff back! Yer a <i>saint!</i>"
+  },
+  {
+    "id": "1090662603718685",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemComplete_P3H8",
+    "en": "I knew you'd do it, bud! No other Vulture woulda accep-- uhh, no other Vulture woulda <i>managed</i> this job!"
+  },
+  {
+    "id": "1090662603718686",
+    "key": "06_Grigory_Jobs_v1_FindMissingItemComplete_1OFY",
+    "en": "Ahh Returner, my bud, my friend! What a welcome sight, seein' ya trudgin' up to my <i>abode,</i> carryin' what I asked for. You deserve <i>compensation!</i>"
+  },
+  {
+    "id": "1090662603718687",
+    "key": "06_Grigory_Jobs_v1_GetNoQuestsAvailable_I7QY",
+    "en": "Sorry bud, got nothin' for ya right now – maybe later on there'll be some more hustles for my favorite hustler!"
+  },
+  {
+    "id": "1090662603718688",
+    "key": "06_Grigory_Jobs_v1_GetNoQuestsAvailable_12IT",
+    "en": "Ahh, 'fraid I'm all outta work for scavengers right now – check in later!"
+  },
+  {
+    "id": "1090662603718689",
+    "key": "06_Grigory_Jobs_v1_GetNoQuestsAvailable_QIPN",
+    "en": "Hmmm, got nothin' else for ya, I'm afraid. Maybe some other time!"
+  },
+  {
+    "id": "1090662603718690",
+    "key": "06_Grigory_Jobs_v1_Generic_HelpYouOut",
+    "en": "I'll help you out."
+  },
+  {
+    "id": "1090662603718691",
+    "key": "06_Grigory_Jobs_v1_Generic_ThatsWhatILikeToHear",
+    "en": "Yeah! That's what I like to hear!"
+  },
+  {
+    "id": "1090662603718692",
+    "key": "06_Grigory_Jobs_v1_Generic_NeedToThink",
+    "en": "Need to think before I accept this."
+  },
+  {
+    "id": "1090662603718693",
+    "key": "06_Grigory_Jobs_v1_Generic_DontThinkTooHard",
+    "en": "Don't think too hard, now! Fumes comin' outta your ears! Ha ha!"
+  },
+  {
+    "id": "1090662603718694",
+    "key": "06_Grigory_Jobs_v1_Generic_HaveAnyOtherRequests",
+    "en": "Do you have other requests?"
+  },
+  {
+    "id": "1090662603718695",
+    "key": "06_Grigory_Jobs_v1_Generic_GoodSeeYou",
+    "en": "Good. See you."
+  },
+  {
+    "id": "1090662603718696",
+    "key": "06_Grigory_Jobs_v1_Generic_JustDoingMyJob",
+    "en": "Just doing my job."
+  },
+  {
+    "id": "118837337864339456",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneMessage_FHZN",
+    "en": "C'mon now, Returner... My patience is wearin' thin, boy..."
+  },
+  {
+    "id": "118837337897893888",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneMessage_LDGJ",
+    "en": "Time is <i>money,</i> Returner! That's a nugget of <i>business knowledge</i> for ya, free of charge!"
+  },
+  {
+    "id": "118837337897893889",
+    "key": "06_Grigory_v1_EasternConnectionNotDoneMessage_TWUN",
+    "en": "Still didn't do it? Don't make me wait too much, buddy..."
+  },
+  {
+    "id": "118837337897893890",
+    "key": "06_Grigory_v1_GetRandomEasternConnectionCompletedStart_G09H",
+    "en": "Completed that job for you."
+  },
+  {
+    "id": "118837337897893891",
+    "key": "06_Grigory_v1_GetRandomEasternConnectionCompletedStart_HPTV",
+    "en": "East Bunker's all clear."
+  },
+  {
+    "id": "118837337897893892",
+    "key": "06_Grigory_v1_GetRandomEasternConnectionCompletedStart_UEV9",
+    "en": "Cleared that spot, like you asked."
+  },
+  {
+    "id": "118837337897893893",
+    "key": "06_Grigory_v1_GetRandomLeaveMessage_4XAU",
+    "en": "Go do your thing, pal!"
+  },
+  {
+    "id": "118837337897893894",
+    "key": "06_Grigory_v1_GetRandomLeaveMessage_8Q0A",
+    "en": "See ya around, Vulture!"
+  },
+  {
+    "id": "118837337897893895",
+    "key": "06_Grigory_v1_GetRandomLeaveMessage_DOVI",
+    "en": "Always a pleasure, buddy!"
+  },
+  {
+    "id": "118837337897893896",
+    "key": "06_Grigory_v1_GetRandomLeaveMessage_RL1V",
+    "en": "Come back when ya need somethin'!"
+  },
+  {
+    "id": "118837337897893897",
+    "key": "06_Grigory_v1_GetRandomLeaveMessage_VI1V",
+    "en": "Come back when you can, I'll have a sweet deal for ya!"
+  },
+  {
+    "id": "118837337897893898",
+    "key": "06_Grigory_v1_GetRandomRepairMessage_2F5T",
+    "en": "You tryna hire me to uhh... REPAIR things? Do you know who I <i>am?</i>"
+  },
+  {
+    "id": "118837337897893899",
+    "key": "06_Grigory_v1_GetRandomRepairMessage_8PDL",
+    "en": "Why are ya askin' me 'bout doing <i>repairs,</i> buddy? I <i>sell</i> shit, I ain't a tinkerer!"
+  },
+  {
+    "id": "118837337897893900",
+    "key": "06_Grigory_v1_GetRandomRepairMessage_T1BT",
+    "en": "What? You don't how to repair stuff? How are you a scavenger...?"
+  },
+  {
+    "id": "118837337897893901",
+    "key": "06_Grigory_v1_GetRandomRepairStart_82EB",
+    "en": "I need to repair some weapons."
+  },
+  {
+    "id": "118837337897893902",
+    "key": "06_Grigory_v1_GetRandomRepairStart_UKWE",
+    "en": "Do you also do repairs?"
+  },
+  {
+    "id": "118837337897893903",
+    "key": "06_Grigory_v1_GetRandomRepairStart_X1KK",
+    "en": "Could you repair some items for me?"
+  },
+  {
+    "id": "118837337897893904",
+    "key": "06_Grigory_v1_GetRandomTalkStart_55HI",
+    "en": "Got some questions if ya don't mind."
+  },
+  {
+    "id": "118837337897893905",
+    "key": "06_Grigory_v1_GetRandomTalkStart_OIK0",
+    "en": "Let's chat while I browse."
+  },
+  {
+    "id": "118837337897893906",
+    "key": "06_Grigory_v1_GetRandomTalkStart_UKM1",
+    "en": "You got time to talk?"
+  },
+  {
+    "id": "118837337897893907",
+    "key": "06_Grigory_v1_GetRandomTradeMessage_2YP2",
+    "en": "Now you're speaking my language!"
+  },
+  {
+    "id": "118837337897893908",
+    "key": "06_Grigory_v1_GetRandomTradeMessage_LQZB",
+    "en": "Let's get down to brass tax, then!"
+  },
+  {
+    "id": "118837337897893909",
+    "key": "06_Grigory_v1_GetRandomTradeMessage_NKXS",
+    "en": "You looking for a good deal, it's here!"
+  },
+  {
+    "id": "118837337897893910",
+    "key": "06_Grigory_v1_GetRandomTradeMessage_XP3U",
+    "en": "Of course, buddy. Whaddaya need?"
+  },
+  {
+    "id": "118837337897893911",
+    "key": "06_Grigory_v1_GetRandomTradeStart_OICA",
+    "en": "Wanna trade?"
+  },
+  {
+    "id": "118837337897893912",
+    "key": "06_Grigory_v1_GetRandomTradeStart_P726",
+    "en": "Let's do business."
+  },
+  {
+    "id": "118837337897893913",
+    "key": "06_Grigory_v1_GetRandomTradeStart_RH74",
+    "en": "Let's barter."
+  },
+  {
+    "id": "118837337897893914",
+    "key": "06_Grigory_v1_Talk_About_East_WJRP",
+    "en": "Nothin' but trouble on that RO-29 Highway, buddy-boy! You'd know better than anyone, that's where you keep dreamin' of goin', no? Towards Wyraj, the promised land?"
+  },
+  {
+    "id": "118837337897893915",
+    "key": "06_Grigory_v1_Talk_About_Zalesye_T6OJ",
+    "en": "Well sure I do! I ain't from here, but I know my customers! Set up in Sontse at first, made some acquaintances. But 'em Mechanists are some stuck-up nerds, insufferable!"
+  },
+  {
+    "id": "118837337939836928",
+    "key": "06_Grigory_v1_Talk_WUQ5",
+    "en": "Forgot about Ol' Grigory, did ya? All high 'n' mighty, lootin' weapons off 'em Bandit corpses. But it's no problemo, pal, I understand. Ain't gonna hold it against ya."
+  },
+  {
+    "id": "124906759309819904",
+    "key": "06_Grigory_Jobs_v1_ManhuntComplete_08QJ",
+    "en": "I knew it! Them Bandits didn't stand a chance. How could they? You're rockin' <i>my gear,</i> after all."
+  },
+  {
+    "id": "124906759368540160",
+    "key": "06_Grigory_Jobs_v1_ManhuntComplete_9D8O",
+    "en": "Hey if it ain't my boy! Returner! Alive and well and ready to leave a little richer! ('Less you wanna <i>spend it</i> right now...)"
+  },
+  {
+    "id": "124906759368540161",
+    "key": "06_Grigory_Jobs_v1_ManhuntComplete_GBC2",
+    "en": "Well I'll be gosh darned. You're more reliable than any of my gu-- uhh well you're <i>reliable</i> for sure, ain't ya! Here's some <i>recompense</i>!"
+  },
+  {
+    "id": "124906759368540162",
+    "key": "06_Grigory_Jobs_v1_ManhuntStart_JV5C",
+    "en": "I'll be honest with ya, Returner. Nobody likes 'em Bandits, not even me. Some are <i>too</i> nasty – no peace of mind for any of us – so wouldn't ya take care of them?"
+  },
+  {
+    "id": "124906759368540163",
+    "key": "06_Grigory_Jobs_v1_ManhuntStart_QTA5",
+    "en": "Here's a thing what can <b>ruin</b> my <b>day:</b> seein' them Bandits totin' 'round guns they ain't get from <i>me.</i> Go show them my product, if you know what I mean."
+  },
+  {
+    "id": "124906759368540164",
+    "key": "06_Grigory_Jobs_v1_ManhuntStart_STVY",
+    "en": "Now I ain't one to kill potential <i>customers,</i> but these fellas are messin' with my <i>supply chain!</i> That won't do. Take care of 'em for me, bud."
+  }
+]

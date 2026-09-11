@@ -1,0 +1,692 @@
+[
+  {
+    "id": "96228343488176131",
+    "key": "SwitchGuns",
+    "en": "Switch Guns"
+  },
+  {
+    "id": "2053823782912",
+    "key": "LookDirection",
+    "en": "Look direction"
+  },
+  {
+    "id": "2053823782913",
+    "key": "Movement",
+    "en": "Movement"
+  },
+  {
+    "id": "2053823782914",
+    "key": "Run",
+    "en": "Run"
+  },
+  {
+    "id": "2053823782915",
+    "key": "DodgeRoll",
+    "en": "Dodge roll"
+  },
+  {
+    "id": "2053823782916",
+    "key": "Aim",
+    "en": "Aim"
+  },
+  {
+    "id": "2053823782917",
+    "key": "Shoot",
+    "en": "Shoot"
+  },
+  {
+    "id": "2053823782918",
+    "key": "Reload",
+    "en": "Reload"
+  },
+  {
+    "id": "2053823782919",
+    "key": "Melee",
+    "en": "Melee"
+  },
+  {
+    "id": "2053823782920",
+    "key": "UnarmedAttack",
+    "en": "Unarmed attack"
+  },
+  {
+    "id": "2053823782921",
+    "key": "Interact",
+    "en": "Interact"
+  },
+  {
+    "id": "2053823782922",
+    "key": "LeftGun",
+    "en": "Left gun"
+  },
+  {
+    "id": "2053823782923",
+    "key": "RightGun",
+    "en": "Right gun"
+  },
+  {
+    "id": "2053823782924",
+    "key": "Hand",
+    "en": "Hand slot"
+  },
+  {
+    "id": "2053823782925",
+    "key": "NoGun",
+    "en": "Disarm"
+  },
+  {
+    "id": "2053823782926",
+    "key": "TogglePause",
+    "en": "Pause game"
+  },
+  {
+    "id": "2053823782927",
+    "key": "ToggleInventory",
+    "en": "Inventory"
+  },
+  {
+    "id": "2053823782928",
+    "key": "ToggleMap",
+    "en": "Map"
+  },
+  {
+    "id": "2053823782929",
+    "key": "ToggleQuestLog",
+    "en": "Journal"
+  },
+  {
+    "id": "2053823782930",
+    "key": "ToggleTipsMenu",
+    "en": "Tips menu"
+  },
+  {
+    "id": "2053823782931",
+    "key": "DialogueOption",
+    "en": "Dialogue option"
+  },
+  {
+    "id": "2053823782932",
+    "key": "Save",
+    "en": "Quick save"
+  },
+  {
+    "id": "2053823782933",
+    "key": "Load",
+    "en": "Quick load"
+  },
+  {
+    "id": "2053823782934",
+    "key": "F1QuickUse",
+    "en": "Quick Use 1"
+  },
+  {
+    "id": "2053823782935",
+    "key": "F2QuickUse",
+    "en": "Quick Use 2"
+  },
+  {
+    "id": "2053823782936",
+    "key": "F3QuickUse",
+    "en": "Quick Use 3"
+  },
+  {
+    "id": "2053823782937",
+    "key": "F4QuickUse",
+    "en": "Quick Use 4"
+  },
+  {
+    "id": "2053823782938",
+    "key": "SplitItem",
+    "en": "Split item"
+  },
+  {
+    "id": "2053823782939",
+    "key": "RotateItem",
+    "en": "Rotate item"
+  },
+  {
+    "id": "2053823782940",
+    "key": "QuickDropItem",
+    "en": "Quick item drop"
+  },
+  {
+    "id": "2053823782941",
+    "key": "CollectItem",
+    "en": "Collect item"
+  },
+  {
+    "id": "2053823782942",
+    "key": "LootAll",
+    "en": "Loot all items"
+  },
+  {
+    "id": "2053823782943",
+    "key": "LeftTab",
+    "en": "Left tab"
+  },
+  {
+    "id": "2053823782944",
+    "key": "RightTab",
+    "en": "Right tab"
+  },
+  {
+    "id": "5971106586624",
+    "key": "Movement (up)",
+    "en": "Up movement"
+  },
+  {
+    "id": "5971148529664",
+    "key": "Movement (down)",
+    "en": "Down movement"
+  },
+  {
+    "id": "5971148529665",
+    "key": "Movement (left)",
+    "en": "Left movement"
+  },
+  {
+    "id": "5971148529666",
+    "key": "Movement (right)",
+    "en": "Right movement"
+  },
+  {
+    "id": "84107684620861440",
+    "key": "Cyclefiremode",
+    "en": "Cycle Fire Mode"
+  },
+  {
+    "id": "86929886357553152",
+    "key": "CycleFiremode",
+    "en": "Cycle Fire Mode"
+  },
+  {
+    "id": "89157220204273664",
+    "key": "InventoryRadialMenu",
+    "en": "Inventory radial"
+  },
+  {
+    "id": "89157220208467968",
+    "key": "AmmoRadialMenu",
+    "en": "Ammo radial"
+  },
+  {
+    "id": "89157220212662272",
+    "key": "LootItem",
+    "en": "Loot item"
+  },
+  {
+    "id": "89304677242015744",
+    "key": "MoveItem",
+    "en": "Move item"
+  },
+  {
+    "id": "89304677246210048",
+    "key": "ItemActions",
+    "en": "Item actions"
+  },
+  {
+    "id": "89539792115240960",
+    "key": "PlaceItem",
+    "en": "Place item"
+  },
+  {
+    "id": "89547167933042688",
+    "key": "RepairItem",
+    "en": "Repair item"
+  },
+  {
+    "id": "89547940553199616",
+    "key": "MoveMap",
+    "en": "Move map"
+  },
+  {
+    "id": "89547940553199617",
+    "key": "MapZoomIn",
+    "en": "Zoom in"
+  },
+  {
+    "id": "89547940553199618",
+    "key": "MapZoomOut",
+    "en": "Zoom out"
+  },
+  {
+    "id": "89600068638380032",
+    "key": "LootDropItem",
+    "en": "Loot / Drop item"
+  },
+  {
+    "id": "89607273836089344",
+    "key": "OpenInventory",
+    "en": "Open inventory"
+  },
+  {
+    "id": "89608000000000000",
+    "key": "SortInventory",
+    "en": "Sort inventory"
+  },
+  {
+    "id": "92390333999284224",
+    "key": "Detector",
+    "en": "Detector"
+  },
+  {
+    "id": "95022811817435136",
+    "key": "Binding.up",
+    "en": "Up"
+  },
+  {
+    "id": "95022811830018048",
+    "key": "Binding.down",
+    "en": "Down"
+  },
+  {
+    "id": "95022811830018049",
+    "key": "Binding.left",
+    "en": "Left"
+  },
+  {
+    "id": "95022811830018050",
+    "key": "Binding.right",
+    "en": "Right"
+  },
+  {
+    "id": "95022811830018051",
+    "key": "Binding.modifier",
+    "en": "Modifier"
+  },
+  {
+    "id": "95022811830018054",
+    "key": "Binding.button",
+    "en": "Button"
+  },
+  {
+    "id": "95043523160563715",
+    "key": "Category.General",
+    "en": "General"
+  },
+  {
+    "id": "95043523160563714",
+    "key": "Category.Map",
+    "en": "Map"
+  },
+  {
+    "id": "95043523160563713",
+    "key": "Category.Inventory",
+    "en": "Inventory"
+  },
+  {
+    "id": "95022811830018072",
+    "key": "Craft",
+    "en": "Craft"
+  },
+  {
+    "id": "95043523160563712",
+    "key": "Category.Combat",
+    "en": "Combat"
+  },
+  {
+    "id": "95043523143786496",
+    "key": "Category.Movement",
+    "en": "Movement"
+  },
+  {
+    "id": "95022811830018075",
+    "key": "MapExpand",
+    "en": "Expand map"
+  },
+  {
+    "id": "95048371557883904",
+    "key": "Binding.Edit",
+    "en": "Assign controls to"
+  },
+  {
+    "id": "95048371570466816",
+    "key": "Binding.Add",
+    "en": "Add key"
+  },
+  {
+    "id": "95048371570466817",
+    "key": "Binding.Save",
+    "en": "Save binding"
+  },
+  {
+    "id": "95048371570466818",
+    "key": "Binding.Clear",
+    "en": "Clear"
+  },
+  {
+    "id": "95048371570466819",
+    "key": "Binding.PressNext",
+    "en": "Press a key or button. For a stick binding, add the stick last."
+  },
+  {
+    "id": "95054136947499008",
+    "key": "Binding.Advanced",
+    "en": "Advanced"
+  },
+  {
+    "id": "95054136976859136",
+    "key": "Binding.Gesture",
+    "en": "Hold a key to record it as held. Release all keys to save."
+  },
+  {
+    "id": "95054136976859137",
+    "key": "Binding.Manual",
+    "en": "Add keys one at a time, then save your binding. For a stick binding, add the stick last."
+  },
+  {
+    "id": "95054586207789056",
+    "key": "Binding.AdvancedGamepad",
+    "en": "Advanced (View / Select)"
+  },
+  {
+    "id": "95057767566401536",
+    "key": "Binding.GestureStick",
+    "en": "Move a stick, with any buttons you want to combine. Release everything to save."
+  },
+  {
+    "id": "95788026007904256",
+    "key": "BuySell",
+    "en": "Buy / Sell"
+  },
+  {
+    "id": "95790286804869120",
+    "key": "ConfirmQuantity",
+    "en": "Confirm quantity"
+  },
+  {
+    "id": "95798749614301184",
+    "key": "Category.Crafting",
+    "en": "Crafting"
+  },
+  {
+    "id": "95798749631078400",
+    "key": "Category.Trader",
+    "en": "Trader"
+  },
+  {
+    "id": "95800882568880128",
+    "key": "Category.Journal",
+    "en": "Journal"
+  },
+  {
+    "id": "95804012014592000",
+    "key": "StealthKill",
+    "en": "Stealth kill"
+  },
+  {
+    "id": "95804012027174912",
+    "key": "Hint.Loot",
+    "en": "Loot"
+  },
+  {
+    "id": "95804012027174913",
+    "key": "Hint.Drop",
+    "en": "Drop"
+  },
+  {
+    "id": "95804012027174914",
+    "key": "TransferItem",
+    "en": "Transfer item"
+  },
+  {
+    "id": "95806062404296704",
+    "key": "Hint.Transfer",
+    "en": "Transfer"
+  },
+  {
+    "id": "95809051240161280",
+    "key": "TransferAllItems",
+    "en": "Transfer all items"
+  },
+  {
+    "id": "95811508338941952",
+    "key": "Key.space",
+    "en": "Space"
+  },
+  {
+    "id": "95811508359913472",
+    "key": "Key.enter",
+    "en": "Enter"
+  },
+  {
+    "id": "95811508359913473",
+    "key": "Key.escape",
+    "en": "Esc"
+  },
+  {
+    "id": "95811508359913474",
+    "key": "Key.backspace",
+    "en": "Bksp"
+  },
+  {
+    "id": "95811508359913475",
+    "key": "Key.delete",
+    "en": "Del"
+  },
+  {
+    "id": "95811508359913476",
+    "key": "Key.insert",
+    "en": "Ins"
+  },
+  {
+    "id": "95811508359913477",
+    "key": "Key.home",
+    "en": "Home"
+  },
+  {
+    "id": "95811508359913478",
+    "key": "Key.end",
+    "en": "End"
+  },
+  {
+    "id": "95811508359913479",
+    "key": "Key.pageup",
+    "en": "PgUp"
+  },
+  {
+    "id": "95811508359913480",
+    "key": "Key.pagedown",
+    "en": "PgDn"
+  },
+  {
+    "id": "95811508359913481",
+    "key": "Key.capslock",
+    "en": "Caps"
+  },
+  {
+    "id": "95811508359913482",
+    "key": "Key.numlock",
+    "en": "Num Lock"
+  },
+  {
+    "id": "95811508359913483",
+    "key": "Key.scrolllock",
+    "en": "Scr Lock"
+  },
+  {
+    "id": "95811508359913484",
+    "key": "Key.printscreen",
+    "en": "PrtSc"
+  },
+  {
+    "id": "95811508359913485",
+    "key": "Key.pause",
+    "en": "Pause"
+  },
+  {
+    "id": "95811508359913486",
+    "key": "Key.contextmenu",
+    "en": "Menu"
+  },
+  {
+    "id": "95811508359913487",
+    "key": "Key.anykey",
+    "en": "Any key"
+  },
+  {
+    "id": "95811508359913488",
+    "key": "Key.numpad",
+    "en": "Num"
+  },
+  {
+    "id": "95811508359913489",
+    "key": "Key.mouse.leftbutton",
+    "en": "LMB"
+  },
+  {
+    "id": "95811508359913490",
+    "key": "Key.mouse.rightbutton",
+    "en": "RMB"
+  },
+  {
+    "id": "95811508359913491",
+    "key": "Key.mouse.middlebutton",
+    "en": "MMB"
+  },
+  {
+    "id": "95811508359913492",
+    "key": "Key.mouse.forwardbutton",
+    "en": "Mouse Fwd"
+  },
+  {
+    "id": "95811508359913493",
+    "key": "Key.mouse.backbutton",
+    "en": "Mouse Back"
+  },
+  {
+    "id": "95811508359913494",
+    "key": "Key.mouse.scroll",
+    "en": "Wheel"
+  },
+  {
+    "id": "95811508359913495",
+    "key": "Key.tab",
+    "en": "Tab"
+  },
+  {
+    "id": "95811508359913496",
+    "key": "Key.uparrow",
+    "en": "↑"
+  },
+  {
+    "id": "95811508359913497",
+    "key": "Key.downarrow",
+    "en": "↓"
+  },
+  {
+    "id": "95811508359913498",
+    "key": "Key.leftarrow",
+    "en": "←"
+  },
+  {
+    "id": "95811508359913499",
+    "key": "Key.rightarrow",
+    "en": "→"
+  },
+  {
+    "id": "95811508359913500",
+    "key": "Key.leftshift",
+    "en": "Shift L"
+  },
+  {
+    "id": "95811508359913501",
+    "key": "Key.rightshift",
+    "en": "Shift R"
+  },
+  {
+    "id": "95811508359913502",
+    "key": "Key.leftctrl",
+    "en": "Ctrl L"
+  },
+  {
+    "id": "95811508359913503",
+    "key": "Key.rightctrl",
+    "en": "Ctrl R"
+  },
+  {
+    "id": "95811508359913504",
+    "key": "Key.leftalt",
+    "en": "Alt L"
+  },
+  {
+    "id": "95811508359913505",
+    "key": "Key.rightalt",
+    "en": "Alt R"
+  },
+  {
+    "id": "95811508359913506",
+    "key": "Key.leftmeta",
+    "en": "Win/Cmd L"
+  },
+  {
+    "id": "95811508359913507",
+    "key": "Key.rightmeta",
+    "en": "Win/Cmd R"
+  },
+  {
+    "id": "95811508359913508",
+    "key": "Key.numpaddivide",
+    "en": "Num ÷"
+  },
+  {
+    "id": "95811508359913509",
+    "key": "Key.numpadmultiply",
+    "en": "Num ×"
+  },
+  {
+    "id": "95811508359913510",
+    "key": "Key.numpadminus",
+    "en": "Num −"
+  },
+  {
+    "id": "95811508359913511",
+    "key": "Key.numpadplus",
+    "en": "Num +"
+  },
+  {
+    "id": "95811508359913512",
+    "key": "Key.numpadperiod",
+    "en": "Num ."
+  },
+  {
+    "id": "95811508359913513",
+    "key": "Key.numpadequals",
+    "en": "Num ="
+  },
+  {
+    "id": "95811508359913514",
+    "key": "Key.numpadenter",
+    "en": "Num Enter"
+  },
+  {
+    "id": "95812819562258432",
+    "key": "CameraZoomIn",
+    "en": "Camera zoom in"
+  },
+  {
+    "id": "95812819604201472",
+    "key": "CameraZoomOut",
+    "en": "Camera zoom out"
+  },
+  {
+    "id": "96228343387512832",
+    "key": "JournalTrack",
+    "en": "Track/Untrack quest/job"
+  },
+  {
+    "id": "96228343488176128",
+    "key": "JournalCancelJob",
+    "en": "Cancel job"
+  },
+  {
+    "id": "96228343488176129",
+    "key": "Journal.Track",
+    "en": "Track"
+  },
+  {
+    "id": "96228343488176130",
+    "key": "Journal.Untrack",
+    "en": "Untrack"
+  }
+]

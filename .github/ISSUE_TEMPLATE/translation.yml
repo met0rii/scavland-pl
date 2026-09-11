@@ -1,0 +1,23 @@
+name: Błąd tłumaczenia
+description: Zgłoś literówkę, błędny kontekst lub problem z wyświetlaniem.
+title: "[PL] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Wersja spolszczenia i gry
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Postać, zadanie, przedmiot lub ekran
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Opis błędu i proponowana poprawka
+      description: Możesz wkleić zrzut ekranu.
+    validations:
+      required: true

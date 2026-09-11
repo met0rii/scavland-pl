@@ -1,0 +1,188 @@
+[
+  {
+    "id": "10598285312",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_8WFG",
+    "en": "There's a voice coming from the radio again.",
+    "pl": "Z radia znowu dobiega głos."
+  },
+  {
+    "id": "10610868224",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_FJXE",
+    "en": "The signal suddenly got clearer...",
+    "pl": "Sygnał nagle się poprawił..."
+  },
+  {
+    "id": "10610868225",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_05HB",
+    "en": "The radio static is turning into a voice...",
+    "pl": "W radiowym szumie zaczyna przebijać się głos..."
+  },
+  {
+    "id": "10610868226",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_8PSS",
+    "en": "The white noise's turning into the voice of a soldier...",
+    "pl": "Z szumu wyłania się głos żołnierza..."
+  },
+  {
+    "id": "10610868227",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_XIUR",
+    "en": "(Stop and listen.)",
+    "pl": "(Zatrzymaj się i posłuchaj.)"
+  },
+  {
+    "id": "10610868228",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_T94R",
+    "en": "(Focus on the radio.)",
+    "pl": "(Skup się na radiu.)"
+  },
+  {
+    "id": "10610868229",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_3E68",
+    "en": "(Listen closely.)",
+    "pl": "(Przysłuchaj się uważnie.)"
+  },
+  {
+    "id": "10610868230",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_BWLH",
+    "en": "< ... And don't worry about the sniper. We'll deal with him later. Fortify our position within the Oblast, ignore the Gunners and move to surround the Slums. That's where the insurgents are hiding; they will be our next target... >",
+    "pl": "< ... A snajperem się nie przejmujcie. Zajmiemy się nim później. Umocnić nasze pozycje w obwodzie, zignorować Strzelców i ruszyć, żeby otoczyć slumsy. Tam ukrywają się powstańcy. Będą naszym następnym celem... >"
+  },
+  {
+    "id": "10610868231",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_P86B",
+    "en": "(They're planning an attack around the Dola...)",
+    "pl": "(Planują atak w okolicach Doli...)"
+  },
+  {
+    "id": "10610868232",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_HSRQ",
+    "en": "(They're aiming for a ghetto full of Commonfolk, out West...)",
+    "pl": "(Ich celem jest getto pełne Zwykłych Ludzi, na zachodzie...)"
+  },
+  {
+    "id": "10610868233",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_QHFN",
+    "en": "< Hmm... Yes, there <i>are</i> surviving Vultures. No matter. We stick to current strategy. We won't scatter just for some stragglers. When we hit, we hit hard. We let them <u>know.</u> <i>The West has won</i>. >",
+    "pl": "< Hmm... Tak, niektóre Sępy <i>przeżyły.</i> Nieważne. Trzymamy się obecnej strategii. Nie będziemy rozpraszać sił dla garstki niedobitków. Kiedy uderzymy, uderzymy mocno. Niech <u>wiedzą.</u> <i>Zachód zwyciężył</i>. >"
+  },
+  {
+    "id": "10610868234",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_XSXF",
+    "en": "(They might know about me, Zhivan, Raisa... But aren't chasing us...)",
+    "pl": "(Mogą wiedzieć o mnie, Zhivanie, Raisie... Ale nas nie ścigają...)"
+  },
+  {
+    "id": "10610868235",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_DCJK",
+    "en": "(The West...? They're really soldiers of the Western government...)",
+    "pl": "(Zachód...? To naprawdę żołnierze zachodniego rządu...)"
+  },
+  {
+    "id": "10610868236",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_QX8D",
+    "en": "<i>(Signal's breaking up. This static hurts my ears.)</i>",
+    "pl": "<i>(Sygnał się urywa. Od tych trzasków bolą mnie uszy.)</i>"
+  },
+  {
+    "id": "10610868237",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_0LAV",
+    "en": "(Leave.)",
+    "pl": "(Odejdź.)"
+  },
+  {
+    "id": "10610868238",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_B6MY",
+    "en": "< ... Reported on the blockades... I'll be back soon. Keep the common people out of the Dola until I return. We'll be moving West soon enough... Into Respat Mines... The Threshold. Where the bulk of their resistance lies. >",
+    "pl": "< ... Meldunek o blokadach... Wkrótce wrócę. Do mojego powrotu nie wpuszczać zwykłych ludzi do Doli. Niedługo ruszymy na zachód... Do kopalń Respat... Do Progu. Tam skupia się większość ich ruchu oporu. >"
+  },
+  {
+    "id": "10610868239",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_YU0F",
+    "en": "(They've blocked the passages to the Dola...)",
+    "pl": "(Zablokowali przejścia do Doli...)"
+  },
+  {
+    "id": "10610868240",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_XSDU",
+    "en": "(Respat... The Threshold, where Mist comes from...? How could <i>anyone</i> be there?)",
+    "pl": "(Respat... Próg, skąd pochodzi Mgła...? Jak <i>ktokolwiek</i> mógłby tam przebywać?)"
+  },
+  {
+    "id": "10610868241",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_DTZK",
+    "en": "< ... - me remind you. Our intel comes from High Command. Everywhere the enemy whispers into Commonfolk ears, convincing them to <i>resist.</i> Just look at the Rada. It's our job to wipe out the insurgents. We will do it as <i>I</i> say. >",
+    "pl": "< ... — przypomnę wam. Nasze informacje pochodzą od naczelnego dowództwa. Wróg wszędzie szepcze Zwykłym Ludziom do uszu, namawiając ich do <i>oporu.</i> Wystarczy spojrzeć na Radę. Naszym zadaniem jest wytępienie powstańców. Zrobimy to tak, jak <i>ja</i> rozkażę. >"
+  },
+  {
+    "id": "10610868242",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_I7G2",
+    "en": "(This voice is their commander...)",
+    "pl": "(Ten głos należy do ich dowódcy...)"
+  },
+  {
+    "id": "10610868243",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_DYYU",
+    "en": "(Commonfolk and Rada... I've never heard about resisting the West. Is it even possible?)",
+    "pl": "(Zwykli Ludzie i Rada... Nigdy nie słyszałem o stawianiu oporu Zachodowi. Czy to w ogóle możliwe?)"
+  },
+  {
+    "id": "10610868244",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_PWP9",
+    "en": "<i>(Signal's breaking up again... Only some white noise is left.)</i>",
+    "pl": "<i>(Sygnał znowu się urywa... Został tylko szum.)</i>"
+  },
+  {
+    "id": "10610868245",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_AN5J",
+    "en": "(Leave.)",
+    "pl": "(Odejdź.)"
+  },
+  {
+    "id": "10610868246",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_6IJB",
+    "en": "< ... could be listening right now, not far from here. I'll deal with it. Make sure everything's in place for my return with the Blood Core. They have ordered us to take them to the Mines: the West has been blind for too long. >",
+    "pl": "< ... może właśnie nas słuchać, gdzieś niedaleko. Zajmę się tym. Dopilnujcie, żeby wszystko było gotowe na mój powrót z Rdzeniem Krwi. Rozkazali nam zabrać je do kopalń: Zachód zbyt długo pozostawał ślepy. >"
+  },
+  {
+    "id": "10610868247",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_JG9W",
+    "en": "(They know I'm listening...? How?)",
+    "pl": "(Wiedzą, że słucham...? Jak?)"
+  },
+  {
+    "id": "10610868248",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_T6QN",
+    "en": "(Blood Core? Could it be that thing I saw?)",
+    "pl": "(Rdzeń Krwi? Czy to może być ta rzecz, którą widziałem?)"
+  },
+  {
+    "id": "10610868249",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_XIQO",
+    "en": "< ... just Mutants and Mudlarks. But no one in this region will cause a ruckus over a few dead corpse-bearers. If your theory is correct, the Lake being nearby should help the Core to appear. This will be useful when we get to the Mines. >",
+    "pl": "< ... tylko Mutanci i Błotniarze. Ale w tym regionie nikt nie zrobi awantury o kilku martwych tragarzy zwłok. Jeśli twoja teoria jest słuszna, bliskość jeziora powinna pomóc w pojawieniu się Rdzenia. Przyda nam się to, kiedy dotrzemy do kopalń. >"
+  },
+  {
+    "id": "10610868250",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_JYFY",
+    "en": "(He's planning to kill the Mudlarks... Like they did to Vultures?)",
+    "pl": "(Planuje zabić Błotniarzy... Tak jak zabili Sępy?)"
+  },
+  {
+    "id": "10610868251",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_MHZ5",
+    "en": "(They'll use Blood Cores at the Mines... What's going on down there?)",
+    "pl": "(W kopalniach użyją Rdzeni Krwi... Co tam się dzieje?)"
+  },
+  {
+    "id": "10610868252",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_VKYS",
+    "en": "<i>The voice in the radio fizzles out. Everything is quiet.</i>",
+    "pl": "<i>Głos w radiu zanika. Zapada cisza.</i>"
+  },
+  {
+    "id": "10610868253",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_TYJQ",
+    "en": "(Leave.)",
+    "pl": "(Odejdź.)"
+  }
+]

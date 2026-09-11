@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "1158709248",
+    "key": "",
+    "en": "Fine cuts?",
+    "pl": "Dobre kawałki?"
+  },
+  {
+    "id": "1179680768",
+    "key": "",
+    "en": "I've different cuts of meat from mutated <i>and</i> non-mutated animals. There's options for every budget. Even Vultures gotta eat, right?",
+    "pl": "Mam różne kawałki mięsa zwierząt zmutowanych <i>i</i> zwyczajnych. Na każdą kieszeń. Nawet Sępy muszą jeść, co?"
+  },
+  {
+    "id": "1179680769",
+    "key": "",
+    "en": "I also have some jobs for you if you can't trade right now.",
+    "pl": "Mam też dla ciebie zlecenia, jeśli teraz nie stać cię na handel."
+  },
+  {
+    "id": "1179680770",
+    "key": "",
+    "en": "Organizing?",
+    "pl": "Organizowanie się?"
+  },
+  {
+    "id": "1179680771",
+    "key": "",
+    "en": "Indeed! Organizing is the way to go, my brother. How else do we survive this wasteland? How else do we defeat the Mist?",
+    "pl": "Właśnie! Organizowanie się to właściwa droga, bracie. Jak inaczej przetrwamy na pustkowiach? Jak inaczej pokonamy Mgłę?"
+  },
+  {
+    "id": "1179680772",
+    "key": "",
+    "en": "Can't do that shit alone! We must all lock arms, collectivize our work and reap the benefits! That's the way of the Rada!",
+    "pl": "Samemu gówno zdziałasz! Musimy wszyscy stanąć ramię w ramię, wspólnie pracować i dzielić owoce tej pracy! Oto droga Rady!"
+  },
+  {
+    "id": "1179680773",
+    "key": "",
+    "en": "Not sure I'm interested.",
+    "pl": "Nie wiem, czy mnie to interesuje."
+  },
+  {
+    "id": "1179680774",
+    "key": "",
+    "en": "I've heard Vultures like to do things alone – I'm not knocking your hustle, but please reconsider that philosophy! Even pre-War history shows the power we have as a group, to solve issues, to increase production, to <b>eradicate</b> scarcity. Even in these dire conditions!",
+    "pl": "Słyszałem, że Sępy lubią działać samotnie. Nie krytykuję twojej zaradności, ale przemyśl tę filozofię! Już przedwojenna historia pokazuje siłę grupy: rozwiązywanie problemów, zwiększanie produkcji, <b>likwidowanie</b> niedoborów. Nawet w tych strasznych warunkach!"
+  },
+  {
+    "id": "1179680775",
+    "key": "",
+    "en": "Do not cling to this image of a self-made survivalist; it is a fabrication, brother, as you rely on traders and clients to make a living.",
+    "pl": "Nie trzymaj się obrazu człowieka, który wszystko zawdzięcza wyłącznie sobie. To fikcja, bracie. Przecież twoje utrzymanie zależy od handlarzy i klientów."
+  },
+  {
+    "id": "1179680776",
+    "key": "",
+    "en": "I'd like to know more about organizing.",
+    "pl": "Chcę dowiedzieć się więcej o organizowaniu się."
+  },
+  {
+    "id": "1179680777",
+    "key": "",
+    "en": "An important first step, my brother. Granted, it's not the simplest process for those used to putting themselves before others. But we can teach you to think <i>differently.</i>",
+    "pl": "Ważny pierwszy krok, bracie. Przyznaję, to niełatwe dla tych, którzy przywykli stawiać siebie ponad innymi. Ale możemy nauczyć cię myśleć <i>inaczej.</i>"
+  },
+  {
+    "id": "1179680778",
+    "key": "",
+    "en": "We can teach you about <i>community.</i> We can infuse your blood with the future of Zalesye!",
+    "pl": "Możemy nauczyć cię, czym jest <i>wspólnota.</i> Napełnić twoje żyły przyszłością Zalesye!"
+  },
+  {
+    "id": "1179680779",
+    "key": "",
+    "en": "Changed my mind – tell me more about the Rada.",
+    "pl": "Zmieniłem zdanie. Opowiedz mi więcej o Radzie."
+  },
+  {
+    "id": "1179680780",
+    "key": "",
+    "en": "Is that so? Well, I'm glad you have some interest!",
+    "pl": "Naprawdę? Cieszę się, że cię to interesuje!"
+  },
+  {
+    "id": "1179680781",
+    "key": "",
+    "en": "Tell me more about organizing with the Rada.",
+    "pl": "Opowiedz mi więcej o organizowaniu się z Radą."
+  },
+  {
+    "id": "1179680782",
+    "key": "",
+    "en": "You think the Rada should lead Zalesye?",
+    "pl": "Uważasz, że Rada powinna przewodzić Zalesye?"
+  },
+  {
+    "id": "1179680783",
+    "key": "",
+    "en": "Yes. Compared to other factions, we are the best choice. Do you disagree?",
+    "pl": "Tak. W porównaniu z innymi frakcjami jesteśmy najlepszym wyborem. Nie zgadzasz się?"
+  },
+  {
+    "id": "1183875072",
+    "key": "",
+    "en": "Not convinced on you leading Zalesye.",
+    "pl": "Nie jestem przekonany, że powinniście przewodzić Zalesye."
+  },
+  {
+    "id": "1183875073",
+    "key": "",
+    "en": "I see. And what is the best alternative, in your opinion?",
+    "pl": "Rozumiem. A twoim zdaniem jaka jest najlepsza alternatywa?"
+  },
+  {
+    "id": "1183875074",
+    "key": "",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już ruszać."
+  },
+  {
+    "id": "1183875075",
+    "key": "",
+    "en": "How does organizing with the Rada work?",
+    "pl": "Jak wygląda organizowanie się z Radą?"
+  },
+  {
+    "id": "1183875076",
+    "key": "",
+    "en": "Organizing means working in tandem with many others so as to lighten the overall load. In our precarious situation, basic <i>subsistence</i> is the goal: supplying food, water, warmth and <i>security</i> to as many people as we can.",
+    "pl": "To współpraca z wieloma innymi ludźmi, by zmniejszyć wspólny ciężar. W naszej niepewnej sytuacji celem jest podstawowe <i>utrzymanie:</i> zapewnienie jedzenia, wody, ciepła i <i>bezpieczeństwa</i> jak największej liczbie osób."
+  },
+  {
+    "id": "1183875077",
+    "key": "",
+    "en": "You'd be helping with <i>security,</i> mostly. We can always use a Vulture's firepower and expertise in traversing Zalesye. You'd also help us bring more people in, of course.",
+    "pl": "Pomagałbyś głównie przy <i>bezpieczeństwie.</i> Siła ognia Sępa i umiejętność przemierzania Zalesye zawsze się przydadzą. Oczywiście pomagałbyś też przyciągać nowych ludzi."
+  },
+  {
+    "id": "1183875078",
+    "key": "",
+    "en": "Meanwhile, we can educate, clothe and even feed you. Seems you don't need a spot in our bunkers that much, but maybe in an emergency? This type of thing is never set in stone, my brother. You have to live it to live it.",
+    "pl": "My zaś możemy cię uczyć, ubrać, a nawet nakarmić. Chyba nie potrzebujesz za bardzo miejsca w naszych bunkrach, ale może w nagłym wypadku? Nic nie jest tu ustalone raz na zawsze, bracie. Trzeba tego doświadczyć na własnej skórze."
+  },
+  {
+    "id": "1183875079",
+    "key": "",
+    "en": "Are there any Vultures in the Rada?",
+    "pl": "Są w Radzie jakieś Sępy?"
+  },
+  {
+    "id": "1183875080",
+    "key": "",
+    "en": "I haven't seen a scavenger go through recruitment even once – they all flee the responsibility.",
+    "pl": "Jeszcze nie widziałem, żeby choć jeden zbieracz przeszedł rekrutację. Wszyscy uciekają przed odpowiedzialnością."
+  },
+  {
+    "id": "1183875081",
+    "key": "",
+    "en": "If I sound harsh, it's only to warn you that this is not a light decision – organizing is about <i>commitment.</i>",
+    "pl": "Jeśli brzmię surowo, to tylko dlatego, że chcę ostrzec: to nie jest błaha decyzja. Organizowanie się wymaga <i>zaangażowania.</i>"
+  },
+  {
+    "id": "1183875082",
+    "key": "",
+    "en": "Any infighting among you?",
+    "pl": "Zdarzają się wam wewnętrzne konflikty?"
+  },
+  {
+    "id": "1183875083",
+    "key": "",
+    "en": "Well, of course. We're trying to structurally and fundamentally change society – not really a way to do that <i>without</i> some disagreements!",
+    "pl": "Oczywiście. Próbujemy zmienić społeczeństwo u samych podstaw, przebudować jego strukturę. Nie da się tego zrobić <i>bez</i> różnicy zdań!"
+  },
+  {
+    "id": "1183875084",
+    "key": "",
+    "en": "But it's nothing you need to worry about beforehand. You'd have to be in the group to know and care about these disputes. Externally? We're all in unison.",
+    "pl": "Ale nie musisz się tym martwić zawczasu. Musiałbyś być częścią grupy, żeby znać te spory i się nimi przejmować. Na zewnątrz? Wszyscy mówimy jednym głosem."
+  },
+  {
+    "id": "1183875085",
+    "key": "",
+    "en": "What are the day-to-day activities?",
+    "pl": "Jak wyglądają codzienne zajęcia?"
+  },
+  {
+    "id": "1183875086",
+    "key": "",
+    "en": "Some tasks involve spreading the word, others involve your own specialty – scavenging, handling firearms, protecting each other from all sorts of threats; things you can <i>teach.</i>",
+    "pl": "Część zadań polega na szerzeniu naszych idei, inne dotyczą twojej specjalności: zbieractwa, obsługi broni, wzajemnej ochrony przed zagrożeniami. Rzeczy, których możesz <i>uczyć.</i>"
+  },
+  {
+    "id": "1183875087",
+    "key": "",
+    "en": "But you're also supposed to <i>learn.</i> We study books from before the War and try to adapt them to our crazy world of today. We have lectures and discussion groups to try and set a blueprint for how to move forward – <i>everyone</i> contributes.",
+    "pl": "Ale masz też sam się <i>uczyć.</i> Studiujemy przedwojenne książki i dostosowujemy je do dzisiejszego szalonego świata. Na wykładach i w grupach dyskusyjnych wytyczamy drogę naprzód. <i>Każdy</i> wnosi swój wkład."
+  },
+  {
+    "id": "1183875088",
+    "key": "",
+    "en": "Oh, have you met Mila? She's one of our best teachers. You'll love her.",
+    "pl": "Poznałeś już Milę? To jedna z naszych najlepszych nauczycielek. Polubisz ją."
+  },
+  {
+    "id": "1183875089",
+    "key": "",
+    "en": "About something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "1183875090",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1183875091",
+    "key": "",
+    "en": "You've shown interest, but have you ever shown <i>commitment?</i>",
+    "pl": "Okazałeś zainteresowanie, ale czy kiedykolwiek okazałeś <i>zaangażowanie?</i>"
+  },
+  {
+    "id": "1183875092",
+    "key": "",
+    "en": "And if even these basics disinterest you, I'm afraid we'll be occasional business partners and not much else.",
+    "pl": "A jeśli nawet te podstawy cię nie interesują, obawiam się, że pozostaniemy okazjonalnymi partnerami w interesach i nikim więcej."
+  },
+  {
+    "id": "1183875093",
+    "key": "",
+    "en": "Palatines and Gunners might be better; they have <i>power.</i>",
+    "pl": "Palatyni i Strzelcy mogą być lepsi. Mają <i>siłę.</i>"
+  },
+  {
+    "id": "1183875094",
+    "key": "",
+    "en": "It's true that firepower is important. Not only to protect us from Mutants and Bandits, but to guarantee our way of living.",
+    "pl": "To prawda, siła ognia jest ważna. Nie tylko chroni nas przed Mutantami i Bandytami, lecz także gwarantuje nasz sposób życia."
+  },
+  {
+    "id": "1183875095",
+    "key": "",
+    "en": "Imagine restructuring Zalesye around community and collective thinking, only for a bunch of souped-up killers to come in from the RO-29 and dominate us through sheer force.",
+    "pl": "Wyobraź sobie, że przebudujemy Zalesye wokół wspólnoty i wspólnego myślenia, a potem z RO-29 przyjdzie banda podrasowanych zabójców i podporządkuje nas sobie czystą siłą."
+  },
+  {
+    "id": "1183875096",
+    "key": "",
+    "en": "But you need more than that for lasting change, my brother. Commonfolk are the ones who feel each and every change before everybody else – <i>they're</i> most exposed. Whoever leads our society has to interact with <i>them,</i> and <i>truly</i> represent their interests.",
+    "pl": "Ale trwała zmiana wymaga czegoś więcej, bracie. Zwykli Ludzie odczuwają każdą zmianę przed innymi. To <i>oni</i> są najbardziej narażeni. Przywódca naszego społeczeństwa musi rozmawiać z <i>nimi</i> i <i>naprawdę</i> reprezentować ich interesy."
+  },
+  {
+    "id": "1183875097",
+    "key": "",
+    "en": "Palatines don't do that; it's their weakness. And Gunners? HA! They only see the weak as people to exploit. We need <u>less</u> of that, not more.",
+    "pl": "Palatyni tego nie robią. To ich słabość. A Strzelcy? HA! W słabych widzą tylko ludzi do wyzyskiwania. Potrzebujemy tego <u>mniej,</u> a nie więcej."
+  },
+  {
+    "id": "1183875098",
+    "key": "",
+    "en": "Mechanists and Acolytes could lead through knowledge.",
+    "pl": "Mechaniści i Akolici mogliby przewodzić dzięki wiedzy."
+  },
+  {
+    "id": "1183875099",
+    "key": "",
+    "en": "Matters of mind and spirit are necessary for human development, and can make our lives better. But that is not a <i>given.</i> Technology can be distorted to attenuate exploitation, and religion has all throughout history been co-opted by the ruling classes as a means of dominating and dulling the senses of the Commonfolk, like alcohol to an addict.",
+    "pl": "Sprawy umysłu i ducha są niezbędne dla rozwoju człowieka i mogą poprawić nasze życie. Ale nie jest to <i>pewne.</i> Technologią można manipulować, by łagodzić skutki wyzysku, a religię klasy rządzące przez całą historię wykorzystywały do podporządkowywania Zwykłych Ludzi i otępiania ich zmysłów, jak alkohol uzależnionego."
+  },
+  {
+    "id": "1183875100",
+    "key": "",
+    "en": "A specialist's proficiency in these subjects is not enough to lead a people, my brother. We need a comprehensive view of the <i>whole picture</i> – how all this relates to the structures of power imbued in society, which need to be <u>destroyed</u> and <u>rebuilt</u> with Commonfolk on top.",
+    "pl": "Biegłość specjalisty w tych dziedzinach nie wystarczy, by przewodzić ludziom, bracie. Musimy widzieć <i>cały obraz:</i> związki tego wszystkiego ze strukturami władzy przenikającymi społeczeństwo. Trzeba je <u>zburzyć</u> i <u>odbudować,</u> stawiając Zwykłych Ludzi na szczycie."
+  },
+  {
+    "id": "1183875101",
+    "key": "",
+    "en": "Otherwise, we overestimate the importance of one single thing – firepower, technology, religion — and then we get fascism, technocracy, theocracy. A perpetuation of our cycle of self-destruction, with few on top and the rest in misery.",
+    "pl": "Inaczej przeceniamy jedną rzecz: siłę ognia, technologię, religię. I dostajemy faszyzm, technokrację, teokrację. Nasz cykl samozniszczenia trwa dalej, z garstką na szczycie i resztą w nędzy."
+  },
+  {
+    "id": "1183875102",
+    "key": "",
+    "en": "Mudlarks and Vultures – only ones who can use the Mist...",
+    "pl": "Błotniarze i Sępy. Tylko oni potrafią korzystać z Mgły..."
+  },
+  {
+    "id": "1183875103",
+    "key": "",
+    "en": "...What on Earth are you talking about, my brother? Granted, you and those Mudlarks – you <i>do</i> know the Mist like no other. That is knowledge which us Rada are lacking. But the Mist is a <i>killer,</i> brother, nothing <i>else.</i> \"Knowing\" it is like a fly \"knowing\" <i>pesticide.</i>",
+    "pl": "... O czym ty mówisz, bracie? Przyznaję, ty i Błotniarze <i>znacie</i> Mgłę jak nikt inny. Tej wiedzy Radzie brakuje. Ale Mgła to <i>zabójca,</i> bracie, <i>nic więcej.</i> „Znać” ją to jak być muchą, która „zna” <i>środek owadobójczy.</i>"
+  },
+  {
+    "id": "1183875104",
+    "key": "",
+    "en": "In a time of strife, of desperate survival, you and the Mudlarks would see us bend the knee to world-ending powers? To some gas-shaped god which brought us the <i>apocalypse?</i> Is the end of suffering through death the only thing we can hope for? I refuse to believe this.",
+    "pl": "W czasach cierpienia i rozpaczliwej walki o przetrwanie ty i Błotniarze każecie nam klękać przed siłami niszczącymi świat? Przed gazowym bóstwem, które sprowadziło <i>apokalipsę?</i> Czy kres cierpienia przez śmierć to jedyne, na co możemy liczyć? Nie chcę w to wierzyć."
+  },
+  {
+    "id": "1183875105",
+    "key": "",
+    "en": "About other things.",
+    "pl": "O innych sprawach."
+  },
+  {
+    "id": "1183875106",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1183875107",
+    "key": "",
+    "en": "Hello, Vulture. Have we met? I'm Bogdan, the Butcher. Tell me if you want to trade for some fine cuts – or if you're interested in <i>organizing.</i>",
+    "pl": "Witaj, Sępie. Znamy się? Jestem Bogdan, rzeźnik. Powiedz, jeśli chcesz pohandlować dobrym mięsem albo interesuje cię <i>organizowanie się.</i>"
+  },
+  {
+    "id": "1183875108",
+    "key": "",
+    "en": "Hello, Vulture. Trudging along like always?",
+    "pl": "Witaj, Sępie. Jak zwykle brniesz przed siebie?"
+  },
+  {
+    "id": "1183875109",
+    "key": "",
+    "en": "Oh, it's a scavenger.",
+    "pl": "O, zbieracz."
+  },
+  {
+    "id": "1183875110",
+    "key": "",
+    "en": "Hello, brother – if I may call you that.",
+    "pl": "Witaj, bracie, jeśli mogę cię tak nazwać."
+  },
+  {
+    "id": "1183875111",
+    "key": "",
+    "en": "Would like to chat.",
+    "pl": "Chciałbym pogadać."
+  },
+  {
+    "id": "1183875112",
+    "key": "",
+    "en": "Let me ask you something.",
+    "pl": "Chcę cię o coś zapytać."
+  },
+  {
+    "id": "1183875113",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "1183875114",
+    "key": "",
+    "en": "Need meat. Want to trade?",
+    "pl": "Potrzebuję mięsa. Pohandlujemy?"
+  },
+  {
+    "id": "1183875115",
+    "key": "",
+    "en": "What do you have today?",
+    "pl": "Co dziś masz?"
+  },
+  {
+    "id": "1183875116",
+    "key": "",
+    "en": "Want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "1183875117",
+    "key": "",
+    "en": "I have a few fresh cuts.",
+    "pl": "Mam kilka świeżych kawałków."
+  },
+  {
+    "id": "1183875118",
+    "key": "",
+    "en": "Take a look!",
+    "pl": "Spójrz!"
+  },
+  {
+    "id": "1183875119",
+    "key": "",
+    "en": "Here's your daily source of protein.",
+    "pl": "Oto twoja dzienna porcja białka."
+  },
+  {
+    "id": "1183875120",
+    "key": "",
+    "en": "Get some of that protein!",
+    "pl": "Weź trochę tego białka!"
+  },
+  {
+    "id": "1183875121",
+    "key": "",
+    "en": "Let's get to it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "1183875122",
+    "key": "",
+    "en": "Drop by again.",
+    "pl": "Wpadnij jeszcze."
+  },
+  {
+    "id": "1183875123",
+    "key": "",
+    "en": "See you later, my brother.",
+    "pl": "Do zobaczenia, bracie."
+  },
+  {
+    "id": "1183875124",
+    "key": "",
+    "en": "I'll be here if you need me.",
+    "pl": "Będę tutaj, jeśli mnie potrzebujesz."
+  },
+  {
+    "id": "1183875125",
+    "key": "",
+    "en": "Let's talk politics sometime.",
+    "pl": "Pogadajmy kiedyś o polityce."
+  },
+  {
+    "id": "1183875126",
+    "key": "",
+    "en": "Bye, now.",
+    "pl": "Na razie."
+  },
+  {
+    "id": "1183875127",
+    "key": "",
+    "en": "I'll kill some Mutants for you.",
+    "pl": "Zabiję dla ciebie kilku Mutantów."
+  },
+  {
+    "id": "1183875128",
+    "key": "",
+    "en": "Proud of your work, I see.",
+    "pl": "Widzę, że jesteś dumny ze swojej pracy."
+  },
+  {
+    "id": "1183875129",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "1183875130",
+    "key": "",
+    "en": "Kind of a dangerous gig, so I understand.",
+    "pl": "Trochę niebezpieczna robota, więc rozumiem."
+  },
+  {
+    "id": "1183875131",
+    "key": "",
+    "en": "Do you have other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "1183875132",
+    "key": "",
+    "en": "Don't worry about it.",
+    "pl": "Nie przejmuj się."
+  },
+  {
+    "id": "1183875133",
+    "key": "",
+    "en": "Let me know if it happens again.",
+    "pl": "Daj znać, jeśli to się powtórzy."
+  },
+  {
+    "id": "1183875134",
+    "key": "",
+    "en": "I'll gather meat for you.",
+    "pl": "Zdobędę dla ciebie mięso."
+  },
+  {
+    "id": "1183875135",
+    "key": "",
+    "en": "Ok. Let me know if you need anything.",
+    "pl": "Dobrze. Daj znać, jeśli czegoś potrzebujesz."
+  },
+  {
+    "id": "1183875136",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "1183875137",
+    "key": "",
+    "en": "Alright, no rush.",
+    "pl": "Dobra, bez pośpiechu."
+  },
+  {
+    "id": "1183875138",
+    "key": "",
+    "en": "I'd rather do something else – got anything?",
+    "pl": "Wolałbym coś innego. Masz coś?"
+  },
+  {
+    "id": "1183875139",
+    "key": "",
+    "en": "Thanks – be back later.",
+    "pl": "Dzięki. Wrócę później."
+  },
+  {
+    "id": "1183875140",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "1183875141",
+    "key": "",
+    "en": "Rada need help with something?",
+    "pl": "Rada potrzebuje w czymś pomocy?"
+  },
+  {
+    "id": "1183875142",
+    "key": "",
+    "en": "Do you have work for a scavenger?",
+    "pl": "Masz pracę dla zbieracza?"
+  },
+  {
+    "id": "1183875143",
+    "key": "",
+    "en": "Need any help, Bogdan?",
+    "pl": "Potrzebujesz pomocy, Bogdan?"
+  },
+  {
+    "id": "1183875144",
+    "key": "",
+    "en": "Some Mutants have been drawn to the scent of raw meat 'round here. I need 'em taken care of – care to help? Somethin’ in it for ya.",
+    "pl": "Zapach surowego mięsa przyciągnął tu paru Mutantów. Trzeba się nimi zająć. Pomożesz? Coś na tym zarobisz."
+  },
+  {
+    "id": "1183875145",
+    "key": "",
+    "en": "We’re having a bit of trouble with Mutant packs too close to the Mire. Need help from a Vulture.",
+    "pl": "Mamy kłopot ze stadami Mutantów zbyt blisko Trzęsawiska. Potrzeba pomocy Sępa."
+  },
+  {
+    "id": "1183875146",
+    "key": "",
+    "en": "Good job, Vulture. Here, got some stuff for you.",
+    "pl": "Dobra robota, Sępie. Proszę, mam coś dla ciebie."
+  },
+  {
+    "id": "1183875147",
+    "key": "",
+    "en": "Knew I could count on ya! Here's your reward.",
+    "pl": "Wiedziałem, że mogę na ciebie liczyć! Oto nagroda."
+  },
+  {
+    "id": "1183875148",
+    "key": "",
+    "en": "We're all safer through your efforts. Here you go.",
+    "pl": "Dzięki twojej pracy wszyscy jesteśmy bezpieczniejsi. Proszę."
+  },
+  {
+    "id": "1183875149",
+    "key": "",
+    "en": "Y’know, I can actually make decent grub outta Mutants and whatever other animals you hunt. Why don’tcha help me gather some raw meat?",
+    "pl": "Wiesz, potrafię zrobić całkiem dobre żarcie z Mutantów i innych zwierząt, które upolujesz. Może pomożesz mi zdobyć surowe mięso?"
+  },
+  {
+    "id": "1183875150",
+    "key": "",
+    "en": "Been looking for some more meat to prepare – supplies've been low. Help me get good cuts and I’ll reward you.",
+    "pl": "Szukam mięsa do obróbki. Zapasy się kurczą. Pomóż zdobyć dobre kawałki, a cię wynagrodzę."
+  },
+  {
+    "id": "1183875151",
+    "key": "",
+    "en": "These will do nicely! Here, as promised.",
+    "pl": "Te będą w sam raz! Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "1183875152",
+    "key": "",
+    "en": "Gonna make somethin' <i>prime</i> outta this, yeah. Here's your pay.",
+    "pl": "Zrobię z tego coś <i>pierwszorzędnego.</i> Oto zapłata."
+  },
+  {
+    "id": "1183875153",
+    "key": "",
+    "en": "Thanks for the help, these are good – here you go.",
+    "pl": "Dzięki za pomoc, dobre kawałki. Proszę."
+  },
+  {
+    "id": "1183875154",
+    "key": "",
+    "en": "Don't got any work right now – maybe later.",
+    "pl": "Teraz nie mam pracy. Może później."
+  },
+  {
+    "id": "1183875155",
+    "key": "",
+    "en": "'Fraid this'll be a day of regular scavenging for ya – I got nothin'.",
+    "pl": "Chyba czeka cię dziś zwykłe zbieractwo. Nic nie mam."
+  },
+  {
+    "id": "1183875156",
+    "key": "",
+    "en": "Hmm, got no work for ya right now – maybe wait a lil' while.",
+    "pl": "Hmm, na razie nie mam pracy. Może odczekaj chwilę."
+  },
+  {
+    "id": "1545480470528",
+    "key": "",
+    "en": "Fine cuts?",
+    "pl": "Dobre kawałki?"
+  },
+  {
+    "id": "1545505636352",
+    "key": "",
+    "en": "I've different cuts of meat from mutated <i>and</i> non-mutated animals. There's options for every budget. Even Vultures gotta eat, right?",
+    "pl": "Mam różne kawałki mięsa zwierząt zmutowanych <i>i</i> zwyczajnych. Na każdą kieszeń. Nawet Sępy muszą jeść, co?"
+  },
+  {
+    "id": "1545505636353",
+    "key": "",
+    "en": "I also have some jobs for you if you can't trade right now.",
+    "pl": "Mam też dla ciebie zlecenia, jeśli teraz nie stać cię na handel."
+  },
+  {
+    "id": "1545505636354",
+    "key": "",
+    "en": "Organizing?",
+    "pl": "Organizowanie się?"
+  },
+  {
+    "id": "1545505636355",
+    "key": "",
+    "en": "Indeed! Organizing is the way to go, my brother. How else do we survive this wasteland? How else do we defeat the Mist?",
+    "pl": "Właśnie! Organizowanie się to właściwa droga, bracie. Jak inaczej przetrwamy na pustkowiach? Jak inaczej pokonamy Mgłę?"
+  },
+  {
+    "id": "1545505636356",
+    "key": "",
+    "en": "Can't do that shit alone! We must all lock arms, collectivize our work and reap the benefits! That's the way of the Rada!",
+    "pl": "Samemu gówno zdziałasz! Musimy wszyscy stanąć ramię w ramię, wspólnie pracować i dzielić owoce tej pracy! Oto droga Rady!"
+  },
+  {
+    "id": "1545505636357",
+    "key": "",
+    "en": "Not sure I'm interested.",
+    "pl": "Nie wiem, czy mnie to interesuje."
+  },
+  {
+    "id": "1545505636358",
+    "key": "",
+    "en": "I've heard Vultures like to do things alone – I'm not knocking your hustle, but please reconsider that philosophy! Even pre-War history shows the power we have as a group, to solve issues, to increase production, to <b>eradicate</b> scarcity. Even in these dire conditions!",
+    "pl": "Słyszałem, że Sępy lubią działać samotnie. Nie krytykuję twojej zaradności, ale przemyśl tę filozofię! Już przedwojenna historia pokazuje siłę grupy: rozwiązywanie problemów, zwiększanie produkcji, <b>likwidowanie</b> niedoborów. Nawet w tych strasznych warunkach!"
+  },
+  {
+    "id": "1545505636359",
+    "key": "",
+    "en": "Do not cling to this image of a self-made survivalist; it is a fabrication, brother, as you rely on traders and clients to make a living.",
+    "pl": "Nie trzymaj się obrazu człowieka, który wszystko zawdzięcza wyłącznie sobie. To fikcja, bracie. Przecież twoje utrzymanie zależy od handlarzy i klientów."
+  },
+  {
+    "id": "1545505636360",
+    "key": "",
+    "en": "I'd like to know more about organizing.",
+    "pl": "Chcę dowiedzieć się więcej o organizowaniu się."
+  },
+  {
+    "id": "1545505636361",
+    "key": "",
+    "en": "An important first step, my brother. Granted, it's not the simplest process for those used to putting themselves before others. But we can teach you to think <i>differently.</i>",
+    "pl": "Ważny pierwszy krok, bracie. Przyznaję, to niełatwe dla tych, którzy przywykli stawiać siebie ponad innymi. Ale możemy nauczyć cię myśleć <i>inaczej.</i>"
+  },
+  {
+    "id": "1545505636362",
+    "key": "",
+    "en": "We can teach you about <i>community.</i> We can infuse your blood with the future of Zalesye!",
+    "pl": "Możemy nauczyć cię, czym jest <i>wspólnota.</i> Napełnić twoje żyły przyszłością Zalesye!"
+  },
+  {
+    "id": "1545505636363",
+    "key": "",
+    "en": "Changed my mind – tell me more about the Rada.",
+    "pl": "Zmieniłem zdanie. Opowiedz mi więcej o Radzie."
+  },
+  {
+    "id": "1545505636364",
+    "key": "",
+    "en": "Is that so? Well, I'm glad you have some interest!",
+    "pl": "Naprawdę? Cieszę się, że cię to interesuje!"
+  },
+  {
+    "id": "1545505636365",
+    "key": "",
+    "en": "Tell me more about organizing with the Rada.",
+    "pl": "Opowiedz mi więcej o organizowaniu się z Radą."
+  },
+  {
+    "id": "1545505636366",
+    "key": "",
+    "en": "You think the Rada should lead Zalesye?",
+    "pl": "Uważasz, że Rada powinna przewodzić Zalesye?"
+  },
+  {
+    "id": "1545505636367",
+    "key": "",
+    "en": "Yes. Compared to other factions, we are the best choice. Do you disagree?",
+    "pl": "Tak. W porównaniu z innymi frakcjami jesteśmy najlepszym wyborem. Nie zgadzasz się?"
+  },
+  {
+    "id": "1545505636368",
+    "key": "",
+    "en": "Not convinced on you leading Zalesye.",
+    "pl": "Nie jestem przekonany, że powinniście przewodzić Zalesye."
+  },
+  {
+    "id": "1545505636369",
+    "key": "",
+    "en": "I see. And what is the best alternative, in your opinion?",
+    "pl": "Rozumiem. A twoim zdaniem jaka jest najlepsza alternatywa?"
+  },
+  {
+    "id": "1545505636370",
+    "key": "",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już ruszać."
+  },
+  {
+    "id": "1545505636371",
+    "key": "",
+    "en": "How does organizing with the Rada work?",
+    "pl": "Jak wygląda organizowanie się z Radą?"
+  },
+  {
+    "id": "1545505636372",
+    "key": "",
+    "en": "Organizing means working in tandem with many others so as to lighten the overall load. In our precarious situation, basic <i>subsistence</i> is the goal: supplying food, water, warmth and <i>security</i> to as many people as we can.",
+    "pl": "To współpraca z wieloma innymi ludźmi, by zmniejszyć wspólny ciężar. W naszej niepewnej sytuacji celem jest podstawowe <i>utrzymanie:</i> zapewnienie jedzenia, wody, ciepła i <i>bezpieczeństwa</i> jak największej liczbie osób."
+  },
+  {
+    "id": "1545505636373",
+    "key": "",
+    "en": "You'd be helping with <i>security,</i> mostly. We can always use a Vulture's firepower and expertise in traversing Zalesye. You'd also help us bring more people in, of course.",
+    "pl": "Pomagałbyś głównie przy <i>bezpieczeństwie.</i> Siła ognia Sępa i umiejętność przemierzania Zalesye zawsze się przydadzą. Oczywiście pomagałbyś też przyciągać nowych ludzi."
+  },
+  {
+    "id": "1545505636374",
+    "key": "",
+    "en": "Meanwhile, we can educate, clothe and even feed you. Seems you don't need a spot in our bunkers that much, but maybe in an emergency? This type of thing is never set in stone, my brother. You have to live it to live it.",
+    "pl": "My zaś możemy cię uczyć, ubrać, a nawet nakarmić. Chyba nie potrzebujesz za bardzo miejsca w naszych bunkrach, ale może w nagłym wypadku? Nic nie jest tu ustalone raz na zawsze, bracie. Trzeba tego doświadczyć na własnej skórze."
+  },
+  {
+    "id": "1545505636375",
+    "key": "",
+    "en": "Are there any Vultures in the Rada?",
+    "pl": "Są w Radzie jakieś Sępy?"
+  },
+  {
+    "id": "1545505636376",
+    "key": "",
+    "en": "I haven't seen a scavenger go through recruitment even once – they all flee the responsibility.",
+    "pl": "Jeszcze nie widziałem, żeby choć jeden zbieracz przeszedł rekrutację. Wszyscy uciekają przed odpowiedzialnością."
+  },
+  {
+    "id": "1545505636377",
+    "key": "",
+    "en": "If I sound harsh, it's only to warn you that this is not a light decision – organizing is about <i>commitment.</i>",
+    "pl": "Jeśli brzmię surowo, to tylko dlatego, że chcę ostrzec: to nie jest błaha decyzja. Organizowanie się wymaga <i>zaangażowania.</i>"
+  },
+  {
+    "id": "1545505636378",
+    "key": "",
+    "en": "Any infighting among you?",
+    "pl": "Zdarzają się wam wewnętrzne konflikty?"
+  },
+  {
+    "id": "1545505636379",
+    "key": "",
+    "en": "Well, of course. We're trying to structurally and fundamentally change society – not really a way to do that <i>without</i> some disagreements!",
+    "pl": "Oczywiście. Próbujemy zmienić społeczeństwo u samych podstaw, przebudować jego strukturę. Nie da się tego zrobić <i>bez</i> różnicy zdań!"
+  },
+  {
+    "id": "1545505636380",
+    "key": "",
+    "en": "But it's nothing you need to worry about beforehand. You'd have to be in the group to know and care about these disputes. Externally? We're all in unison.",
+    "pl": "Ale nie musisz się tym martwić zawczasu. Musiałbyś być częścią grupy, żeby znać te spory i się nimi przejmować. Na zewnątrz? Wszyscy mówimy jednym głosem."
+  },
+  {
+    "id": "1545505636381",
+    "key": "",
+    "en": "What are the day-to-day activities?",
+    "pl": "Jak wyglądają codzienne zajęcia?"
+  },
+  {
+    "id": "1545505636382",
+    "key": "",
+    "en": "Some tasks involve spreading the word, others involve your own specialty – scavenging, handling firearms, protecting each other from all sorts of threats; things you can <i>teach.</i>",
+    "pl": "Część zadań polega na szerzeniu naszych idei, inne dotyczą twojej specjalności: zbieractwa, obsługi broni, wzajemnej ochrony przed zagrożeniami. Rzeczy, których możesz <i>uczyć.</i>"
+  },
+  {
+    "id": "1545505636383",
+    "key": "",
+    "en": "But you're also supposed to <i>learn.</i> We study books from before the War and try to adapt them to our crazy world of today. We have lectures and discussion groups to try and set a blueprint for how to move forward – <i>everyone</i> contributes.",
+    "pl": "Ale masz też sam się <i>uczyć.</i> Studiujemy przedwojenne książki i dostosowujemy je do dzisiejszego szalonego świata. Na wykładach i w grupach dyskusyjnych wytyczamy drogę naprzód. <i>Każdy</i> wnosi swój wkład."
+  },
+  {
+    "id": "1545505636384",
+    "key": "",
+    "en": "Oh, have you met Mila? She's one of our best teachers. You'll love her.",
+    "pl": "Poznałeś już Milę? To jedna z naszych najlepszych nauczycielek. Polubisz ją."
+  },
+  {
+    "id": "1545505636385",
+    "key": "",
+    "en": "About something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "1545505636386",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1545505636387",
+    "key": "",
+    "en": "You've shown interest, but have you ever shown <i>commitment?</i>",
+    "pl": "Okazałeś zainteresowanie, ale czy kiedykolwiek okazałeś <i>zaangażowanie?</i>"
+  },
+  {
+    "id": "1545505636388",
+    "key": "",
+    "en": "And if even these basics disinterest you, I'm afraid we'll be occasional business partners and not much else.",
+    "pl": "A jeśli nawet te podstawy cię nie interesują, obawiam się, że pozostaniemy okazjonalnymi partnerami w interesach i nikim więcej."
+  },
+  {
+    "id": "1545505636389",
+    "key": "",
+    "en": "Palatines and Gunners might be better; they have <i>power.</i>",
+    "pl": "Palatyni i Strzelcy mogą być lepsi. Mają <i>siłę.</i>"
+  },
+  {
+    "id": "1545505636390",
+    "key": "",
+    "en": "It's true that firepower is important. Not only to protect us from Mutants and Bandits, but to guarantee our way of living.",
+    "pl": "To prawda, siła ognia jest ważna. Nie tylko chroni nas przed Mutantami i Bandytami, lecz także gwarantuje nasz sposób życia."
+  },
+  {
+    "id": "1545505636391",
+    "key": "",
+    "en": "Imagine restructuring Zalesye around community and collective thinking, only for a bunch of souped-up killers to come in from the RO-29 and dominate us through sheer force.",
+    "pl": "Wyobraź sobie, że przebudujemy Zalesye wokół wspólnoty i wspólnego myślenia, a potem z RO-29 przyjdzie banda podrasowanych zabójców i podporządkuje nas sobie czystą siłą."
+  },
+  {
+    "id": "1545505636392",
+    "key": "",
+    "en": "But you need more than that for lasting change, my brother. Commonfolk are the ones who feel each and every change before everybody else – <i>they're</i> most exposed. Whoever leads our society has to interact with <i>them,</i> and <i>truly</i> represent their interests.",
+    "pl": "Ale trwała zmiana wymaga czegoś więcej, bracie. Zwykli Ludzie odczuwają każdą zmianę przed innymi. To <i>oni</i> są najbardziej narażeni. Przywódca naszego społeczeństwa musi rozmawiać z <i>nimi</i> i <i>naprawdę</i> reprezentować ich interesy."
+  },
+  {
+    "id": "1545505636393",
+    "key": "",
+    "en": "Palatines don't do that; it's their weakness. And Gunners? HA! They only see the weak as people to exploit. We need <u>less</u> of that, not more.",
+    "pl": "Palatyni tego nie robią. To ich słabość. A Strzelcy? HA! W słabych widzą tylko ludzi do wyzyskiwania. Potrzebujemy tego <u>mniej,</u> a nie więcej."
+  },
+  {
+    "id": "1545505636394",
+    "key": "",
+    "en": "Mechanists and Acolytes could lead through knowledge.",
+    "pl": "Mechaniści i Akolici mogliby przewodzić dzięki wiedzy."
+  },
+  {
+    "id": "1545505636395",
+    "key": "",
+    "en": "Matters of mind and spirit are necessary for human development, and can make our lives better. But that is not a <i>given.</i> Technology can be distorted to attenuate exploitation, and religion has all throughout history been co-opted by the ruling classes as a means of dominating and dulling the senses of the Commonfolk, like alcohol to an addict.",
+    "pl": "Sprawy umysłu i ducha są niezbędne dla rozwoju człowieka i mogą poprawić nasze życie. Ale nie jest to <i>pewne.</i> Technologią można manipulować, by łagodzić skutki wyzysku, a religię klasy rządzące przez całą historię wykorzystywały do podporządkowywania Zwykłych Ludzi i otępiania ich zmysłów, jak alkohol uzależnionego."
+  },
+  {
+    "id": "1545505636396",
+    "key": "",
+    "en": "A specialist's proficiency in these subjects is not enough to lead a people, my brother. We need a comprehensive view of the <i>whole picture</i> – how all this relates to the structures of power imbued in society, which need to be <u>destroyed</u> and <u>rebuilt</u> with Commonfolk on top.",
+    "pl": "Biegłość specjalisty w tych dziedzinach nie wystarczy, by przewodzić ludziom, bracie. Musimy widzieć <i>cały obraz:</i> związki tego wszystkiego ze strukturami władzy przenikającymi społeczeństwo. Trzeba je <u>zburzyć</u> i <u>odbudować,</u> stawiając Zwykłych Ludzi na szczycie."
+  },
+  {
+    "id": "1545505636397",
+    "key": "",
+    "en": "Otherwise, we overestimate the importance of one single thing – firepower, technology, religion — and then we get fascism, technocracy, theocracy. A perpetuation of our cycle of self-destruction, with few on top and the rest in misery.",
+    "pl": "Inaczej przeceniamy jedną rzecz: siłę ognia, technologię, religię. I dostajemy faszyzm, technokrację, teokrację. Nasz cykl samozniszczenia trwa dalej, z garstką na szczycie i resztą w nędzy."
+  },
+  {
+    "id": "1545505636398",
+    "key": "",
+    "en": "Mudlarks and Vultures – only ones who can use the Mist...",
+    "pl": "Błotniarze i Sępy. Tylko oni potrafią korzystać z Mgły..."
+  },
+  {
+    "id": "1545509830656",
+    "key": "",
+    "en": "...What on Earth are you talking about, my brother? Granted, you and those Mudlarks – you <i>do</i> know the Mist like no other. That is knowledge which us Rada are lacking. But the Mist is a <i>killer,</i> brother, nothing <i>else.</i> \"Knowing\" it is like a fly \"knowing\" <i>pesticide.</i>",
+    "pl": "... O czym ty mówisz, bracie? Przyznaję, ty i Błotniarze <i>znacie</i> Mgłę jak nikt inny. Tej wiedzy Radzie brakuje. Ale Mgła to <i>zabójca,</i> bracie, <i>nic więcej.</i> „Znać” ją to jak być muchą, która „zna” <i>środek owadobójczy.</i>"
+  },
+  {
+    "id": "1545509830657",
+    "key": "",
+    "en": "In a time of strife, of desperate survival, you and the Mudlarks would see us bend the knee to world-ending powers? To some gas-shaped god which brought us the <i>apocalypse?</i> Is the end of suffering through death the only thing we can hope for? I refuse to believe this.",
+    "pl": "W czasach cierpienia i rozpaczliwej walki o przetrwanie ty i Błotniarze każecie nam klękać przed siłami niszczącymi świat? Przed gazowym bóstwem, które sprowadziło <i>apokalipsę?</i> Czy kres cierpienia przez śmierć to jedyne, na co możemy liczyć? Nie chcę w to wierzyć."
+  },
+  {
+    "id": "1545509830658",
+    "key": "",
+    "en": "About other things.",
+    "pl": "O innych sprawach."
+  },
+  {
+    "id": "1545509830659",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "1545509830660",
+    "key": "",
+    "en": "Hello, Vulture. Have we met? I'm Bogdan, the Butcher. Tell me if you want to trade for some fine cuts – or if you're interested in <i>organizing.</i>",
+    "pl": "Witaj, Sępie. Znamy się? Jestem Bogdan, rzeźnik. Powiedz, jeśli chcesz pohandlować dobrym mięsem albo interesuje cię <i>organizowanie się.</i>"
+  },
+  {
+    "id": "1545509830661",
+    "key": "",
+    "en": "Hello, Vulture. Trudging along like always?",
+    "pl": "Witaj, Sępie. Jak zwykle brniesz przed siebie?"
+  },
+  {
+    "id": "1545509830662",
+    "key": "",
+    "en": "Oh, it's a scavenger.",
+    "pl": "O, zbieracz."
+  },
+  {
+    "id": "1545509830663",
+    "key": "",
+    "en": "Hello, brother – if I may call you that.",
+    "pl": "Witaj, bracie, jeśli mogę cię tak nazwać."
+  },
+  {
+    "id": "1545509830664",
+    "key": "",
+    "en": "Would like to chat.",
+    "pl": "Chciałbym pogadać."
+  },
+  {
+    "id": "1545509830665",
+    "key": "",
+    "en": "Let me ask you something.",
+    "pl": "Chcę cię o coś zapytać."
+  },
+  {
+    "id": "1545509830666",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "1545509830667",
+    "key": "",
+    "en": "Need meat. Want to trade?",
+    "pl": "Potrzebuję mięsa. Pohandlujemy?"
+  },
+  {
+    "id": "1545509830668",
+    "key": "",
+    "en": "What do you have today?",
+    "pl": "Co dziś masz?"
+  },
+  {
+    "id": "1545509830669",
+    "key": "",
+    "en": "Want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "1545509830670",
+    "key": "",
+    "en": "I have a few fresh cuts.",
+    "pl": "Mam kilka świeżych kawałków."
+  },
+  {
+    "id": "1545509830671",
+    "key": "",
+    "en": "Take a look!",
+    "pl": "Spójrz!"
+  },
+  {
+    "id": "1545509830672",
+    "key": "",
+    "en": "Here's your daily source of protein.",
+    "pl": "Oto twoja dzienna porcja białka."
+  },
+  {
+    "id": "1545509830673",
+    "key": "",
+    "en": "Get some of that protein!",
+    "pl": "Weź trochę tego białka!"
+  },
+  {
+    "id": "1545509830674",
+    "key": "",
+    "en": "Let's get to it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "1545509830675",
+    "key": "",
+    "en": "Drop by again.",
+    "pl": "Wpadnij jeszcze."
+  },
+  {
+    "id": "1545509830676",
+    "key": "",
+    "en": "See you later, my brother.",
+    "pl": "Do zobaczenia, bracie."
+  },
+  {
+    "id": "1545509830677",
+    "key": "",
+    "en": "I'll be here if you need me.",
+    "pl": "Będę tutaj, jeśli mnie potrzebujesz."
+  },
+  {
+    "id": "1545509830678",
+    "key": "",
+    "en": "Let's talk politics sometime.",
+    "pl": "Pogadajmy kiedyś o polityce."
+  },
+  {
+    "id": "1545509830679",
+    "key": "",
+    "en": "Bye, now.",
+    "pl": "Na razie."
+  },
+  {
+    "id": "1545509830680",
+    "key": "",
+    "en": "I'll kill some Mutants for you.",
+    "pl": "Zabiję dla ciebie kilku Mutantów."
+  },
+  {
+    "id": "1545509830681",
+    "key": "",
+    "en": "Proud of your work, I see.",
+    "pl": "Widzę, że jesteś dumny ze swojej pracy."
+  },
+  {
+    "id": "1545509830682",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "1545509830683",
+    "key": "",
+    "en": "Kind of a dangerous gig, so I understand.",
+    "pl": "Trochę niebezpieczna robota, więc rozumiem."
+  },
+  {
+    "id": "1545509830684",
+    "key": "",
+    "en": "Do you have other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "1545509830685",
+    "key": "",
+    "en": "Don't worry about it.",
+    "pl": "Nie przejmuj się."
+  },
+  {
+    "id": "1545509830686",
+    "key": "",
+    "en": "Let me know if it happens again.",
+    "pl": "Daj znać, jeśli to się powtórzy."
+  },
+  {
+    "id": "1545509830687",
+    "key": "",
+    "en": "I'll gather meat for you.",
+    "pl": "Zdobędę dla ciebie mięso."
+  },
+  {
+    "id": "1545509830688",
+    "key": "",
+    "en": "Ok. Let me know if you need anything.",
+    "pl": "Dobrze. Daj znać, jeśli czegoś potrzebujesz."
+  },
+  {
+    "id": "1545509830689",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "1545509830690",
+    "key": "",
+    "en": "Alright, no rush.",
+    "pl": "Dobra, bez pośpiechu."
+  },
+  {
+    "id": "1545509830691",
+    "key": "",
+    "en": "I'd rather do something else – got anything?",
+    "pl": "Wolałbym coś innego. Masz coś?"
+  },
+  {
+    "id": "1545509830692",
+    "key": "",
+    "en": "Thanks – be back later.",
+    "pl": "Dzięki. Wrócę później."
+  },
+  {
+    "id": "1545509830693",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "1545509830694",
+    "key": "",
+    "en": "Rada need help with something?",
+    "pl": "Rada potrzebuje w czymś pomocy?"
+  },
+  {
+    "id": "1545509830695",
+    "key": "",
+    "en": "Do you have work for a scavenger?",
+    "pl": "Masz pracę dla zbieracza?"
+  },
+  {
+    "id": "1545509830696",
+    "key": "",
+    "en": "Need any help, Bogdan?",
+    "pl": "Potrzebujesz pomocy, Bogdan?"
+  },
+  {
+    "id": "1545509830697",
+    "key": "",
+    "en": "Some Mutants have been drawn to the scent of raw meat 'round here. I need 'em taken care of – care to help? Somethin’ in it for ya.",
+    "pl": "Zapach surowego mięsa przyciągnął tu paru Mutantów. Trzeba się nimi zająć. Pomożesz? Coś na tym zarobisz."
+  },
+  {
+    "id": "1545509830698",
+    "key": "",
+    "en": "We’re having a bit of trouble with Mutant packs too close to the Mire. Need help from a Vulture.",
+    "pl": "Mamy kłopot ze stadami Mutantów zbyt blisko Trzęsawiska. Potrzeba pomocy Sępa."
+  },
+  {
+    "id": "1545509830699",
+    "key": "",
+    "en": "Good job, Vulture. Here, got some stuff for you.",
+    "pl": "Dobra robota, Sępie. Proszę, mam coś dla ciebie."
+  },
+  {
+    "id": "1545509830700",
+    "key": "",
+    "en": "Knew I could count on ya! Here's your reward.",
+    "pl": "Wiedziałem, że mogę na ciebie liczyć! Oto nagroda."
+  },
+  {
+    "id": "1545509830701",
+    "key": "",
+    "en": "We're all safer through your efforts. Here you go.",
+    "pl": "Dzięki twojej pracy wszyscy jesteśmy bezpieczniejsi. Proszę."
+  },
+  {
+    "id": "1545509830702",
+    "key": "",
+    "en": "Y’know, I can actually make decent grub outta Mutants and whatever other animals you hunt. Why don’tcha help me gather some raw meat?",
+    "pl": "Wiesz, potrafię zrobić całkiem dobre żarcie z Mutantów i innych zwierząt, które upolujesz. Może pomożesz mi zdobyć surowe mięso?"
+  },
+  {
+    "id": "1545509830703",
+    "key": "",
+    "en": "Been looking for some more meat to prepare – supplies've been low. Help me get good cuts and I’ll reward you.",
+    "pl": "Szukam mięsa do obróbki. Zapasy się kurczą. Pomóż zdobyć dobre kawałki, a cię wynagrodzę."
+  },
+  {
+    "id": "1545509830704",
+    "key": "",
+    "en": "These will do nicely! Here, as promised.",
+    "pl": "Te będą w sam raz! Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "1545509830705",
+    "key": "",
+    "en": "Gonna make somethin' <i>prime</i> outta this, yeah. Here's your pay.",
+    "pl": "Zrobię z tego coś <i>pierwszorzędnego.</i> Oto zapłata."
+  },
+  {
+    "id": "1545509830706",
+    "key": "",
+    "en": "Thanks for the help, these are good – here you go.",
+    "pl": "Dzięki za pomoc, dobre kawałki. Proszę."
+  },
+  {
+    "id": "1545509830707",
+    "key": "",
+    "en": "Don't got any work right now – maybe later.",
+    "pl": "Teraz nie mam pracy. Może później."
+  },
+  {
+    "id": "1545509830708",
+    "key": "",
+    "en": "'Fraid this'll be a day of regular scavenging for ya – I got nothin'.",
+    "pl": "Chyba czeka cię dziś zwykłe zbieractwo. Nic nie mam."
+  },
+  {
+    "id": "1545509830709",
+    "key": "",
+    "en": "Hmm, got no work for ya right now – maybe wait a lil' while.",
+    "pl": "Hmm, na razie nie mam pracy. Może odczekaj chwilę."
+  },
+  {
+    "id": "363577203523584",
+    "key": "",
+    "en": "Fine cuts?",
+    "pl": "Dobre kawałki?"
+  },
+  {
+    "id": "363577224495104",
+    "key": "",
+    "en": "I've different cuts of meat from mutated <i>and</i> non-mutated animals. There's options for every budget. Even Vultures gotta eat, right?",
+    "pl": "Mam różne kawałki mięsa zwierząt zmutowanych <i>i</i> zwyczajnych. Na każdą kieszeń. Nawet Sępy muszą jeść, co?"
+  },
+  {
+    "id": "363577224495105",
+    "key": "",
+    "en": "I also have some jobs for you if you can't trade right now.",
+    "pl": "Mam też dla ciebie zlecenia, jeśli teraz nie stać cię na handel."
+  },
+  {
+    "id": "363577224495106",
+    "key": "",
+    "en": "Organizing?",
+    "pl": "Organizowanie się?"
+  },
+  {
+    "id": "363577224495107",
+    "key": "",
+    "en": "Indeed! Organizing is the way to go, my brother. How else do we survive this wasteland? How else do we defeat the Mist?",
+    "pl": "Właśnie! Organizowanie się to właściwa droga, bracie. Jak inaczej przetrwamy na pustkowiach? Jak inaczej pokonamy Mgłę?"
+  },
+  {
+    "id": "363577224495108",
+    "key": "",
+    "en": "Can't do that shit alone! We must all lock arms, collectivize our work and reap the benefits! That's the way of the Rada!",
+    "pl": "Samemu gówno zdziałasz! Musimy wszyscy stanąć ramię w ramię, wspólnie pracować i dzielić owoce tej pracy! Oto droga Rady!"
+  },
+  {
+    "id": "363577224495109",
+    "key": "",
+    "en": "Not sure I'm interested.",
+    "pl": "Nie wiem, czy mnie to interesuje."
+  },
+  {
+    "id": "363577224495110",
+    "key": "",
+    "en": "I've heard Vultures like to do things alone – I'm not knocking your hustle, but please reconsider that philosophy! Even pre-War history shows the power we have as a group, to solve issues, to increase production, to <b>eradicate</b> scarcity. Even in these dire conditions!",
+    "pl": "Słyszałem, że Sępy lubią działać samotnie. Nie krytykuję twojej zaradności, ale przemyśl tę filozofię! Już przedwojenna historia pokazuje siłę grupy: rozwiązywanie problemów, zwiększanie produkcji, <b>likwidowanie</b> niedoborów. Nawet w tych strasznych warunkach!"
+  },
+  {
+    "id": "363577224495111",
+    "key": "",
+    "en": "Do not cling to this image of a self-made survivalist; it is a fabrication, brother, as you rely on traders and clients to make a living.",
+    "pl": "Nie trzymaj się obrazu człowieka, który wszystko zawdzięcza wyłącznie sobie. To fikcja, bracie. Przecież twoje utrzymanie zależy od handlarzy i klientów."
+  },
+  {
+    "id": "363577224495112",
+    "key": "",
+    "en": "I'd like to know more about organizing.",
+    "pl": "Chcę dowiedzieć się więcej o organizowaniu się."
+  },
+  {
+    "id": "363577224495113",
+    "key": "",
+    "en": "An important first step, my brother. Granted, it's not the simplest process for those used to putting themselves before others. But we can teach you to think <i>differently.</i>",
+    "pl": "Ważny pierwszy krok, bracie. Przyznaję, to niełatwe dla tych, którzy przywykli stawiać siebie ponad innymi. Ale możemy nauczyć cię myśleć <i>inaczej.</i>"
+  },
+  {
+    "id": "363577224495114",
+    "key": "",
+    "en": "We can teach you about <i>community.</i> We can infuse your blood with the future of Zalesye!",
+    "pl": "Możemy nauczyć cię, czym jest <i>wspólnota.</i> Napełnić twoje żyły przyszłością Zalesye!"
+  },
+  {
+    "id": "363577224495115",
+    "key": "",
+    "en": "Changed my mind – tell me more about the Rada.",
+    "pl": "Zmieniłem zdanie. Opowiedz mi więcej o Radzie."
+  },
+  {
+    "id": "363577224495116",
+    "key": "",
+    "en": "Is that so? Well, I'm glad you have some interest!",
+    "pl": "Naprawdę? Cieszę się, że cię to interesuje!"
+  },
+  {
+    "id": "363577224495117",
+    "key": "",
+    "en": "Tell me more about organizing with the Rada.",
+    "pl": "Opowiedz mi więcej o organizowaniu się z Radą."
+  },
+  {
+    "id": "363577224495118",
+    "key": "",
+    "en": "You think the Rada should lead Zalesye?",
+    "pl": "Uważasz, że Rada powinna przewodzić Zalesye?"
+  },
+  {
+    "id": "363577224495119",
+    "key": "",
+    "en": "Yes. Compared to other factions, we are the best choice. Do you disagree?",
+    "pl": "Tak. W porównaniu z innymi frakcjami jesteśmy najlepszym wyborem. Nie zgadzasz się?"
+  },
+  {
+    "id": "363577224495120",
+    "key": "",
+    "en": "Not convinced on you leading Zalesye.",
+    "pl": "Nie jestem przekonany, że powinniście przewodzić Zalesye."
+  },
+  {
+    "id": "363577224495121",
+    "key": "",
+    "en": "I see. And what is the best alternative, in your opinion?",
+    "pl": "Rozumiem. A twoim zdaniem jaka jest najlepsza alternatywa?"
+  },
+  {
+    "id": "363577224495122",
+    "key": "",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już ruszać."
+  },
+  {
+    "id": "363577224495123",
+    "key": "",
+    "en": "How does organizing with the Rada work?",
+    "pl": "Jak wygląda organizowanie się z Radą?"
+  },
+  {
+    "id": "363577224495124",
+    "key": "",
+    "en": "Organizing means working in tandem with many others so as to lighten the overall load. In our precarious situation, basic <i>subsistence</i> is the goal: supplying food, water, warmth and <i>security</i> to as many people as we can.",
+    "pl": "To współpraca z wieloma innymi ludźmi, by zmniejszyć wspólny ciężar. W naszej niepewnej sytuacji celem jest podstawowe <i>utrzymanie:</i> zapewnienie jedzenia, wody, ciepła i <i>bezpieczeństwa</i> jak największej liczbie osób."
+  },
+  {
+    "id": "363577224495125",
+    "key": "",
+    "en": "You'd be helping with <i>security,</i> mostly. We can always use a Vulture's firepower and expertise in traversing Zalesye. You'd also help us bring more people in, of course.",
+    "pl": "Pomagałbyś głównie przy <i>bezpieczeństwie.</i> Siła ognia Sępa i umiejętność przemierzania Zalesye zawsze się przydadzą. Oczywiście pomagałbyś też przyciągać nowych ludzi."
+  },
+  {
+    "id": "363577224495126",
+    "key": "",
+    "en": "Meanwhile, we can educate, clothe and even feed you. Seems you don't need a spot in our bunkers that much, but maybe in an emergency? This type of thing is never set in stone, my brother. You have to live it to live it.",
+    "pl": "My zaś możemy cię uczyć, ubrać, a nawet nakarmić. Chyba nie potrzebujesz za bardzo miejsca w naszych bunkrach, ale może w nagłym wypadku? Nic nie jest tu ustalone raz na zawsze, bracie. Trzeba tego doświadczyć na własnej skórze."
+  },
+  {
+    "id": "363577224495127",
+    "key": "",
+    "en": "Are there any Vultures in the Rada?",
+    "pl": "Są w Radzie jakieś Sępy?"
+  },
+  {
+    "id": "363577224495128",
+    "key": "",
+    "en": "I haven't seen a scavenger go through recruitment even once – they all flee the responsibility.",
+    "pl": "Jeszcze nie widziałem, żeby choć jeden zbieracz przeszedł rekrutację. Wszyscy uciekają przed odpowiedzialnością."
+  },
+  {
+    "id": "363577224495129",
+    "key": "",
+    "en": "If I sound harsh, it's only to warn you that this is not a light decision – organizing is about <i>commitment.</i>",
+    "pl": "Jeśli brzmię surowo, to tylko dlatego, że chcę ostrzec: to nie jest błaha decyzja. Organizowanie się wymaga <i>zaangażowania.</i>"
+  },
+  {
+    "id": "363577224495130",
+    "key": "",
+    "en": "Any infighting among you?",
+    "pl": "Zdarzają się wam wewnętrzne konflikty?"
+  },
+  {
+    "id": "363577224495131",
+    "key": "",
+    "en": "Well, of course. We're trying to structurally and fundamentally change society – not really a way to do that <i>without</i> some disagreements!",
+    "pl": "Oczywiście. Próbujemy zmienić społeczeństwo u samych podstaw, przebudować jego strukturę. Nie da się tego zrobić <i>bez</i> różnicy zdań!"
+  },
+  {
+    "id": "363577224495132",
+    "key": "",
+    "en": "But it's nothing you need to worry about beforehand. You'd have to be in the group to know and care about these disputes. Externally? We're all in unison.",
+    "pl": "Ale nie musisz się tym martwić zawczasu. Musiałbyś być częścią grupy, żeby znać te spory i się nimi przejmować. Na zewnątrz? Wszyscy mówimy jednym głosem."
+  },
+  {
+    "id": "363577224495133",
+    "key": "",
+    "en": "What are the day-to-day activities?",
+    "pl": "Jak wyglądają codzienne zajęcia?"
+  },
+  {
+    "id": "363577224495134",
+    "key": "",
+    "en": "Some tasks involve spreading the word, others involve your own specialty – scavenging, handling firearms, protecting each other from all sorts of threats; things you can <i>teach.</i>",
+    "pl": "Część zadań polega na szerzeniu naszych idei, inne dotyczą twojej specjalności: zbieractwa, obsługi broni, wzajemnej ochrony przed zagrożeniami. Rzeczy, których możesz <i>uczyć.</i>"
+  },
+  {
+    "id": "363577224495135",
+    "key": "",
+    "en": "But you're also supposed to <i>learn.</i> We study books from before the War and try to adapt them to our crazy world of today. We have lectures and discussion groups to try and set a blueprint for how to move forward – <i>everyone</i> contributes.",
+    "pl": "Ale masz też sam się <i>uczyć.</i> Studiujemy przedwojenne książki i dostosowujemy je do dzisiejszego szalonego świata. Na wykładach i w grupach dyskusyjnych wytyczamy drogę naprzód. <i>Każdy</i> wnosi swój wkład."
+  },
+  {
+    "id": "363577224495136",
+    "key": "",
+    "en": "Oh, have you met Mila? She's one of our best teachers. You'll love her.",
+    "pl": "Poznałeś już Milę? To jedna z naszych najlepszych nauczycielek. Polubisz ją."
+  },
+  {
+    "id": "363577224495137",
+    "key": "",
+    "en": "About something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "363577224495138",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "363577224495139",
+    "key": "",
+    "en": "You've shown interest, but have you ever shown <i>commitment?</i>",
+    "pl": "Okazałeś zainteresowanie, ale czy kiedykolwiek okazałeś <i>zaangażowanie?</i>"
+  },
+  {
+    "id": "363577224495140",
+    "key": "",
+    "en": "And if even these basics disinterest you, I'm afraid we'll be occasional business partners and not much else.",
+    "pl": "A jeśli nawet te podstawy cię nie interesują, obawiam się, że pozostaniemy okazjonalnymi partnerami w interesach i nikim więcej."
+  },
+  {
+    "id": "363577224495141",
+    "key": "",
+    "en": "Palatines and Gunners might be better; they have <i>power.</i>",
+    "pl": "Palatyni i Strzelcy mogą być lepsi. Mają <i>siłę.</i>"
+  },
+  {
+    "id": "363577224495142",
+    "key": "",
+    "en": "It's true that firepower is important. Not only to protect us from Mutants and Bandits, but to guarantee our way of living.",
+    "pl": "To prawda, siła ognia jest ważna. Nie tylko chroni nas przed Mutantami i Bandytami, lecz także gwarantuje nasz sposób życia."
+  },
+  {
+    "id": "363577224495143",
+    "key": "",
+    "en": "Imagine restructuring Zalesye around community and collective thinking, only for a bunch of souped-up killers to come in from the RO-29 and dominate us through sheer force.",
+    "pl": "Wyobraź sobie, że przebudujemy Zalesye wokół wspólnoty i wspólnego myślenia, a potem z RO-29 przyjdzie banda podrasowanych zabójców i podporządkuje nas sobie czystą siłą."
+  },
+  {
+    "id": "363577224495144",
+    "key": "",
+    "en": "But you need more than that for lasting change, my brother. Commonfolk are the ones who feel each and every change before everybody else – <i>they're</i> most exposed. Whoever leads our society has to interact with <i>them,</i> and <i>truly</i> represent their interests.",
+    "pl": "Ale trwała zmiana wymaga czegoś więcej, bracie. Zwykli Ludzie odczuwają każdą zmianę przed innymi. To <i>oni</i> są najbardziej narażeni. Przywódca naszego społeczeństwa musi rozmawiać z <i>nimi</i> i <i>naprawdę</i> reprezentować ich interesy."
+  },
+  {
+    "id": "363577224495145",
+    "key": "",
+    "en": "Palatines don't do that; it's their weakness. And Gunners? HA! They only see the weak as people to exploit. We need <u>less</u> of that, not more.",
+    "pl": "Palatyni tego nie robią. To ich słabość. A Strzelcy? HA! W słabych widzą tylko ludzi do wyzyskiwania. Potrzebujemy tego <u>mniej,</u> a nie więcej."
+  },
+  {
+    "id": "363577224495146",
+    "key": "",
+    "en": "Mechanists and Acolytes could lead through knowledge.",
+    "pl": "Mechaniści i Akolici mogliby przewodzić dzięki wiedzy."
+  },
+  {
+    "id": "363577224495147",
+    "key": "",
+    "en": "Matters of mind and spirit are necessary for human development, and can make our lives better. But that is not a <i>given.</i> Technology can be distorted to attenuate exploitation, and religion has all throughout history been co-opted by the ruling classes as a means of dominating and dulling the senses of the Commonfolk, like alcohol to an addict.",
+    "pl": "Sprawy umysłu i ducha są niezbędne dla rozwoju człowieka i mogą poprawić nasze życie. Ale nie jest to <i>pewne.</i> Technologią można manipulować, by łagodzić skutki wyzysku, a religię klasy rządzące przez całą historię wykorzystywały do podporządkowywania Zwykłych Ludzi i otępiania ich zmysłów, jak alkohol uzależnionego."
+  },
+  {
+    "id": "363577224495148",
+    "key": "",
+    "en": "A specialist's proficiency in these subjects is not enough to lead a people, my brother. We need a comprehensive view of the <i>whole picture</i> – how all this relates to the structures of power imbued in society, which need to be <u>destroyed</u> and <u>rebuilt</u> with Commonfolk on top.",
+    "pl": "Biegłość specjalisty w tych dziedzinach nie wystarczy, by przewodzić ludziom, bracie. Musimy widzieć <i>cały obraz:</i> związki tego wszystkiego ze strukturami władzy przenikającymi społeczeństwo. Trzeba je <u>zburzyć</u> i <u>odbudować,</u> stawiając Zwykłych Ludzi na szczycie."
+  },
+  {
+    "id": "363577224495149",
+    "key": "",
+    "en": "Otherwise, we overestimate the importance of one single thing – firepower, technology, religion — and then we get fascism, technocracy, theocracy. A perpetuation of our cycle of self-destruction, with few on top and the rest in misery.",
+    "pl": "Inaczej przeceniamy jedną rzecz: siłę ognia, technologię, religię. I dostajemy faszyzm, technokrację, teokrację. Nasz cykl samozniszczenia trwa dalej, z garstką na szczycie i resztą w nędzy."
+  },
+  {
+    "id": "363577224495150",
+    "key": "",
+    "en": "Mudlarks and Vultures – only ones who can use the Mist...",
+    "pl": "Błotniarze i Sępy. Tylko oni potrafią korzystać z Mgły..."
+  },
+  {
+    "id": "363577224495151",
+    "key": "",
+    "en": "...What on Earth are you talking about, my brother? Granted, you and those Mudlarks – you <i>do</i> know the Mist like no other. That is knowledge which us Rada are lacking. But the Mist is a <i>killer,</i> brother, nothing <i>else.</i> \"Knowing\" it is like a fly \"knowing\" <i>pesticide.</i>",
+    "pl": "... O czym ty mówisz, bracie? Przyznaję, ty i Błotniarze <i>znacie</i> Mgłę jak nikt inny. Tej wiedzy Radzie brakuje. Ale Mgła to <i>zabójca,</i> bracie, <i>nic więcej.</i> „Znać” ją to jak być muchą, która „zna” <i>środek owadobójczy.</i>"
+  },
+  {
+    "id": "363577224495152",
+    "key": "",
+    "en": "In a time of strife, of desperate survival, you and the Mudlarks would see us bend the knee to world-ending powers? To some gas-shaped god which brought us the <i>apocalypse?</i> Is the end of suffering through death the only thing we can hope for? I refuse to believe this.",
+    "pl": "W czasach cierpienia i rozpaczliwej walki o przetrwanie ty i Błotniarze każecie nam klękać przed siłami niszczącymi świat? Przed gazowym bóstwem, które sprowadziło <i>apokalipsę?</i> Czy kres cierpienia przez śmierć to jedyne, na co możemy liczyć? Nie chcę w to wierzyć."
+  },
+  {
+    "id": "363577224495153",
+    "key": "",
+    "en": "About other things.",
+    "pl": "O innych sprawach."
+  },
+  {
+    "id": "363577224495154",
+    "key": "",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "363577224495155",
+    "key": "",
+    "en": "Hello, Vulture. Have we met? I'm Bogdan, the Butcher. Tell me if you want to trade for some fine cuts – or if you're interested in <i>organizing.</i>",
+    "pl": "Witaj, Sępie. Znamy się? Jestem Bogdan, rzeźnik. Powiedz, jeśli chcesz pohandlować dobrym mięsem albo interesuje cię <i>organizowanie się.</i>"
+  },
+  {
+    "id": "363577224495156",
+    "key": "",
+    "en": "Hello, Vulture. Trudging along like always?",
+    "pl": "Witaj, Sępie. Jak zwykle brniesz przed siebie?"
+  },
+  {
+    "id": "363577224495157",
+    "key": "",
+    "en": "Oh, it's a scavenger.",
+    "pl": "O, zbieracz."
+  },
+  {
+    "id": "363577224495158",
+    "key": "",
+    "en": "Hello, brother – if I may call you that.",
+    "pl": "Witaj, bracie, jeśli mogę cię tak nazwać."
+  },
+  {
+    "id": "363577224495159",
+    "key": "",
+    "en": "Would like to chat.",
+    "pl": "Chciałbym pogadać."
+  },
+  {
+    "id": "363577224495160",
+    "key": "",
+    "en": "Let me ask you something.",
+    "pl": "Chcę cię o coś zapytać."
+  },
+  {
+    "id": "363577224495161",
+    "key": "",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "363577224495162",
+    "key": "",
+    "en": "Need meat. Want to trade?",
+    "pl": "Potrzebuję mięsa. Pohandlujemy?"
+  },
+  {
+    "id": "363577224495163",
+    "key": "",
+    "en": "What do you have today?",
+    "pl": "Co dziś masz?"
+  },
+  {
+    "id": "363577224495164",
+    "key": "",
+    "en": "Want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "363577224495165",
+    "key": "",
+    "en": "I have a few fresh cuts.",
+    "pl": "Mam kilka świeżych kawałków."
+  },
+  {
+    "id": "363577224495166",
+    "key": "",
+    "en": "Take a look!",
+    "pl": "Spójrz!"
+  },
+  {
+    "id": "363577224495167",
+    "key": "",
+    "en": "Here's your daily source of protein.",
+    "pl": "Oto twoja dzienna porcja białka."
+  },
+  {
+    "id": "363577224495168",
+    "key": "",
+    "en": "Get some of that protein!",
+    "pl": "Weź trochę tego białka!"
+  },
+  {
+    "id": "363577224495169",
+    "key": "",
+    "en": "Let's get to it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "363577224495170",
+    "key": "",
+    "en": "Drop by again.",
+    "pl": "Wpadnij jeszcze."
+  },
+  {
+    "id": "363577224495171",
+    "key": "",
+    "en": "See you later, my brother.",
+    "pl": "Do zobaczenia, bracie."
+  },
+  {
+    "id": "363577224495172",
+    "key": "",
+    "en": "I'll be here if you need me.",
+    "pl": "Będę tutaj, jeśli mnie potrzebujesz."
+  },
+  {
+    "id": "363577224495173",
+    "key": "",
+    "en": "Let's talk politics sometime.",
+    "pl": "Pogadajmy kiedyś o polityce."
+  },
+  {
+    "id": "363577224495174",
+    "key": "",
+    "en": "Bye, now.",
+    "pl": "Na razie."
+  },
+  {
+    "id": "363577224495175",
+    "key": "",
+    "en": "I'll kill some Mutants for you.",
+    "pl": "Zabiję dla ciebie kilku Mutantów."
+  },
+  {
+    "id": "363577224495176",
+    "key": "",
+    "en": "Proud of your work, I see.",
+    "pl": "Widzę, że jesteś dumny ze swojej pracy."
+  },
+  {
+    "id": "363577224495177",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "363577224495178",
+    "key": "",
+    "en": "Kind of a dangerous gig, so I understand.",
+    "pl": "Trochę niebezpieczna robota, więc rozumiem."
+  },
+  {
+    "id": "363577224495179",
+    "key": "",
+    "en": "Do you have other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "363577224495180",
+    "key": "",
+    "en": "Don't worry about it.",
+    "pl": "Nie przejmuj się."
+  },
+  {
+    "id": "363577224495181",
+    "key": "",
+    "en": "Let me know if it happens again.",
+    "pl": "Daj znać, jeśli to się powtórzy."
+  },
+  {
+    "id": "363577224495182",
+    "key": "",
+    "en": "I'll gather meat for you.",
+    "pl": "Zdobędę dla ciebie mięso."
+  },
+  {
+    "id": "363577224495183",
+    "key": "",
+    "en": "Ok. Let me know if you need anything.",
+    "pl": "Dobrze. Daj znać, jeśli czegoś potrzebujesz."
+  },
+  {
+    "id": "363577224495184",
+    "key": "",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "363577224495185",
+    "key": "",
+    "en": "Alright, no rush.",
+    "pl": "Dobra, bez pośpiechu."
+  },
+  {
+    "id": "363577224495186",
+    "key": "",
+    "en": "I'd rather do something else – got anything?",
+    "pl": "Wolałbym coś innego. Masz coś?"
+  },
+  {
+    "id": "363577224495187",
+    "key": "",
+    "en": "Thanks – be back later.",
+    "pl": "Dzięki. Wrócę później."
+  },
+  {
+    "id": "363577224495188",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "363577224495189",
+    "key": "",
+    "en": "Rada need help with something?",
+    "pl": "Rada potrzebuje w czymś pomocy?"
+  },
+  {
+    "id": "363577224495190",
+    "key": "",
+    "en": "Do you have work for a scavenger?",
+    "pl": "Masz pracę dla zbieracza?"
+  },
+  {
+    "id": "363577224495191",
+    "key": "",
+    "en": "Need any help, Bogdan?",
+    "pl": "Potrzebujesz pomocy, Bogdan?"
+  },
+  {
+    "id": "363577224495192",
+    "key": "",
+    "en": "Some Mutants have been drawn to the scent of raw meat 'round here. I need 'em taken care of – care to help? Somethin’ in it for ya.",
+    "pl": "Zapach surowego mięsa przyciągnął tu paru Mutantów. Trzeba się nimi zająć. Pomożesz? Coś na tym zarobisz."
+  },
+  {
+    "id": "363577224495193",
+    "key": "",
+    "en": "We’re having a bit of trouble with Mutant packs too close to the Mire. Need help from a Vulture.",
+    "pl": "Mamy kłopot ze stadami Mutantów zbyt blisko Trzęsawiska. Potrzeba pomocy Sępa."
+  },
+  {
+    "id": "363577224495194",
+    "key": "",
+    "en": "Good job, Vulture. Here, got some stuff for you.",
+    "pl": "Dobra robota, Sępie. Proszę, mam coś dla ciebie."
+  },
+  {
+    "id": "363577224495195",
+    "key": "",
+    "en": "Knew I could count on ya! Here's your reward.",
+    "pl": "Wiedziałem, że mogę na ciebie liczyć! Oto nagroda."
+  },
+  {
+    "id": "363577224495196",
+    "key": "",
+    "en": "We're all safer through your efforts. Here you go.",
+    "pl": "Dzięki twojej pracy wszyscy jesteśmy bezpieczniejsi. Proszę."
+  },
+  {
+    "id": "363577224495197",
+    "key": "",
+    "en": "Y’know, I can actually make decent grub outta Mutants and whatever other animals you hunt. Why don’tcha help me gather some raw meat?",
+    "pl": "Wiesz, potrafię zrobić całkiem dobre żarcie z Mutantów i innych zwierząt, które upolujesz. Może pomożesz mi zdobyć surowe mięso?"
+  },
+  {
+    "id": "363577224495198",
+    "key": "",
+    "en": "Been looking for some more meat to prepare – supplies've been low. Help me get good cuts and I’ll reward you.",
+    "pl": "Szukam mięsa do obróbki. Zapasy się kurczą. Pomóż zdobyć dobre kawałki, a cię wynagrodzę."
+  },
+  {
+    "id": "363577224495199",
+    "key": "",
+    "en": "These will do nicely! Here, as promised.",
+    "pl": "Te będą w sam raz! Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "363577224495200",
+    "key": "",
+    "en": "Gonna make somethin' <i>prime</i> outta this, yeah. Here's your pay.",
+    "pl": "Zrobię z tego coś <i>pierwszorzędnego.</i> Oto zapłata."
+  },
+  {
+    "id": "363577224495201",
+    "key": "",
+    "en": "Thanks for the help, these are good – here you go.",
+    "pl": "Dzięki za pomoc, dobre kawałki. Proszę."
+  },
+  {
+    "id": "363577224495202",
+    "key": "",
+    "en": "Don't got any work right now – maybe later.",
+    "pl": "Teraz nie mam pracy. Może później."
+  },
+  {
+    "id": "363577224495203",
+    "key": "",
+    "en": "'Fraid this'll be a day of regular scavenging for ya – I got nothin'.",
+    "pl": "Chyba czeka cię dziś zwykłe zbieractwo. Nic nie mam."
+  },
+  {
+    "id": "363577224495204",
+    "key": "",
+    "en": "Hmm, got no work for ya right now – maybe wait a lil' while.",
+    "pl": "Hmm, na razie nie mam pracy. Może odczekaj chwilę."
+  },
+  {
+    "id": "367028251688960",
+    "key": "15_Bogdan_v1_Talk_9FYX",
+    "en": "Fine cuts?",
+    "pl": "Dobre kawałki?"
+  },
+  {
+    "id": "367028276854784",
+    "key": "15_Bogdan_v1_Talk_SWTJ",
+    "en": "The best cuts of meat from mutated <i>and</i> non-mutated animals alike. There's options for any budget!",
+    "pl": "Najlepsze kawałki mięsa zwierząt zmutowanych <i>i</i> zwyczajnych. Na każdą kieszeń!"
+  },
+  {
+    "id": "367028276854785",
+    "key": "15_Bogdan_v1_Talk_RX57",
+    "en": "Also got jobs you could do, if trading's not on the cards.",
+    "pl": "Mam też zlecenia, jeśli handel nie wchodzi w grę."
+  },
+  {
+    "id": "367028276854786",
+    "key": "15_Bogdan_v1_Talk_NKFI",
+    "en": "Organizing?",
+    "pl": "Organizowanie się?"
+  },
+  {
+    "id": "367028276854787",
+    "key": "15_Bogdan_v1_Talk_2P5W",
+    "en": "That's right. To get together and make sure there's enough food – and work! – for <i>everybody.</i> How <i>else</i> do we survive this wasteland, brother?",
+    "pl": "Właśnie. Połączyć siły i zadbać, żeby jedzenia — i pracy! — starczyło dla <i>wszystkich.</i> Jak <i>inaczej</i> przetrwamy na pustkowiach, bracie?"
+  },
+  {
+    "id": "367028276854788",
+    "key": "15_Bogdan_v1_Talk_G6KX",
+    "en": "Before the War, a lot of field work was done through large <i>cooperatives,</i> instead of this \"every man for himself\" shit. We of the Rada want to bring that <i>back.</i>",
+    "pl": "Przed wojną wiele prac polowych wykonywały wielkie <i>spółdzielnie,</i> zamiast tego gówna „każdy sobie”. My, ludzie Rady, chcemy do tego <i>wrócić.</i>"
+  },
+  {
+    "id": "367028276854789",
+    "key": "15_Bogdan_v1_Talk_K4KK",
+    "en": "Not sure I'm interested.",
+    "pl": "Nie wiem, czy mnie to interesuje."
+  },
+  {
+    "id": "367028276854790",
+    "key": "15_Bogdan_v1_Talk_SVK2",
+    "en": "Hey, I get it. Scavs are lone wolf types. Thing is, pre-War history shows the power we have as a group: to solve issues, increase production, <b>eradicate</b> hunger.",
+    "pl": "Rozumiem. Zbieracze to samotne wilki. Tyle że przedwojenna historia pokazuje siłę grupy: rozwiązywanie problemów, zwiększanie produkcji, <b>likwidowanie</b> głodu."
+  },
+  {
+    "id": "367028276854791",
+    "key": "15_Bogdan_v1_Talk_TAUM",
+    "en": "And we can do it again, even in the wastes! This image you have of a self-made survivalist, it's a fabrication, brother. One made by those who want to keep us down.",
+    "pl": "I możemy zrobić to ponownie, nawet na pustkowiach! Ten obraz człowieka, który wszystko zawdzięcza sobie, to fikcja, bracie. Stworzona przez tych, którzy chcą nas trzymać w dole."
+  },
+  {
+    "id": "367028276854792",
+    "key": "15_Bogdan_v1_Talk_CARM",
+    "en": "I'd like to know more about organizing.",
+    "pl": "Chcę dowiedzieć się więcej o organizowaniu się."
+  },
+  {
+    "id": "367028276854793",
+    "key": "15_Bogdan_v1_Talk_DHLM",
+    "en": "Love to hear it! Organizing is vague term, so let me narrow it down. We're talking about farm work cooperatives, here; tried and true structures.",
+    "pl": "Miło to słyszeć! Organizowanie się to ogólne pojęcie, więc je zawężę. Mówimy o spółdzielniach rolniczych, sprawdzonych strukturach."
+  },
+  {
+    "id": "367028276854794",
+    "key": "15_Bogdan_v1_Talk_34Y2",
+    "en": "Stick with us and we'll teach you about <i>community.</i> About the future of Zalesye! And you'll reap the benefits too, when food gets much easier to come by.",
+    "pl": "Trzymaj z nami, a nauczymy cię, czym jest <i>wspólnota.</i> Przyszłość Zalesye! Ty też skorzystasz, gdy jedzenie stanie się łatwiej dostępne."
+  },
+  {
+    "id": "367028276854795",
+    "key": "15_Bogdan_v1_Talk_SC7D",
+    "en": "Changed my mind – tell me more about the Rada.",
+    "pl": "Zmieniłem zdanie. Opowiedz mi więcej o Radzie."
+  },
+  {
+    "id": "367028276854796",
+    "key": "15_Bogdan_v1_Talk_BV2K",
+    "en": "Well, I'm glad you're interested!",
+    "pl": "Cieszę się, że cię to interesuje!"
+  },
+  {
+    "id": "367028276854797",
+    "key": "15_Bogdan_v1_Talk_JIM1",
+    "en": "Tell me more about organizing with the Rada.",
+    "pl": "Opowiedz mi więcej o organizowaniu się z Radą."
+  },
+  {
+    "id": "367028276854798",
+    "key": "15_Bogdan_v1_Talk_WONX",
+    "en": "You think the Rada should lead Zalesye?",
+    "pl": "Uważasz, że Rada powinna przewodzić Zalesye?"
+  },
+  {
+    "id": "367028276854799",
+    "key": "15_Bogdan_v1_Talk_XUQ2",
+    "en": "Yes. But only if it listens to other factions, and most of all, to the needs of the Commonfolk.",
+    "pl": "Tak. Ale tylko jeśli będzie słuchać innych frakcji, a przede wszystkim potrzeb Zwykłych Ludzi."
+  },
+  {
+    "id": "367028276854800",
+    "key": "15_Bogdan_v1_Talk_P89X",
+    "en": "Not convinced on you leading Zalesye.",
+    "pl": "Nie jestem przekonany, że powinniście przewodzić Zalesye."
+  },
+  {
+    "id": "367028276854801",
+    "key": "15_Bogdan_v1_Talk_YYJB",
+    "en": "I see. And what is the best alternative, in your opinion?",
+    "pl": "Rozumiem. A twoim zdaniem jaka jest najlepsza alternatywa?"
+  },
+  {
+    "id": "367028276854802",
+    "key": "15_Bogdan_v1_Talk_3S9L",
+    "en": "Got to get going, now.",
+    "pl": "Muszę już ruszać."
+  },
+  {
+    "id": "367028276854803",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_1A2L",
+    "en": "How does organizing with the Rada work?",
+    "pl": "Jak wygląda organizowanie się z Radą?"
+  },
+  {
+    "id": "367028276854804",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_1V0H",
+    "en": "Well, there's no recipe, really. You'd be committing to being active in our community.",
+    "pl": "Nie ma jednej recepty. Zobowiązałbyś się aktywnie działać w naszej wspólnocie."
+  },
+  {
+    "id": "367028276854805",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_651I",
+    "en": "Our goal is to give food, warmth and <i>security</i> to as many people as we can. You could help with that last bit, teach us to shoot, to traverse Zalesye safely...",
+    "pl": "Chcemy zapewnić jedzenie, ciepło i <i>bezpieczeństwo</i> jak największej liczbie ludzi. Mógłbyś pomóc przy tym ostatnim: nauczyć nas strzelać i bezpiecznie przemierzać Zalesye..."
+  },
+  {
+    "id": "367028276854806",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_LH12",
+    "en": "In return, we give you a spot in our bunkers when you need it, rations, teach you to do farm work, maybe? This type of thing is never set in stone, brother. You have to live it.",
+    "pl": "W zamian dostaniesz miejsce w bunkrze, kiedy będzie potrzebne, racje żywnościowe, może nauczymy cię uprawy? Nic nie jest ustalone raz na zawsze, bracie. Musisz sam tego doświadczyć."
+  },
+  {
+    "id": "367028276854807",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_ND3O",
+    "en": "Are there any Vultures in the Rada?",
+    "pl": "Są w Radzie jakieś Sępy?"
+  },
+  {
+    "id": "367028276854808",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_1PBY",
+    "en": "I haven't seen a scavenger go through recruitment even once – they all get queasy.",
+    "pl": "Jeszcze nie widziałem, żeby choć jeden zbieracz przeszedł rekrutację. Wszystkim na tę myśl robi się niedobrze."
+  },
+  {
+    "id": "367028276854809",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_NA9E",
+    "en": "I get it, it's not a light decision – organizing is about <i>commitment.</i> But we need to keep building this thing, even if it's slow at times.",
+    "pl": "Rozumiem, to niebłaha decyzja. Organizowanie się wymaga <i>zaangażowania.</i> Ale musimy dalej to budować, nawet jeśli czasem idzie powoli."
+  },
+  {
+    "id": "367028276854810",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_J060",
+    "en": "Any infighting?",
+    "pl": "Są wewnętrzne konflikty?"
+  },
+  {
+    "id": "367028276854811",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_UJ0O",
+    "en": "Well, of course. We're trying to structurally and fundamentally change society – not really a way to do that <i>without</i> some disagreements!",
+    "pl": "Oczywiście. Próbujemy zmienić społeczeństwo u samych podstaw, przebudować jego strukturę. Nie da się tego zrobić <i>bez</i> różnicy zdań!"
+  },
+  {
+    "id": "367028276854812",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_PRSR",
+    "en": "Um... Nothing to worry about beforehand! You'll know and care about these details once you're in. As long as we don't punch each other out in public, it's all good!",
+    "pl": "Eee... Nie ma co martwić się zawczasu! Poznasz szczegóły i zaczniesz się nimi przejmować, kiedy dołączysz. Dopóki nie okładamy się publicznie, wszystko gra!"
+  },
+  {
+    "id": "367028276854813",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_HPY2",
+    "en": "What's the day-to-day look like?",
+    "pl": "Jak wygląda codzienność?"
+  },
+  {
+    "id": "367028276854814",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_B267",
+    "en": "At first, it's really about tasks in your own specialty – scavenging, handling firearms, <i>teaching</i> us to do that too. You'll learn to spread the word about the Rada, as well.",
+    "pl": "Na początku chodzi głównie o twoją specjalność: zbieractwo, obsługę broni, <i>uczenie</i> nas tych rzeczy. Nauczysz się też szerzyć idee Rady."
+  },
+  {
+    "id": "367028276854815",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_1MZI",
+    "en": "You're also expected to <i>learn.</i> About farm work, philosophy, science... We study pre-War books, adapt them to our times. There are discussion groups – they're <i>compulsory.</i>",
+    "pl": "Oczekujemy, że sam też będziesz się <i>uczył.</i> Uprawy, filozofii, nauki... Studiujemy przedwojenne książki, dostosowujemy je do naszych czasów. Są grupy dyskusyjne, <i>obowiązkowe.</i>"
+  },
+  {
+    "id": "367028276854816",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_XGS4",
+    "en": "Oh, do you know Mila? She's one of our best teachers. She'll wind up giving you a few lectures.",
+    "pl": "Znasz Milę? To jedna z naszych najlepszych nauczycielek. Z pewnością wygłosi ci kilka wykładów."
+  },
+  {
+    "id": "367028276854817",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_04QY",
+    "en": "About something else...",
+    "pl": "Co do czegoś innego..."
+  },
+  {
+    "id": "367028276854818",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_5NEZ",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "367028276854819",
+    "key": "15_Bogdan_v1_Talk_HasInterestCheck_True_XJPA",
+    "en": "You've shown interest, but have you ever shown <i>commitment?</i>",
+    "pl": "Okazałeś zainteresowanie, ale czy kiedykolwiek okazałeś <i>zaangażowanie?</i>"
+  },
+  {
+    "id": "367028276854820",
+    "key": "15_Bogdan_v1_Talk_HasInterestCheck_False_BN3T",
+    "en": "And if even these basics disinterest you, we can talk about them some other time. Meanwhile, we'll still be doing business, no?",
+    "pl": "Jeśli nawet te podstawy cię nie interesują, możemy wrócić do nich innym razem. Tymczasem nadal będziemy robić interesy, prawda?"
+  },
+  {
+    "id": "367028276854821",
+    "key": "15_Bogdan_v1_Talk_About_Factions_ZH5E",
+    "en": "Palatines and Gunners might be better; they have <i>power.</i>",
+    "pl": "Palatyni i Strzelcy mogą być lepsi. Mają <i>siłę.</i>"
+  },
+  {
+    "id": "367028276854822",
+    "key": "15_Bogdan_v1_Talk_About_Factions_FPF7",
+    "en": "It's true that firepower is important. Not only to protect us from Mutants and Bandits, but to guarantee our way of living.",
+    "pl": "To prawda, siła ognia jest ważna. Nie tylko chroni nas przed Mutantami i Bandytami, lecz także gwarantuje nasz sposób życia."
+  },
+  {
+    "id": "367028276854823",
+    "key": "15_Bogdan_v1_Talk_About_Factions_ABPC",
+    "en": "Imagine restructuring Zalesye around community and collective thinking, only for a bunch of souped-up killers to come in from the RO-29 and dominate us through sheer force.",
+    "pl": "Wyobraź sobie, że przebudujemy Zalesye wokół wspólnoty i wspólnego myślenia, a potem z RO-29 przyjdzie banda podrasowanych zabójców i podporządkuje nas sobie czystą siłą."
+  },
+  {
+    "id": "367028276854824",
+    "key": "15_Bogdan_v1_Talk_About_Factions_5PL0",
+    "en": "But Commonfolk feel each and every change before anyone else – <i>they're</i> most exposed. Whoever leads our society has to interact with <i>them,</i> represent <i>their</i> interests.",
+    "pl": "Ale Zwykli Ludzie odczuwają każdą zmianę przed innymi. To <i>oni</i> są najbardziej narażeni. Przywódca naszego społeczeństwa musi rozmawiać z <i>nimi</i> i reprezentować <i>ich</i> interesy."
+  },
+  {
+    "id": "367028276854825",
+    "key": "15_Bogdan_v1_Talk_About_Factions_TRM7",
+    "en": "Palatines don't do that; it's their weakness. And Gunners? Ha! They only see the weak as people to exploit. We need <u>less</u> of that, not more.",
+    "pl": "Palatyni tego nie robią. To ich słabość. A Strzelcy? HA! W słabych widzą tylko ludzi do wyzyskiwania. Potrzebujemy tego <u>mniej,</u> a nie więcej."
+  },
+  {
+    "id": "367028276854826",
+    "key": "15_Bogdan_v1_Talk_About_Factions_EPWA",
+    "en": "Mechanists and Acolytes could lead through knowledge.",
+    "pl": "Mechaniści i Akolici mogliby przewodzić dzięki wiedzy."
+  },
+  {
+    "id": "367028276854827",
+    "key": "15_Bogdan_v1_Talk_About_Factions_FEVH",
+    "en": "Matters of mind and spirit are vital for human development, for sure. But technology can be twisted to exploit the Commonfolk, and religion can be abused by the rich to dull their senses!",
+    "pl": "Sprawy umysłu i ducha są oczywiście kluczowe dla rozwoju człowieka. Ale technologię można wykorzystać do wyzysku Zwykłych Ludzi, a religię bogacze mogą nadużywać, by otępiać ich zmysły!"
+  },
+  {
+    "id": "367028276854828",
+    "key": "15_Bogdan_v1_Talk_About_Factions_4F8K",
+    "en": "Proficiency in these subjects is not enough to lead a people, brother. We need to see the <i>whole picture</i> – see the structural oppression which survived the apocalypse! It must be <u>destroyed</u> and <u>rebuilt</u> with Commonfolk on top.",
+    "pl": "Biegłość w tych dziedzinach nie wystarczy, by przewodzić ludziom, bracie. Musimy widzieć <i>cały obraz:</i> systemowy ucisk, który przetrwał apokalipsę! Trzeba go <u>zburzyć</u> i <u>odbudować</u> porządek ze Zwykłymi Ludźmi na szczycie."
+  },
+  {
+    "id": "367028276854829",
+    "key": "15_Bogdan_v1_Talk_About_Factions_OICT",
+    "en": "Otherwise, we overestimate the importance of one single thing – firepower, technology, religion — and then we get fascism, technocracy, theocracy. It's all in the books, scavenger.",
+    "pl": "Inaczej przeceniamy jedną rzecz: siłę ognia, technologię, religię. I dostajemy faszyzm, technokrację, teokrację. Wszystko jest w książkach, zbieraczu."
+  },
+  {
+    "id": "367028276854830",
+    "key": "15_Bogdan_v1_Talk_About_Factions_E0XX",
+    "en": "Mudlarks and Vultures – only ones who can use the Mist...",
+    "pl": "Błotniarze i Sępy. Tylko oni potrafią korzystać z Mgły..."
+  },
+  {
+    "id": "367028276854831",
+    "key": "15_Bogdan_v1_Talk_About_Factions_EEIL",
+    "en": "... Are you serious, now? Granted, you and those Mudlarks – you <i>do</i> know the Mist very well. But \"knowing\" it is like a fly \"knowing\" <i>pesticide.</i>",
+    "pl": "... Mówisz poważnie? Przyznaję, ty i Błotniarze <i>znacie</i> Mgłę bardzo dobrze. Ale „znać” ją to jak być muchą, która „zna” <i>środek owadobójczy.</i>"
+  },
+  {
+    "id": "367028276854832",
+    "key": "15_Bogdan_v1_Talk_About_Factions_LESZ",
+    "en": "In this time of desperate survival, you would see us bend the knee to world-ending powers? To some gas-shaped god who's brought us the <i>apocalypse?</i> Is the end of suffering through death the only thing we can hope for? I <i>refuse</i> to believe this.",
+    "pl": "W czasie rozpaczliwej walki o przetrwanie każesz nam klękać przed siłami niszczącymi świat? Przed gazowym bóstwem, które sprowadziło <i>apokalipsę?</i> Czy kres cierpienia przez śmierć to jedyne, na co możemy liczyć? <i>Nie chcę</i> w to wierzyć."
+  },
+  {
+    "id": "367028276854833",
+    "key": "15_Bogdan_v1_Talk_About_Factions_9DF4",
+    "en": "About other things.",
+    "pl": "O innych sprawach."
+  },
+  {
+    "id": "367028276854834",
+    "key": "15_Bogdan_v1_Talk_About_Factions_T6AV",
+    "en": "I have to leave.",
+    "pl": "Muszę odejść."
+  },
+  {
+    "id": "367028276854835",
+    "key": "15_Bogdan_v1_GetWelcomingMessage_62DW",
+    "en": "Hello, Vulture. Have we met? I'm Bogdan, the Butcher. Got some fine cuts to trade – or maybe you've come to talk about <i>organizing?</i>",
+    "pl": "Witaj, Sępie. Znamy się? Jestem Bogdan, rzeźnik. Mam dobre mięso na wymianę. A może chcesz porozmawiać o <i>organizowaniu się?</i>"
+  },
+  {
+    "id": "367028276854836",
+    "key": "15_Bogdan_v1_GetWelcomingMessage_7PMX",
+    "en": "Hey, Vulture. How's the trudgin' and groanin'?",
+    "pl": "Hej, Sępie. Jak tam brnięcie i stękanie?"
+  },
+  {
+    "id": "367028276854837",
+    "key": "15_Bogdan_v1_GetWelcomingMessage_KMZP",
+    "en": "Hey there, scav.",
+    "pl": "Cześć, zbieraczu."
+  },
+  {
+    "id": "367028276854838",
+    "key": "15_Bogdan_v1_GetWelcomingMessage_T8Z9",
+    "en": "How are you, brother?",
+    "pl": "Jak się masz, bracie?"
+  },
+  {
+    "id": "367028276854839",
+    "key": "15_Bogdan_v1_GetTalkMessage_A96E",
+    "en": "Would like to chat.",
+    "pl": "Chciałbym pogadać."
+  },
+  {
+    "id": "367028276854840",
+    "key": "15_Bogdan_v1_GetTalkMessage_0PUF",
+    "en": "Let me ask you something.",
+    "pl": "Chcę cię o coś zapytać."
+  },
+  {
+    "id": "367028276854841",
+    "key": "15_Bogdan_v1_GetTalkMessage_BY4F",
+    "en": "Wanna talk.",
+    "pl": "Chcę pogadać."
+  },
+  {
+    "id": "367028276854842",
+    "key": "15_Bogdan_v1_GetTradeMessage_4YU1",
+    "en": "Need meat. Want to trade?",
+    "pl": "Potrzebuję mięsa. Pohandlujemy?"
+  },
+  {
+    "id": "367028276854843",
+    "key": "15_Bogdan_v1_GetTradeMessage_Y3YK",
+    "en": "What are you selling?",
+    "pl": "Co sprzedajesz?"
+  },
+  {
+    "id": "367028276854844",
+    "key": "15_Bogdan_v1_GetTradeMessage_LKIF",
+    "en": "Want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "367028276854845",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_5OJN",
+    "en": "I have a few fresh cuts.",
+    "pl": "Mam kilka świeżych kawałków."
+  },
+  {
+    "id": "367028276854846",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_1KU7",
+    "en": "Take a look!",
+    "pl": "Spójrz!"
+  },
+  {
+    "id": "367028276854847",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_RJIT",
+    "en": "Here's your daily source of protein.",
+    "pl": "Oto twoja dzienna porcja białka."
+  },
+  {
+    "id": "367028276854848",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_2WEA",
+    "en": "Get some of that protein!",
+    "pl": "Weź trochę tego białka!"
+  },
+  {
+    "id": "367028276854849",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_CLFL",
+    "en": "Let's get to it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "367028276854850",
+    "key": "15_Bogdan_v1_GetRandomLeaveMessage_UGNW",
+    "en": "Drop by again.",
+    "pl": "Wpadnij jeszcze."
+  },
+  {
+    "id": "367028276854851",
+    "key": "15_Bogdan_v1_GetRandomLeaveMessage_OPKC",
+    "en": "See you later, my brother.",
+    "pl": "Do zobaczenia, bracie."
+  },
+  {
+    "id": "367028276854852",
+    "key": "15_Bogdan_v1_GetRandomLeaveMessage_ILXQ",
+    "en": "I'll be here if you need me.",
+    "pl": "Będę tutaj, jeśli mnie potrzebujesz."
+  },
+  {
+    "id": "367028276854853",
+    "key": "15_Bogdan_v1_GetRandomLeaveMessage_L5KV",
+    "en": "Let's talk politics sometime.",
+    "pl": "Pogadajmy kiedyś o polityce."
+  },
+  {
+    "id": "367028276854854",
+    "key": "15_Bogdan_v1_GetRandomLeaveMessage_A2HE",
+    "en": "Bye, now.",
+    "pl": "Na razie."
+  },
+  {
+    "id": "367028276854855",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Show_F572",
+    "en": "I'll kill some Mutants for you.",
+    "pl": "Zabiję dla ciebie kilku Mutantów."
+  },
+  {
+    "id": "367028276854856",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Show_O1UV",
+    "en": "Proud of your work, I see.",
+    "pl": "Widzę, że jesteś dumny ze swojej pracy."
+  },
+  {
+    "id": "367028276854857",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Show_ANMN",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "367028276854858",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Show_JS1U",
+    "en": "Kind of a dangerous gig, so I understand.",
+    "pl": "Trochę niebezpieczna robota, więc rozumiem."
+  },
+  {
+    "id": "367028276854859",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Show_GY2H",
+    "en": "Do you have other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "367028276854860",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Complete_PRAD",
+    "en": "Don't worry about it.",
+    "pl": "Nie przejmuj się."
+  },
+  {
+    "id": "367028276854861",
+    "key": "15_Bogdan_Jobs_v1_MutantExtermination_Complete_3NFE",
+    "en": "Let me know if it happens again.",
+    "pl": "Daj znać, jeśli to się powtórzy."
+  },
+  {
+    "id": "367028276854862",
+    "key": "15_Bogdan_Jobs_v1_Collection_Show_S4F1",
+    "en": "I'll gather meat for you.",
+    "pl": "Zdobędę dla ciebie mięso."
+  },
+  {
+    "id": "367028276854863",
+    "key": "15_Bogdan_Jobs_v1_Collection_Show_7FBC",
+    "en": "Ok. Let me know if you need anything.",
+    "pl": "Dobrze. Daj znać, jeśli czegoś potrzebujesz."
+  },
+  {
+    "id": "367028276854864",
+    "key": "15_Bogdan_Jobs_v1_Collection_Show_EQC1",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "367028276854865",
+    "key": "15_Bogdan_Jobs_v1_Collection_Show_7VRD",
+    "en": "Alright, no rush.",
+    "pl": "Dobra, bez pośpiechu."
+  },
+  {
+    "id": "367028276854866",
+    "key": "15_Bogdan_Jobs_v1_Collection_Show_C6R7",
+    "en": "I'd rather do something else – got anything?",
+    "pl": "Wolałbym coś innego. Masz coś?"
+  },
+  {
+    "id": "367028276854867",
+    "key": "15_Bogdan_Jobs_v1_Collection_Complete_AV02",
+    "en": "Thanks – be back later.",
+    "pl": "Dzięki. Wrócę później."
+  },
+  {
+    "id": "367028276854868",
+    "key": "15_Bogdan_Jobs_v1_Collection_Complete_ME6P",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "367028276854869",
+    "key": "15_Bogdan_Jobs_v1_GetJobsMessage_H5VZ",
+    "en": "Rada need help with something?",
+    "pl": "Rada potrzebuje w czymś pomocy?"
+  },
+  {
+    "id": "367028276854870",
+    "key": "15_Bogdan_Jobs_v1_GetJobsMessage_DC3O",
+    "en": "Do you have work for a scavenger?",
+    "pl": "Masz pracę dla zbieracza?"
+  },
+  {
+    "id": "367028276854871",
+    "key": "15_Bogdan_Jobs_v1_GetJobsMessage_S1IO",
+    "en": "Need any help, Bogdan?",
+    "pl": "Potrzebujesz pomocy, Bogdan?"
+  },
+  {
+    "id": "367028276854872",
+    "key": "15_Bogdan_Jobs_v1_MutantExterminationStart_ESSQ",
+    "en": "Some Mutants have been drawn to the scent of raw meat 'round here. I need 'em taken care of – care to help? Somethin’ in it for ya.",
+    "pl": "Zapach surowego mięsa przyciągnął tu paru Mutantów. Trzeba się nimi zająć. Pomożesz? Coś na tym zarobisz."
+  },
+  {
+    "id": "367028276854873",
+    "key": "15_Bogdan_Jobs_v1_MutantExterminationStart_19ES",
+    "en": "We’re having a bit of trouble with Mutant packs too close to the Mire. Need help from a Vulture.",
+    "pl": "Mamy kłopot ze stadami Mutantów zbyt blisko Trzęsawiska. Potrzeba pomocy Sępa."
+  },
+  {
+    "id": "367028276854874",
+    "key": "15_Bogdan_Jobs_v1_MutantExterminationComplete_N0TJ",
+    "en": "Good job, Vulture. Here, got some stuff for you.",
+    "pl": "Dobra robota, Sępie. Proszę, mam coś dla ciebie."
+  },
+  {
+    "id": "367028276854875",
+    "key": "15_Bogdan_Jobs_v1_MutantExterminationComplete_JZJE",
+    "en": "Knew I could count on ya! Here's your reward.",
+    "pl": "Wiedziałem, że mogę na ciebie liczyć! Oto nagroda."
+  },
+  {
+    "id": "367028276854876",
+    "key": "15_Bogdan_Jobs_v1_MutantExterminationComplete_DAIB",
+    "en": "We're all safer through your efforts. Here you go.",
+    "pl": "Dzięki twojej pracy wszyscy jesteśmy bezpieczniejsi. Proszę."
+  },
+  {
+    "id": "367028276854877",
+    "key": "15_Bogdan_Jobs_v1_CollectionStart_KNM0",
+    "en": "Y’know, I can actually make decent grub outta Mutants and whatever other animals you hunt. Why don’tcha help me gather some raw meat?",
+    "pl": "Wiesz, potrafię zrobić całkiem dobre żarcie z Mutantów i innych zwierząt, które upolujesz. Może pomożesz mi zdobyć surowe mięso?"
+  },
+  {
+    "id": "367028276854878",
+    "key": "15_Bogdan_Jobs_v1_CollectionStart_MS5A",
+    "en": "Been looking for some more meat to prepare – supplies've been low. Help me get good cuts and I’ll reward you.",
+    "pl": "Szukam mięsa do obróbki. Zapasy się kurczą. Pomóż zdobyć dobre kawałki, a cię wynagrodzę."
+  },
+  {
+    "id": "367028276854879",
+    "key": "15_Bogdan_Jobs_v1_CollectionComplete_DCRZ",
+    "en": "These will do nicely! Here, as promised.",
+    "pl": "Te będą w sam raz! Proszę, zgodnie z obietnicą."
+  },
+  {
+    "id": "367028276854880",
+    "key": "15_Bogdan_Jobs_v1_CollectionComplete_UTMV",
+    "en": "Gonna make somethin' <i>prime</i> outta this, yeah. Here's your pay.",
+    "pl": "Zrobię z tego coś <i>pierwszorzędnego.</i> Oto zapłata."
+  },
+  {
+    "id": "367028276854881",
+    "key": "15_Bogdan_Jobs_v1_CollectionComplete_HEBA",
+    "en": "Thanks for the help, these are good – here you go.",
+    "pl": "Dzięki za pomoc, dobre kawałki. Proszę."
+  },
+  {
+    "id": "367028276854882",
+    "key": "15_Bogdan_Jobs_v1_GetNoQuestsAvailable_UL00",
+    "en": "Don't got any work right now – maybe later.",
+    "pl": "Teraz nie mam pracy. Może później."
+  },
+  {
+    "id": "367028276854883",
+    "key": "15_Bogdan_Jobs_v1_GetNoQuestsAvailable_DVS1",
+    "en": "'Fraid this'll be a day of regular scavenging for ya – I got nothin'.",
+    "pl": "Chyba czeka cię dziś zwykłe zbieractwo. Nic nie mam."
+  },
+  {
+    "id": "367028276854884",
+    "key": "15_Bogdan_Jobs_v1_GetNoQuestsAvailable_SN2G",
+    "en": "Hmm, got no work for ya right now – maybe wait a lil' while.",
+    "pl": "Hmm, na razie nie mam pracy. Może odczekaj chwilę."
+  },
+  {
+    "id": "50343186741100544",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersStart_N3FN",
+    "en": "Got any Rada work?",
+    "pl": "Masz jakieś zadania dla Rady?"
+  },
+  {
+    "id": "50343186762072064",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersStart_LS4F",
+    "en": "Need a hand 'round here?",
+    "pl": "Przyda się tu pomoc?"
+  },
+  {
+    "id": "50343186762072065",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersStart_FON0",
+    "en": "Need work for the day. Got anything?",
+    "pl": "Szukam pracy na dziś. Masz coś?"
+  },
+  {
+    "id": "50343186762072066",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersComplete_VW7Z",
+    "en": "Think I'm done with everything.",
+    "pl": "Chyba wszystko skończyłem."
+  },
+  {
+    "id": "50343186762072067",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersComplete_X55K",
+    "en": "I'm done with the farm work.",
+    "pl": "Skończyłem pracę w gospodarstwie."
+  },
+  {
+    "id": "50343186762072068",
+    "key": "15_Bogdan_v1_GetRandomCropsAndRobbersComplete_SO1S",
+    "en": "Did what you needed.",
+    "pl": "Zrobiłem, czego potrzebowałeś."
+  },
+  {
+    "id": "50343186762072069",
+    "key": "15_Bogdan_v1_CropsAndRobbers_WT10",
+    "en": "In the Rada, there's <i>always</i> work for an able hand, brother. Tasks around the farm that I don't have time to see to.",
+    "pl": "W Radzie <i>zawsze</i> jest praca dla sprawnych rąk, bracie. Rzeczy w gospodarstwie, na które sam nie mam czasu."
+  },
+  {
+    "id": "50343186762072070",
+    "key": "15_Bogdan_v1_CropsAndRobbers_5AWC",
+    "en": "A supply run, picking some berries, killing pests. Are you up for it? Should be a learning experience for a scav!",
+    "pl": "Odbiór zapasów, zbieranie jagód, zabijanie szkodników. Piszesz się? Zbieracz może się czegoś nauczyć!"
+  },
+  {
+    "id": "50343186762072071",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Decision_ZTPA",
+    "en": "I need the work.",
+    "pl": "Potrzebuję pracy."
+  },
+  {
+    "id": "50343186762072072",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Decision_39KJ",
+    "en": "Don't we all? And honest, peaceful work, at that. Well... Not <i>always</i> peaceful.",
+    "pl": "Jak my wszyscy. I to uczciwej, spokojnej pracy. Cóż... Nie <i>zawsze</i> spokojnej."
+  },
+  {
+    "id": "50343186762072073",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Decision_XB3S",
+    "en": "Not sure I'm cut out for this.",
+    "pl": "Nie wiem, czy się nadaję."
+  },
+  {
+    "id": "50343186762072074",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Decision_0M22",
+    "en": "Come on, brother. It's hard on the hands, but nothing a Vulture can't handle.",
+    "pl": "Daj spokój, bracie. Ręce bolą, ale Sęp da sobie radę."
+  },
+  {
+    "id": "50343186762072075",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_2A5R",
+    "en": "So what do I have to do?",
+    "pl": "Więc co mam zrobić?"
+  },
+  {
+    "id": "50343186770460672",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_BTKG",
+    "en": "Three things; I'm going easy on you, here. One's picking up an order of lime from the Mechanists at Sontse. It's paid for, so they shouldn't give you much attitude.",
+    "pl": "Trzy rzeczy. Na początek cię oszczędzam. Najpierw odbierz zamówione wapno od Mechanistów w Sontse. Jest opłacone, więc nie powinni sprawiać problemów."
+  },
+  {
+    "id": "50343186770460673",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_Q31K",
+    "en": "Then you should go harvest some berries and deliver them to Rosa, the cook. You know her? And finally...",
+    "pl": "Potem zbierz jagody i dostarcz je Rosie, kucharce. Znasz ją? I wreszcie..."
+  },
+  {
+    "id": "50343186770460674",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_RCLC",
+    "en": "We have a rat infestation in one of our fields. Please deal with them the way you, uh, normally would. How does that sound?",
+    "pl": "Na jednym z pól mamy plagę szczurów. Zajmij się nimi tak, jak, eee, zwykle to robisz. Co ty na to?"
+  },
+  {
+    "id": "50343186770460675",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_JY58",
+    "en": "I'll get to it.",
+    "pl": "Zabieram się do tego."
+  },
+  {
+    "id": "50343186770460676",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Details_MQTC",
+    "en": "Pace yourself, alright? Farm work's more exhausting than you'd think.",
+    "pl": "Rozłóż siły, dobrze? Praca w gospodarstwie męczy bardziej, niż sądzisz."
+  },
+  {
+    "id": "50343186770460677",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_LV1L",
+    "en": "How's life on the field?",
+    "pl": "Jak tam życie na polu?"
+  },
+  {
+    "id": "50343186770460678",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_IAD0",
+    "en": "(Hand over the Lime Bucket) Here you go.",
+    "pl": "(Oddaj wiadro wapna.) Proszę."
+  },
+  {
+    "id": "50343186770460679",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_T1PR",
+    "en": "Fantastic work, brother. Must've been a workout!",
+    "pl": "Świetna robota, bracie. Niezły trening, co?"
+  },
+  {
+    "id": "50343186770460680",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_YNGM",
+    "en": "That \"lime\". What was it for?",
+    "pl": "To „wapno”. Do czego było?"
+  },
+  {
+    "id": "50343186770460681",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_3B7G",
+    "en": "Fuckin' heavy, yeah? Sorry about that. It basically makes the soil less acidic; we cover it with the stuff, leave it there for a year, and that frees up the minerals our crops need to grow.",
+    "pl": "Cholernie ciężkie, co? Wybacz. Zasadniczo zmniejsza kwaśność gleby. Rozsypujemy je i zostawiamy na rok, żeby uwolnić minerały potrzebne uprawom do wzrostu."
+  },
+  {
+    "id": "50343186770460682",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_UU95",
+    "en": "I'm hazy on the details myself, but it's the type of thing my brothers at Dubravka learned from old-time books, or from the Commonfolk. Makes a big, big difference in our yields.",
+    "pl": "Sam nie znam dokładnie szczegółów. Bracia z Dubravki nauczyli się tego ze starych książek albo od Zwykłych Ludzi. Ogromnie poprawia nasze plony."
+  },
+  {
+    "id": "50343186770460683",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_48RL",
+    "en": "All of those rats... That happen often?",
+    "pl": "Te wszystkie szczury... Często się to zdarza?"
+  },
+  {
+    "id": "50343186770460684",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_7LU2",
+    "en": "Oh yeah, yeah it does. See, back before the War, we'd use all sorts of poisons to keep that filth away from our crops.",
+    "pl": "O tak, często. Przed wojną używaliśmy najróżniejszych trucizn, żeby trzymać to plugastwo z dala od upraw."
+  },
+  {
+    "id": "50343186770460685",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_2U1E",
+    "en": "But now... With the land irradiated and the Mist floating over us, adding one more poison to the mix doesn't seem like a bright idea. Those berries would've turned out pretty <i>spicy.</i>",
+    "pl": "Ale teraz... Przy napromieniowanej ziemi i unoszącej się nad nami Mgle dokładanie kolejnej trucizny nie wydaje się mądre. Jagody byłyby naprawdę <i>pikantne.</i>"
+  },
+  {
+    "id": "50343186770460686",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_YGAU",
+    "en": "Did all you asked. My pay?",
+    "pl": "Zrobiłem wszystko. Moja zapłata?"
+  },
+  {
+    "id": "50343186770460687",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_O8R3",
+    "en": "Here it is, brother. Hope this helps you see why we all should be working the fields together... Not <i>just</i> chasing after irradiated trinkets.",
+    "pl": "Oto ona, bracie. Mam nadzieję, że teraz widzisz, dlaczego wszyscy powinniśmy wspólnie pracować na polach... A nie <i>tylko</i> uganiać się za napromieniowanymi błyskotkami."
+  },
+  {
+    "id": "50343186770460688",
+    "key": "15_Bogdan_v1_CropsAndRobbers_Quest_Completed_L8D5",
+    "en": "You do what you gotta do to survive, but remember: the Rada's always an option. We can <i>look out</i> for each other.",
+    "pl": "Robisz, co musisz, by przetrwać, ale pamiętaj: Rada zawsze jest możliwością. Możemy się nawzajem <i>wspierać.</i>"
+  },
+  {
+    "id": "111648809191538688",
+    "key": "15_Bogdan_v1_GetRandomTradeMessage_2WEA",
+    "en": "Get some of that protein!",
+    "pl": "Weź trochę tego białka!"
+  },
+  {
+    "id": "111648809208315904",
+    "key": "15_Bogdan_v1_GetRandomTradeMessage_5OJN",
+    "en": "Got some fresh cuts here.",
+    "pl": "Mam tu świeże kawałki."
+  },
+  {
+    "id": "111648809208315905",
+    "key": "15_Bogdan_v1_GetRandomTradeMessage_RJIT",
+    "en": "Here's your daily source of protein.",
+    "pl": "Oto twoja dzienna porcja białka."
+  },
+  {
+    "id": "111648809208315906",
+    "key": "15_Bogdan_v1_GetRandomTradeMessage_CLFL",
+    "en": "Let's get to it.",
+    "pl": "Przejdźmy do rzeczy."
+  },
+  {
+    "id": "111648809208315907",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_4YU1",
+    "en": "Need food. Want to trade?",
+    "pl": "Potrzebuję jedzenia. Pohandlujemy?"
+  },
+  {
+    "id": "111648809208315908",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_LKIF",
+    "en": "Need to trade.",
+    "pl": "Muszę pohandlować."
+  },
+  {
+    "id": "111648809208315909",
+    "key": "15_Bogdan_v1_GetRandomTradeMessage_1KU7",
+    "en": "Take a look!",
+    "pl": "Spójrz!"
+  },
+  {
+    "id": "111648809208315910",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_FW17",
+    "en": "The \"catch\" is no secret: the <b>commitment.</b> It's no walk in the park to be tired from a long day of working and then have to devote some <i>more</i> of your time to the Rada.",
+    "pl": "„Haczyk” nie jest tajemnicą: <b>zaangażowanie.</b> Po całym dniu pracy jesteś zmęczony, a musisz oddać Radzie <i>jeszcze</i> trochę czasu. To nie spacer po parku."
+  },
+  {
+    "id": "111648809208315911",
+    "key": "15_Bogdan_v1_GetRandomTradeStart_Y3YK",
+    "en": "What are you selling?",
+    "pl": "Co sprzedajesz?"
+  },
+  {
+    "id": "111648809208315912",
+    "key": "15_Bogdan_v1_Talk_About_Organizing_409D",
+    "en": "What's the catch?",
+    "pl": "Gdzie jest haczyk?"
+  },
+  {
+    "id": "116738019082698752",
+    "key": "15_Bogdan_Jobs_v1_ManhuntStart_2WY7",
+    "en": "I’m always the one Rada in the room defending our need to arm ourselves <i>vigorously.</i> But while we don’t – I’m gonna need you to kill a Bandit squad for me, Vulture. What say you?",
+    "pl": "Zawsze jestem tym człowiekiem Rady, który na zebraniach broni potrzeby <i>solidnego</i> uzbrojenia. Ale dopóki go nie mamy, potrzebuję, żebyś zabił dla mnie oddział Bandytów, Sępie. Co ty na to?"
+  },
+  {
+    "id": "116738019103670272",
+    "key": "15_Bogdan_Jobs_v1_ManhuntStart_8MMK",
+    "en": "Didn’t think it’d be this hard to keep my shop running in the Mire... But some of these Bandits are fearless, it’s like they don’t even see the guards. Kill one of their squads for me and I’ll pay.",
+    "pl": "Nie sądziłem, że prowadzenie sklepu na Trzęsawisku będzie takie trudne... Niektórzy Bandyci są nieustraszeni, jakby w ogóle nie widzieli strażników. Zabij dla mnie jedną z ich grup, a zapłacę."
+  },
+  {
+    "id": "116738019103670273",
+    "key": "15_Bogdan_Jobs_v1_ManhuntComplete_JDGS",
+    "en": "Good! Thank you. We need folks like you in the Rada.",
+    "pl": "Dobrze! Dziękuję. Potrzebujemy takich ludzi w Radzie."
+  },
+  {
+    "id": "116738019103670274",
+    "key": "15_Bogdan_Jobs_v1_ManhuntComplete_TRXS",
+    "en": "Incredible work, Vulture. Nice to have some peace of mind for once.",
+    "pl": "Niesamowita robota, Sępie. Miło choć raz zaznać spokoju."
+  },
+  {
+    "id": "116738019103670275",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_BZ7F",
+    "en": "I'll do it.",
+    "pl": "Zrobię to."
+  },
+  {
+    "id": "116738019103670276",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_G37G",
+    "en": "Good, good. Be careful.",
+    "pl": "Dobrze, dobrze. Uważaj na siebie."
+  },
+  {
+    "id": "116738019103670277",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_49I5",
+    "en": "Gotta think first.",
+    "pl": "Najpierw muszę pomyśleć."
+  },
+  {
+    "id": "116738019103670278",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_V6L5",
+    "en": "Well, shit. Guess I'll find someone else.",
+    "pl": "No, cholera. Chyba znajdę kogoś innego."
+  },
+  {
+    "id": "116738019103670279",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_JJKL",
+    "en": "Do you have other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "116738019103670280",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_QTFQ",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "116738019103670281",
+    "key": "15_Bogdan_Jobs_v1_Manhunt_2OXT",
+    "en": "Rada can count on me.",
+    "pl": "Rada może na mnie liczyć."
+  }
+]

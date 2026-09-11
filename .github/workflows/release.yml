@@ -1,0 +1,72 @@
+name: Validate and release Polish translation
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, windows-latest]
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Validate translations
+        run: python tools/release.py validate
+      - name: Test packaging and installer safeguards
+        run: python -m unittest discover -s tests -v
+
+  release:
+    needs: validate
+    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    runs-on: windows-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install build tools
+        run: python -m pip install -r requirements-build.txt
+      - name: Assign version
+        id: version
+        run: python tools/release.py version
+      - name: Build installer without game assets
+        env:
+          RELEASE_VERSION: ${{ steps.version.outputs.version }}
+        run: python tools/release.py build --version "$env:RELEASE_VERSION" --out dist
+      - name: Retain package and verification
+        uses: actions/upload-artifact@v7
+        with:
+          name: Scavland-PL-${{ steps.version.outputs.version }}
+          path: |
+            dist/*.zip
+            dist/SHA256SUMS
+            dist/validation.json
+            dist/OPIS-NEXUS.txt
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 30
+      - name: Publish download
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_VERSION: ${{ steps.version.outputs.version }}
+        run: python tools/release.py publish --out dist

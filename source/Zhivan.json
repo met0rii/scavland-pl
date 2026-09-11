@@ -1,0 +1,852 @@
+[
+  {
+    "id": "19479429120",
+    "key": "04_Zhivan_v1_Talk_633W",
+    "en": "Zhivan... You survived the Villa?"
+  },
+  {
+    "id": "19512983552",
+    "key": "04_Zhivan_v1_Talk_2GYU",
+    "en": "Like I said. Seen you around."
+  },
+  {
+    "id": "19512983553",
+    "key": "04_Zhivan_v1_Talk_3Q9L",
+    "en": "I was working here in Dazbog when I heard the shots. Saw fire and smoke breaking through Mist; could see it from afar. Don't need a genius to know my home is gone."
+  },
+  {
+    "id": "19512983554",
+    "key": "04_Zhivan_v1_Talk_702K",
+    "en": "So I've been hiding here... But enough about me, I'm just a lucky old man. You survived too, huh? Well, we call you <i>Returner</i> for a reason."
+  },
+  {
+    "id": "19521372160",
+    "key": "04_Zhivan_v1_Talk_3YDF",
+    "en": "They took everything from us, Brother."
+  },
+  {
+    "id": "19521372161",
+    "key": "04_Zhivan_v1_Talk_IV75",
+    "en": "Not the first nor the last time, Brother. It's always been this hard, which is why we're all on our own. Can't count on the townsfolk to protect us."
+  },
+  {
+    "id": "19521372162",
+    "key": "04_Zhivan_v1_Talk_27QP",
+    "en": "Some years I feel like every face I see is blurred. Not this time. I'll remember the folks who stood by'n did nothin' for us while we burned. They'll get theirs, God willing."
+  },
+  {
+    "id": "19521372163",
+    "key": "04_Zhivan_v1_Talk_8MXS",
+    "en": "God? You're religious now?"
+  },
+  {
+    "id": "19521372164",
+    "key": "04_Zhivan_v1_Talk_G8OV",
+    "en": "Yes, I am. Haven't joined the Church or anything – but I've found God, now."
+  },
+  {
+    "id": "19521372165",
+    "key": "04_Zhivan_v1_Talk_KOHB",
+    "en": "Go to mass when I can, help out here and there. 'Course, that might be hard to do now. Don't feel safe anymore."
+  },
+  {
+    "id": "19521372166",
+    "key": "04_Zhivan_v1_Talk_K75Q",
+    "en": "Why are you interested in God?"
+  },
+  {
+    "id": "19521372167",
+    "key": "04_Zhivan_v1_Talk_NQ7L",
+    "en": "I'm gettin' <i>old,</i> Returner. Time is like the Mist for us drifters. Saps away at the soul."
+  },
+  {
+    "id": "19521372168",
+    "key": "04_Zhivan_v1_Talk_PMUN",
+    "en": "Religion gives us an escape from all the endless stalking. Would do you good to try it."
+  },
+  {
+    "id": "19521372169",
+    "key": "04_Zhivan_v1_Talk_U47T",
+    "en": "There are some who worship Mist, instead of this \"God\"."
+  },
+  {
+    "id": "19521372170",
+    "key": "04_Zhivan_v1_Talk_SV5D",
+    "en": "Instead of this \"God\"."
+  },
+  {
+    "id": "19521372171",
+    "key": "04_Zhivan_v1_Talk_1E9A",
+    "en": "Mudlarks, right? I have a fondness for 'em. Ilya and I are buddies, even. But they worship the Mist, and look how it deforms them. It must <i>hurt.</i>"
+  },
+  {
+    "id": "19521372172",
+    "key": "04_Zhivan_v1_Talk_GV27",
+    "en": "However... They worship the Mist, and look how it deforms them. It must hurt."
+  },
+  {
+    "id": "19521372173",
+    "key": "04_Zhivan_v1_Talk_MZAJ",
+    "en": "I want to lessen my pain... Not heighten it. Through inner peace and all that. But maybe they're \"right\", and I'm \"wrong\"... Who really knows?"
+  },
+  {
+    "id": "19521372174",
+    "key": "04_Zhivan_v1_Talk_RZTF",
+    "en": "Are you looting these corpses?"
+  },
+  {
+    "id": "19521372175",
+    "key": "04_Zhivan_v1_Talk_34XB",
+    "en": "Yes; mostly empty. Search them if you want, won't get in your way. We have but Tongue and Fangs."
+  },
+  {
+    "id": "19521372176",
+    "key": "04_Zhivan_v1_Talk_NG48",
+    "en": "We have but Tongue and Fangs."
+  },
+  {
+    "id": "19521372177",
+    "key": "04_Zhivan_v1_Talk_VHAG",
+    "en": "The Mantras... We have but Tongue and Fangs."
+  },
+  {
+    "id": "19521372178",
+    "key": "04_Zhivan_v1_Talk_LNG4",
+    "en": "Yes. The Mantras show wisdom."
+  },
+  {
+    "id": "19521372179",
+    "key": "04_Zhivan_v1_Talk_N0OB",
+    "en": "Tongue and fangs...?"
+  },
+  {
+    "id": "19521372180",
+    "key": "04_Zhivan_v1_Talk_CS5M",
+    "en": "Now, brother; our routine may exhaust us and dull our senses, but do not forget the Carrion Mantras."
+  },
+  {
+    "id": "19521372181",
+    "key": "04_Zhivan_v1_Talk_Q5QP",
+    "en": "These small ties are what keeps Vultures going."
+  },
+  {
+    "id": "19521372182",
+    "key": "04_Zhivan_v1_Talk_VIHE",
+    "en": "Let's talk of the Mantras."
+  },
+  {
+    "id": "19521372183",
+    "key": "04_Zhivan_v1_Talk_TVU6",
+    "en": "Need a refresher?"
+  },
+  {
+    "id": "19521372184",
+    "key": "04_Zhivan_v1_Talk_DLWQ",
+    "en": "About the Svarog Factories job..."
+  },
+  {
+    "id": "19521372185",
+    "key": "04_Zhivan_v1_Talk_8DCI",
+    "en": "Got questions?"
+  },
+  {
+    "id": "19521372186",
+    "key": "04_Zhivan_v1_Talk_QLIQ",
+    "en": "I have to go now."
+  },
+  {
+    "id": "19521372187",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_Y90W",
+    "en": "I've always repeated them without thinking, but..."
+  },
+  {
+    "id": "19521372188",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_BC2U",
+    "en": "And so you should. Carrion Mantras are the accumulated wisdom of us Vultures, condensed into a few short phrases."
+  },
+  {
+    "id": "19521372189",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_CSST",
+    "en": "We mutter them over and over during our repetitive routines for a reason. Keeps us sane. Reminds us of our values."
+  },
+  {
+    "id": "19521372190",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_C4WO",
+    "en": "Do you know all of them?"
+  },
+  {
+    "id": "19521372191",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_IGPB",
+    "en": "Bah, no one knows <i>all</i> of them, Returner. There's no specific set, just a few more popular ones."
+  },
+  {
+    "id": "19521372192",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_14DP",
+    "en": "I won't recite them to you needlessly. You'll come across 'em again and again, as long as you keep <i>working.</i>"
+  },
+  {
+    "id": "19521372193",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_BEOT",
+    "en": "I've heard them before, but can't remember..."
+  },
+  {
+    "id": "19521372194",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_DNGP",
+    "en": "What with the recent violence, plus it looks like you've been hurt pretty bad recently? Yeah, you're in a bad spot, my brother. You'll make it through this cycle, God willing..."
+  },
+  {
+    "id": "19521372195",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_GE2N",
+    "en": "Let's talk of something else..."
+  },
+  {
+    "id": "19521372196",
+    "key": "04_Zhivan_v1_Talk_About_Mantras_NIHU",
+    "en": "I need to get going."
+  },
+  {
+    "id": "19521372197",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_N3NR",
+    "en": "I've made a decision about that favor."
+  },
+  {
+    "id": "19521372198",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_HUTW",
+    "en": "What is it?"
+  },
+  {
+    "id": "19521372199",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_1LZM",
+    "en": "About your spot on the Zakrajev Line..."
+  },
+  {
+    "id": "19521372200",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_G8XC",
+    "en": "Ilya must have tipped you off, huh. Yes, I took on a high-profile gig recently. Been working up the courage to start it, but... Thinking of backing out, honestly."
+  },
+  {
+    "id": "19521372201",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_L0KU",
+    "en": "Been gathering up the courage to start it... Why do you ask?"
+  },
+  {
+    "id": "19521372202",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_09S4",
+    "en": "I could help."
+  },
+  {
+    "id": "19521372203",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_NXZX",
+    "en": "Hmm. Tell you what; you do something for me, I'll let you take the job in my stead. \"We come together in Scavenge\", after all."
+  },
+  {
+    "id": "19521372204",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_VF47",
+    "en": "Tell you what; you do something for me, I'll let you take the job in my stead."
+  },
+  {
+    "id": "19521372205",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Details_L043",
+    "en": "I've been working out of Dazbog for a while; decent spot, not too dangerous. But I need a hiding spot now – whoever destroyed our Villa could be hunting for survivors."
+  },
+  {
+    "id": "19521372206",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Details_QERB",
+    "en": "Somewhere close, like one o' those wagons along the train tracks, guarded from all sides... Find a spot like that for me, I'll reward you – and also let you take that bigger job. What do you say?"
+  },
+  {
+    "id": "19521372207",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Details_XX25",
+    "en": "Find a spot like that for me, I'll reward you – and also let you take that bigger job in my stead. What do you say?"
+  },
+  {
+    "id": "19521372208",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Decision_DO70",
+    "en": "I'll find a place for you – near the train tracks."
+  },
+  {
+    "id": "19521372209",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Decision_74OF",
+    "en": "Thank you. I'll make it worth your trouble."
+  },
+  {
+    "id": "19521372210",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Decision_YJZ9",
+    "en": "Need to think about it."
+  },
+  {
+    "id": "19521372211",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Decision_CNCR",
+    "en": "Well, don't take too long, or I'll have to go on that bigger job alone."
+  },
+  {
+    "id": "19521372212",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Update_URVL",
+    "en": "Remind me what to look for."
+  },
+  {
+    "id": "19521372213",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Update_YHYM",
+    "en": "I was hoping for a spot near the train tracks, surrounded by those old wagons. Somewhere where I won't be too open to attacks."
+  },
+  {
+    "id": "19521372214",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Update_LS5F",
+    "en": "And o' course, you'll have to kill any Bandits or Mutants near it."
+  },
+  {
+    "id": "19521372215",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Update_UZN4",
+    "en": "I'll get back to it."
+  },
+  {
+    "id": "19521372216",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_Quest_Update_UTI4",
+    "en": "Alright. Don't take too long."
+  },
+  {
+    "id": "19521372217",
+    "key": "04_Zhivan_v1_Quest_Completed_L2KW",
+    "en": "Ah, yeah. Perfect for an atrophied bastard like m'self. I'll get going soon, Returner... Here's your reward."
+  },
+  {
+    "id": "19521372218",
+    "key": "04_Zhivan_v1_Quest_Completed_JP3V",
+    "en": "And about that big job?"
+  },
+  {
+    "id": "19521372219",
+    "key": "04_Zhivan_v1_Quest_Completed_5APX",
+    "en": "About that. A Mechanist at Sontse Station needs materials from the Svarog Factories... Used to be just Bandits in there, nothing too crazy; but then the Gunners moved in to fight over the turf..."
+  },
+  {
+    "id": "19521372220",
+    "key": "04_Zhivan_v1_Quest_Completed_6SH0",
+    "en": "I'll give up on the run so you can go in my place. Talk to a man named Anatoly; I don't think he'll doubt you if you mention my name and the details I've given."
+  },
+  {
+    "id": "19521372221",
+    "key": "04_Zhivan_v1_Quest_Completed_GXYD",
+    "en": "Here... This is the Amulet I broke for him. Show it, and he will know I've passed the job to you."
+  },
+  {
+    "id": "19521372222",
+    "key": "04_Zhivan_v1_Quest_Completed_OU11",
+    "en": "I'll go talk to the Mechanist, then."
+  },
+  {
+    "id": "19521372223",
+    "key": "04_Zhivan_v1_Quest_Completed_1V2N",
+    "en": "Good. To get to Sontse from here, you'd head South until a bit after crossing the tracks, then just go way East. Careful with those Bandits on the way."
+  },
+  {
+    "id": "19521372224",
+    "key": "04_Zhivan_v1_Quest_Completed_TVEA",
+    "en": "Good luck, Returner."
+  },
+  {
+    "id": "19521372225",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_6LLR",
+    "en": "Why did you give up on the job, really?"
+  },
+  {
+    "id": "19521372226",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_2V6V",
+    "en": "Not feeling so hot lately. That's why I'm sticking to Dazbog Hollow and its corpses for now. Plus, the attack on the Villa's got me rattled."
+  },
+  {
+    "id": "19521372227",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_5FPA",
+    "en": "Factory's a mess right now, with the Gunners trying to muscle in on a Bandit hideaway. Bandits are disorganized and weak, but they got the numbers..."
+  },
+  {
+    "id": "19521372228",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_ZSSK",
+    "en": "Also – Mist's been closing in on that place, from the East... A weird pattern, for sure. Can't claim to understand why."
+  },
+  {
+    "id": "19521372229",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_BM86",
+    "en": "Tell me more about this Anatoly."
+  },
+  {
+    "id": "19521372230",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_7CVI",
+    "en": "He's not a kind man, but he has plenty of money. Would've been good to earn his clientele, but..."
+  },
+  {
+    "id": "19521372231",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_GZRU",
+    "en": "Look, most Mechanists wouldn't hurt a fly, it's true. They're geeks. But they do <i>look down</i> on us Vultures... Just keep that in mind."
+  },
+  {
+    "id": "19521372232",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_3Y4W",
+    "en": "No more questions."
+  },
+  {
+    "id": "19521372233",
+    "key": "04_Zhivan_v1_Quest_Completed_About_Svarog_Job_LDB8",
+    "en": "Good."
+  },
+  {
+    "id": "19521372234",
+    "key": "04_Zhivan_v1_Trade_I0JQ",
+    "en": "Yes, let's trade."
+  },
+  {
+    "id": "19521372235",
+    "key": "04_Zhivan_v1_Trade_974Z",
+    "en": "We never Give without Taking."
+  },
+  {
+    "id": "19521372236",
+    "key": "04_Zhivan_v1_Trade_AE9J",
+    "en": "Let's do the usual thing."
+  },
+  {
+    "id": "19521372237",
+    "key": "04_Zhivan_v1_Trade_MV98",
+    "en": "Always up for a good trade."
+  },
+  {
+    "id": "19521372238",
+    "key": "04_Zhivan_v1_Leave_5SFL",
+    "en": "Until later, brother."
+  },
+  {
+    "id": "19521372239",
+    "key": "04_Zhivan_v1_Leave_TMNG",
+    "en": "'Til next time, Returner."
+  },
+  {
+    "id": "19521372240",
+    "key": "04_Zhivan_v1_Leave_BCB8",
+    "en": "Good luck on your work."
+  },
+  {
+    "id": "19521372241",
+    "key": "04_Zhivan_v1_Leave_PR2F",
+    "en": "Bye for now; always a pleasure, brother."
+  },
+  {
+    "id": "19521372242",
+    "key": "04_Zhivan_v1_GetWelcomingMessage_SF4U",
+    "en": "Ah, the Returner! Glad you've survived, as well..."
+  },
+  {
+    "id": "19521372243",
+    "key": "04_Zhivan_v1_GetWelcomingMessage_KGKP",
+    "en": "Hello, colleague."
+  },
+  {
+    "id": "19521372244",
+    "key": "04_Zhivan_v1_GetWelcomingMessage_ZGGJ",
+    "en": "Hello, brother-in-scavenge."
+  },
+  {
+    "id": "19521372245",
+    "key": "04_Zhivan_v1_GetWelcomingMessage_80UV",
+    "en": "We come together in Scavenge."
+  },
+  {
+    "id": "19521372246",
+    "key": "04_Zhivan_v1_GetTalkMessage_XGFN",
+    "en": "Let's talk a bit."
+  },
+  {
+    "id": "19521372247",
+    "key": "04_Zhivan_v1_GetTalkMessage_2INT",
+    "en": "Let's have a chat between Vultures."
+  },
+  {
+    "id": "19521372248",
+    "key": "04_Zhivan_v1_GetTalkMessage_35S5",
+    "en": "Got some questions, Zhivan."
+  },
+  {
+    "id": "19521372249",
+    "key": "04_Zhivan_v1_GetTradeMessage_BYOX",
+    "en": "Wanna trade?"
+  },
+  {
+    "id": "19521372250",
+    "key": "04_Zhivan_v1_GetTradeMessage_Z59J",
+    "en": "Anything you'd be willing to trade for?"
+  },
+  {
+    "id": "19521372251",
+    "key": "04_Zhivan_v1_GetTradeMessage_MWGQ",
+    "en": "Let me look at your wares."
+  },
+  {
+    "id": "19521372252",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_CLHL",
+    "en": "You've been muttering about a big job..."
+  },
+  {
+    "id": "19521372253",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_QTDN",
+    "en": "Seems you're worried about a job you took?"
+  },
+  {
+    "id": "19521372254",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_DAA0",
+    "en": "Heard you know of a big job."
+  },
+  {
+    "id": "19521372255",
+    "key": "04_Zhivan_v1_Quest_Completed_MKYP",
+    "en": "I've found and cleared a spot for you."
+  },
+  {
+    "id": "19521372256",
+    "key": "04_Zhivan_v1_Quest_Completed_8NH3",
+    "en": "Down by the tracks – there's a spot."
+  },
+  {
+    "id": "19521372257",
+    "key": "04_Zhivan_v1_Quest_Completed_PLMU",
+    "en": "Did what you asked."
+  },
+  {
+    "id": "19521372258",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_9THG",
+    "en": "I'll take them out."
+  },
+  {
+    "id": "19521372259",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_WYDO",
+    "en": "Thank you. We have but Tongue and Fangs."
+  },
+  {
+    "id": "19521372260",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_BQQI",
+    "en": "Bit dangerous – gonna think on it."
+  },
+  {
+    "id": "19521372261",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_GINK",
+    "en": "I understand. But remember... We see Death in comfort."
+  },
+  {
+    "id": "19521372262",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_KP7L",
+    "en": "Got something else?"
+  },
+  {
+    "id": "19521372263",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Complete_XK6A",
+    "en": "Thank you."
+  },
+  {
+    "id": "19521372264",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Complete_VC4M",
+    "en": "Try to be more careful."
+  },
+  {
+    "id": "19521372265",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_CBU0",
+    "en": "I'll go take a look."
+  },
+  {
+    "id": "19521372266",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_9164",
+    "en": "Good. Just be careful out there."
+  },
+  {
+    "id": "19521372267",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_FGOP",
+    "en": "Need to think about it."
+  },
+  {
+    "id": "19521372268",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_R7TJ",
+    "en": "Ok, I'm not in a rush."
+  },
+  {
+    "id": "19521372269",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_GOIP",
+    "en": "Hmm. Anything else you need?"
+  },
+  {
+    "id": "19521372270",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Complete_HACC",
+    "en": "We never Give without Taking."
+  },
+  {
+    "id": "19521372271",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Complete_DPSL",
+    "en": "Glad to help."
+  },
+  {
+    "id": "19521372272",
+    "key": "04_Zhivan_Jobs_v1_GetJobsMessage_Y4F0",
+    "en": "Any scavenges for me?"
+  },
+  {
+    "id": "19521372273",
+    "key": "04_Zhivan_Jobs_v1_GetJobsMessage_MSHF",
+    "en": "Any trouble I can help with?"
+  },
+  {
+    "id": "19521372274",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_IW5Q",
+    "en": "Spotted some odd fellows chasin’ me around the other day. Why don’t you surprise them while their eyes are on me?"
+  },
+  {
+    "id": "19521372275",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Show_OH6X",
+    "en": "This area shouldn’t have so many Bandits around – they’re gettin' fearless. Help me deal."
+  },
+  {
+    "id": "19521372276",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Complete_52LY",
+    "en": "Knew you could do it. Here you go."
+  },
+  {
+    "id": "19521372277",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Complete_A6RJ",
+    "en": "Did they make you break a sweat? Here's my thanks."
+  },
+  {
+    "id": "19521372278",
+    "key": "04_Zhivan_Jobs_v1_Manhunt_Complete_OFVX",
+    "en": "As expected, you're in one piece. Here – your reward."
+  },
+  {
+    "id": "19521372279",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_NW0T",
+    "en": "There’s a couple places Vultures haven’t scavenged yet. We need 'em clear of Mutants and Bandits before venturing in – you up for it?"
+  },
+  {
+    "id": "19521372280",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Show_25AR",
+    "en": "Been a couple casualties in our group recently – all around the area I’ve marked on your map. Why don't you see what's up."
+  },
+  {
+    "id": "19521372281",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Complete_2U1N",
+    "en": "You took care of all that trouble? Great. Here's your reward."
+  },
+  {
+    "id": "19521372282",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Complete_SDV2",
+    "en": "Glad you're back. Couldn't have been easy. Here you go."
+  },
+  {
+    "id": "19521372283",
+    "key": "04_Zhivan_Jobs_v1_Scouting_Complete_TK4P",
+    "en": "You've done us all a great service. Here. We never Give without Taking."
+  },
+  {
+    "id": "19521372284",
+    "key": "04_Zhivan_Jobs_v1_NoQuestsAvailable_Z9TA",
+    "en": "Today will be a day of typical scavenging for you, I'm afraid. Got no extra requests."
+  },
+  {
+    "id": "19521372285",
+    "key": "04_Zhivan_Jobs_v1_NoQuestsAvailable_BJPT",
+    "en": "I have no more to ask of you, for now."
+  },
+  {
+    "id": "19521372286",
+    "key": "04_Zhivan_Jobs_v1_NoQuestsAvailable_9G1F",
+    "en": "Don't have anything else right now. Try again later."
+  },
+  {
+    "id": "110468194233688064",
+    "key": "04_Zhivan_v1_GetRandomLeaveMessage_5SFL",
+    "en": "Until later, brother."
+  },
+  {
+    "id": "110468194246270976",
+    "key": "04_Zhivan_v1_GetRandomLeaveMessage_BCB8",
+    "en": "Good luck on your work."
+  },
+  {
+    "id": "110468194246270977",
+    "key": "04_Zhivan_v1_GetRandomLeaveMessage_PR2F",
+    "en": "Bye for now; always a pleasure, brother."
+  },
+  {
+    "id": "110468194246270978",
+    "key": "04_Zhivan_v1_GetRandomLeaveMessage_TMNG",
+    "en": "'Til next time, Returner."
+  },
+  {
+    "id": "110468194246270979",
+    "key": "04_Zhivan_v1_GetRandomTalkStart_2INT",
+    "en": "Let's have a chat between Vultures."
+  },
+  {
+    "id": "110468194246270980",
+    "key": "04_Zhivan_v1_GetRandomTalkStart_35S5",
+    "en": "Got some questions, Zhivan."
+  },
+  {
+    "id": "110468194246270981",
+    "key": "04_Zhivan_v1_GetRandomTalkStart_XGFN",
+    "en": "Let's talk a bit."
+  },
+  {
+    "id": "110468194246270982",
+    "key": "04_Zhivan_v1_GetRandomTradeMessage_974Z",
+    "en": "We never Give without Taking."
+  },
+  {
+    "id": "110468194246270983",
+    "key": "04_Zhivan_v1_GetRandomTradeMessage_AE9J",
+    "en": "Let's do the usual thing."
+  },
+  {
+    "id": "110468194246270984",
+    "key": "04_Zhivan_v1_GetRandomTradeMessage_I0JQ",
+    "en": "Yes, let's trade."
+  },
+  {
+    "id": "110468194246270985",
+    "key": "04_Zhivan_v1_GetRandomTradeMessage_MV98",
+    "en": "Always up for a good trade."
+  },
+  {
+    "id": "110468194246270986",
+    "key": "04_Zhivan_v1_GetRandomTradeStart_BYOX",
+    "en": "Wanna trade?"
+  },
+  {
+    "id": "110468194246270987",
+    "key": "04_Zhivan_v1_GetRandomTradeStart_MWGQ",
+    "en": "Let me look at your wares."
+  },
+  {
+    "id": "110468194246270988",
+    "key": "04_Zhivan_v1_GetRandomTradeStart_Z59J",
+    "en": "Anything you'd be willing to trade for?"
+  },
+  {
+    "id": "114111846615941120",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_HMML",
+    "en": "Tell me more about this favor."
+  },
+  {
+    "id": "114111846641106944",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_NLBP",
+    "en": "I'm not interested."
+  },
+  {
+    "id": "114111846641106945",
+    "key": "04_Zhivan_v1_AtHomeInZakrajev_R7NZ",
+    "en": "Huh? I thought that's what you came here to ask about..."
+  },
+  {
+    "id": "124217340887470080",
+    "key": "04_Zhivan_Jobs_v1_SupplyRunStart_Q9MA",
+    "en": "There are some things I'd like to find, so I can make sets and plan out some better trades. Would you help?"
+  },
+  {
+    "id": "124217340937801728",
+    "key": "04_Zhivan_Jobs_v1_SupplyRunStart_W2LX",
+    "en": "There's a few trinkets I had to pass on, but now I regret it. Would you find these sorts of things for me?"
+  },
+  {
+    "id": "124217340937801729",
+    "key": "04_Zhivan_Jobs_v1_SupplyRunComplete_E4NJ",
+    "en": "Thank you, Brother. This helps more than you think."
+  },
+  {
+    "id": "124217340937801730",
+    "key": "04_Zhivan_Jobs_v1_SupplyRunComplete_U8TR",
+    "en": "I'm glad you've got my back, Brother."
+  },
+  {
+    "id": "124217340937801731",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItemStart_H3WK",
+    "en": "I've been searching for something... Not very valuable, just sentimental. Would you mind helping me out?"
+  },
+  {
+    "id": "124217340937801732",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItemStart_P8QN",
+    "en": "Some of the things I've scavenged throughout the years, I've decided to keep and not trade, for whatever reason. One of them is lost... Help me find it, please."
+  },
+  {
+    "id": "124217340937801733",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItemComplete_L2YD",
+    "en": "Ah, yes. This is it. It's hard to explain, but... I'm attached to this thing, see."
+  },
+  {
+    "id": "124217340937801734",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItemComplete_R6FB",
+    "en": "Thank you, Returner. I cannot really explain why this means what it means to me."
+  },
+  {
+    "id": "124217340937801735",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Show_K8WQ",
+    "en": "I'll find what you need."
+  },
+  {
+    "id": "124217340937801736",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Show_M3PD",
+    "en": "Good, Brother. I expect news soon."
+  },
+  {
+    "id": "124217340937801737",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Show_R7VL",
+    "en": "Need to think about it."
+  },
+  {
+    "id": "124217340937801738",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Show_T2HN",
+    "en": "Yes, sometimes our own affairs take priority."
+  },
+  {
+    "id": "124217340937801739",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Show_P4YC",
+    "en": "Got other jobs?"
+  },
+  {
+    "id": "124217340937801740",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Complete_G8WQ",
+    "en": "Never a bad thing to help a Brother-in-Scavenge."
+  },
+  {
+    "id": "124217340937801741",
+    "key": "04_Zhivan_Jobs_v1_SupplyRun_Complete_B6KF",
+    "en": "Careful. You're losing your independence."
+  },
+  {
+    "id": "124217340937801742",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Show_A7KP",
+    "en": "I guess I'll help."
+  },
+  {
+    "id": "124217340937801743",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Show_N4XT",
+    "en": "I promise decent compensation."
+  },
+  {
+    "id": "124217340937801744",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Show_D9CJ",
+    "en": "Need time to think."
+  },
+  {
+    "id": "124217340937801745",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Show_M2QE",
+    "en": "I understand; it doesn't <i>sound</i> like a pressing matter..."
+  },
+  {
+    "id": "124217340937801746",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Show_S5ZR",
+    "en": "Got something else?"
+  },
+  {
+    "id": "124217340937801747",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Complete_B8HN",
+    "en": "Wish <i>I</i> had something like that."
+  },
+  {
+    "id": "124217340937801748",
+    "key": "04_Zhivan_Jobs_v1_FindMissingItem_Complete_Y3WS",
+    "en": "Get a grip, old man."
+  }
+]

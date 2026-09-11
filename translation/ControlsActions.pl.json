@@ -1,0 +1,830 @@
+[
+  {
+    "id": "96228343488176131",
+    "key": "SwitchGuns",
+    "en": "Switch Guns",
+    "pl": "Zmień broń"
+  },
+  {
+    "id": "2053823782912",
+    "key": "LookDirection",
+    "en": "Look direction",
+    "pl": "Kierunek patrzenia"
+  },
+  {
+    "id": "2053823782913",
+    "key": "Movement",
+    "en": "Movement",
+    "pl": "Ruch"
+  },
+  {
+    "id": "2053823782914",
+    "key": "Run",
+    "en": "Run",
+    "pl": "Bieg"
+  },
+  {
+    "id": "2053823782915",
+    "key": "DodgeRoll",
+    "en": "Dodge roll",
+    "pl": "Przewrót"
+  },
+  {
+    "id": "2053823782916",
+    "key": "Aim",
+    "en": "Aim",
+    "pl": "Celowanie"
+  },
+  {
+    "id": "2053823782917",
+    "key": "Shoot",
+    "en": "Shoot",
+    "pl": "Strzał"
+  },
+  {
+    "id": "2053823782918",
+    "key": "Reload",
+    "en": "Reload",
+    "pl": "Przeładuj"
+  },
+  {
+    "id": "2053823782919",
+    "key": "Melee",
+    "en": "Melee",
+    "pl": "Walka wręcz"
+  },
+  {
+    "id": "2053823782920",
+    "key": "UnarmedAttack",
+    "en": "Unarmed attack",
+    "pl": "Atak bez broni"
+  },
+  {
+    "id": "2053823782921",
+    "key": "Interact",
+    "en": "Interact",
+    "pl": "Użyj"
+  },
+  {
+    "id": "2053823782922",
+    "key": "LeftGun",
+    "en": "Left gun",
+    "pl": "Lewa broń"
+  },
+  {
+    "id": "2053823782923",
+    "key": "RightGun",
+    "en": "Right gun",
+    "pl": "Prawa broń"
+  },
+  {
+    "id": "2053823782924",
+    "key": "Hand",
+    "en": "Hand slot",
+    "pl": "Przedmiot w dłoni"
+  },
+  {
+    "id": "2053823782925",
+    "key": "NoGun",
+    "en": "Disarm",
+    "pl": "Schowaj broń"
+  },
+  {
+    "id": "2053823782926",
+    "key": "TogglePause",
+    "en": "Pause game",
+    "pl": "Wstrzymaj grę"
+  },
+  {
+    "id": "2053823782927",
+    "key": "ToggleInventory",
+    "en": "Inventory",
+    "pl": "Ekwipunek"
+  },
+  {
+    "id": "2053823782928",
+    "key": "ToggleMap",
+    "en": "Map",
+    "pl": "Mapa"
+  },
+  {
+    "id": "2053823782929",
+    "key": "ToggleQuestLog",
+    "en": "Journal",
+    "pl": "Dziennik"
+  },
+  {
+    "id": "2053823782930",
+    "key": "ToggleTipsMenu",
+    "en": "Tips menu",
+    "pl": "Menu wskazówek"
+  },
+  {
+    "id": "2053823782931",
+    "key": "DialogueOption",
+    "en": "Dialogue option",
+    "pl": "Opcja dialogowa"
+  },
+  {
+    "id": "2053823782932",
+    "key": "Save",
+    "en": "Quick save",
+    "pl": "Szybki zapis"
+  },
+  {
+    "id": "2053823782933",
+    "key": "Load",
+    "en": "Quick load",
+    "pl": "Szybkie wczytanie"
+  },
+  {
+    "id": "2053823782934",
+    "key": "F1QuickUse",
+    "en": "Quick Use 1",
+    "pl": "Szybkie użycie 1"
+  },
+  {
+    "id": "2053823782935",
+    "key": "F2QuickUse",
+    "en": "Quick Use 2",
+    "pl": "Szybkie użycie 2"
+  },
+  {
+    "id": "2053823782936",
+    "key": "F3QuickUse",
+    "en": "Quick Use 3",
+    "pl": "Szybkie użycie 3"
+  },
+  {
+    "id": "2053823782937",
+    "key": "F4QuickUse",
+    "en": "Quick Use 4",
+    "pl": "Szybkie użycie 4"
+  },
+  {
+    "id": "2053823782938",
+    "key": "SplitItem",
+    "en": "Split item",
+    "pl": "Podziel stos"
+  },
+  {
+    "id": "2053823782939",
+    "key": "RotateItem",
+    "en": "Rotate item",
+    "pl": "Obróć przedmiot"
+  },
+  {
+    "id": "2053823782940",
+    "key": "QuickDropItem",
+    "en": "Quick item drop",
+    "pl": "Szybko wyrzuć przedmiot"
+  },
+  {
+    "id": "2053823782941",
+    "key": "CollectItem",
+    "en": "Collect item",
+    "pl": "Zbierz przedmiot"
+  },
+  {
+    "id": "2053823782942",
+    "key": "LootAll",
+    "en": "Loot all items",
+    "pl": "Zbierz wszystkie przedmioty"
+  },
+  {
+    "id": "2053823782943",
+    "key": "LeftTab",
+    "en": "Left tab",
+    "pl": "Poprzednia zakładka"
+  },
+  {
+    "id": "2053823782944",
+    "key": "RightTab",
+    "en": "Right tab",
+    "pl": "Następna zakładka"
+  },
+  {
+    "id": "5971106586624",
+    "key": "Movement (up)",
+    "en": "Up movement",
+    "pl": "Ruch w górę"
+  },
+  {
+    "id": "5971148529664",
+    "key": "Movement (down)",
+    "en": "Down movement",
+    "pl": "Ruch w dół"
+  },
+  {
+    "id": "5971148529665",
+    "key": "Movement (left)",
+    "en": "Left movement",
+    "pl": "Ruch w lewo"
+  },
+  {
+    "id": "5971148529666",
+    "key": "Movement (right)",
+    "en": "Right movement",
+    "pl": "Ruch w prawo"
+  },
+  {
+    "id": "84107684620861440",
+    "key": "Cyclefiremode",
+    "en": "Cycle Fire Mode",
+    "pl": "Zmień tryb ognia"
+  },
+  {
+    "id": "86929886357553152",
+    "key": "CycleFiremode",
+    "en": "Cycle Fire Mode",
+    "pl": "Zmień tryb ognia"
+  },
+  {
+    "id": "89157220204273664",
+    "key": "InventoryRadialMenu",
+    "en": "Inventory radial",
+    "pl": "Kołowe menu ekwipunku"
+  },
+  {
+    "id": "89157220208467968",
+    "key": "AmmoRadialMenu",
+    "en": "Ammo radial",
+    "pl": "Kołowe menu amunicji"
+  },
+  {
+    "id": "89157220212662272",
+    "key": "LootItem",
+    "en": "Loot item",
+    "pl": "Zbierz przedmiot"
+  },
+  {
+    "id": "89304677242015744",
+    "key": "MoveItem",
+    "en": "Move item",
+    "pl": "Przenieś przedmiot"
+  },
+  {
+    "id": "89304677246210048",
+    "key": "ItemActions",
+    "en": "Item actions",
+    "pl": "Czynności przedmiotu"
+  },
+  {
+    "id": "89539792115240960",
+    "key": "PlaceItem",
+    "en": "Place item",
+    "pl": "Umieść przedmiot"
+  },
+  {
+    "id": "89547167933042688",
+    "key": "RepairItem",
+    "en": "Repair item",
+    "pl": "Napraw przedmiot"
+  },
+  {
+    "id": "89547940553199616",
+    "key": "MoveMap",
+    "en": "Move map",
+    "pl": "Przesuń mapę"
+  },
+  {
+    "id": "89547940553199617",
+    "key": "MapZoomIn",
+    "en": "Zoom in",
+    "pl": "Przybliż"
+  },
+  {
+    "id": "89547940553199618",
+    "key": "MapZoomOut",
+    "en": "Zoom out",
+    "pl": "Oddal"
+  },
+  {
+    "id": "89600068638380032",
+    "key": "LootDropItem",
+    "en": "Loot / Drop item",
+    "pl": "Zbierz / wyrzuć przedmiot"
+  },
+  {
+    "id": "89607273836089344",
+    "key": "OpenInventory",
+    "en": "Open inventory",
+    "pl": "Otwórz ekwipunek"
+  },
+  {
+    "id": "89608000000000000",
+    "key": "SortInventory",
+    "en": "Sort inventory",
+    "pl": "Sortuj ekwipunek"
+  },
+  {
+    "id": "92390333999284224",
+    "key": "Detector",
+    "en": "Detector",
+    "pl": "Detektor"
+  },
+  {
+    "id": "95022811817435136",
+    "key": "Binding.up",
+    "en": "Up",
+    "pl": "W górę"
+  },
+  {
+    "id": "95022811830018048",
+    "key": "Binding.down",
+    "en": "Down",
+    "pl": "W dół"
+  },
+  {
+    "id": "95022811830018049",
+    "key": "Binding.left",
+    "en": "Left",
+    "pl": "W lewo"
+  },
+  {
+    "id": "95022811830018050",
+    "key": "Binding.right",
+    "en": "Right",
+    "pl": "W prawo"
+  },
+  {
+    "id": "95022811830018051",
+    "key": "Binding.modifier",
+    "en": "Modifier",
+    "pl": "Klawisz modyfikujący"
+  },
+  {
+    "id": "95022811830018054",
+    "key": "Binding.button",
+    "en": "Button",
+    "pl": "Przycisk"
+  },
+  {
+    "id": "95043523160563715",
+    "key": "Category.General",
+    "en": "General",
+    "pl": "Ogólne"
+  },
+  {
+    "id": "95043523160563714",
+    "key": "Category.Map",
+    "en": "Map",
+    "pl": "Mapa"
+  },
+  {
+    "id": "95043523160563713",
+    "key": "Category.Inventory",
+    "en": "Inventory",
+    "pl": "Ekwipunek"
+  },
+  {
+    "id": "95022811830018072",
+    "key": "Craft",
+    "en": "Craft",
+    "pl": "Wytwórz"
+  },
+  {
+    "id": "95043523160563712",
+    "key": "Category.Combat",
+    "en": "Combat",
+    "pl": "Walka"
+  },
+  {
+    "id": "95043523143786496",
+    "key": "Category.Movement",
+    "en": "Movement",
+    "pl": "Ruch"
+  },
+  {
+    "id": "95022811830018075",
+    "key": "MapExpand",
+    "en": "Expand map",
+    "pl": "Rozwiń mapę"
+  },
+  {
+    "id": "95048371557883904",
+    "key": "Binding.Edit",
+    "en": "Assign controls to",
+    "pl": "Przypisz sterowanie do"
+  },
+  {
+    "id": "95048371570466816",
+    "key": "Binding.Add",
+    "en": "Add key",
+    "pl": "Dodaj klawisz"
+  },
+  {
+    "id": "95048371570466817",
+    "key": "Binding.Save",
+    "en": "Save binding",
+    "pl": "Zapisz przypisanie"
+  },
+  {
+    "id": "95048371570466818",
+    "key": "Binding.Clear",
+    "en": "Clear",
+    "pl": "Wyczyść"
+  },
+  {
+    "id": "95048371570466819",
+    "key": "Binding.PressNext",
+    "en": "Press a key or button. For a stick binding, add the stick last.",
+    "pl": "Naciśnij klawisz lub przycisk. Jeśli przypisujesz drążek, dodaj go na końcu."
+  },
+  {
+    "id": "95054136947499008",
+    "key": "Binding.Advanced",
+    "en": "Advanced",
+    "pl": "Zaawansowane"
+  },
+  {
+    "id": "95054136976859136",
+    "key": "Binding.Gesture",
+    "en": "Hold a key to record it as held. Release all keys to save.",
+    "pl": "Przytrzymaj klawisz, aby zapisać przytrzymanie. Zwolnij wszystkie klawisze, aby zapisać."
+  },
+  {
+    "id": "95054136976859137",
+    "key": "Binding.Manual",
+    "en": "Add keys one at a time, then save your binding. For a stick binding, add the stick last.",
+    "pl": "Dodawaj klawisze pojedynczo, a następnie zapisz przypisanie. Drążek dodaj na końcu."
+  },
+  {
+    "id": "95054586207789056",
+    "key": "Binding.AdvancedGamepad",
+    "en": "Advanced (View / Select)",
+    "pl": "Zaawansowane (View / Select)"
+  },
+  {
+    "id": "95057767566401536",
+    "key": "Binding.GestureStick",
+    "en": "Move a stick, with any buttons you want to combine. Release everything to save.",
+    "pl": "Wychyl drążek razem z przyciskami, które chcesz połączyć. Zwolnij wszystko, aby zapisać."
+  },
+  {
+    "id": "95788026007904256",
+    "key": "BuySell",
+    "en": "Buy / Sell",
+    "pl": "Kup / sprzedaj"
+  },
+  {
+    "id": "95790286804869120",
+    "key": "ConfirmQuantity",
+    "en": "Confirm quantity",
+    "pl": "Potwierdź ilość"
+  },
+  {
+    "id": "95798749614301184",
+    "key": "Category.Crafting",
+    "en": "Crafting",
+    "pl": "Wytwarzanie"
+  },
+  {
+    "id": "95798749631078400",
+    "key": "Category.Trader",
+    "en": "Trader",
+    "pl": "Handlarz"
+  },
+  {
+    "id": "95800882568880128",
+    "key": "Category.Journal",
+    "en": "Journal",
+    "pl": "Dziennik"
+  },
+  {
+    "id": "95804012014592000",
+    "key": "StealthKill",
+    "en": "Stealth kill",
+    "pl": "Ciche zabójstwo"
+  },
+  {
+    "id": "95804012027174912",
+    "key": "Hint.Loot",
+    "en": "Loot",
+    "pl": "Zbierz"
+  },
+  {
+    "id": "95804012027174913",
+    "key": "Hint.Drop",
+    "en": "Drop",
+    "pl": "Wyrzuć"
+  },
+  {
+    "id": "95804012027174914",
+    "key": "TransferItem",
+    "en": "Transfer item",
+    "pl": "Przenieś przedmiot"
+  },
+  {
+    "id": "95806062404296704",
+    "key": "Hint.Transfer",
+    "en": "Transfer",
+    "pl": "Przenieś"
+  },
+  {
+    "id": "95809051240161280",
+    "key": "TransferAllItems",
+    "en": "Transfer all items",
+    "pl": "Przenieś wszystkie przedmioty"
+  },
+  {
+    "id": "95811508338941952",
+    "key": "Key.space",
+    "en": "Space",
+    "pl": "Spacja"
+  },
+  {
+    "id": "95811508359913472",
+    "key": "Key.enter",
+    "en": "Enter",
+    "pl": "Enter"
+  },
+  {
+    "id": "95811508359913473",
+    "key": "Key.escape",
+    "en": "Esc",
+    "pl": "Esc"
+  },
+  {
+    "id": "95811508359913474",
+    "key": "Key.backspace",
+    "en": "Bksp",
+    "pl": "Bksp"
+  },
+  {
+    "id": "95811508359913475",
+    "key": "Key.delete",
+    "en": "Del",
+    "pl": "Del"
+  },
+  {
+    "id": "95811508359913476",
+    "key": "Key.insert",
+    "en": "Ins",
+    "pl": "Ins"
+  },
+  {
+    "id": "95811508359913477",
+    "key": "Key.home",
+    "en": "Home",
+    "pl": "Home"
+  },
+  {
+    "id": "95811508359913478",
+    "key": "Key.end",
+    "en": "End",
+    "pl": "End"
+  },
+  {
+    "id": "95811508359913479",
+    "key": "Key.pageup",
+    "en": "PgUp",
+    "pl": "PgUp"
+  },
+  {
+    "id": "95811508359913480",
+    "key": "Key.pagedown",
+    "en": "PgDn",
+    "pl": "PgDn"
+  },
+  {
+    "id": "95811508359913481",
+    "key": "Key.capslock",
+    "en": "Caps",
+    "pl": "Caps"
+  },
+  {
+    "id": "95811508359913482",
+    "key": "Key.numlock",
+    "en": "Num Lock",
+    "pl": "Num Lock"
+  },
+  {
+    "id": "95811508359913483",
+    "key": "Key.scrolllock",
+    "en": "Scr Lock",
+    "pl": "Scr Lock"
+  },
+  {
+    "id": "95811508359913484",
+    "key": "Key.printscreen",
+    "en": "PrtSc",
+    "pl": "PrtSc"
+  },
+  {
+    "id": "95811508359913485",
+    "key": "Key.pause",
+    "en": "Pause",
+    "pl": "Pause"
+  },
+  {
+    "id": "95811508359913486",
+    "key": "Key.contextmenu",
+    "en": "Menu",
+    "pl": "Menu"
+  },
+  {
+    "id": "95811508359913487",
+    "key": "Key.anykey",
+    "en": "Any key",
+    "pl": "Dowolny klawisz"
+  },
+  {
+    "id": "95811508359913488",
+    "key": "Key.numpad",
+    "en": "Num",
+    "pl": "Num"
+  },
+  {
+    "id": "95811508359913489",
+    "key": "Key.mouse.leftbutton",
+    "en": "LMB",
+    "pl": "LPM"
+  },
+  {
+    "id": "95811508359913490",
+    "key": "Key.mouse.rightbutton",
+    "en": "RMB",
+    "pl": "PPM"
+  },
+  {
+    "id": "95811508359913491",
+    "key": "Key.mouse.middlebutton",
+    "en": "MMB",
+    "pl": "ŚPM"
+  },
+  {
+    "id": "95811508359913492",
+    "key": "Key.mouse.forwardbutton",
+    "en": "Mouse Fwd",
+    "pl": "Mysz: dalej"
+  },
+  {
+    "id": "95811508359913493",
+    "key": "Key.mouse.backbutton",
+    "en": "Mouse Back",
+    "pl": "Mysz: wstecz"
+  },
+  {
+    "id": "95811508359913494",
+    "key": "Key.mouse.scroll",
+    "en": "Wheel",
+    "pl": "Kółko myszy"
+  },
+  {
+    "id": "95811508359913495",
+    "key": "Key.tab",
+    "en": "Tab",
+    "pl": "Tab"
+  },
+  {
+    "id": "95811508359913496",
+    "key": "Key.uparrow",
+    "en": "↑",
+    "pl": "↑"
+  },
+  {
+    "id": "95811508359913497",
+    "key": "Key.downarrow",
+    "en": "↓",
+    "pl": "↓"
+  },
+  {
+    "id": "95811508359913498",
+    "key": "Key.leftarrow",
+    "en": "←",
+    "pl": "←"
+  },
+  {
+    "id": "95811508359913499",
+    "key": "Key.rightarrow",
+    "en": "→",
+    "pl": "→"
+  },
+  {
+    "id": "95811508359913500",
+    "key": "Key.leftshift",
+    "en": "Shift L",
+    "pl": "Lewy Shift"
+  },
+  {
+    "id": "95811508359913501",
+    "key": "Key.rightshift",
+    "en": "Shift R",
+    "pl": "Prawy Shift"
+  },
+  {
+    "id": "95811508359913502",
+    "key": "Key.leftctrl",
+    "en": "Ctrl L",
+    "pl": "Lewy Ctrl"
+  },
+  {
+    "id": "95811508359913503",
+    "key": "Key.rightctrl",
+    "en": "Ctrl R",
+    "pl": "Prawy Ctrl"
+  },
+  {
+    "id": "95811508359913504",
+    "key": "Key.leftalt",
+    "en": "Alt L",
+    "pl": "Lewy Alt"
+  },
+  {
+    "id": "95811508359913505",
+    "key": "Key.rightalt",
+    "en": "Alt R",
+    "pl": "Prawy Alt"
+  },
+  {
+    "id": "95811508359913506",
+    "key": "Key.leftmeta",
+    "en": "Win/Cmd L",
+    "pl": "Lewy Win/Cmd"
+  },
+  {
+    "id": "95811508359913507",
+    "key": "Key.rightmeta",
+    "en": "Win/Cmd R",
+    "pl": "Prawy Win/Cmd"
+  },
+  {
+    "id": "95811508359913508",
+    "key": "Key.numpaddivide",
+    "en": "Num ÷",
+    "pl": "Num ÷"
+  },
+  {
+    "id": "95811508359913509",
+    "key": "Key.numpadmultiply",
+    "en": "Num ×",
+    "pl": "Num ×"
+  },
+  {
+    "id": "95811508359913510",
+    "key": "Key.numpadminus",
+    "en": "Num −",
+    "pl": "Num −"
+  },
+  {
+    "id": "95811508359913511",
+    "key": "Key.numpadplus",
+    "en": "Num +",
+    "pl": "Num +"
+  },
+  {
+    "id": "95811508359913512",
+    "key": "Key.numpadperiod",
+    "en": "Num .",
+    "pl": "Num ."
+  },
+  {
+    "id": "95811508359913513",
+    "key": "Key.numpadequals",
+    "en": "Num =",
+    "pl": "Num ="
+  },
+  {
+    "id": "95811508359913514",
+    "key": "Key.numpadenter",
+    "en": "Num Enter",
+    "pl": "Num Enter"
+  },
+  {
+    "id": "95812819562258432",
+    "key": "CameraZoomIn",
+    "en": "Camera zoom in",
+    "pl": "Przybliż kamerę"
+  },
+  {
+    "id": "95812819604201472",
+    "key": "CameraZoomOut",
+    "en": "Camera zoom out",
+    "pl": "Oddal kamerę"
+  },
+  {
+    "id": "96228343387512832",
+    "key": "JournalTrack",
+    "en": "Track/Untrack quest/job",
+    "pl": "Przełącz śledzenie zadania/zlecenia"
+  },
+  {
+    "id": "96228343488176128",
+    "key": "JournalCancelJob",
+    "en": "Cancel job",
+    "pl": "Anuluj zlecenie"
+  },
+  {
+    "id": "96228343488176129",
+    "key": "Journal.Track",
+    "en": "Track",
+    "pl": "Śledź"
+  },
+  {
+    "id": "96228343488176130",
+    "key": "Journal.Untrack",
+    "en": "Untrack",
+    "pl": "Przestań śledzić"
+  }
+]

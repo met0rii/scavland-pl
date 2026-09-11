@@ -1,0 +1,830 @@
+[
+  {
+    "id": "431648874496",
+    "key": "25_Snezhana_v1_Talk_9WSL",
+    "en": "Don't think I remember you.",
+    "pl": "Chyba cię nie pamiętam."
+  },
+  {
+    "id": "431657263104",
+    "key": "25_Snezhana_v1_Talk_9666",
+    "en": "We talked a few years back. It was the only time I tried hiring a Vulture when I was still a farmer. You seemed so strange to me.",
+    "pl": "Rozmawialiśmy parę lat temu. To był jedyny raz, kiedy próbowałam wynająć Sępa, jeszcze jako rolniczka. Wydawałeś mi się taki dziwny."
+  },
+  {
+    "id": "431657263105",
+    "key": "25_Snezhana_v1_Talk_1R18",
+    "en": "Now I talk to you guys all the time. Appreciate the consistency of a Vulture compared to other Factions... Sorry about the Villa thing. Hope y'all can find a place to be safe.",
+    "pl": "Teraz ciągle z wami rozmawiam. Doceniam przewidywalność Sępów w porównaniu z innymi frakcjami... Przykro mi z powodu Willi. Obyście znaleźli bezpieczne miejsce."
+  },
+  {
+    "id": "431657263106",
+    "key": "25_Snezhana_v1_Talk_Y90Q",
+    "en": "So... I did a job for you?",
+    "pl": "Czyli... wykonałem dla ciebie zlecenie?"
+  },
+  {
+    "id": "431657263107",
+    "key": "25_Snezhana_v1_Talk_1WS0",
+    "en": "I think you took care of some Mutants for me and some other folks. No wonder you don't remember it, must've been a snooze. I was scared of your gas mask and how curt you were.",
+    "pl": "Chyba zająłeś się Mutantami dla mnie i paru innych ludzi. Nic dziwnego, że nie pamiętasz, pewnie wiało nudą. Bałam się twojej maski i tego, jaki byłeś oschły."
+  },
+  {
+    "id": "431657263108",
+    "key": "25_Snezhana_v1_Talk_CLAW",
+    "en": "Hmm... A Mutant gig, no?",
+    "pl": "Hmm... Robota z Mutantami, tak?"
+  },
+  {
+    "id": "431657263109",
+    "key": "25_Snezhana_v1_Talk_DTI3",
+    "en": "Wow, I'm... Surprised you remembered. Yeah, we were dealing with a lot of dog attacks... So many dead that year. You and your colleagues really helped out.",
+    "pl": "Ojej... Zaskoczyłeś mnie, że pamiętasz. Tak, psy często nas atakowały... Tylu ludzi zginęło w tamtym roku. Ty i twoi koledzy bardzo pomogliście."
+  },
+  {
+    "id": "431657263110",
+    "key": "25_Snezhana_v1_Talk_BQTD",
+    "en": "This whole area... Belongs to the Rada?",
+    "pl": "Cała ta okolica... należy do Rady?"
+  },
+  {
+    "id": "431657263111",
+    "key": "25_Snezhana_v1_Talk_6ZUL",
+    "en": "\"Belong\" is a strong word, hah. Mostly Commonfolk live here, but we help get them installed, and we negotiate with Palatines for security. We have <i>some</i> authority here, but...",
+    "pl": "„Należy” to mocne słowo, ha. Mieszkają tu głównie Zwykli Ludzie, ale pomagamy im się osiedlić i negocjujemy ochronę z Palatynami. Mamy tu <i>pewien</i> autorytet, ale..."
+  },
+  {
+    "id": "431657263112",
+    "key": "25_Snezhana_v1_Talk_NGZZ",
+    "en": "Not <i>enough.</i> The kind of confidence we need to inspire so we can call the shots and make things run smoothly... That'll only come when we can protect people <i>directly.</i> No middle-men.",
+    "pl": "<i>Niewystarczający.</i> Zaufanie potrzebne, żeby podejmować decyzje i sprawnie wszystkim zarządzać, zdobędziemy dopiero wtedy, gdy będziemy chronić ludzi <i>bezpośrednio.</i> Bez pośredników."
+  },
+  {
+    "id": "431657263113",
+    "key": "25_Snezhana_v1_Talk_HMU7",
+    "en": "You think the Rada should be combat-ready?",
+    "pl": "Uważasz, że Rada powinna być gotowa do walki?"
+  },
+  {
+    "id": "431657263114",
+    "key": "25_Snezhana_v1_Talk_R9MP",
+    "en": "Yes. It's way past time. No organization can survive without violence. The exceptions prove the rule, as they all have the means to <i>hire</i> violent people to do the dirty work.",
+    "pl": "Tak. Najwyższy czas. Żadna organizacja nie przetrwa bez przemocy. Wyjątki potwierdzają regułę, bo wszystkie mają środki, żeby <i>wynająć</i> kogoś do brudnej roboty."
+  },
+  {
+    "id": "431657263115",
+    "key": "25_Snezhana_v1_Talk_KL2U",
+    "en": "Sounds like you just want control over Commonfolk.",
+    "pl": "Brzmi, jakbyście chcieli kontrolować Zwykłych Ludzi."
+  },
+  {
+    "id": "431657263116",
+    "key": "25_Snezhana_v1_Talk_UP4J",
+    "en": "Control based on trust works both ways. Our guns will be aimed at Bandits and Mutants, not at the common man. If we betray that, we'll be <i>violently</i> deposed: it's part of the plan to eventually teach them to arm themselves...",
+    "pl": "Władza oparta na zaufaniu działa w obie strony. Naszą broń skierujemy na Bandytów i Mutanty, nie na zwykłego człowieka. Jeśli zdradzimy tę zasadę, obalą nas <i>siłą.</i> Planujemy przecież z czasem nauczyć ich samodzielnie się uzbrajać..."
+  },
+  {
+    "id": "431657263117",
+    "key": "25_Snezhana_v1_Talk_VV0G",
+    "en": "Or do you think we're <i>less</i> trustworthy than the Palatines?",
+    "pl": "A może uważasz nas za <i>mniej</i> godnych zaufania od Palatynów?"
+  },
+  {
+    "id": "431657263118",
+    "key": "25_Snezhana_v1_Talk_YA0H",
+    "en": "Thought Rada were... Pacifists.",
+    "pl": "Myślałem, że Rada to... pacyfiści."
+  },
+  {
+    "id": "431657263119",
+    "key": "25_Snezhana_v1_Talk_MSAC",
+    "en": "Who told you <i>that?</i> We have a particular view of how violence must be used, sure, but... Was it Mila who put that idea in your head?",
+    "pl": "Kto ci <i>to</i> powiedział? Owszem, mamy określone poglądy na użycie przemocy, ale... To Mila ci to wmówiła?"
+  },
+  {
+    "id": "431657263120",
+    "key": "25_Snezhana_v1_Talk_M7L1",
+    "en": "About the Rada using <i>force...</i>",
+    "pl": "Co do używania <i>siły</i> przez Radę..."
+  },
+  {
+    "id": "431657263121",
+    "key": "25_Snezhana_v1_Talk_5PYY",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "431657263122",
+    "key": "25_Snezhana_v1_Talk_XU7A",
+    "en": "Is there no hope to make things better <i>soon?</i>",
+    "pl": "Nie ma nadziei, że będzie lepiej <i>wkrótce?</i>"
+  },
+  {
+    "id": "431657263123",
+    "key": "25_Snezhana_v1_Talk_H5X4",
+    "en": "I don't believe in quick, easy change. We will arm ourselves over the months and years, but even so, the Bandits will not <i>disappear,</i> they will <i>dwindle.</i>",
+    "pl": "Nie wierzę w szybkie, łatwe zmiany. Będziemy się zbroić przez miesiące i lata, ale nawet wtedy Bandyci nie <i>znikną.</i> Będzie ich <i>ubywać.</i>"
+  },
+  {
+    "id": "431657263124",
+    "key": "25_Snezhana_v1_Talk_8E4I",
+    "en": "Gunners will not <i>give up</i> their expansion, they will be <i>discouraged.</i> Mutants will not stop ruining our crops, and our own ruinous habits will persist: we'll dissolve them <i>slowly</i> through education and cooperative work.",
+    "pl": "Strzelcy nie <i>porzucą</i> ekspansji, tylko zostaną do niej <i>zniechęceni.</i> Mutanty nie przestaną niszczyć upraw, a nasze własne zgubne nawyki pozostaną. Wykorzenimy je <i>powoli,</i> edukacją i wspólną pracą."
+  },
+  {
+    "id": "431657263125",
+    "key": "25_Snezhana_v1_Talk_M14G",
+    "en": "None of this will last unless we build a social fabric where it is the <i>only way to live.</i>",
+    "pl": "Nic z tego nie przetrwa, jeśli nie zbudujemy więzi społecznych, w których stanie się to <i>jedynym sposobem życia.</i>"
+  },
+  {
+    "id": "431657263126",
+    "key": "25_Snezhana_v1_Talk_JLFK",
+    "en": "Never mind; I have to go.",
+    "pl": "Nieważne, muszę iść."
+  },
+  {
+    "id": "431657263127",
+    "key": "25_Snezhana_v1_Talk_About_Violence_CJSF",
+    "en": "Other Rada I talked to were all about peace.",
+    "pl": "Inni członkowie Rady mówili tylko o pokoju."
+  },
+  {
+    "id": "431657263128",
+    "key": "25_Snezhana_v1_Talk_About_Violence_PH8S",
+    "en": "I wouldn't mind some of that, myself. But just because we want a better world, does not mean we should offer flowers to those who would see us dead.",
+    "pl": "Sama też bym nim nie pogardziła. Ale pragnienie lepszego świata nie oznacza, że mamy wręczać kwiaty tym, którzy chcą nas zabić."
+  },
+  {
+    "id": "431657263129",
+    "key": "25_Snezhana_v1_Talk_About_Violence_NAA9",
+    "en": "If we're entrusted with all the farms in Zalesye, we'll have to <i>keep them</i> while applying our ideas in practice. History doesn't operate in short bursts of heroics, it's a war of attrition.",
+    "pl": "Jeśli powierzą nam wszystkie gospodarstwa w Zalesye, będziemy musieli je <i>utrzymać,</i> wcielając nasze idee w życie. Historia nie działa krótkimi zrywami bohaterstwa. To wojna na wyniszczenie."
+  },
+  {
+    "id": "431657263130",
+    "key": "25_Snezhana_v1_Talk_About_Violence_ANJO",
+    "en": "Won't this lead us back to the same power imbalance?",
+    "pl": "Nie wrócimy tak do tej samej nierównowagi sił?"
+  },
+  {
+    "id": "431657263131",
+    "key": "25_Snezhana_v1_Talk_About_Violence_QQM5",
+    "en": "There's always a chance that the oppressed will become oppressors themselves... But we must <i>try</i> to break that cycle.",
+    "pl": "Zawsze istnieje ryzyko, że uciskani sami staną się ciemięzcami... Ale musimy <i>próbować</i> przerwać ten krąg."
+  },
+  {
+    "id": "431657263132",
+    "key": "25_Snezhana_v1_Talk_About_Violence_TVWO",
+    "en": "Whatever society we build will contain within it the infected, nefarious essence of the times we're going through right now. Which is why we must make an effort to <i>qualify</i> our use of weapons from the start.",
+    "pl": "Każde społeczeństwo, które zbudujemy, będzie nosić w sobie zatrutą, złowrogą istotę obecnych czasów. Dlatego od początku musimy starać się <i>określić zasady</i> używania broni."
+  },
+  {
+    "id": "431657263133",
+    "key": "25_Snezhana_v1_Talk_About_Violence_U4XW",
+    "en": "That's all I wanted to ask.",
+    "pl": "To wszystko, o co chciałem zapytać."
+  },
+  {
+    "id": "431657263134",
+    "key": "25_Snezhana_v1_Talk_About_Violence_TOTQ",
+    "en": "Hmm... I see.",
+    "pl": "Hmm... Rozumiem."
+  },
+  {
+    "id": "431657263135",
+    "key": "25_Snezhana_v1_TheDeadZone_FB8A",
+    "en": "The bunker down there? That's off-limits. Mutants, radiation, even the <i>ceiling's</i> about to give. Next person to slam that door will probably get buried alive, so, sorry.",
+    "pl": "Bunkier na dole? Wstęp wzbroniony. Mutanty, promieniowanie, nawet <i>sufit</i> ledwo się trzyma. Ktoś trzaśnie drzwiami i zostanie pogrzebany żywcem. Przykro mi."
+  },
+  {
+    "id": "431657263136",
+    "key": "25_Snezhana_v1_TheDeadZone_MJCP",
+    "en": "Our security's stretched too thin, man. It's bad enough that we had to post guards there to avoid people trying to sneak in... Too many deaths... We're <i>way</i> too vulnerable right now. No shenanigans, <i>please.</i>",
+    "pl": "Nasza ochrona ledwo daje radę, człowieku. Już musieliśmy wystawić tam straże, żeby ludzie się nie wkradali... Za dużo śmierci... Jesteśmy teraz <i>zdecydowanie</i> zbyt narażeni. Bez wygłupów, <i>proszę.</i>"
+  },
+  {
+    "id": "431657263137",
+    "key": "25_Snezhana_v1_TheDeadZone_AGFG",
+    "en": "Can handle all of that. <i>Really</i> need to get in there.",
+    "pl": "Poradzę sobie. <i>Naprawdę</i> muszę tam wejść."
+  },
+  {
+    "id": "431657263138",
+    "key": "25_Snezhana_v1_TheDeadZone_4Y0N",
+    "en": "Shit... Look, how 'bout a trade? You help us with our security problem... I'll give you the key. But I'm warning you... That place spells death.",
+    "pl": "Cholera... Słuchaj, może wymiana? Pomożesz nam z ochroną, a dam ci klucz. Ale ostrzegam... Tam czeka śmierć."
+  },
+  {
+    "id": "431657263139",
+    "key": "25_Snezhana_v1_TheDeadZone_IFHQ",
+    "en": "I won't ask for much... Just... A few weapons. You're crafty, I'm sure. Give us something to help the Rada start getting its hands dirty. I'll give you the blueprints, just make the weapons for us.",
+    "pl": "Nie poproszę o wiele... Tylko... Kilka sztuk broni. Na pewno jesteś zaradny. Daj nam coś, żeby Rada mogła zacząć brudzić sobie ręce. Dostaniesz schematy, po prostu zrób dla nas broń."
+  },
+  {
+    "id": "431657263140",
+    "key": "25_Snezhana_v1_TheDeadZone_TXDU",
+    "en": "None of that's my concern. Just let me in.",
+    "pl": "To nie moja sprawa. Po prostu mnie wpuść."
+  },
+  {
+    "id": "431657263141",
+    "key": "25_Snezhana_v1_TheDeadZone_Z4KZ",
+    "en": "If you have a death wish, Returner, I won't be too stubborn with this. But you gotta understand if I ask you to do something for <i>us,</i> first. Like... Making a couple guns for us.",
+    "pl": "Jeśli szukasz śmierci, Powracający, nie będę się bardzo upierać. Ale zrozum, że najpierw poproszę cię o coś dla <i>nas.</i> Na przykład o zrobienie paru karabinów."
+  },
+  {
+    "id": "431657263142",
+    "key": "25_Snezhana_v1_TheDeadZone_XPE9",
+    "en": "Help us arm our Rada rookies and I'll lend you that bunker's key <i>and</i> give you a reward as well. How's that?",
+    "pl": "Pomóż uzbroić nowicjuszy Rady, a pożyczę ci klucz do bunkra <i>i</i> dam nagrodę. Co ty na to?"
+  },
+  {
+    "id": "431657263143",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_XDXN",
+    "en": "Crafting weapons for you? Sounds easy.",
+    "pl": "Zrobić wam broń? Brzmi łatwo."
+  },
+  {
+    "id": "431657263144",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_GKUN",
+    "en": "Glad to hear it. Here are the blueprints.",
+    "pl": "Miło słyszeć. Oto schematy."
+  },
+  {
+    "id": "431657263145",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_SXCG",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "431657263146",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_DFKL",
+    "en": "Don't let me hear you trying to break in during the night.",
+    "pl": "Żebym tylko nie usłyszała, jak nocą próbujesz się włamać."
+  },
+  {
+    "id": "431657263147",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_75QH",
+    "en": "Not interested in running errands for you.",
+    "pl": "Nie interesuje mnie robienie za gońca."
+  },
+  {
+    "id": "431657263148",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Decision_R6DJ",
+    "en": "I guess you'll be shooting me sometime soon, then? It's okay, no one will miss me.",
+    "pl": "Czyli niedługo pewnie mnie zastrzelisz? W porządku, nikt nie będzie tęsknił."
+  },
+  {
+    "id": "431657263149",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_HVYT",
+    "en": "What guns do you need?",
+    "pl": "Jakiej broni potrzebujecie?"
+  },
+  {
+    "id": "431657263150",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_RCIK",
+    "en": "A couple of higher-caliber weapons should do it. We’ve got a few pistols from our Palatine friends, but that’s not enough to defend oneself anymore, is it? Things've been getting worse...",
+    "pl": "Kilka sztuk większego kalibru powinno wystarczyć. Mamy parę pistoletów od przyjaciół Palatynów, ale do obrony to już za mało, prawda? Jest coraz gorzej..."
+  },
+  {
+    "id": "431657263151",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_6QBU",
+    "en": "Oh, give us something with <u>good ergonomics,</u> too. These people are beginners, so an easy grip, not too much recoil, that'll help 'em build their confidence...",
+    "pl": "I daj nam coś z <u>dobrą ergonomią.</u> To początkujący, więc wygodny chwyt i niewielki odrzut pomogą im nabrać pewności..."
+  },
+  {
+    "id": "431657263152",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_B8JK",
+    "en": "Where can I go to craft the guns?",
+    "pl": "Gdzie mogę wytworzyć tę broń?"
+  },
+  {
+    "id": "431657263153",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_OUKJ",
+    "en": "Oh, you don't have to do it nearby; my brothers and sisters are still learning the basics of gun safety, it'll be a while before I show 'em how to put a weapon together. Maintenance and all that.",
+    "pl": "Nie musisz tego robić w pobliżu. Moi bracia i siostry wciąż uczą się bezpiecznego obchodzenia z bronią. Jeszcze minie trochę czasu, zanim pokażę im, jak ją składać. Konserwację i tak dalej."
+  },
+  {
+    "id": "431657263154",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_HXXN",
+    "en": "But if you want, we do have a <u>workbench</u> somewhere around here; feel free to use it. There'll be curious eyes watchin', though.",
+    "pl": "Ale jeśli chcesz, mamy tu gdzieś <u>stół warsztatowy.</u> Możesz korzystać. Tylko licz się z ciekawskimi spojrzeniami."
+  },
+  {
+    "id": "431657263155",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_ZWXH",
+    "en": "I don't have any more questions.",
+    "pl": "Nie mam więcej pytań."
+  },
+  {
+    "id": "431657263156",
+    "key": "25_Snezhana_v1_TheDeadZone_Quest_Questions_1W1V",
+    "en": "Good. There's still time to reconsider your brave exploration, Returner.",
+    "pl": "Dobrze. Jeszcze możesz przemyśleć tę odważną wyprawę, Powracający."
+  },
+  {
+    "id": "431657263157",
+    "key": "25_Snezhana_v1_TheDeadZone_Inform_Quest_2KOS",
+    "en": "Hey, Returner. You done with those weapons? Lemme at 'em.",
+    "pl": "Hej, Powracający. Skończyłeś broń? Pokaż."
+  },
+  {
+    "id": "431657263158",
+    "key": "25_Snezhana_v1_TheDeadZone_Inform_Quest_MJQB",
+    "en": "Not yet.",
+    "pl": "Jeszcze nie."
+  },
+  {
+    "id": "431657263159",
+    "key": "25_Snezhana_v1_TheDeadZone_Inform_Quest_MKMG",
+    "en": "Okay, I <i>guess</i> you can take your time. You're the one who seemed impatient before, after all.",
+    "pl": "Dobra, <i>chyba</i> możesz się nie spieszyć. W końcu wcześniej to tobie się spieszyło."
+  },
+  {
+    "id": "431657263160",
+    "key": "25_Snezhana_v1_TheDeadZone_Inform_Quest_C9T3",
+    "en": "Had some questions first.",
+    "pl": "Najpierw miałem kilka pytań."
+  },
+  {
+    "id": "431657263161",
+    "key": "25_Snezhana_v1_TheDeadZone_Inform_Quest_2D2D",
+    "en": "Forgot what type of gun we want?",
+    "pl": "Zapomniałeś, jakiej broni chcemy?"
+  },
+  {
+    "id": "431657263162",
+    "key": "25_Snezhana_v1_Quest_Completed_JST1",
+    "en": "Oh, so you did. Let's take a look... Hey, these look good. Great job, Returner. Somehow I knew I could count on you. You've been a Vulture for many many years, after all...",
+    "pl": "Och, rzeczywiście. Spójrzmy... Hej, wyglądają dobrze. Świetna robota, Powracający. Jakoś wiedziałam, że mogę na ciebie liczyć. W końcu jesteś Sępem od bardzo wielu lat..."
+  },
+  {
+    "id": "431657263163",
+    "key": "25_Snezhana_v1_Quest_Completed_V06G",
+    "en": "Here's the key to that old bunker. I'll tell our guards to let you pass. Just... Be careful and try not to break anything, alright? That place could hold some really valuable resources for us...",
+    "pl": "Oto klucz do starego bunkra. Powiem strażnikom, żeby cię przepuścili. Tylko... Uważaj i postaraj się niczego nie zepsuć, dobrze? Mogą tam być bardzo cenne dla nas zasoby..."
+  },
+  {
+    "id": "431657263164",
+    "key": "25_Snezhana_v1_Quest_Completed_6V65",
+    "en": "What about that other reward?",
+    "pl": "A co z tą drugą nagrodą?"
+  },
+  {
+    "id": "431657263165",
+    "key": "25_Snezhana_v1_Quest_Completed_WJ21",
+    "en": "Oh yeah, of course. Here you go.",
+    "pl": "Ach tak, oczywiście. Proszę."
+  },
+  {
+    "id": "431657263166",
+    "key": "25_Snezhana_v1_Quest_Completed_8XQ8",
+    "en": "You mentioned a reward too.",
+    "pl": "Wspominałaś też o nagrodzie."
+  },
+  {
+    "id": "431657263167",
+    "key": "25_Snezhana_v1_Quest_Completed_UZHA",
+    "en": "Right, right. Take it.",
+    "pl": "Tak, tak. Weź."
+  },
+  {
+    "id": "431657263168",
+    "key": "25_Snezhana_v1_YelenasFeud_K4KI",
+    "en": "Oh no. What'd that asshole tell you to say? He just made a <i>disastrous</i> assault on the power grid North of here. They lost <i>three</i> of our guards. As if we had 'em to spare...",
+    "pl": "O nie. Co ten dupek kazał ci powiedzieć? Właśnie przeprowadził <i>katastrofalny</i> szturm na sieć energetyczną na północy. Stracili <i>trzech</i> naszych strażników. Jakbyśmy mieli ich w nadmiarze..."
+  },
+  {
+    "id": "431657263169",
+    "key": "25_Snezhana_v1_YelenasFeud_W64V",
+    "en": "He wanted some more people. For the next attack.",
+    "pl": "Chciał więcej ludzi. Do następnego ataku."
+  },
+  {
+    "id": "431657263170",
+    "key": "25_Snezhana_v1_YelenasFeud_EX7L",
+    "en": "Ahhhhh, I <i>knew</i> it. As if we're not <i>fucked</i> enough.",
+    "pl": "Aaaaa, <i>wiedziałam.</i> Jakbyśmy już nie byli dostatecznie <i>w dupie.</i>"
+  },
+  {
+    "id": "431657263171",
+    "key": "25_Snezhana_v1_YelenasFeud_BEGQ",
+    "en": "Yep. And he needs some extra meatshields for the next one.",
+    "pl": "Tak. Potrzebuje więcej żywych tarcz na następny atak."
+  },
+  {
+    "id": "431657263172",
+    "key": "25_Snezhana_v1_YelenasFeud_1JZV",
+    "en": "He forgot to ask you to look like you give a shit.",
+    "pl": "Zapomniał ci kazać udawać, że cię to obchodzi."
+  },
+  {
+    "id": "431657263173",
+    "key": "25_Snezhana_v1_YelenasFeud_M02X",
+    "en": "How <i>could</i> I lend you anyone <i>else?</i> Our security's weak as it is, and I can't pull armed men outta my <i>ass.</i>",
+    "pl": "Jak <i>mogłabym</i> dać wam <i>jeszcze</i> kogoś? Ochrona już jest słaba, a uzbrojonych ludzi nie wyciągnę z <i>dupy.</i>"
+  },
+  {
+    "id": "431657263174",
+    "key": "25_Snezhana_v1_YelenasFeud_KHNM",
+    "en": "True; but Dubravka has it <i>worse</i> right now.",
+    "pl": "Racja, ale w Dubravce jest teraz <i>gorzej.</i>"
+  },
+  {
+    "id": "431657263175",
+    "key": "25_Snezhana_v1_YelenasFeud_KRYK",
+    "en": "Hm. It's true, they're being targeted more often lately. At least we have <i>some</i> walls left from before the War... Plus we're beginning to arm ourselves...",
+    "pl": "Hm. Faktycznie, ostatnio częściej ich atakują. Nam przynajmniej zostało <i>trochę</i> przedwojennych murów... I zaczynamy się uzbrajać..."
+  },
+  {
+    "id": "431657263176",
+    "key": "25_Snezhana_v1_YelenasFeud_1DWM",
+    "en": "They'll attack with or without enough people. Yelena's orders.",
+    "pl": "Zaatakują tak czy inaczej. Rozkaz Yeleny."
+  },
+  {
+    "id": "431657263177",
+    "key": "25_Snezhana_v1_YelenasFeud_G3SN",
+    "en": "Shit, <i>she's</i> calling the shots now? What, did she run outta <i>booze?</i> She's got more bloodlust than anyone...",
+    "pl": "Cholera, teraz <i>ona</i> dowodzi? Co, zabrakło jej <i>gorzały?</i> Jest bardziej żądna krwi niż ktokolwiek..."
+  },
+  {
+    "id": "431657263178",
+    "key": "25_Snezhana_v1_YelenasFeud_NQ59",
+    "en": "If we lose more guards... All these Commonfolk...",
+    "pl": "Jeśli stracimy kolejnych strażników... Ci wszyscy Zwykli Ludzie..."
+  },
+  {
+    "id": "431657263179",
+    "key": "25_Snezhana_v1_YelenasFeud_INNW",
+    "en": "The more people attack, the better our odds.",
+    "pl": "Im więcej ludzi zaatakuje, tym większe szanse."
+  },
+  {
+    "id": "431657263180",
+    "key": "25_Snezhana_v1_YelenasFeud_NFJC",
+    "en": "We should be thinking of <i>defense</i> sometimes.",
+    "pl": "Czasem powinniśmy pomyśleć o <i>obronie.</i>"
+  },
+  {
+    "id": "431657263181",
+    "key": "25_Snezhana_v1_YelenasFeud_2J5C",
+    "en": "Yelena's in charge. She knows what she's doing.",
+    "pl": "Dowodzi Yelena. Wie, co robi."
+  },
+  {
+    "id": "431657263182",
+    "key": "25_Snezhana_v1_YelenasFeud_KPLN",
+    "en": "Her... Well, I should be the last person to doubt her proficiency in these shootouts, I've <i>seen</i> her work... But it's not an easy decision.",
+    "pl": "Ona... Cóż, powinnam ostatnia wątpić w jej umiejętności strzeleckie. <i>Widziałam</i> ją w akcji... Ale to trudna decyzja."
+  },
+  {
+    "id": "431657263183",
+    "key": "25_Snezhana_v1_YelenasFeud_V6JX",
+    "en": "Maybe, with more people... Bandits'll stop attacking... More guards will <i>return...</i> Yeah, I'll lend you a couple guys. Damnit, please bring 'em back <i>alive.</i> You joinin' the fight too, Vulture?",
+    "pl": "Może przy większej liczbie ludzi... Bandyci przestaną atakować... Więcej strażników <i>wróci...</i> Tak, dam wam paru. Cholera, proszę, sprowadź ich <i>żywych.</i> Ty też walczysz, Sępie?"
+  },
+  {
+    "id": "431657263184",
+    "key": "25_Snezhana_v1_YelenasFeud_VN0F",
+    "en": "They're paying me to.",
+    "pl": "Za to mi płacą."
+  },
+  {
+    "id": "431657263185",
+    "key": "25_Snezhana_v1_YelenasFeud_HYSO",
+    "en": "Better not die, then. I'm sure Kolia will thank you profusely for your help... Agh... I'll send him a message later. Get gone, now.",
+    "pl": "To lepiej nie umieraj. Kolia na pewno będzie ci bardzo wdzięczny... Ech... Później wyślę mu wiadomość. A teraz idź."
+  },
+  {
+    "id": "431657263186",
+    "key": "25_Snezhana_v1_YelenasFeud_OAV7",
+    "en": "Depends on the odds.",
+    "pl": "Zależy od szans."
+  },
+  {
+    "id": "431657263187",
+    "key": "25_Snezhana_v1_YelenasFeud_BLKD",
+    "en": "Right. Very cheeky. Get outta my sight, I'll send a message to Kolia. The guys'll show up soon. Now scram...",
+    "pl": "Jasne. Bardzo zabawne. Zejdź mi z oczu, wyślę wiadomość Kolii. Chłopaki niedługo przyjdą. Zmykaj..."
+  },
+  {
+    "id": "431657263188",
+    "key": "25_Snezhana_v1_GetWelcomingMessage_W69Y",
+    "en": "Seen you before. Returner, is it? Can I help you?",
+    "pl": "Widziałam cię już. Powracający, tak? Mogę pomóc?"
+  },
+  {
+    "id": "431657263189",
+    "key": "25_Snezhana_v1_GetWelcomingMessage_M4LG",
+    "en": "What do you need, Returner?",
+    "pl": "Czego potrzebujesz, Powracający?"
+  },
+  {
+    "id": "431657263190",
+    "key": "25_Snezhana_v1_GetWelcomingMessage_UD9E",
+    "en": "Got a lot on my mind... Please be quick.",
+    "pl": "Mam dużo na głowie... Streszczaj się, proszę."
+  },
+  {
+    "id": "431657263191",
+    "key": "25_Snezhana_v1_GetWelcomingMessage_PO09",
+    "en": "What is it?",
+    "pl": "O co chodzi?"
+  },
+  {
+    "id": "431657263192",
+    "key": "25_Snezhana_v1_GetWelcomingMessage_F4C0",
+    "en": "Make it quick.",
+    "pl": "Tylko szybko."
+  },
+  {
+    "id": "431657263193",
+    "key": "25_Snezhana_v1_GetRandomTalkStart_K82P",
+    "en": "Just want to chat.",
+    "pl": "Chcę tylko pogadać."
+  },
+  {
+    "id": "431657263194",
+    "key": "25_Snezhana_v1_GetRandomTalkStart_QVKV",
+    "en": "Wanted to talk to you.",
+    "pl": "Chciałem z tobą porozmawiać."
+  },
+  {
+    "id": "431657263195",
+    "key": "25_Snezhana_v1_GetRandomTalkStart_UY8Q",
+    "en": "We've got to talk.",
+    "pl": "Musimy pogadać."
+  },
+  {
+    "id": "431657263196",
+    "key": "25_Snezhana_v1_GetRandomTradeStart_5N30",
+    "en": "Was looking to trade...",
+    "pl": "Chciałem pohandlować..."
+  },
+  {
+    "id": "431657263197",
+    "key": "25_Snezhana_v1_GetRandomTradeStart_UKW4",
+    "en": "Got anything to trade?",
+    "pl": "Masz coś na handel?"
+  },
+  {
+    "id": "431657263198",
+    "key": "25_Snezhana_v1_GetRandomTradeStart_6SL4",
+    "en": "Let me see what you can trade.",
+    "pl": "Pokaż, co masz do wymiany."
+  },
+  {
+    "id": "431657263199",
+    "key": "25_Snezhana_v1_GetRandomTradeMessage_RY6I",
+    "en": "Of course.",
+    "pl": "Oczywiście."
+  },
+  {
+    "id": "431657263200",
+    "key": "25_Snezhana_v1_GetRandomTradeMessage_T9IL",
+    "en": "Never a bad time.",
+    "pl": "Zawsze jest dobra pora."
+  },
+  {
+    "id": "431657263201",
+    "key": "25_Snezhana_v1_GetRandomTradeMessage_ZQXD",
+    "en": "Sure... Let's get to it.",
+    "pl": "Jasne... Zaczynajmy."
+  },
+  {
+    "id": "431657263202",
+    "key": "25_Snezhana_v1_GetRandomTradeMessage_VBDO",
+    "en": "What do you want?",
+    "pl": "Czego chcesz?"
+  },
+  {
+    "id": "431657263203",
+    "key": "25_Snezhana_v1_GetRandomLeaveMessage_LL8P",
+    "en": "Be seeing you.",
+    "pl": "Do zobaczenia."
+  },
+  {
+    "id": "431657263204",
+    "key": "25_Snezhana_v1_GetRandomLeaveMessage_ZJTS",
+    "en": "Back to work...",
+    "pl": "Wracam do pracy..."
+  },
+  {
+    "id": "431657263205",
+    "key": "25_Snezhana_v1_GetRandomLeaveMessage_G23M",
+    "en": "Right.",
+    "pl": "Jasne."
+  },
+  {
+    "id": "431657263206",
+    "key": "25_Snezhana_v1_GetRandomLeaveMessage_ZLLO",
+    "en": "So be it.",
+    "pl": "Niech będzie."
+  },
+  {
+    "id": "431657263207",
+    "key": "25_Snezhana_v1_GetRandomLeaveMessage_G6OY",
+    "en": "Okay.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "431657263208",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneStart_KHKK",
+    "en": "There's a bunker around here, right? I need to enter.",
+    "pl": "Jest tu bunkier, prawda? Muszę wejść."
+  },
+  {
+    "id": "431657263209",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneStart_KKCP",
+    "en": "Need access to the bunker 'round here.",
+    "pl": "Potrzebuję dostępu do tutejszego bunkra."
+  },
+  {
+    "id": "431657263210",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneStart_FOBG",
+    "en": "Was hoping to get inside a bunker nearby.",
+    "pl": "Chciałem dostać się do pobliskiego bunkra."
+  },
+  {
+    "id": "431657263211",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneCompletedStart_WVNV",
+    "en": "Here. Made the guns you asked for.",
+    "pl": "Proszę. Zrobiłem broń, o którą prosiłaś."
+  },
+  {
+    "id": "431657263212",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneCompletedStart_C2YY",
+    "en": "Crafted everything you ordered.",
+    "pl": "Wytworzyłem wszystko, co zamówiłaś."
+  },
+  {
+    "id": "431657263213",
+    "key": "25_Snezhana_v1_GetRandomTheDeadZoneCompletedStart_IDVY",
+    "en": "Here. I put together the guns you needed.",
+    "pl": "Proszę. Złożyłem potrzebną wam broń."
+  },
+  {
+    "id": "431657263214",
+    "key": "25_Snezhana_v1_GetRandomYelenasFeudStart_O75P",
+    "en": "Kolia asked me to talk to you.",
+    "pl": "Kolia prosił, żebym z tobą porozmawiał."
+  },
+  {
+    "id": "431657263215",
+    "key": "25_Snezhana_v1_GetRandomYelenasFeudStart_79PX",
+    "en": "Kolia sent me.",
+    "pl": "Przysłał mnie Kolia."
+  },
+  {
+    "id": "431657263216",
+    "key": "25_Snezhana_v1_GetRandomYelenasFeudStart_A6N6",
+    "en": "You know Kolia?",
+    "pl": "Znasz Kolię?"
+  },
+  {
+    "id": "13746608899002368",
+    "key": "25_Snezhana_Jobs_v1_SupplyRunStart_D7YM",
+    "en": "Food shouldn't be a problem at this point, but... We've been struggling with deliveries and such. Help us out, will ya.",
+    "pl": "Jedzenie nie powinno już być problemem, ale... Mamy kłopoty z dostawami i tak dalej. Pomożesz nam?"
+  },
+  {
+    "id": "13746608949334016",
+    "key": "25_Snezhana_Jobs_v1_SupplyRunStart_E3VL",
+    "en": "There's always <i>something</i> missing 'round here, and Vultures like you can help with our supplies. You in?",
+    "pl": "Zawsze <i>czegoś</i> tu brakuje, a Sępy takie jak ty mogą pomóc z zaopatrzeniem. Wchodzisz w to?"
+  },
+  {
+    "id": "13746608949334017",
+    "key": "25_Snezhana_Jobs_v1_SupplyRunComplete_F6TR",
+    "en": "Good, good. This'll keep us going for a little while longer.",
+    "pl": "Dobrze, dobrze. To pozwoli nam jeszcze trochę pociągnąć."
+  },
+  {
+    "id": "13746608949334018",
+    "key": "25_Snezhana_Jobs_v1_SupplyRunComplete_G1XC",
+    "en": "Bah, can't believe we couldn't handle this shit on our own. Sometimes I start to lose hope...",
+    "pl": "Ech, nie wierzę, że nie daliśmy rady sami załatwić tego gówna. Czasem tracę nadzieję..."
+  },
+  {
+    "id": "13746608949334019",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Show_S9WL",
+    "en": "Sounds easy.",
+    "pl": "Brzmi łatwo."
+  },
+  {
+    "id": "13746608949334020",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Show_T2QE",
+    "en": "Ain't easy for <i>us.</i>",
+    "pl": "Dla <i>nas</i> łatwe nie jest."
+  },
+  {
+    "id": "13746608949334021",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Show_U5XD",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "13746608949334022",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Show_V8CK",
+    "en": "We're struggling here, Vulture.",
+    "pl": "Ledwo sobie radzimy, Sępie."
+  },
+  {
+    "id": "13746608949334023",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Show_W3HF",
+    "en": "Any other requests?",
+    "pl": "Jeszcze jakieś zlecenia?"
+  },
+  {
+    "id": "13746608949334024",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Complete_X7PM",
+    "en": "Thought the Rada were more independent.",
+    "pl": "Myślałem, że Rada jest bardziej samodzielna."
+  },
+  {
+    "id": "13746608949334025",
+    "key": "25_Snezhana_Jobs_v1_SupplyRun_Complete_Y4BN",
+    "en": "You can count on me for this stuff.",
+    "pl": "W takich sprawach możesz na mnie liczyć."
+  },
+  {
+    "id": "13746608949334026",
+    "key": "25_Snezhana_Jobs_v1_KillBanditsStart_J5MD",
+    "en": "I’m not gonna sugarcoat it: Bandits have been taking advantage of all these holes in the Palatines' defense, they're fucking us hard. Help drive 'em away.",
+    "pl": "Nie będę słodzić: Bandyci wykorzystują wszystkie luki w obronie Palatynów i ostro nas rżną. Pomóż ich przepędzić."
+  },
+  {
+    "id": "13746608949334027",
+    "key": "25_Snezhana_Jobs_v1_KillBanditsStart_K2PF",
+    "en": "It’s been tough to fend off Bandits with our little combat experience in the Rada... Won’t you help kill just one more squad?",
+    "pl": "Z naszym małym doświadczeniem bojowym w Radzie trudno odpierać Bandytów... Pomożesz wybić jeszcze jeden oddział?"
+  },
+  {
+    "id": "13746608949334028",
+    "key": "25_Snezhana_Jobs_v1_KillBanditsComplete_L7WS",
+    "en": "You really helped us, and confirmed just how violent Zalesye is gonna be for the foreseeable future...",
+    "pl": "Naprawdę nam pomogłeś. I potwierdziłeś, jak brutalnie będzie w Zalesye jeszcze przez długi czas..."
+  },
+  {
+    "id": "13746608949334029",
+    "key": "25_Snezhana_Jobs_v1_KillBanditsComplete_M4HK",
+    "en": "Nicely done. Maybe this'll inspire more of us to learn to shoot...",
+    "pl": "Dobra robota. Może zachęci to więcej naszych do nauki strzelania..."
+  },
+  {
+    "id": "13746608949334030",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Show_Z1GQ",
+    "en": "I'll show you how it's done.",
+    "pl": "Pokażę wam, jak to się robi."
+  },
+  {
+    "id": "13746608949334031",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Show_A6JR",
+    "en": "The <i>cowards</i> around here won't be <i>watching.</i>",
+    "pl": "Tutejsi <i>tchórze</i> nie będą <i>patrzeć.</i>"
+  },
+  {
+    "id": "13746608949334032",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Show_B9ST",
+    "en": "I'll think about it.",
+    "pl": "Pomyślę o tym."
+  },
+  {
+    "id": "13746608949334033",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Show_C2UV",
+    "en": "Come on, show us how tough you are.",
+    "pl": "No dalej, pokaż, jaki jesteś twardy."
+  },
+  {
+    "id": "13746608949334034",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Show_D5WX",
+    "en": "Any other requests?",
+    "pl": "Jeszcze jakieś zlecenia?"
+  },
+  {
+    "id": "13746608949334035",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Complete_E8YA",
+    "en": "Your security issues are bigger than I thought.",
+    "pl": "Macie większe problemy z ochroną, niż myślałem."
+  },
+  {
+    "id": "13746608949334036",
+    "key": "25_Snezhana_Jobs_v1_KillBandits_Complete_F3ZB",
+    "en": "I'll see you next time.",
+    "pl": "Do następnego razu."
+  },
+  {
+    "id": "17083510795075584",
+    "key": "25_Snezhana_Jobs_v1_GetNoQuestsAvailable_Q6TN",
+    "en": "Don't have any work for you.",
+    "pl": "Nie mam dla ciebie roboty."
+  },
+  {
+    "id": "17083510853795840",
+    "key": "25_Snezhana_Jobs_v1_GetNoQuestsAvailable_R1VB",
+    "en": "Check back with me later.",
+    "pl": "Zajrzyj później."
+  }
+]

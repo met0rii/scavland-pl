@@ -1,0 +1,697 @@
+[
+  {
+    "id": "52886446080",
+    "key": "22_Sasha_v1_GetWelcomingMessage_XAM4",
+    "en": "Don't creep up on me, Vulture. I'm preparing for an attack."
+  },
+  {
+    "id": "52894834688",
+    "key": "22_Sasha_v1_GetWelcomingMessage_C3YP",
+    "en": "Hey, veteran."
+  },
+  {
+    "id": "52894834689",
+    "key": "22_Sasha_v1_GetWelcomingMessage_8KW2",
+    "en": "Should I stand at attention?"
+  },
+  {
+    "id": "52894834690",
+    "key": "22_Sasha_v1_GetWelcomingMessage_JU2H",
+    "en": "How's the life, Vulture?"
+  },
+  {
+    "id": "52894834691",
+    "key": "22_Sasha_v1_GetWelcomingMessage_VSOA",
+    "en": "Killer."
+  },
+  {
+    "id": "52894834692",
+    "key": "22_Sasha_v1_GetRandomTalkStart_RT1C",
+    "en": "Gotta talk to you."
+  },
+  {
+    "id": "52894834693",
+    "key": "22_Sasha_v1_GetRandomTalkStart_WKRN",
+    "en": "Got time to chat?"
+  },
+  {
+    "id": "52894834694",
+    "key": "22_Sasha_v1_GetRandomTalkStart_YOMK",
+    "en": "Wanna talk."
+  },
+  {
+    "id": "52894834695",
+    "key": "22_Sasha_v1_GetRandomTradeStart_N2GY",
+    "en": "You got anything to trade?"
+  },
+  {
+    "id": "52894834696",
+    "key": "22_Sasha_v1_GetRandomTradeStart_T6XE",
+    "en": "Got something to trade, sniper?"
+  },
+  {
+    "id": "52894834697",
+    "key": "22_Sasha_v1_GetRandomTradeStart_2AC7",
+    "en": "How about trading?"
+  },
+  {
+    "id": "52894834698",
+    "key": "22_Sasha_v1_GetRandomTradeMessage_AEYZ",
+    "en": "Sure, not that I need much."
+  },
+  {
+    "id": "52894834699",
+    "key": "22_Sasha_v1_GetRandomTradeMessage_T5XL",
+    "en": "Don't need any trinkets, but..."
+  },
+  {
+    "id": "52894834700",
+    "key": "22_Sasha_v1_GetRandomTradeMessage_D31U",
+    "en": "Doesn't hurt to look."
+  },
+  {
+    "id": "52894834701",
+    "key": "22_Sasha_v1_GetRandomTradeMessage_FHLW",
+    "en": "Maybe we can trade something, yeah."
+  },
+  {
+    "id": "52894834702",
+    "key": "22_Sasha_v1_GetRandomLeaveMessage_0Q9H",
+    "en": "Dismissed."
+  },
+  {
+    "id": "52894834703",
+    "key": "22_Sasha_v1_GetRandomLeaveMessage_X0Q3",
+    "en": "Stay alert."
+  },
+  {
+    "id": "52894834704",
+    "key": "22_Sasha_v1_GetRandomLeaveMessage_FUPP",
+    "en": "Don't let your guard down."
+  },
+  {
+    "id": "52894834705",
+    "key": "22_Sasha_v1_GetRandomLeaveMessage_SV7Y",
+    "en": "Be vigilant."
+  },
+  {
+    "id": "52894834706",
+    "key": "22_Sasha_v1_GetRandomSelectedReserveStart_9RLS",
+    "en": "Sasha? Tajra sent me."
+  },
+  {
+    "id": "52894834707",
+    "key": "22_Sasha_v1_GetRandomSelectedReserveStart_I106",
+    "en": "Are you Tajra's escort?"
+  },
+  {
+    "id": "52894834708",
+    "key": "22_Sasha_v1_GetRandomSelectedReserveStart_KII2",
+    "en": "I'm the Vulture Tajra hired to help you."
+  },
+  {
+    "id": "52894834709",
+    "key": "22_Sasha_v1_Talk_HUXC",
+    "en": "What's that you're reading?"
+  },
+  {
+    "id": "52894834710",
+    "key": "22_Sasha_v1_Talk_S4AX",
+    "en": "This? Just an old manual, from back before the War. Very interesting, despite the many words I don't understand... Concepts lost to bombs and Mist."
+  },
+  {
+    "id": "52894834711",
+    "key": "22_Sasha_v1_Talk_LST0",
+    "en": "It talks about our Continent from over a hundred years ago. There are mentions to two wars, already <i>ended,</i> long before this was written... So the War <i>we</i> know is not described here."
+  },
+  {
+    "id": "52894834712",
+    "key": "22_Sasha_v1_Talk_XKR4",
+    "en": "About those books..."
+  },
+  {
+    "id": "52894834713",
+    "key": "22_Sasha_v1_Talk_YN0O",
+    "en": "Yeah?"
+  },
+  {
+    "id": "52894834714",
+    "key": "22_Sasha_v1_Talk_P4IC",
+    "en": "Is that a telescopic sight, there?"
+  },
+  {
+    "id": "52894834715",
+    "key": "22_Sasha_v1_Talk_NM1P",
+    "en": "Yes. After qualifying as a sniper within the Palatines, I received this standard-issue Mosin – I've had it for about twelve years, now."
+  },
+  {
+    "id": "52894834716",
+    "key": "22_Sasha_v1_Talk_AFAR",
+    "en": "This isn't the original sight, but one that I had a Vulture procure for me after a few years. This one holds zero very well and is easy to clean."
+  },
+  {
+    "id": "52894834717",
+    "key": "22_Sasha_v1_Talk_311E",
+    "en": "You look too <i>clean</i> for a supposed soldier."
+  },
+  {
+    "id": "52894834718",
+    "key": "22_Sasha_v1_Talk_1F9C",
+    "en": "\"Supposed\"? Let me introduce myself properly, then."
+  },
+  {
+    "id": "52894834719",
+    "key": "22_Sasha_v1_Talk_DF3B",
+    "en": "Sasha, sniper, age forty-one, nineteen years in service. Our medals and honors must mean nothing to you, but my three hundred and one confirmed kills should give a good idea who you're talking to."
+  },
+  {
+    "id": "52894834720",
+    "key": "22_Sasha_v1_Talk_XDJU",
+    "en": "I'm prim and proper by <i>choice,</i> through <i>discipline.</i> That does not mean I'm <i>meek.</i>"
+  },
+  {
+    "id": "52894834721",
+    "key": "22_Sasha_v1_Talk_7Z39",
+    "en": "What do you think about Tajra?"
+  },
+  {
+    "id": "52894834722",
+    "key": "22_Sasha_v1_Talk_YBK1",
+    "en": "What I think? She's degrading faster than a firing pin in the swamps. It's frankly pathetic."
+  },
+  {
+    "id": "52894834723",
+    "key": "22_Sasha_v1_Talk_DOY1",
+    "en": "She used to be confident, inspired... Rude and violent in a way you could forgive. Now she's meek. Clearly wants company."
+  },
+  {
+    "id": "52894834724",
+    "key": "22_Sasha_v1_Talk_ZPMY",
+    "en": "She's truly let herself go, as old women are wont to do, even outside of Zalesye."
+  },
+  {
+    "id": "52894834725",
+    "key": "22_Sasha_v1_Talk_PA4R",
+    "en": "... She spoke highly of <i>you.</i>"
+  },
+  {
+    "id": "52894834726",
+    "key": "22_Sasha_v1_Talk_08SX",
+    "en": "Ahh, well, I suppose that makes me look like an asshole. But it's hard to disguise one's opinion of their superiors."
+  },
+  {
+    "id": "52894834727",
+    "key": "22_Sasha_v1_Talk_EUOL",
+    "en": "I used to look up to her for her skills, even though her discipline was wanting. But now, she complains about having been dealt a bad hand... While denying every offer for a cozy life back at HQ."
+  },
+  {
+    "id": "52894834728",
+    "key": "22_Sasha_v1_Talk_TSOD",
+    "en": "She just wants attention. I still want to help her retire and be safe, but I think this is where our paths diverge."
+  },
+  {
+    "id": "52894834729",
+    "key": "22_Sasha_v1_Talk_7PJJ",
+    "en": "You soldier folks are all like that."
+  },
+  {
+    "id": "52894834730",
+    "key": "22_Sasha_v1_Talk_PEUD",
+    "en": "Oh, you think Vultures have it worse? That's a reach."
+  },
+  {
+    "id": "52894834731",
+    "key": "22_Sasha_v1_Talk_XEZ1",
+    "en": "Sure, it's not nice to search around in the garbage for some scraps to trade. But we see more combat in a week than you scavs do in a year. Being shot at for <i>days...</i> You wouldn't want a taste of <i>that.</i>"
+  },
+  {
+    "id": "52894834732",
+    "key": "22_Sasha_v1_Talk_11LR",
+    "en": "Never mind; I have to go."
+  },
+  {
+    "id": "52894834733",
+    "key": "22_Sasha_v1_Talk_About_Reading_D4E7",
+    "en": "So there's <i>always</i> been wars, huh."
+  },
+  {
+    "id": "52894834734",
+    "key": "22_Sasha_v1_Talk_About_Reading_7I0U",
+    "en": "Right. Quite big ones, too. I used to think we just... Liked war. I'm a soldier, and a good one, and I'm certainly guilty of enjoying a difficult kill, after all."
+  },
+  {
+    "id": "52894834735",
+    "key": "22_Sasha_v1_Talk_About_Reading_PR6H",
+    "en": "But this little manual talks of reasons for war that have nothing to do with individual enjoyment, or any morals at all. They are structural, and scientifically described."
+  },
+  {
+    "id": "52894834736",
+    "key": "22_Sasha_v1_Talk_About_Reading_0QW1",
+    "en": "More like... How do I say this... Out of any one person's control. A movement created by certain layers of society... Stoppable only by other layers, when organized..."
+  },
+  {
+    "id": "52894834737",
+    "key": "22_Sasha_v1_Talk_About_Reading_70S4",
+    "en": "Sounds like something Mechanists would enjoy."
+  },
+  {
+    "id": "52894834738",
+    "key": "22_Sasha_v1_Talk_About_Reading_5TKA",
+    "en": "I get the feeling they don't care enough about people to pursue <i>this</i> type of science. And this is also a lot of <i>philosophy</i> that's going a bit over my head. Never heard them talk about <i>that.</i>"
+  },
+  {
+    "id": "52894834739",
+    "key": "22_Sasha_v1_Talk_About_Reading_EL9W",
+    "en": "Sounds like some Rada speech."
+  },
+  {
+    "id": "52894834740",
+    "key": "22_Sasha_v1_Talk_About_Reading_8F2F",
+    "en": "On the surface, yes. But I think this is deeper. Crazier. Still mentions organizing like a Rada member would, but..."
+  },
+  {
+    "id": "52894834741",
+    "key": "22_Sasha_v1_Talk_About_Reading_5GE2",
+    "en": "This also mentions some grand, bloody movements... Toppling governments, infighting, people in the fields rising out of serfdom, those same people burning their own fields and being killed by the authorities..."
+  },
+  {
+    "id": "52894834742",
+    "key": "22_Sasha_v1_Talk_About_Reading_HHU8",
+    "en": "Honestly, probably not applicable to the world we seem to have created here. A different time, with different troubles and different systems. Still – very interesting read."
+  },
+  {
+    "id": "52894834743",
+    "key": "22_Sasha_v1_Talk_About_Reading_J1I1",
+    "en": "How'd you find that?"
+  },
+  {
+    "id": "52894834744",
+    "key": "22_Sasha_v1_Talk_About_Reading_NZG8",
+    "en": "Our HQ has old deposits and tiny little bunkers full of treasures like these. Technical manuals, pamphlets, old work orders."
+  },
+  {
+    "id": "52894834745",
+    "key": "22_Sasha_v1_Talk_About_Reading_Y0NQ",
+    "en": "Sometimes it's a thick, difficult manual like this; sometimes it's a scribbled note about how the next guy caught masturbating on his bunk bed will be made to clean the latrines. \"With a flugelhorn up his ass\", it adds."
+  },
+  {
+    "id": "52894834746",
+    "key": "22_Sasha_v1_Talk_About_Reading_0RYU",
+    "en": "I read it all, no discrimination. Love this stuff."
+  },
+  {
+    "id": "52894834747",
+    "key": "22_Sasha_v1_Talk_About_Reading_6JEU",
+    "en": "Reading's pointless. How does it help?"
+  },
+  {
+    "id": "52894834748",
+    "key": "22_Sasha_v1_Talk_About_Reading_F4OP",
+    "en": "Don't be like that, Vulture. Think of it as having a chat with someone <i>very</i> smart who has a <i>lot</i> to say."
+  },
+  {
+    "id": "52894834749",
+    "key": "22_Sasha_v1_Talk_About_Reading_D9FF",
+    "en": "See? Anything you say against reading is something you say against <i>chatting.</i> Don't go away just because I said that."
+  },
+  {
+    "id": "52894834750",
+    "key": "22_Sasha_v1_Talk_About_Reading_MJPW",
+    "en": "Speaking of something else..."
+  },
+  {
+    "id": "52894834751",
+    "key": "22_Sasha_v1_SelectedReserve_WO7M",
+    "en": "I didn't know she'd hire a Vulture. Well, pleased to have company. I can tell you have some experience dealing with Bandits. Have you ever stormed one of their camps before?"
+  },
+  {
+    "id": "52894834752",
+    "key": "22_Sasha_v1_SelectedReserve_HKJI",
+    "en": "Yes, I have."
+  },
+  {
+    "id": "52894834753",
+    "key": "22_Sasha_v1_SelectedReserve_E4YO",
+    "en": "Good. This should be a straightforward task, then. You know how instinctual they are."
+  },
+  {
+    "id": "52894834754",
+    "key": "22_Sasha_v1_SelectedReserve_IPZS",
+    "en": "Not really."
+  },
+  {
+    "id": "52894834755",
+    "key": "22_Sasha_v1_SelectedReserve_ZRR7",
+    "en": "Well, there's a first time for everything. They're not very organized. Think of them as those hounds: fast, aggressive, but highly instinct-driven."
+  },
+  {
+    "id": "52894834756",
+    "key": "22_Sasha_v1_SelectedReserve_8UNQ",
+    "en": "A simple, direct approach should be enough. With you on the ground, and myself on support. Tell you what – why don't you act as my spotter?"
+  },
+  {
+    "id": "52894834757",
+    "key": "22_Sasha_v1_SelectedReserve_C6TI",
+    "en": "Spotter?"
+  },
+  {
+    "id": "52894834758",
+    "key": "22_Sasha_v1_SelectedReserve_J5YI",
+    "en": "Yeah. My view through the scope is pretty limited. It's good to take pointers from someone like you on where to look, which target to prioritize."
+  },
+  {
+    "id": "52894834759",
+    "key": "22_Sasha_v1_SelectedReserve_SM53",
+    "en": "I prefer to work alone."
+  },
+  {
+    "id": "52894834760",
+    "key": "22_Sasha_v1_SelectedReserve_UWCD",
+    "en": "And I'll let you do that when the situation doesn't concern me. I assure you I'll save your ass at least a few times before this is over."
+  },
+  {
+    "id": "52894834761",
+    "key": "22_Sasha_v1_SelectedReserve_S0BY",
+    "en": "You'll be wanting these."
+  },
+  {
+    "id": "52894834762",
+    "key": "22_Sasha_v1_SelectedReserve_LJD3",
+    "en": "Use the binoculars to point out a target. I'll take it out for you <i>fast.</i> We should be able to take out several of them before you even get close to the camp. Then I'll let you handle the stragglers."
+  },
+  {
+    "id": "52894834763",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_JQIJ",
+    "en": "Why do I have to use these binoculars?"
+  },
+  {
+    "id": "52894834764",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_ED3E",
+    "en": "You don't. Just makes my job a bit easier. And I can be <i>very</i> helpful."
+  },
+  {
+    "id": "52894834765",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_V388",
+    "en": "Where's the camp, exactly?"
+  },
+  {
+    "id": "52894834766",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_9CIN",
+    "en": "It's just over there; wide open from our current angle... Let me see your map. Here, I've marked where it is."
+  },
+  {
+    "id": "52894834767",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_7WPZ",
+    "en": "Be careful on your approach. Don't give them a chance before I've shot a few rounds."
+  },
+  {
+    "id": "52894834768",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_DDEO",
+    "en": "You're staying here all safe while I risk my neck?"
+  },
+  {
+    "id": "52894834769",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_U9O5",
+    "en": "Don't be ridiculous. They'll be searching for a sniper as soon as I fire, and if no Mutants try to sneak up on me while I'm focused on something else, it'll be my lucky day."
+  },
+  {
+    "id": "52894834770",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_MLJG",
+    "en": "I don't have any more questions."
+  },
+  {
+    "id": "52894834771",
+    "key": "22_Sasha_v1_SelectedReserve_Quest_Questions_46YV",
+    "en": "Then it's time to do the deed. No distractions."
+  },
+  {
+    "id": "52894834772",
+    "key": "22_Sasha_v1_SelectedReserve_Inform_Quest_1EZT",
+    "en": "Why haven't you attacked the camp yet? I'm just waiting on your signal."
+  },
+  {
+    "id": "52894834773",
+    "key": "22_Sasha_v1_SelectedReserve_Inform_Quest_MGD6",
+    "en": "Gotta prepare first."
+  },
+  {
+    "id": "52894834774",
+    "key": "22_Sasha_v1_SelectedReserve_Inform_Quest_94A2",
+    "en": "I see. Well, take your time. One thing snipers have in spades is patience."
+  },
+  {
+    "id": "52894834775",
+    "key": "22_Sasha_v1_SelectedReserve_Inform_Quest_75US",
+    "en": "Had some questions first."
+  },
+  {
+    "id": "52894834776",
+    "key": "22_Sasha_v1_SelectedReserve_Inform_Quest_RM8E",
+    "en": "Oh? Thought I'd been clear in my brief."
+  },
+  {
+    "id": "52894834777",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_9EJX",
+    "en": "Good job, Vulture. Keep the binoculars, you've earned them."
+  },
+  {
+    "id": "52894834778",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_LN0C",
+    "en": "Go on and report to Tajra. She'll be very happy about this. I just hope she doesn't keep relying on people like us again and again..."
+  },
+  {
+    "id": "52894834779",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_4YFA",
+    "en": "You should give her a bit more credit."
+  },
+  {
+    "id": "52894834780",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_5IID",
+    "en": "Why? Because she's in a wheelchair?... Tell me, how much mobility did <i>I</i> display today, Vulture? And how many kills did I get?"
+  },
+  {
+    "id": "52894834781",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_0ORZ",
+    "en": "Discipline and willpower let us overcome such small hurdles easily. She's always lacked one, now she lacks the other. I see no need to pretend otherwise, when <i>she's</i> the one with a pension and <i>I'm</i> the one in the field."
+  },
+  {
+    "id": "52894834782",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_WG6R",
+    "en": "You should convince her to take the post at Arcadia."
+  },
+  {
+    "id": "52894834783",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_STNP",
+    "en": "Last time I brought that up, she stared daggers at me in silence."
+  },
+  {
+    "id": "52894834784",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_1MTX",
+    "en": "Like she couldn't even <i>begin</i> to process why someone would choose warmth and safety over dragging one's body against the mud and rocks, until the point of bleeding, all for a <i>slightly</i> better shot at some far away creature."
+  },
+  {
+    "id": "52894834785",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_67VJ",
+    "en": "Then she started complaining about the move, and how she'd been having \"too many bad days\". I didn't know how to respond."
+  },
+  {
+    "id": "52894834786",
+    "key": "22_Sasha_v1_SelectedReserve_After_Combat_6ZLZ",
+    "en": "Anyway – let her do what she wants. Out of our hands now. But you and I – maybe we'll work again, some day. Stay watchful, Vulture. And please don't give me a reason to put <i>you</i> in my sights."
+  },
+  {
+    "id": "11299496096235520",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Show_0EZB",
+    "en": "I'll do it."
+  },
+  {
+    "id": "11299496129789952",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Show_S738",
+    "en": "Good. Report back as soon as you can."
+  },
+  {
+    "id": "11299496129789953",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Show_K2IB",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "11299496129789954",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Show_TURE",
+    "en": "Just be honest. You don't wanna do it."
+  },
+  {
+    "id": "11299496129789955",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Show_IGGW",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "11299496129789956",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Complete_DQ8Y",
+    "en": "It was a piece of cake."
+  },
+  {
+    "id": "11299496129789957",
+    "key": "22_Sasha_Jobs_v1_MutantExtermination_Complete_SJN6",
+    "en": "You still owe me."
+  },
+  {
+    "id": "11299496129789958",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Show_DBSH",
+    "en": "I'll wipe them out."
+  },
+  {
+    "id": "11299496129789959",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Show_XFDK",
+    "en": "Is that so? In that case, get to it."
+  },
+  {
+    "id": "11299496129789960",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Show_62ZM",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "11299496129789961",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Show_NHDJ",
+    "en": "Right... Can't count on you, I suppose."
+  },
+  {
+    "id": "11299496129789962",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Show_X8AH",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "11299496129789963",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Complete_KWVL",
+    "en": "Let me know if you need anything else."
+  },
+  {
+    "id": "11299496129789964",
+    "key": "22_Sasha_Jobs_v1_KillBandits_Complete_WALY",
+    "en": "Take care."
+  },
+  {
+    "id": "11299496129789965",
+    "key": "22_Sasha_Jobs_v1_GetJobsMessage_DSHC",
+    "en": "Got any jobs I could do?"
+  },
+  {
+    "id": "11299496129789966",
+    "key": "22_Sasha_Jobs_v1_GetJobsMessage_4KRC",
+    "en": "Any tasks for me?"
+  },
+  {
+    "id": "11299496129789967",
+    "key": "22_Sasha_Jobs_v1_GetJobsMessage_COTO",
+    "en": "Got any small jobs?"
+  },
+  {
+    "id": "11299496129789968",
+    "key": "22_Sasha_Jobs_v1_GetRandomMutantExterminationStart_49RV",
+    "en": "Some Mutants have been making a lot of noise in this area, and that’s going to attract scavs, hunters and so on. I don’t want the attention. Won’t you take care of them for me?"
+  },
+  {
+    "id": "11299496129789969",
+    "key": "22_Sasha_Jobs_v1_GetRandomMutantExterminationStart_HCUJ",
+    "en": "Have you ever focused so much on a far away target that some nasty creature went and surprised you from up close? I wanna prevent that. Won’t you kill some Mutants for me?"
+  },
+  {
+    "id": "11299496129789970",
+    "key": "22_Sasha_Jobs_v1_GetRandomMutantExterminationComplete_OOCX",
+    "en": "Thank you. It's nice to know someone's got my back."
+  },
+  {
+    "id": "11299496129789971",
+    "key": "22_Sasha_Jobs_v1_GetRandomMutantExterminationComplete_ZWW3",
+    "en": "Nicely done. I'll call you Pest Control if this keeps happening."
+  },
+  {
+    "id": "11299496129789972",
+    "key": "22_Sasha_Jobs_v1_GetRandomKillBanditsStart_BFLA",
+    "en": "HQ gave me a new assignment without waiting for me to report back on the current one. I’m too focused, don’t wanna change gears. It’s a simple Bandit squad wipe – wanna handle it for me?"
+  },
+  {
+    "id": "11299496129789973",
+    "key": "22_Sasha_Jobs_v1_GetRandomKillBanditsStart_XP60",
+    "en": "There’s been a lot of small Bandit squads going around – they’re more disorganized than ever. Why don’t you take this chance and wipe out one of them? I’ll pay."
+  },
+  {
+    "id": "11299496129789974",
+    "key": "22_Sasha_Jobs_v1_GetRandomKillBanditsComplete_EQO6",
+    "en": "You're a natural, huh? Or maybe you've just been stuck doing these types of jobs for too many years."
+  },
+  {
+    "id": "11299496129789975",
+    "key": "22_Sasha_Jobs_v1_GetRandomKillBanditsComplete_3OOY",
+    "en": "Great work; you've got some bloodlust, after all."
+  },
+  {
+    "id": "11299496129789976",
+    "key": "22_Sasha_Jobs_v1_GetNoQuestsAvailable_8B1K",
+    "en": "Can't think of anything I need you for."
+  },
+  {
+    "id": "11299496129789977",
+    "key": "22_Sasha_Jobs_v1_GetNoQuestsAvailable_PUPZ",
+    "en": "Don't think I need you for anything."
+  },
+  {
+    "id": "11299496129789978",
+    "key": "22_Sasha_Jobs_v1_GetNoQuestsAvailable_1MWG",
+    "en": "Don't have any work for you, no."
+  },
+  {
+    "id": "13746077648457728",
+    "key": "22_Sasha_Jobs_v1_SupplyRunStart_N4QP",
+    "en": "A good rifleman should never stop studying firearms in general, no? But I haven't had much time to procure new weapons on the field. Help me out with that."
+  },
+  {
+    "id": "13746077698789376",
+    "key": "22_Sasha_Jobs_v1_SupplyRunStart_K7WM",
+    "en": "HQ's been on my case about wandering off during missions. I'd appreciate if you could find some of the gear I would've usually procured on my own."
+  },
+  {
+    "id": "13746077698789377",
+    "key": "22_Sasha_Jobs_v1_SupplyRunComplete_R2YD",
+    "en": "Nice find, Vulture. With a bit of maintenance, this gun could really shine."
+  },
+  {
+    "id": "13746077698789378",
+    "key": "22_Sasha_Jobs_v1_SupplyRunComplete_F6HB",
+    "en": "Nice job! Not that I intend on giving up ol' reliable here, but it doesn't hurt to have options."
+  },
+  {
+    "id": "13746077698789379",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Show_A3LK",
+    "en": "I'll try and find that for you."
+  },
+  {
+    "id": "13746077698789380",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Show_P9XT",
+    "en": "It won't just be <i>lying around,</i> though."
+  },
+  {
+    "id": "13746077698789381",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Show_V5CJ",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "13746077698789382",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Show_M1QE",
+    "en": "I guess it's obvious you'd probably have to kill someone for this."
+  },
+  {
+    "id": "13746077698789383",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Show_D8ZR",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "13746077698789384",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Complete_H4BN",
+    "en": "Don't get too eager to try this out."
+  },
+  {
+    "id": "13746077698789385",
+    "key": "22_Sasha_Jobs_v1_SupplyRun_Complete_Y7WS",
+    "en": "Look after yourself, Sasha."
+  }
+]

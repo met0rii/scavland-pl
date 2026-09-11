@@ -1,0 +1,47 @@
+[
+  {
+    "id": "11919155200",
+    "key": "PalatinesDescription",
+    "en": "A new military born from remains of War, working security for all of us. They have a base, Arcadia, and control the Bastion – huge wall keeping worst of Mutants out. (Would be even worse ‘round here without it.)\n\nBiggest force in Zalesye – too big to be disciplined. Many are unhelpful, corrupt, violent; help or harm depending on mood. Too much space to cover, too... Another reason they’re losing territory to Gunners."
+  },
+  {
+    "id": "11961098240",
+    "key": "MechanistsDescription",
+    "en": "Learned folk who work machines, filters, tools and all. Keep things moving for every other group, try to research radiation and Mist in the meantime. Most live around Sontse Station, but sometimes they travel around to do work.\n\nRude, untrustworthy – prices high, explanations vague – but we all need the clean water from their filters, the custom tools, the gadgets. Feel like they’re just hogging all that so we don’t work it out ourselves… But other than them, who else got time to study in this hellhole?"
+  },
+  {
+    "id": "11965292544",
+    "key": "AcolytesDescription",
+    "en": "Religious folk who travel to spread pre-War beliefs. Keep Church and Hospital in order, give shelter and medical aid for anyone come knocking. Long as they don’t mind a lecture 'bout the Bible. Also do work around farms and communes, competing for Commonfolk trust with the Rada.\n\nNot sure how much sense that God and Jesus stuff makes in this fucked-up world. If there’s a path to paradise, surely it’s out East where the Great Trains go? Where they say there is no Mist, no Mutants, no pain?"
+  },
+  {
+    "id": "11965292545",
+    "key": "GunnersDescription",
+    "en": "Gangsters who run protection rackets and a budding drug trade with Mudlarks. Control the Water Treatment out West; also expanding close to Palatines, as a challenge. Vicious, well-equipped – might end up with a lot more territory sooner than we think.\n\nGrunts can be hostile or just rude; leaders are diplomatic. All nice and reasonable 'til you don’t make a payment. Won’t deny they’ve been better at protecting clients than those soldiers. Must be all the fear they spread, leaving Bandit guts splattered everywhere they step."
+  },
+  {
+    "id": "11965292546",
+    "key": "VulturesDescription",
+    "en": "Scavengers, roamers, survivors. Don’t get much respect, but still needed. We pick the meat between the bones of Zalesye: economy don’t work if we don’t trade scraps, pick off Bandits, take on odd jobs.\n\nNot much of a group, more like a loose alliance; leaving breadcrumbs for the others, muttering Carrion Mantras to survive tedium. Pure survival instinct… Not sure it's even worth it. Maybe the entire world should stop struggling, let the afterlife come."
+  },
+  {
+    "id": "11969486848",
+    "key": "MudlarksDescription",
+    "en": "A tribe of half-mutated folk, resistant to Mist and obsessed with it: they sing to it like it’s a god. Ironically, they get hired to carry corpses into Lake Pavlie so they don’t attract Mist. It’s why they stay nearby, at the swamps of Dazbog Hollow. They don’t always do what they’re hired for.\n\nFeared and misunderstood. Look horrific and hostile but don’t really mind the rest of us – though their rituals are getting more intense as Mist eats the world. Could turn violent if they keep worshiping it."
+  },
+  {
+    "id": "11969486849",
+    "key": "RadaDescription",
+    "en": "A cooperative of farmers and traders trying to spread their ways. Say if we distribute work evenly we guarantee comfort for everyone. They own some farms, pay Palatines for protection. Largest settlement is Dubravka Camp; drawing in a lot of Commonfolk with their promises.\n\nThey try to gain control of bunkers and food storages while talking about the greater good. Many of us don’t trust this, and there’s rumors of them hiring folk like myself to get rid of competition – like Acolytes or rich landowners. Guess power and influence don’t come without dirty tricks."
+  },
+  {
+    "id": "11969486850",
+    "key": "CommonFolkDescription",
+    "en": "Lots of folk in Zalesye don’t belong to any group. Call them Commonfolk, but doubt they like the name. Some farm or trade, some don’t have a job and just barely get by – hungry, miserable, asking for smokes or moonshine. Many of them live in the Mire.\n\nSometimes hard to understand why they don’t take up a trade, learn to shoot and so on. But sometimes easy: when Zalesye beats you down, unless you’re hard-headed like me, you usually stay down forever. Seems impossible to change your life around, in here."
+  },
+  {
+    "id": "11969486851",
+    "key": "BanditsDescription",
+    "en": "Scum who lives to kill and steal. Look disorganized, but can pop up in big squads. It’s shoot-on-sight, going both ways. They jump every faction they can, looking for supplies and new gear; Svarog Factories, near the highway, is their largest base.\n\nNo time to learn about them, always kill or be killed. But so fearless against better-equipped folk – they’re either crazy or desperate. Either way, I won’t care much to philosophize when one of them’s headed my way."
+  }
+]

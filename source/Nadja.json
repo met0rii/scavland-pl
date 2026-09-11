@@ -1,0 +1,807 @@
+[
+  {
+    "id": "46598340608",
+    "key": "23_Nadja_v1_Talk_MXP1",
+    "en": "You and Anatoly work together?"
+  },
+  {
+    "id": "46652866560",
+    "key": "23_Nadja_v1_Talk_C9M4",
+    "en": "Not at all. We coop up in different places, doing different research. I thought about studying under him when my old master died, but... He's too difficult. I'm way nicer to you scavs than he is, for example."
+  },
+  {
+    "id": "46652866561",
+    "key": "23_Nadja_v1_Talk_PIVW",
+    "en": "You from around here?"
+  },
+  {
+    "id": "46652866562",
+    "key": "23_Nadja_v1_Talk_HP04",
+    "en": "Yeah, born and raised in Zalesye. Only place I've ever known... And I wouldn't want to leave. It's always a weird feeling when people tell me they hate this place. I imagine that's your case too, right?"
+  },
+  {
+    "id": "46652866563",
+    "key": "23_Nadja_v1_Talk_WIG3",
+    "en": "Don't know about <i>hate.</i> I'm just... <i>Tired.</i>"
+  },
+  {
+    "id": "46652866564",
+    "key": "23_Nadja_v1_Talk_PV05",
+    "en": "I understand that on a rational level. Must be hard for a scavenger out there. But that's why I believe our goal should be to work on the structure we already have, and make Zalesye better before we think of leaving it for good."
+  },
+  {
+    "id": "46652866565",
+    "key": "23_Nadja_v1_Talk_V7RD",
+    "en": "It is. I hate this place and want to leave."
+  },
+  {
+    "id": "46652866566",
+    "key": "23_Nadja_v1_Talk_66MA",
+    "en": "Well, that's a shame, because I don't see how one could leave even if they wanted to. Let me direct your attention to something wonderful you may have been missing, though..."
+  },
+  {
+    "id": "46652866567",
+    "key": "23_Nadja_v1_Talk_HPR4",
+    "en": "What made me fall in love with this place – saved me from blowing my own brains out after Ma and Pa died – were these useless, broken train tracks all around. Abandoned carriages, decaying engines."
+  },
+  {
+    "id": "46652866568",
+    "key": "23_Nadja_v1_Talk_NW9U",
+    "en": "I fell hard for these crappy, broken things, and I've been working out how to fix them ever since. One day, we'll hear <i>real</i> train noises for the first time, not that Great Trains bullshit..."
+  },
+  {
+    "id": "46652866569",
+    "key": "23_Nadja_v1_Talk_4LTL",
+    "en": "What type of work do you have for Vultures?"
+  },
+  {
+    "id": "46652866570",
+    "key": "23_Nadja_v1_Talk_KJJ0",
+    "en": "Perked those ears right up, huh? I usually ask for bits and pieces of pre-War technology, though the well's dried up recently, there's just no place that's safe from those Aspects anymore."
+  },
+  {
+    "id": "46652866571",
+    "key": "23_Nadja_v1_Talk_SEWZ",
+    "en": "Right now, though, I'm saving my resources. Trying to be smarter, more methodical about my research... Anatoly says I'm always too impatient, too excitable... He would be too, if his research was more like mine!"
+  },
+  {
+    "id": "46652866572",
+    "key": "23_Nadja_v1_Talk_44YE",
+    "en": "We should talk about trains."
+  },
+  {
+    "id": "46652866573",
+    "key": "23_Nadja_v1_Talk_X6RL",
+    "en": "This is the happiest day of my life."
+  },
+  {
+    "id": "46652866574",
+    "key": "23_Nadja_v1_Talk_NQOW",
+    "en": "We'll talk later."
+  },
+  {
+    "id": "46652866575",
+    "key": "23_Nadja_v1_Talk_About_Trains_Y6NS",
+    "en": "You don't believe in the Great Trains?"
+  },
+  {
+    "id": "46652866576",
+    "key": "23_Nadja_v1_Talk_About_Trains_ZEO8",
+    "en": "That old superstition – I've lived in this region my whole life, and people have <i>always</i> talked about the Great Trains... Venerated them, even, like the Acolytes do their <i>god.</i>"
+  },
+  {
+    "id": "46652866577",
+    "key": "23_Nadja_v1_Talk_About_Trains_F3NN",
+    "en": "If you'll forgive my bluntness, I am a scientist, so I don't believe in gigantic steel trains flying over trackless land into a city that just so happens to be heaven on Earth."
+  },
+  {
+    "id": "46652866578",
+    "key": "23_Nadja_v1_Talk_About_Trains_YPQ5",
+    "en": "All your research is on trains?"
+  },
+  {
+    "id": "46652866579",
+    "key": "23_Nadja_v1_Talk_About_Trains_GUTJ",
+    "en": "Trains, engines, fuel sources in general. How to restore Zalesye's pre-War vehicles, since there's hundreds of them around; and how to make fuel to power them up."
+  },
+  {
+    "id": "46652866580",
+    "key": "23_Nadja_v1_Talk_About_Trains_3G9C",
+    "en": "I've heard rumors of some people far West who managed to get some vehicles working, powering them up with wood gas or vegetable oil. But I don't know how they do it, and I doubt it's sustainable..."
+  },
+  {
+    "id": "46652866581",
+    "key": "23_Nadja_v1_Talk_About_Trains_460V",
+    "en": "How come you love this stuff?"
+  },
+  {
+    "id": "46652866582",
+    "key": "23_Nadja_v1_Talk_About_Trains_683F",
+    "en": "I've been passionate by trains since before rationality could interfere. As an adult, I guess I can <i>try</i> to put it into words."
+  },
+  {
+    "id": "46652866583",
+    "key": "23_Nadja_v1_Talk_About_Trains_AZ8T",
+    "en": "Can you imagine, scavenger? A great dark vessel, glistening within a cloud of steam, weighing more than sixty cars put together, more than whole <i>mountains,</i> carrying hundreds, <i>thousands</i> of people effortlessly across the country?"
+  },
+  {
+    "id": "46652866584",
+    "key": "23_Nadja_v1_Talk_About_Trains_03NA",
+    "en": "How majestically they must have slid across a thousand versts of steel tracks! The fields of Rhos, touched by Mist or not, rolling by in submission, a mere backdrop for our journeys between cities. We must have felt invincible."
+  },
+  {
+    "id": "46652866585",
+    "key": "23_Nadja_v1_Talk_About_Trains_D9LA",
+    "en": "How could one <i>not</i> love trains and all they meant to the pre-War world? If one day I can help us traverse the lands like that, maybe we'll finally climb out of this primitive world the Mist has created."
+  },
+  {
+    "id": "46652866586",
+    "key": "23_Nadja_v1_Talk_About_Trains_JTKT",
+    "en": "That's all I wanted to ask."
+  },
+  {
+    "id": "46652866587",
+    "key": "23_Nadja_v1_Talk_About_Trains_6F5D",
+    "en": "Hmm... I see."
+  },
+  {
+    "id": "46652866588",
+    "key": "23_Nadja_v1_InhumanKnowledge_UQJP",
+    "en": "You snagged an Aspect's Core?! That's impressive! Anatoly figured out that Detector thing, I imagine?"
+  },
+  {
+    "id": "46652866589",
+    "key": "23_Nadja_v1_InhumanKnowledge_PTC1",
+    "en": "Say... When you caught the Core, did the nearby Aspect <i>disappear?</i>"
+  },
+  {
+    "id": "46652866590",
+    "key": "23_Nadja_v1_InhumanKnowledge_CVNM",
+    "en": "No, Aspect's still there."
+  },
+  {
+    "id": "46652866591",
+    "key": "23_Nadja_v1_InhumanKnowledge_H3DW",
+    "en": "Ah... So they might just pump out Cores indefinitely, like Anatoly theorized...?"
+  },
+  {
+    "id": "46652866592",
+    "key": "23_Nadja_v1_InhumanKnowledge_XWLR",
+    "en": "... Was it <i>supposed</i> to?"
+  },
+  {
+    "id": "46652866593",
+    "key": "23_Nadja_v1_InhumanKnowledge_0PV7",
+    "en": "Well... I guess Aspects can produce several Cores, then, like Anatoly said."
+  },
+  {
+    "id": "46652866594",
+    "key": "23_Nadja_v1_InhumanKnowledge_VODT",
+    "en": "But still, I think it's possible to \"defeat\" Aspects by interfering with their Cores in some way. Might be a matter of finding the most <i>powerful</i> Core around and displacing it."
+  },
+  {
+    "id": "46652866595",
+    "key": "23_Nadja_v1_InhumanKnowledge_URSY",
+    "en": "There's a plane wreckage near the Microrayon, <i>teeming</i> with Aspects which \"possessed\" the fallen motors. I'd love to search the area, but it's too dangerous... I'd gladly pay you to try and deactivate them by snagging a powerful Core nearby. Help me test my theory!"
+  },
+  {
+    "id": "46652866596",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_XQKF",
+    "en": "Need more details first."
+  },
+  {
+    "id": "46652866597",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_XEET",
+    "en": "If I can help you to prepare in any way, let me know."
+  },
+  {
+    "id": "46652866598",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_AOCY",
+    "en": "I'll do it."
+  },
+  {
+    "id": "46652866599",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_7PJT",
+    "en": "That's wonderful! Imagine if you actually figure out how to beat the Aspects, huh? Bet you'll have questions before taking off, though."
+  },
+  {
+    "id": "46652866600",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_1I26",
+    "en": "Not really. Good to go for now."
+  },
+  {
+    "id": "46652866601",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_VOEH",
+    "en": "Well, I won't stop you. Try clearing the area and let me know how it went."
+  },
+  {
+    "id": "46652866602",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_VY2V",
+    "en": "Yeah, gotta make sure I understand everything."
+  },
+  {
+    "id": "46652866603",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_6XPQ",
+    "en": "Of course. What can I help with?"
+  },
+  {
+    "id": "46652866604",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_9MZR",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "46652866605",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Decision_5WV9",
+    "en": "Alright. But any other scav comes knocking with a means to catch Cores, <i>they're</i> getting the gig instead."
+  },
+  {
+    "id": "46652866606",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_SYN6",
+    "en": "Tell me about the area you want cleared."
+  },
+  {
+    "id": "46652866607",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_K0FN",
+    "en": "It's a mountainous area West of the Microrayon, where a War-time plane crashed; my best chance to investigate how one of their engines worked... And salvage some materials to help my research."
+  },
+  {
+    "id": "46652866608",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_R30Z",
+    "en": "I bet Vultures would love to dig around in there, too. All sorts of shiny trinkets!... But we've been avoiding the place because of the Aspects..."
+  },
+  {
+    "id": "46652866609",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_7MC5",
+    "en": "What exactly do I need to test out?"
+  },
+  {
+    "id": "46652866610",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_5HMY",
+    "en": "Simple! Find the most powerful Core you can – I assume you've been messing with Anatoly's Detector, no? Try and get some readings that <i>truly</i> make your hairs stand on end."
+  },
+  {
+    "id": "46652866611",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_DR10",
+    "en": "Once that's done, snag that powerful Core and take it away from the crash site... Then observe what happens to the Aspects! That should be enough to test my theory, for now."
+  },
+  {
+    "id": "46652866612",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_8EOQ",
+    "en": "You sure Aspects can be killed?"
+  },
+  {
+    "id": "46652866613",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_02I8",
+    "en": "Hmm, \"sure\" is a strong word, but it would make sense. We call those things Cores because we thought they were integral to each Aspect... Though Anatoly's on the verge of <i>abandoning</i> that theory."
+  },
+  {
+    "id": "46652866614",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_4X6O",
+    "en": "When you got that Core from the Flux Aspect, did you feel it getting... Weaker, maybe?"
+  },
+  {
+    "id": "46652866615",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_SJPW",
+    "en": "Yeah. Felt like it couldn't hurt me for a second."
+  },
+  {
+    "id": "46652866616",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_BRY9",
+    "en": "Like a lull in the electricity? If you collected a weak Core and it already caused this <i>fizzling out,</i> then displacing a <i>powerful</i> one might be enough to dispel one or more Aspects in the area."
+  },
+  {
+    "id": "46652866617",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_3DFA",
+    "en": "Was too busy getting electrocuted to notice."
+  },
+  {
+    "id": "46652866618",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_9T2A",
+    "en": "Hmm. Must've been tough. But I'm sure you're used to getting roughed up, being a scav and all. No? Either way..."
+  },
+  {
+    "id": "46652866619",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_D248",
+    "en": "I hate that I have to think about this so much, just to continue my <i>real</i> research..."
+  },
+  {
+    "id": "46652866620",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_JKCE",
+    "en": "You're not researching the Cores yourself?"
+  },
+  {
+    "id": "46652866621",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_FN49",
+    "en": "I have just a passing interest in them, personally: they're a means to an end. Though someday I'll have to... Test some ideas, use Aspects as an engine..."
+  },
+  {
+    "id": "46652866622",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_ZMKF",
+    "en": "A train cart slightly levitated by the strength of a gravity-bending Aspect, impelled forwards by... Magnets, maybe? Hmm, would it still need <i>fuel...</i> Oh, uh, my bad. Got lost in my thoughts."
+  },
+  {
+    "id": "46652866623",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_GBRR",
+    "en": "<i>Is it</i> limitless, though, the Aspect's reserve?... Oh, uh, my bad. Got lost in my thoughts."
+  },
+  {
+    "id": "46652866624",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_RYJ7",
+    "en": "To put it simply... All I want right now is safe passage into Aspect-heavy areas. That's where the most interesting materials are. Though I guess that's true of anything beyond our reach!"
+  },
+  {
+    "id": "46652866625",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_RXF1",
+    "en": "That's all I wanted to ask."
+  },
+  {
+    "id": "46652866626",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_TLBO",
+    "en": "Okay."
+  },
+  {
+    "id": "46652866627",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_THPT",
+    "en": "Hello, scav. How was the job? Did you clear out the plane crash?"
+  },
+  {
+    "id": "46652866628",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_0K1T",
+    "en": "Not yet."
+  },
+  {
+    "id": "46652866629",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_698A",
+    "en": "Oh... I see. Anything you need help with? I'm not giving an advance, just so you know."
+  },
+  {
+    "id": "46652866630",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_EGDR",
+    "en": "Sure. Had some questions, actually."
+  },
+  {
+    "id": "46652866631",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_LQ3C",
+    "en": "Well ask them, and then get on with it, okay?"
+  },
+  {
+    "id": "46652866632",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_EIWW",
+    "en": "Had some questions first."
+  },
+  {
+    "id": "46652866633",
+    "key": "23_Nadja_v1_InhumanKnowledge_Inform_Quest_WIL2",
+    "en": "Hah. Sure. What's up?"
+  },
+  {
+    "id": "46652866634",
+    "key": "23_Nadja_v1_Quest_Completed_YFDR",
+    "en": "Wait... Don't tell me the Aspects are all still there? Area's still too dangerous?"
+  },
+  {
+    "id": "46652866635",
+    "key": "23_Nadja_v1_Quest_Completed_4I0K",
+    "en": "Yes. Found a <i>very</i> powerful Core, but it disappeared."
+  },
+  {
+    "id": "46652866636",
+    "key": "23_Nadja_v1_Quest_Completed_OT5K",
+    "en": "Such a strong Core, vanishing without a trace? I don't get it. As for the crash site... Guess I'll have to see for myself it it's safe, now. Highly doubt it, though..."
+  },
+  {
+    "id": "46657060864",
+    "key": "23_Nadja_v1_Quest_Completed_W42C",
+    "en": "Killed a strong creature, though. It \"dropped\" a Core, but it vanished."
+  },
+  {
+    "id": "46657060865",
+    "key": "23_Nadja_v1_Quest_Completed_AQ1Y",
+    "en": "Well, that doesn't help me very much, does it? If it were just about killing some random Mutant, any Palatine could've done it for me. Damnit..."
+  },
+  {
+    "id": "46657060866",
+    "key": "23_Nadja_v1_Quest_Completed_TCK7",
+    "en": "Look, you'll still get your reward. I paid you to <i>test</i> my theory, not prove it correct... But you could've at least brought back that Core. If you find one again, don't just let it <i>disappear...</i>"
+  },
+  {
+    "id": "46657060867",
+    "key": "23_Nadja_v1_Quest_Completed_EZ0M",
+    "en": "If you find one of those again, don't just let it <i>disappear</i> into thin air. Now... Take your reward and leave me alone a while."
+  },
+  {
+    "id": "46657060868",
+    "key": "23_Nadja_v1_Quest_Completed_OYSP",
+    "en": "Wait. The Core... It caused me to <i>see</i> things. Do you know..."
+  },
+  {
+    "id": "46657060869",
+    "key": "23_Nadja_v1_Quest_Completed_QEM3",
+    "en": "And why would I care about your sleep-deprived hallucinations? Go bother someone at the <u>Hospital</u> about it. I have work."
+  },
+  {
+    "id": "46657060870",
+    "key": "23_Nadja_v1_GetWelcomingMessage_009M",
+    "en": "... Huh? You're a scav, right? I'm Nadezhda. Call me Nadja. If you want work, try Anatoly."
+  },
+  {
+    "id": "46657060871",
+    "key": "23_Nadja_v1_GetWelcomingMessage_JDAR",
+    "en": "Hey, scav. What's new?"
+  },
+  {
+    "id": "46657060872",
+    "key": "23_Nadja_v1_GetWelcomingMessage_440O",
+    "en": "Lemme guess. Looking for work?"
+  },
+  {
+    "id": "46657060873",
+    "key": "23_Nadja_v1_GetWelcomingMessage_HXSE",
+    "en": "Heya. Was just about to take a break."
+  },
+  {
+    "id": "46657060874",
+    "key": "23_Nadja_v1_GetWelcomingMessage_IO42",
+    "en": "Hey, keeping busy?"
+  },
+  {
+    "id": "46657060875",
+    "key": "23_Nadja_v1_GetRandomTalkStart_KRPP",
+    "en": "Got time to chat?"
+  },
+  {
+    "id": "46657060876",
+    "key": "23_Nadja_v1_GetRandomTalkStart_J9T5",
+    "en": "Need to talk to you."
+  },
+  {
+    "id": "46657060877",
+    "key": "23_Nadja_v1_GetRandomTalkStart_DX16",
+    "en": "Wanna talk. You busy?"
+  },
+  {
+    "id": "46657060878",
+    "key": "23_Nadja_v1_GetRandomTradeStart_K9AJ",
+    "en": "Want to trade?"
+  },
+  {
+    "id": "46657060879",
+    "key": "23_Nadja_v1_GetRandomTradeStart_IXVZ",
+    "en": "Got something to trade."
+  },
+  {
+    "id": "46657060880",
+    "key": "23_Nadja_v1_GetRandomTradeStart_8O9R",
+    "en": "Need to trade."
+  },
+  {
+    "id": "46657060881",
+    "key": "23_Nadja_v1_GetRandomTradeMessage_T08L",
+    "en": "We both have a thing for scraps and junk."
+  },
+  {
+    "id": "46657060882",
+    "key": "23_Nadja_v1_GetRandomTradeMessage_NK0R",
+    "en": "Can never have too many materials."
+  },
+  {
+    "id": "46657060883",
+    "key": "23_Nadja_v1_GetRandomTradeMessage_QYCC",
+    "en": "Sure, why not."
+  },
+  {
+    "id": "46657060884",
+    "key": "23_Nadja_v1_GetRandomTradeMessage_ZIM6",
+    "en": "Let's see what we got here."
+  },
+  {
+    "id": "46657060885",
+    "key": "23_Nadja_v1_GetRandomLeaveMessage_WAHQ",
+    "en": "Take care."
+  },
+  {
+    "id": "46657060886",
+    "key": "23_Nadja_v1_GetRandomLeaveMessage_ERRG",
+    "en": "Keep an eye out for stuff I might want."
+  },
+  {
+    "id": "46657060887",
+    "key": "23_Nadja_v1_GetRandomLeaveMessage_A4I7",
+    "en": "Lemme know if you find something cool near the train tracks."
+  },
+  {
+    "id": "46657060888",
+    "key": "23_Nadja_v1_GetRandomLeaveMessage_AMD5",
+    "en": "Tell me if you find any cool containers out there."
+  },
+  {
+    "id": "46657060889",
+    "key": "23_Nadja_v1_GetRandomLeaveMessage_67HK",
+    "en": "Remember not to follow the tracks too closely. Too many Bandits."
+  },
+  {
+    "id": "46657060890",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeStart_243U",
+    "en": "Anatoly showed me how to capture an Aspect's Core."
+  },
+  {
+    "id": "46657060891",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeStart_NHA4",
+    "en": "You got any interest in Aspects and their Cores?"
+  },
+  {
+    "id": "46657060892",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeStart_QV7B",
+    "en": "You know Anatoly? I snagged an Aspect's Core for him."
+  },
+  {
+    "id": "46657060893",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeCompletedStart_RSI4",
+    "en": "Things looked promising at the crash site... But..."
+  },
+  {
+    "id": "46657060894",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeCompletedStart_N1PX",
+    "en": "Tried to clear out the crash site, but..."
+  },
+  {
+    "id": "46657060895",
+    "key": "23_Nadja_v1_GetRandomInhumanKnowledgeCompletedStart_BP9F",
+    "en": "Bad news... Crash site's still in chaos."
+  },
+  {
+    "id": "7193482073800704",
+    "key": "23_Nadja_v1_InhumanKnowledge_Quest_Questions_YF2H",
+    "en": "So, about the job?"
+  },
+  {
+    "id": "14116287575031808",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Show_BZE3",
+    "en": "I'll do it."
+  },
+  {
+    "id": "14116287629557760",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Show_8MAH",
+    "en": "Good to hear. Off you go, now."
+  },
+  {
+    "id": "14116287629557761",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Show_S661",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "14116287629557762",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Show_KHZJ",
+    "en": "Having a think, huh? Guess I'll get someone else."
+  },
+  {
+    "id": "14116287629557763",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Show_5EA9",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "14116287629557764",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Complete_8BUH",
+    "en": "It was easy."
+  },
+  {
+    "id": "14116287629557765",
+    "key": "23_Nadja_Jobs_v1_MutantExtermination_Complete_QEAG",
+    "en": "Gimme something better next time."
+  },
+  {
+    "id": "14116287629557766",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Show_YP7T",
+    "en": "I'll hunt them down."
+  },
+  {
+    "id": "14116287629557767",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Show_CP25",
+    "en": "Yeah? They might find <i>you</i> first."
+  },
+  {
+    "id": "14116287629557768",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Show_FNKR",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "14116287629557769",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Show_VKMJ",
+    "en": "Getting cold feet? Really?"
+  },
+  {
+    "id": "14116287629557770",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Show_VVP2",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "14116287629557771",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Complete_OBM0",
+    "en": "Hope your job gets easier."
+  },
+  {
+    "id": "14116287629557772",
+    "key": "23_Nadja_Jobs_v1_KillBandits_Complete_AWRQ",
+    "en": "Let me know if you need anything."
+  },
+  {
+    "id": "14116287629557773",
+    "key": "23_Nadja_Jobs_v1_GetJobsMessage_BMV9",
+    "en": "Got any tasks I can do?"
+  },
+  {
+    "id": "14116287629557774",
+    "key": "23_Nadja_Jobs_v1_GetJobsMessage_Z34Y",
+    "en": "Any small jobs to offer?"
+  },
+  {
+    "id": "14116287629557775",
+    "key": "23_Nadja_Jobs_v1_GetJobsMessage_JOBZ",
+    "en": "Any jobs?"
+  },
+  {
+    "id": "14116287629557776",
+    "key": "23_Nadja_Jobs_v1_GetRandomMutantExterminationStart_28FG",
+    "en": "Can’t focus on my research when every single day there’s those damn Mutants around Sontse, making a ruckus, scaring away delivery folks... Even if they're not actually too dangerous. Can you help?"
+  },
+  {
+    "id": "14116287629557777",
+    "key": "23_Nadja_Jobs_v1_GetRandomMutantExterminationStart_W6HM",
+    "en": "There’s a lot of value in creating a safe work environment, you know? With a bit of peace and quiet, get that flow state going. But you gotta help us kill Mutants so we can have that. You in?"
+  },
+  {
+    "id": "14116287629557778",
+    "key": "23_Nadja_Jobs_v1_GetRandomMutantExterminationComplete_918F",
+    "en": "You did it! Thanks a bunch. Finally some less stressful days ahead of me."
+  },
+  {
+    "id": "14116287629557779",
+    "key": "23_Nadja_Jobs_v1_GetRandomMutantExterminationComplete_VYMR",
+    "en": "Good job, this'll make the area a lot nicer to work in. Thank you."
+  },
+  {
+    "id": "14116287629557780",
+    "key": "23_Nadja_Jobs_v1_GetRandomManhuntStart_LT4F",
+    "en": "This station is very busy with people bringing materials for our daily work, y’know? But Bandits have been attacking way too often recently, and it fucks up our work. Wanna handle that?"
+  },
+  {
+    "id": "14116287629557781",
+    "key": "23_Nadja_Jobs_v1_GetRandomManhuntStart_NVKM",
+    "en": "Being tucked away in this corner is pretty sweet most of the time, but sometimes I get scared that those Bandits will creep up from right outside the fence. What if you sent them a message?"
+  },
+  {
+    "id": "14116287629557782",
+    "key": "23_Nadja_Jobs_v1_GetRandomManhuntComplete_3SM8",
+    "en": "Nicely done! That'll make my next shipments more likely to actually <i>arrive.</i>"
+  },
+  {
+    "id": "14116287629557783",
+    "key": "23_Nadja_Jobs_v1_GetRandomManhuntComplete_2295",
+    "en": "Great! Now I can actually get the materials I need. Things are looking up!"
+  },
+  {
+    "id": "14116287629557784",
+    "key": "23_Nadja_Jobs_v1_GetNoQuestsAvailable_K4M8",
+    "en": "Sorry, don't have anything for you. Would you mind leaving me to my work?"
+  },
+  {
+    "id": "14116287629557785",
+    "key": "23_Nadja_Jobs_v1_GetNoQuestsAvailable_DWWS",
+    "en": "Got nothing for you right now. And I'm busy, too, so..."
+  },
+  {
+    "id": "14116287629557786",
+    "key": "23_Nadja_Jobs_v1_GetNoQuestsAvailable_ATO9",
+    "en": "Can't think of anything I need, but I'll let you know."
+  },
+  {
+    "id": "16602719020814336",
+    "key": "23_Nadja_Jobs_v1_SupplyRunStart_L3KF",
+    "en": "Good timing – like any good tinkerer, I keep losing my freaking tools... Would you mind finding some of this stuff for me?"
+  },
+  {
+    "id": "16602719071145984",
+    "key": "23_Nadja_Jobs_v1_SupplyRunStart_Q8VN",
+    "en": "Here's something you can help with – I need some parts for my work, can't seem to find these things anywhere."
+  },
+  {
+    "id": "16602719071145985",
+    "key": "23_Nadja_Jobs_v1_SupplyRunComplete_W2PJ",
+    "en": "Nice, these will do. Now to lose or break these like I always do..."
+  },
+  {
+    "id": "16602719071145986",
+    "key": "23_Nadja_Jobs_v1_SupplyRunComplete_B6YT",
+    "en": "Fantastic. Now I can <i>really</i> work... I wasn't just procrastinating, no..."
+  },
+  {
+    "id": "16602719071145987",
+    "key": "23_Nadja_Jobs_v1_FindMissingItemStart_C5HR",
+    "en": "There's something important I asked one of our helpers to stash somewhere. Then they went and forgot where they stashed it... Sigh... Can you find it again?"
+  },
+  {
+    "id": "16602719071145988",
+    "key": "23_Nadja_Jobs_v1_FindMissingItemStart_E9QL",
+    "en": "I was wondering if you could help me find this. I put it away somewhere and forgot, or maybe it was stolen... Either way, I'll pay you for it."
+  },
+  {
+    "id": "16602719071145989",
+    "key": "23_Nadja_Jobs_v1_FindMissingItemComplete_T4MD",
+    "en": "Oh, I'm relieved. Yup, that's it right there. Not leaving my sight, now."
+  },
+  {
+    "id": "16602719071145990",
+    "key": "23_Nadja_Jobs_v1_FindMissingItemComplete_G7XA",
+    "en": "Thanks, Vulture. I'll make sure to keep it close by, now."
+  },
+  {
+    "id": "16602719071145991",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Show_K2WF",
+    "en": "I'll get these for you."
+  },
+  {
+    "id": "16602719071145992",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Show_N8RC",
+    "en": "Don't keep me waiting, now!"
+  },
+  {
+    "id": "16602719071145993",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Show_P5YJ",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "16602719071145994",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Show_S1HB",
+    "en": "C'mon, it's just another usual gig for y'all, no?"
+  },
+  {
+    "id": "16602719071145995",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Show_V6QT",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "16602719071145996",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Complete_A3DK",
+    "en": "What do you even need this junk <i>for?</i>"
+  },
+  {
+    "id": "16602719071145997",
+    "key": "23_Nadja_Jobs_v1_SupplyRun_Complete_M9ZL",
+    "en": "Let me know if you need anything else."
+  },
+  {
+    "id": "16602719071145998",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Show_H7WP",
+    "en": "Shouldn't be too hard."
+  },
+  {
+    "id": "16602719071145999",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Show_R4CN",
+    "en": "I'm not very good at finding things, myself."
+  },
+  {
+    "id": "16602719071146000",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Show_U2XE",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "16602719071146001",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Show_J6VK",
+    "en": "What if someone else finds it first?!"
+  },
+  {
+    "id": "16602719071146002",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Show_F8YB",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "16602719071146003",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Complete_D1QS",
+    "en": "Hope that helps."
+  },
+  {
+    "id": "16602719071146004",
+    "key": "23_Nadja_Jobs_v1_FindMissingItem_Complete_Y5TM",
+    "en": "Be more careful next time."
+  }
+]

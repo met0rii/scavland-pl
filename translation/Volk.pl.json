@@ -1,0 +1,590 @@
+[
+  {
+    "id": "377370386432",
+    "key": "31_Volk_v1_GetWelcomingMessage_K98W",
+    "en": "You lost?",
+    "pl": "Zgubiłeś się?"
+  },
+  {
+    "id": "377382969344",
+    "key": "31_Volk_v1_GetWelcomingMessage_4OQO",
+    "en": "Keep it short.",
+    "pl": "Streszczaj się."
+  },
+  {
+    "id": "377382969345",
+    "key": "31_Volk_v1_GetWelcomingMessage_8SYB",
+    "en": "What?",
+    "pl": "Co?"
+  },
+  {
+    "id": "377382969346",
+    "key": "31_Volk_v1_GetWelcomingMessage_9RLA",
+    "en": "Speak.",
+    "pl": "Mów."
+  },
+  {
+    "id": "377382969347",
+    "key": "31_Volk_v1_GetRandomTalkStart_93F8",
+    "en": "Can we talk?",
+    "pl": "Możemy pogadać?"
+  },
+  {
+    "id": "377382969348",
+    "key": "31_Volk_v1_GetRandomTalkStart_4A61",
+    "en": "Need to talk to you.",
+    "pl": "Muszę z tobą porozmawiać."
+  },
+  {
+    "id": "377382969349",
+    "key": "31_Volk_v1_GetRandomTalkStart_HTF6",
+    "en": "Let me ask you something.",
+    "pl": "Chcę cię o coś zapytać."
+  },
+  {
+    "id": "377382969350",
+    "key": "31_Volk_v1_GetRandomTradeStart_58SE",
+    "en": "Got anything to trade?",
+    "pl": "Masz coś na handel?"
+  },
+  {
+    "id": "377382969351",
+    "key": "31_Volk_v1_GetRandomTradeStart_92OO",
+    "en": "Anything you want to trade?",
+    "pl": "Chcesz coś wymienić?"
+  },
+  {
+    "id": "377382969352",
+    "key": "31_Volk_v1_GetRandomTradeStart_JUXJ",
+    "en": "Let's trade.",
+    "pl": "Pohandlujmy."
+  },
+  {
+    "id": "377382969353",
+    "key": "31_Volk_v1_GetRandomTradeMessage_FVLL",
+    "en": "Sure.",
+    "pl": "Jasne."
+  },
+  {
+    "id": "377382969354",
+    "key": "31_Volk_v1_GetRandomTradeMessage_I690",
+    "en": "No haggling.",
+    "pl": "Bez targowania."
+  },
+  {
+    "id": "377382969355",
+    "key": "31_Volk_v1_GetRandomTradeMessage_YBNN",
+    "en": "Yeah.",
+    "pl": "Tak."
+  },
+  {
+    "id": "377382969356",
+    "key": "31_Volk_v1_GetRandomLeaveMessage_SEL7",
+    "en": "Yeah.",
+    "pl": "Tak."
+  },
+  {
+    "id": "377382969357",
+    "key": "31_Volk_v1_GetRandomLeaveMessage_UONJ",
+    "en": "Right.",
+    "pl": "Dobra."
+  },
+  {
+    "id": "377382969358",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_I85X",
+    "en": "Volodymyr sent me.",
+    "pl": "Przysłał mnie Volodymyr."
+  },
+  {
+    "id": "377382969359",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_M91U",
+    "en": "Looking into something for your boss.",
+    "pl": "Badam coś dla twojego szefa."
+  },
+  {
+    "id": "377382969360",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_UFIS",
+    "en": "Taking care of some pests.",
+    "pl": "Pozbywam się szkodników."
+  },
+  {
+    "id": "377382969361",
+    "key": "31_Volk_v1_Talk_6ELN",
+    "en": "Gunners took over this spot, too?",
+    "pl": "Strzelcy zajęli też to miejsce?"
+  },
+  {
+    "id": "377382969362",
+    "key": "31_Volk_v1_Talk_QHBK",
+    "en": "That a complaint or a challenge?",
+    "pl": "To skarga czy wyzwanie?"
+  },
+  {
+    "id": "377382969363",
+    "key": "31_Volk_v1_Talk_XSLU",
+    "en": "It's a complaint. Need to go South.",
+    "pl": "Skarga. Muszę iść na południe."
+  },
+  {
+    "id": "377382969364",
+    "key": "31_Volk_v1_Talk_VKIC",
+    "en": "No. Things are bad over there. We're not guarding. We're blocking.",
+    "pl": "Nie. Tam jest źle. Nie pilnujemy przejścia. Blokujemy je."
+  },
+  {
+    "id": "377382969365",
+    "key": "31_Volk_v1_Talk_QS7D",
+    "en": "Sparing you and your kind from some shit. Don't be ungrateful.",
+    "pl": "Chronimy ciebie i tobie podobnych przed niezłym gównem. Nie bądź niewdzięczny."
+  },
+  {
+    "id": "377382969366",
+    "key": "31_Volk_v1_Talk_H6C8",
+    "en": "What if it's a challenge?",
+    "pl": "A jeśli to wyzwanie?"
+  },
+  {
+    "id": "377382969367",
+    "key": "31_Volk_v1_Talk_YQA3",
+    "en": "I'll cut off your eyes and tongue. If I fail, someone else will do it for me. There will be many in line.",
+    "pl": "Wytnę ci oczy i język. Jeśli mi się nie uda, zrobi to ktoś inny. Ustawi się długa kolejka."
+  },
+  {
+    "id": "377382969368",
+    "key": "31_Volk_v1_Talk_2ATQ",
+    "en": "Then we'll put you in chains and take you West. You'll have a very bad life.",
+    "pl": "Potem zakujemy cię w łańcuchy i zabierzemy na zachód. Będziesz miał bardzo złe życie."
+  },
+  {
+    "id": "377382969369",
+    "key": "31_Volk_v1_Talk_9YQV",
+    "en": "You survived the Villa. Don't just throw that away.",
+    "pl": "Przeżyłeś Willę. Nie zmarnuj tego."
+  },
+  {
+    "id": "377382969370",
+    "key": "31_Volk_v1_Talk_OAGC",
+    "en": "Neither.",
+    "pl": "Ani jedno, ani drugie."
+  },
+  {
+    "id": "377382969371",
+    "key": "31_Volk_v1_Talk_RZ6P",
+    "en": "I don't do small talk.",
+    "pl": "Nie gadam o niczym."
+  },
+  {
+    "id": "377382969372",
+    "key": "31_Volk_v1_Talk_3VNA",
+    "en": "You always been a Gunner? Worth it?",
+    "pl": "Zawsze byłeś Strzelcem? Warto?"
+  },
+  {
+    "id": "377382969373",
+    "key": "31_Volk_v1_Talk_LQTJ",
+    "en": "Yes. Consistent group, clear rules. Can use my skills.",
+    "pl": "Tak. Stała ekipa, jasne zasady. Mogę wykorzystać swoje umiejętności."
+  },
+  {
+    "id": "377382969374",
+    "key": "31_Volk_v1_Talk_NI4A",
+    "en": "No time wasted on god, corpses, trains, mantras, collectivism. We just solve basic problems. Treat people as they deserve.",
+    "pl": "Nie tracimy czasu na boga, trupy, pociągi, mantry, kolektywizm. Rozwiązujemy podstawowe problemy. Traktujemy ludzi tak, jak na to zasługują."
+  },
+  {
+    "id": "377382969375",
+    "key": "31_Volk_v1_Talk_FZH4",
+    "en": "Got disagreements, solve them then and there. That's the way. And I'm good at winning arguments.",
+    "pl": "Masz spór, załatwiasz go od razu. Tak trzeba. A ja umiem wygrywać spory."
+  },
+  {
+    "id": "377382969376",
+    "key": "31_Volk_v1_Talk_YFAN",
+    "en": "Who gave you that scar, then?",
+    "pl": "To skąd ta blizna?"
+  },
+  {
+    "id": "377382969377",
+    "key": "31_Volk_v1_Talk_Q7RL",
+    "en": "Why? Want your own?",
+    "pl": "A co? Też chcesz?"
+  },
+  {
+    "id": "377382969378",
+    "key": "31_Volk_v1_Talk_WREQ",
+    "en": "Sounds like the Palatines.",
+    "pl": "Brzmi jak Palatyni."
+  },
+  {
+    "id": "377382969379",
+    "key": "31_Volk_v1_Talk_12KR",
+    "en": "No. They waste all their time on the past.",
+    "pl": "Nie. Oni marnują cały czas na przeszłość."
+  },
+  {
+    "id": "377382969380",
+    "key": "31_Volk_v1_Talk_QV4H",
+    "en": "Dressing up like pre-War soldiers. Drinking, lazing around.",
+    "pl": "Przebierają się za przedwojennych żołnierzy. Piją, obijają się."
+  },
+  {
+    "id": "377382969381",
+    "key": "31_Volk_v1_Talk_LD57",
+    "en": "Like the world's the same as it was. When the Continent was strong.",
+    "pl": "Jakby świat był taki jak kiedyś. Gdy Kontynent był silny."
+  },
+  {
+    "id": "377382969382",
+    "key": "31_Volk_v1_Talk_B3BO",
+    "en": "You distribute drugs and alcohol?",
+    "pl": "Rozprowadzasz narkotyki i alkohol?"
+  },
+  {
+    "id": "377382969383",
+    "key": "31_Volk_v1_Talk_F82E",
+    "en": "Part of my job. Business is good.",
+    "pl": "To część mojej pracy. Interes idzie dobrze."
+  },
+  {
+    "id": "377382969384",
+    "key": "31_Volk_v1_Talk_BR7F",
+    "en": "Have other skills too. But you won't ask about those.",
+    "pl": "Mam też inne umiejętności. Ale o nie nie zapytasz."
+  },
+  {
+    "id": "377382969385",
+    "key": "31_Volk_v1_Talk_KGWI",
+    "en": "Sounds like you don't have any beliefs.",
+    "pl": "Brzmi, jakbyś w nic nie wierzył."
+  },
+  {
+    "id": "377382969386",
+    "key": "31_Volk_v1_Talk_N47F",
+    "en": "Make decisions based on tangible things.",
+    "pl": "Podejmuję decyzje na podstawie konkretów."
+  },
+  {
+    "id": "377382969387",
+    "key": "31_Volk_v1_Talk_UOUI",
+    "en": "Morality doesn't matter, being big and strong does. God is a dream, Mist is right here killing us.",
+    "pl": "Moralność nie ma znaczenia. Liczy się wielkość i siła. Bóg jest snem, a Mgła zabija nas tu i teraz."
+  },
+  {
+    "id": "377382969388",
+    "key": "31_Volk_v1_Talk_AQDW",
+    "en": "A second spent believing stupid shit is a second not spent on food, shelter, strength.",
+    "pl": "Sekunda wiary w głupoty to sekunda, której nie poświęcasz jedzeniu, schronieniu i sile."
+  },
+  {
+    "id": "377382969389",
+    "key": "31_Volk_v1_Talk_CW8P",
+    "en": "About the substances you sell...",
+    "pl": "Co do substancji, które sprzedajesz..."
+  },
+  {
+    "id": "377382969390",
+    "key": "31_Volk_v1_Talk_F691",
+    "en": "You're looking?",
+    "pl": "Szukasz czegoś?"
+  },
+  {
+    "id": "377382969391",
+    "key": "31_Volk_v1_Talk_6764",
+    "en": "I'll get going.",
+    "pl": "Będę się zbierał."
+  },
+  {
+    "id": "377382969392",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_M0VY",
+    "en": "Business is good, then?",
+    "pl": "Czyli interes idzie dobrze?"
+  },
+  {
+    "id": "377382969393",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_YMA5",
+    "en": "Yes. People come to us easily. Word spreads. We barely have to move.",
+    "pl": "Tak. Ludzie sami do nas przychodzą. Wieści się niosą. Prawie nie musimy się ruszać."
+  },
+  {
+    "id": "377382969394",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_WX72",
+    "en": "Hunger, pain, misery. That's what makes good customers.",
+    "pl": "Głód, ból, nędza. To tworzy dobrych klientów."
+  },
+  {
+    "id": "377382969395",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_YLS5",
+    "en": "Genetics, too.",
+    "pl": "Geny też."
+  },
+  {
+    "id": "377382969396",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_KQYU",
+    "en": "How do Commonfolk afford this?",
+    "pl": "Skąd Zwykli Ludzie biorą na to pieniądze?"
+  },
+  {
+    "id": "377382969397",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_7KOM",
+    "en": "We're flexible. We take food, work, or favors. We let them come to owe us.",
+    "pl": "Jesteśmy elastyczni. Bierzemy jedzenie, pracę albo przysługi. Pozwalamy się u nas zadłużyć."
+  },
+  {
+    "id": "377382969398",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_2AA6",
+    "en": "Same thing with Rada, Acolytes.",
+    "pl": "Tak samo z Radą i Akolitami."
+  },
+  {
+    "id": "377382969399",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_45MG",
+    "en": "Even <i>Acolytes</i> buy drugs and alcohol?",
+    "pl": "Nawet <i>Akolici</i> kupują narkotyki i alkohol?"
+  },
+  {
+    "id": "377382969400",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_H65Y",
+    "en": "In secret. Religious types are freaks when they break the chains.",
+    "pl": "Po kryjomu. Religijni to niezłe świry, kiedy się zerwą z łańcucha."
+  },
+  {
+    "id": "377382969401",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_GPGO",
+    "en": "Everyone needs an escape. It's why we're expanding.",
+    "pl": "Każdy potrzebuje ucieczki. Dlatego się rozwijamy."
+  },
+  {
+    "id": "377382969402",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_1CWU",
+    "en": "Favors...? How are those <i>paid?</i>",
+    "pl": "Przysługi...? Jak się je <i>spłaca?</i>"
+  },
+  {
+    "id": "377382969403",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_6OPZ",
+    "en": "Depends. Best if you don't know the details.",
+    "pl": "To zależy. Lepiej, żebyś nie znał szczegółów."
+  },
+  {
+    "id": "377382969404",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_7DYO",
+    "en": "I'll share this. Sometimes we need a fool to hold a gun and run at the Palatines. Well, not \"need\", it's amusing. Good for morale.",
+    "pl": "Tyle ci powiem. Czasem potrzebujemy głupca, który złapie broń i pobiegnie na Palatynów. Może nie „potrzebujemy”, ale to zabawne. Poprawia morale."
+  },
+  {
+    "id": "377382969405",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_ZNPA",
+    "en": "But you might fit that description too.",
+    "pl": "Zresztą ty też byś się nadał."
+  },
+  {
+    "id": "377382969406",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_2V8S",
+    "en": "Changing the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "377382969407",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_214Q",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "377382969408",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_XMG7",
+    "en": "On second thought, I have to go.",
+    "pl": "Jednak muszę iść."
+  },
+  {
+    "id": "377382969409",
+    "key": "31_Volk_v1_WhiteHeat_LFRW",
+    "en": "Vulture. They told me to expect you.",
+    "pl": "Sępie. Mówili, że przyjdziesz."
+  },
+  {
+    "id": "377382969410",
+    "key": "31_Volk_v1_WhiteHeat_7R2E",
+    "en": "You went to the Microrayon?",
+    "pl": "Byłeś w Mikrorajonie?"
+  },
+  {
+    "id": "377382969411",
+    "key": "31_Volk_v1_WhiteHeat_YOYO",
+    "en": "Yeah, got proof right here. (Give Fake Dog Tag)",
+    "pl": "Tak, mam tu dowód. (Oddaj fałszywy nieśmiertelnik)"
+  },
+  {
+    "id": "377382969412",
+    "key": "31_Volk_v1_WhiteHeat_NPB9",
+    "en": "Yeah, had to take out a whole squad...",
+    "pl": "Tak, musiałem wybić cały oddział..."
+  },
+  {
+    "id": "377382969413",
+    "key": "31_Volk_v1_WhiteHeat_9ECE",
+    "en": "Not interested in details. Got proof or not?",
+    "pl": "Nie interesują mnie szczegóły. Masz dowód czy nie?"
+  },
+  {
+    "id": "377382969414",
+    "key": "31_Volk_v1_WhiteHeat_COVW",
+    "en": "Yeah, right here. (Give Fake Dog Tag)",
+    "pl": "Tak, tutaj. (Oddaj fałszywy nieśmiertelnik)"
+  },
+  {
+    "id": "377382969415",
+    "key": "31_Volk_v1_WhiteHeat_ESSM",
+    "en": "Okay, good. One down, one left.",
+    "pl": "Dobra. Jeden załatwiony, drugi został."
+  },
+  {
+    "id": "377382969416",
+    "key": "31_Volk_v1_WhiteHeat_2KDR",
+    "en": "Your guy decided to load up and hide within the thick of the Mist. At the Lumber Fissure to the North. Thinks he's safe there.",
+    "pl": "Twój cel uzbroił się i zaszył w samym środku Mgły. W Leśnej szczelinie na północy. Myśli, że jest tam bezpieczny."
+  },
+  {
+    "id": "377382969417",
+    "key": "31_Volk_v1_WhiteHeat_OA3D",
+    "en": "He'll be waiting for you. Get yourself ready too.",
+    "pl": "Będzie na ciebie czekał. Ty też się przygotuj."
+  },
+  {
+    "id": "377382969418",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_QWML",
+    "en": "Where is my target again?",
+    "pl": "Gdzie jest mój cel?"
+  },
+  {
+    "id": "377382969419",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_SX9N",
+    "en": "Lumber Fissure. North of here. Lots of Mist and Mutants.",
+    "pl": "Leśna szczelina. Na północ stąd. Dużo Mgły i Mutantów."
+  },
+  {
+    "id": "377382969420",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_01Q4",
+    "en": "Don't just rush in. Be prepared.",
+    "pl": "Nie leć tam na ślepo. Przygotuj się."
+  },
+  {
+    "id": "377382969421",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_UB5Y",
+    "en": "Who's the guy I'm going for?",
+    "pl": "Kogo mam załatwić?"
+  },
+  {
+    "id": "377382969422",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_F5DI",
+    "en": "Same as last. Went to spy on Palatines, joined them instead. A piece of shit. Kill him slow.",
+    "pl": "To samo co poprzednio. Miał szpiegować Palatynów, a przeszedł na ich stronę. Śmieć. Zabij go powoli."
+  },
+  {
+    "id": "377382969423",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_OE79",
+    "en": "He'll be geared up for sure. Intel says he stole from Palatine colleagues before holing up in there.",
+    "pl": "Na pewno będzie dobrze wyposażony. Według doniesień okradł kolegów Palatynów, zanim się tam zaszył."
+  },
+  {
+    "id": "377382969424",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_1UWQ",
+    "en": "Good news is, he'll be scared. Scared people are easier to kill.",
+    "pl": "Dobra wiadomość: będzie się bał. Przestraszonych łatwiej zabić."
+  },
+  {
+    "id": "377382969425",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_73MB",
+    "en": "No reward for getting the first guy?",
+    "pl": "Żadnej nagrody za pierwszego?"
+  },
+  {
+    "id": "377382969426",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_7YFN",
+    "en": "You think I'm dumb. Spells danger for you.",
+    "pl": "Masz mnie za idiotę. To dla ciebie niebezpieczne."
+  },
+  {
+    "id": "377382969427",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_UDP5",
+    "en": "I know the deal. Don't play me. Nobody would miss you.",
+    "pl": "Znam umowę. Nie kombinuj. Nikt by za tobą nie tęsknił."
+  },
+  {
+    "id": "377382969428",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_PETU",
+    "en": "No more questions, I'll get going.",
+    "pl": "To wszystkie pytania. Idę."
+  },
+  {
+    "id": "377382969429",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_P1RV",
+    "en": "You came here empty-handed?",
+    "pl": "Przyszedłeś z pustymi rękami?"
+  },
+  {
+    "id": "377382969430",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_HPNA",
+    "en": "I'll get around to the job soon.",
+    "pl": "Niedługo zajmę się zleceniem."
+  },
+  {
+    "id": "377382969431",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_B3YF",
+    "en": "Don't lower your guard around me, Vulture.",
+    "pl": "Przy mnie zawsze miej się na baczności, Sępie."
+  },
+  {
+    "id": "377382969432",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_HX1Q",
+    "en": "Had some questions first.",
+    "pl": "Najpierw mam parę pytań."
+  },
+  {
+    "id": "377382969433",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_KCP9",
+    "en": "Forgot to ask before. Like child.",
+    "pl": "Wcześniej zapomniałeś. Jak dziecko."
+  },
+  {
+    "id": "377382969434",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_3T7K",
+    "en": "Got him? Hm. Did better than expected.",
+    "pl": "Dopadłeś go? Hm. Poszło ci lepiej, niż myślałem."
+  },
+  {
+    "id": "377382969435",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_1CIV",
+    "en": "Thought you'd only wear him down, make him move. Misjudged you.",
+    "pl": "Myślałem, że tylko go osłabisz, zmusisz do ruszenia się. Źle cię oceniłem."
+  },
+  {
+    "id": "377382969436",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_GWXK",
+    "en": "You should see the boss up at the camp.",
+    "pl": "Powinieneś odwiedzić szefa w obozie."
+  },
+  {
+    "id": "377382969437",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_0C3W",
+    "en": "You're staying here?",
+    "pl": "Zostajesz tutaj?"
+  },
+  {
+    "id": "377382969438",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_WIKT",
+    "en": "I'm needed here.",
+    "pl": "Jestem tu potrzebny."
+  },
+  {
+    "id": "377382969439",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_VV01",
+    "en": "Got any more turncoats to handle?",
+    "pl": "Macie jeszcze zdrajców do załatwienia?"
+  },
+  {
+    "id": "377382969440",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_AQF4",
+    "en": "That's need-to-know.",
+    "pl": "Nie musisz tego wiedzieć."
+  }
+]

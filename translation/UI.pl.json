@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "147827187712",
+    "key": "Continue",
+    "en": "Continue",
+    "pl": "Kontynuuj"
+  },
+  {
+    "id": "147864936448",
+    "key": "NewGame",
+    "en": "New Game",
+    "pl": "Nowa gra"
+  },
+  {
+    "id": "147864936449",
+    "key": "LoadGame",
+    "en": "Load Game",
+    "pl": "Wczytaj grę"
+  },
+  {
+    "id": "147864936450",
+    "key": "Settings",
+    "en": "Settings",
+    "pl": "Ustawienia"
+  },
+  {
+    "id": "147864936451",
+    "key": "Exit",
+    "en": "Exit",
+    "pl": "Wyjdź"
+  },
+  {
+    "id": "147864936452",
+    "key": "Gameplay",
+    "en": "Gameplay",
+    "pl": "Rozgrywka"
+  },
+  {
+    "id": "147864936453",
+    "key": "Graphics",
+    "en": "Graphics",
+    "pl": "Grafika"
+  },
+  {
+    "id": "147864936454",
+    "key": "Audio",
+    "en": "Audio",
+    "pl": "Dźwięk"
+  },
+  {
+    "id": "147864936455",
+    "key": "Controls",
+    "en": "Controls",
+    "pl": "Sterowanie"
+  },
+  {
+    "id": "147864936456",
+    "key": "Language",
+    "en": "LANGUAGE",
+    "pl": "JĘZYK"
+  },
+  {
+    "id": "147864936457",
+    "key": "Resolution",
+    "en": "RESOLUTION",
+    "pl": "ROZDZIELCZOŚĆ"
+  },
+  {
+    "id": "147864936458",
+    "key": "WindowMode",
+    "en": "WINDOW MODE",
+    "pl": "TRYB WYŚWIETLANIA"
+  },
+  {
+    "id": "147864936459",
+    "key": "MaximisedWindow",
+    "en": "Maximised Window",
+    "pl": "Zmaksymalizowane okno"
+  },
+  {
+    "id": "147864936460",
+    "key": "Back",
+    "en": "Back",
+    "pl": "Wstecz"
+  },
+  {
+    "id": "147864936461",
+    "key": "ApplyChanges",
+    "en": "Apply Changes",
+    "pl": "Zastosuj zmiany"
+  },
+  {
+    "id": "147864936462",
+    "key": "MasterVolume",
+    "en": "Master Volume",
+    "pl": "Głośność ogólna"
+  },
+  {
+    "id": "147864936463",
+    "key": "MusicVolume",
+    "en": "Music Volume",
+    "pl": "Głośność muzyki"
+  },
+  {
+    "id": "147864936464",
+    "key": "VFXVolume",
+    "en": "VFX Volume",
+    "pl": "Głośność efektów"
+  },
+  {
+    "id": "147864936465",
+    "key": "UIVolume",
+    "en": "UI Volume",
+    "pl": "Głośność interfejsu"
+  },
+  {
+    "id": "147864936466",
+    "key": "RadiationVolume",
+    "en": "Radiation Volume",
+    "pl": "Głośność licznika Geigera"
+  },
+  {
+    "id": "147864936469",
+    "key": "Reset",
+    "en": "Reset",
+    "pl": "Przywróć domyślne"
+  },
+  {
+    "id": "147864936470",
+    "key": "ResetAll",
+    "en": "Reset All",
+    "pl": "Przywróć wszystkie"
+  },
+  {
+    "id": "2124283895808",
+    "key": "Delete",
+    "en": "Delete ",
+    "pl": "Usuń "
+  },
+  {
+    "id": "2124330033152",
+    "key": "Play",
+    "en": "Play",
+    "pl": "Graj"
+  },
+  {
+    "id": "2124330033153",
+    "key": "OverrideSave",
+    "en": "Override Save",
+    "pl": "Nadpisz zapis"
+  },
+  {
+    "id": "9864729321472",
+    "key": "ExclusiveFullscreenNotRecommended",
+    "en": "Exclusive Fullscreen (Not Recommended)",
+    "pl": "Pełny ekran na wyłączność (niezalecany)"
+  },
+  {
+    "id": "9864796430336",
+    "key": "BorderlessFullscreen",
+    "en": "Borderless Fullscreen",
+    "pl": "Pełny ekran bez ramek"
+  },
+  {
+    "id": "9864796430337",
+    "key": "Windowed",
+    "en": "Windowed",
+    "pl": "W oknie"
+  },
+  {
+    "id": "57254576381952",
+    "key": "Save",
+    "en": "Save",
+    "pl": "Zapisz"
+  },
+  {
+    "id": "57254614130688",
+    "key": "Resume",
+    "en": "Resume",
+    "pl": "Wznów"
+  },
+  {
+    "id": "57254614130689",
+    "key": "ExitToMainMenu",
+    "en": "Exit to main menu",
+    "pl": "Wyjdź do menu głównego"
+  },
+  {
+    "id": "298480647004160",
+    "key": "NewSave",
+    "en": "NEW SAVE",
+    "pl": "NOWY ZAPIS"
+  },
+  {
+    "id": "316393353371648",
+    "key": "Controls.Action",
+    "en": "ACTION",
+    "pl": "CZYNNOŚĆ"
+  },
+  {
+    "id": "316393353371649",
+    "key": "Controls.Keybind",
+    "en": "KEYBIND",
+    "pl": "PRZYPISANIE"
+  },
+  {
+    "id": "404013089546240",
+    "key": "NewGame.Returner",
+    "en": "RETURNER",
+    "pl": "POWRACAJĄCY"
+  },
+  {
+    "id": "404013131489280",
+    "key": "NewGame.Ironman",
+    "en": "IRONMAN",
+    "pl": "JEDNO ŻYCIE"
+  },
+  {
+    "id": "404013131489281",
+    "key": "NewGame.Returner.GameModeText1",
+    "en": "Death isn't the end, but it will cost you.",
+    "pl": "Śmierć nie oznacza końca, ale ma swoją cenę."
+  },
+  {
+    "id": "404013131489282",
+    "key": "NewGame.Returner.GameModeText2",
+    "en": "Return to where you fell and reclaim your loot.",
+    "pl": "Wróć w miejsce swojej śmierci i odzyskaj łupy."
+  },
+  {
+    "id": "404013131489283",
+    "key": "NewGame.Ironman.GameModeText1",
+    "en": "Death means starting over.<br>One life per run.",
+    "pl": "Śmierć oznacza powrót do początku.<br>Jedno życie na rozgrywkę."
+  },
+  {
+    "id": "404013131489284",
+    "key": "NewGame.Ironman.GameModeText2",
+    "en": "Permanently!",
+    "pl": "Bez drugiej szansy!"
+  },
+  {
+    "id": "405980222316544",
+    "key": "NewGame.DoYouWantToPlayTheTutorial",
+    "en": "Do you want to play the tutorial?",
+    "pl": "Czy chcesz przejść samouczek?"
+  },
+  {
+    "id": "406236615925760",
+    "key": "Yes",
+    "en": "Yes",
+    "pl": "Tak"
+  },
+  {
+    "id": "406236615925761",
+    "key": "No",
+    "en": "No",
+    "pl": "Nie"
+  },
+  {
+    "id": "414845483606016",
+    "key": "LoadGame.OverwriteSave.Warning",
+    "en": "You're about to overwrite this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?",
+    "pl": "Zamierzasz nadpisać ten zapis gry. Tej czynności nie można cofnąć.<br><br>Czy chcesz kontynuować?"
+  },
+  {
+    "id": "415836660555776",
+    "key": "Cancel",
+    "en": "Cancel",
+    "pl": "Anuluj"
+  },
+  {
+    "id": "636992852320256",
+    "key": "SFXVolume",
+    "en": "SFX Volume",
+    "pl": "Głośność efektów"
+  },
+  {
+    "id": "636992927817728",
+    "key": "VoiceVolume",
+    "en": "Voice Volume",
+    "pl": "Głośność głosów"
+  },
+  {
+    "id": "637473389535232",
+    "key": "EffectsVolume",
+    "en": "Effects Volume",
+    "pl": "Głośność efektów"
+  },
+  {
+    "id": "1003464598478848",
+    "key": "Load",
+    "en": "Load",
+    "pl": "Wczytaj"
+  },
+  {
+    "id": "1081316735967232",
+    "key": "LoadSave.OverrideSave",
+    "en": "OVERWRITE SAVE",
+    "pl": "NADPISZ ZAPIS"
+  },
+  {
+    "id": "1081630230831104",
+    "key": "LoadSave.OverwriteSave",
+    "en": "OVERWRITE SAVE",
+    "pl": "NADPISZ ZAPIS"
+  },
+  {
+    "id": "1081630230831105",
+    "key": "LoadGame.DeleteSave.Warning",
+    "en": "You're about to delete this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?",
+    "pl": "Zamierzasz usunąć ten zapis gry. Tej czynności nie można cofnąć.<br><br>Czy chcesz kontynuować?"
+  },
+  {
+    "id": "1081630230831106",
+    "key": "LoadGame.DeleteSave",
+    "en": "DELETE SAVE",
+    "pl": "USUŃ ZAPIS"
+  },
+  {
+    "id": "2096582232104960",
+    "key": "LoadGame.OverwriteSave.Overwrite",
+    "en": "OVERWRITE",
+    "pl": "NADPISZ"
+  },
+  {
+    "id": "2096582299213824",
+    "key": "LoadGame.DeleteSave.Delete",
+    "en": "DELETE",
+    "pl": "USUŃ"
+  },
+  {
+    "id": "2248412039733248",
+    "key": "LoadGame.RenameSave.Confirm",
+    "en": "CONFIRM",
+    "pl": "POTWIERDŹ"
+  },
+  {
+    "id": "2249354541785088",
+    "key": "LoadGame.RenameSave",
+    "en": "RENAME",
+    "pl": "ZMIEŃ NAZWĘ"
+  },
+  {
+    "id": "2978186802487296",
+    "key": "Gameplay.AimAssist",
+    "en": "AIM ASSIST",
+    "pl": "WSPOMAGANIE CELOWANIA"
+  },
+  {
+    "id": "15530973977370624",
+    "key": "InventoryItemAction.Disassamble",
+    "en": "Disassemble",
+    "pl": "Rozmontuj"
+  },
+  {
+    "id": "15530974015119360",
+    "key": "InventoryItemAction.Drop",
+    "en": "Drop",
+    "pl": "Wyrzuć"
+  },
+  {
+    "id": "15530974015119361",
+    "key": "InventoryItemAction.Equip",
+    "en": "Equip",
+    "pl": "Załóż"
+  },
+  {
+    "id": "15530974015119362",
+    "key": "InventoryItemAction.Inspect",
+    "en": "Inspect",
+    "pl": "Obejrzyj"
+  },
+  {
+    "id": "15530974015119363",
+    "key": "InventoryItemAction.Learn",
+    "en": "Learn",
+    "pl": "Naucz się"
+  },
+  {
+    "id": "15530974015119364",
+    "key": "InventoryItemAction.RemoveMagazine",
+    "en": "Remove magazine",
+    "pl": "Wyjmij magazynek"
+  },
+  {
+    "id": "15530974015119365",
+    "key": "InventoryItemAction.RemoveMuzzle",
+    "en": "Remove muzzle",
+    "pl": "Zdejmij nasadkę wylotową"
+  },
+  {
+    "id": "15530974015119366",
+    "key": "InventoryItemAction.RemoveSight",
+    "en": "Remove optic",
+    "pl": "Zdejmij celownik"
+  },
+  {
+    "id": "15530974015119367",
+    "key": "InventoryItemAction.Repair",
+    "en": "Repair",
+    "pl": "Napraw"
+  },
+  {
+    "id": "15530974015119368",
+    "key": "InventoryItemAction.Unload",
+    "en": "Unload",
+    "pl": "Rozładuj"
+  },
+  {
+    "id": "15530974015119369",
+    "key": "InventoryItemAction.Use",
+    "en": "Use",
+    "pl": "Użyj"
+  },
+  {
+    "id": "15530974015119370",
+    "key": "InventoryItemAction.LoadMagazine",
+    "en": "Load",
+    "pl": "Załaduj"
+  },
+  {
+    "id": "16263385946513408",
+    "key": "InventoryItemAction.UnEquip",
+    "en": "Unequip",
+    "pl": "Zdejmij"
+  },
+  {
+    "id": "35476872790794240",
+    "key": "Gameplay.AimSensitivity",
+    "en": "AIM SENSITIVITY",
+    "pl": "CZUŁOŚĆ CELOWANIA"
+  },
+  {
+    "id": "38007730450399232",
+    "key": "Book.TaskReputationRewards",
+    "en": "Reputation Gain:",
+    "pl": "Wzrost reputacji:"
+  },
+  {
+    "id": "47812238411554816",
+    "key": "RenameSave",
+    "en": "Rename save",
+    "pl": "Zmień nazwę zapisu"
+  },
+  {
+    "id": "47812238411554817",
+    "key": "GunModding.Remove",
+    "en": "Remove",
+    "pl": "Usuń"
+  },
+  {
+    "id": "48102938475629184",
+    "key": "Gameplay.StatusBarsHud",
+    "en": "STATUS BAR HUD",
+    "pl": "PASKI STANU"
+  },
+  {
+    "id": "48102938475629185",
+    "key": "Gameplay.AmmoHud",
+    "en": "AMMO HUD",
+    "pl": "WSKAŹNIK AMUNICJI"
+  },
+  {
+    "id": "48102938475629186",
+    "key": "Feedback",
+    "en": "Feedback",
+    "pl": "Zgłoś uwagi"
+  },
+  {
+    "id": "48102938475629187",
+    "key": "Feedback.Send",
+    "en": "Send",
+    "pl": "Wyślij"
+  },
+  {
+    "id": "48102938475629188",
+    "key": "Feedback.Title.Placeholder",
+    "en": "Short summary...",
+    "pl": "Krótkie podsumowanie..."
+  },
+  {
+    "id": "48102938475629189",
+    "key": "Feedback.Description.Placeholder",
+    "en": "Tell us what happened or what you would like to suggest...",
+    "pl": "Opisz, co się stało lub co chcesz zaproponować..."
+  },
+  {
+    "id": "48102938475629190",
+    "key": "Feedback.Category",
+    "en": "Category",
+    "pl": "Kategoria"
+  },
+  {
+    "id": "48102938475629191",
+    "key": "Feedback.Category.Bug",
+    "en": "Bug",
+    "pl": "Błąd"
+  },
+  {
+    "id": "48102938475629192",
+    "key": "Feedback.Category.Gameplay",
+    "en": "Gameplay",
+    "pl": "Rozgrywka"
+  },
+  {
+    "id": "48102938475629193",
+    "key": "Feedback.Category.Balance",
+    "en": "Balance",
+    "pl": "Balans gry"
+  },
+  {
+    "id": "48102938475629194",
+    "key": "Feedback.Category.UI",
+    "en": "UI",
+    "pl": "Interfejs"
+  },
+  {
+    "id": "48102938475629195",
+    "key": "Feedback.Category.Performance",
+    "en": "Performance",
+    "pl": "Wydajność"
+  },
+  {
+    "id": "48102938475629196",
+    "key": "Feedback.Category.Suggestion",
+    "en": "Suggestion",
+    "pl": "Sugestia"
+  },
+  {
+    "id": "48102938475629197",
+    "key": "Feedback.Category.Other",
+    "en": "Other",
+    "pl": "Inne"
+  },
+  {
+    "id": "48102938475629198",
+    "key": "Feedback.Discord.Placeholder",
+    "en": "Discord (optional)",
+    "pl": "Discord (opcjonalnie)"
+  },
+  {
+    "id": "48102938475629199",
+    "key": "Feedback.Email.Placeholder",
+    "en": "Email (optional)",
+    "pl": "E-mail (opcjonalnie)"
+  },
+  {
+    "id": "48102938475629200",
+    "key": "Feedback.MachineSnapshot",
+    "en": "Include PC config",
+    "pl": "Dołącz konfigurację komputera"
+  },
+  {
+    "id": "48102938475629201",
+    "key": "Feedback.ThankYou",
+    "en": "Thank you",
+    "pl": "Dziękujemy"
+  },
+  {
+    "id": "48102938475629202",
+    "key": "Feedback.ThankYou.Body",
+    "en": "The team will look into the feedback.",
+    "pl": "Zespół zapozna się z twoimi uwagami."
+  },
+  {
+    "id": "48102938475629203",
+    "key": "Feedback.SendFailed",
+    "en": "Couldn't send",
+    "pl": "Wysyłanie nie powiodło się"
+  },
+  {
+    "id": "48102938475629204",
+    "key": "Feedback.SendFailed.Body",
+    "en": "Feedback could not be sent. Please try again.",
+    "pl": "Nie udało się wysłać uwag. Spróbuj ponownie."
+  },
+  {
+    "id": "81142955192782848",
+    "key": "Workbench.BlueprintCategory.Weapon",
+    "en": "Weapons",
+    "pl": "Broń"
+  },
+  {
+    "id": "81142955243114496",
+    "key": "Workbench.BlueprintCategory.Medical",
+    "en": "Medical",
+    "pl": "Medycyna"
+  },
+  {
+    "id": "81142955243114497",
+    "key": "Workbench.BlueprintCategory.Equipment",
+    "en": "Equipment",
+    "pl": "Wyposażenie"
+  },
+  {
+    "id": "81486878887370752",
+    "key": "Gameplay.ActionHintBar",
+    "en": "ACTION HINTS",
+    "pl": "PODPOWIEDZI CZYNNOŚCI"
+  },
+  {
+    "id": "81486878887370753",
+    "key": "Gameplay.HitEffect",
+    "en": "HIT EFFECT",
+    "pl": "EFEKT TRAFIENIA"
+  },
+  {
+    "id": "81486878887370754",
+    "key": "LoadGame.DeleteRun.Header",
+    "en": "DELETE EVERY SAVE IN THIS CAMPAIGN",
+    "pl": "USUŃ WSZYSTKIE ZAPISY TEJ KAMPANII"
+  },
+  {
+    "id": "81486878887370755",
+    "key": "LoadGame.DeleteRun.Warning",
+    "en": "You're about to delete all save files in this campaign. This action is permanent and cannot be undone.<br><br>Do you want to continue?",
+    "pl": "Zamierzasz usunąć wszystkie zapisy tej kampanii. Tej czynności nie można cofnąć.<br><br>Czy chcesz kontynuować?"
+  },
+  {
+    "id": "81486878887370756",
+    "key": "LoadGame.DeleteRun.Delete",
+    "en": "DELETE ALL",
+    "pl": "USUŃ WSZYSTKO"
+  },
+  {
+    "id": "85111716854136832",
+    "key": "Reputation",
+    "en": "Reputation",
+    "pl": "Reputacja"
+  },
+  {
+    "id": "85111716908662784",
+    "key": "Rank",
+    "en": "Rank",
+    "pl": "Ranga"
+  },
+  {
+    "id": "85111716908662790",
+    "key": "Gameplay.Category.General",
+    "en": "General",
+    "pl": "Ogólne"
+  },
+  {
+    "id": "85111716908662791",
+    "key": "Gameplay.Category.Aiming",
+    "en": "Aiming",
+    "pl": "Celowanie"
+  },
+  {
+    "id": "85111716908662792",
+    "key": "Gameplay.Category.Hud",
+    "en": "HUD",
+    "pl": "HUD"
+  },
+  {
+    "id": "85111716908662793",
+    "key": "Gameplay.MouseAim",
+    "en": "MOUSE AIM",
+    "pl": "CELOWANIE MYSZĄ"
+  },
+  {
+    "id": "85111716908662794",
+    "key": "Graphics.FrameRateLimit",
+    "en": "FRAME RATE LIMIT",
+    "pl": "LIMIT KLATEK NA SEKUNDĘ"
+  },
+  {
+    "id": "85111716908662795",
+    "key": "Graphics.FrameRateLimit.Unlimited",
+    "en": "UNLIMITED",
+    "pl": "BEZ LIMITU"
+  },
+  {
+    "id": "85895573664727040",
+    "key": "Gun.Damage",
+    "en": "Damage",
+    "pl": "Obrażenia"
+  },
+  {
+    "id": "85895573706670080",
+    "key": "Gun.FireRate",
+    "en": "Fire Rate (RPM)",
+    "pl": "Szybkostrzelność (strz./min)"
+  },
+  {
+    "id": "85895573706670081",
+    "key": "Gun.Range",
+    "en": "Range",
+    "pl": "Zasięg"
+  },
+  {
+    "id": "85895573706670082",
+    "key": "Gun.Accuracy",
+    "en": "Accuracy",
+    "pl": "Celność"
+  },
+  {
+    "id": "85895573706670083",
+    "key": "Gun.Recoil",
+    "en": "Recoil",
+    "pl": "Odrzut"
+  },
+  {
+    "id": "85895573706670084",
+    "key": "Gun.Handling",
+    "en": "Handling",
+    "pl": "Poręczność"
+  },
+  {
+    "id": "85895573706670085",
+    "key": "Gun.Ergonomics",
+    "en": "Ergonomics",
+    "pl": "Ergonomia"
+  },
+  {
+    "id": "85895573706670086",
+    "key": "Gun.ReloadSpeed",
+    "en": "Reload Speed",
+    "pl": "Szybkość przeładowania"
+  },
+  {
+    "id": "85895573706670087",
+    "key": "Gun.Durability",
+    "en": "Durability",
+    "pl": "Trwałość"
+  },
+  {
+    "id": "85898987077402624",
+    "key": "Gun.OneSight",
+    "en": "You can only have one sight, remove the current one to add another",
+    "pl": "Możesz mieć tylko jeden celownik. Zdejmij obecny, aby założyć inny"
+  },
+  {
+    "id": "85909890925625344",
+    "key": "Attribute.Health",
+    "en": "Health",
+    "pl": "Zdrowie"
+  },
+  {
+    "id": "85909890980151296",
+    "key": "Attribute.Stamina",
+    "en": "Stamina",
+    "pl": "Wytrzymałość"
+  },
+  {
+    "id": "85909890980151297",
+    "key": "Attribute.Hunger",
+    "en": "Hunger",
+    "pl": "Głód"
+  },
+  {
+    "id": "85909890980151298",
+    "key": "Attribute.Thirst",
+    "en": "Thirst",
+    "pl": "Pragnienie"
+  },
+  {
+    "id": "85909890980151299",
+    "key": "Attribute.Bleed",
+    "en": "Bleed",
+    "pl": "Krwawienie"
+  },
+  {
+    "id": "85909890980151300",
+    "key": "Attribute.Radiation",
+    "en": "Radiation",
+    "pl": "Napromieniowanie"
+  },
+  {
+    "id": "85909890988539904",
+    "key": "Attribute.Fracture",
+    "en": "Fracture",
+    "pl": "Złamanie"
+  },
+  {
+    "id": "85909890988539905",
+    "key": "Attribute.Poison",
+    "en": "Poison",
+    "pl": "Zatrucie"
+  },
+  {
+    "id": "85909890988539906",
+    "key": "Attribute.MaxHealth",
+    "en": "Max Health",
+    "pl": "Maks. zdrowie"
+  },
+  {
+    "id": "85909890988539907",
+    "key": "Attribute.MaxStamina",
+    "en": "Max Stamina",
+    "pl": "Maks. wytrzymałość"
+  },
+  {
+    "id": "85909890988539908",
+    "key": "Attribute.MaxHunger",
+    "en": "Max Hunger",
+    "pl": "Maks. głód"
+  },
+  {
+    "id": "85909890988539909",
+    "key": "Attribute.MaxThirst",
+    "en": "Max Thirst",
+    "pl": "Maks. pragnienie"
+  },
+  {
+    "id": "85909890988539910",
+    "key": "Attribute.MaxBleed",
+    "en": "Max Bleed",
+    "pl": "Maks. krwawienie"
+  },
+  {
+    "id": "85909890988539911",
+    "key": "Attribute.MaxRadiation",
+    "en": "Max Radiation",
+    "pl": "Maks. napromieniowanie"
+  },
+  {
+    "id": "85909890988539912",
+    "key": "Attribute.MaxFracture",
+    "en": "Max Fracture",
+    "pl": "Maks. złamanie"
+  },
+  {
+    "id": "85909890988539913",
+    "key": "Attribute.MaxPoison",
+    "en": "Max Poison",
+    "pl": "Maks. zatrucie"
+  },
+  {
+    "id": "85909890988539914",
+    "key": "Attribute.HealthRegenMod",
+    "en": "Health Regen Mod",
+    "pl": "Modyf. regeneracji zdrowia"
+  },
+  {
+    "id": "85909890988539915",
+    "key": "Attribute.StaminaRegenMod",
+    "en": "Stamina Regen Mod",
+    "pl": "Modyf. regeneracji wytrzymałości"
+  },
+  {
+    "id": "85909890988539916",
+    "key": "Attribute.HungerMod",
+    "en": "Hunger Mod",
+    "pl": "Modyf. głodu"
+  },
+  {
+    "id": "85909890988539917",
+    "key": "Attribute.ThirstMod",
+    "en": "Thirst Mod",
+    "pl": "Modyf. pragnienia"
+  },
+  {
+    "id": "85909890988539918",
+    "key": "Attribute.BleedResistMod",
+    "en": "Bleed Resist Mod",
+    "pl": "Modyf. odp. na krwawienie"
+  },
+  {
+    "id": "85909890988539919",
+    "key": "Attribute.RadiationResistMod",
+    "en": "Radiation Resist Mod",
+    "pl": "Modyf. odp. na promieniowanie"
+  },
+  {
+    "id": "85909890988539920",
+    "key": "Attribute.FractureResistMod",
+    "en": "Fracture Resist Mod",
+    "pl": "Modyf. odp. na złamania"
+  },
+  {
+    "id": "85909890988539921",
+    "key": "Attribute.PoisonResistMod",
+    "en": "Poison Resist Mod",
+    "pl": "Modyf. odp. na zatrucie"
+  },
+  {
+    "id": "86251604202782720",
+    "key": "Payment",
+    "en": "Payment",
+    "pl": "Zapłata"
+  },
+  {
+    "id": "86276900054401024",
+    "key": "Death.MistTookYou",
+    "en": "The Mist Took You…",
+    "pl": "Pochłonęła cię Mgła…"
+  },
+  {
+    "id": "86276900075372544",
+    "key": "Death.ItemsLeftBehind",
+    "en": "Items left behind",
+    "pl": "Pozostawione przedmioty"
+  },
+  {
+    "id": "86276900075372545",
+    "key": "Death.PressAnyKey",
+    "en": "Press any key to continue",
+    "pl": "Naciśnij dowolny klawisz, aby kontynuować"
+  },
+  {
+    "id": "86602555212201984",
+    "key": "Craft.RequiredResources",
+    "en": "Required Resources",
+    "pl": "Wymagane surowce"
+  },
+  {
+    "id": "86602555279310848",
+    "key": "Craft.Craft",
+    "en": "Craft",
+    "pl": "Wytwórz"
+  },
+  {
+    "id": "86602555279310849",
+    "key": "Journal.Jobs",
+    "en": "Jobs",
+    "pl": "Zlecenia"
+  },
+  {
+    "id": "86602555279310850",
+    "key": "Journal.Map",
+    "en": "Map",
+    "pl": "Mapa"
+  },
+  {
+    "id": "86602555279310851",
+    "key": "Journal.Relations",
+    "en": "Relations",
+    "pl": "Relacje"
+  },
+  {
+    "id": "86602555279310852",
+    "key": "Journal.Enemy",
+    "en": "Enemy",
+    "pl": "Wrogie"
+  },
+  {
+    "id": "86602555279310853",
+    "key": "Journal.Friendly",
+    "en": "Friendly",
+    "pl": "Przyjazne"
+  },
+  {
+    "id": "86602555279310854",
+    "key": "Journal.Neutral",
+    "en": "Neutral",
+    "pl": "Neutralne"
+  },
+  {
+    "id": "86602555279310855",
+    "key": "Journal.MainJobs",
+    "en": "Main Jobs",
+    "pl": "Zlecenia główne"
+  },
+  {
+    "id": "86602555279310856",
+    "key": "Journal.SideJobs",
+    "en": "Side Jobs",
+    "pl": "Zlecenia poboczne"
+  },
+  {
+    "id": "86602555279310857",
+    "key": "Journal.Completed",
+    "en": "Completed",
+    "pl": "Ukończone"
+  },
+  {
+    "id": "86602555279310858",
+    "key": "Journal.Bandits",
+    "en": "Bandits",
+    "pl": "Bandyci"
+  },
+  {
+    "id": "86602555279310859",
+    "key": "Journal.Mudlarks",
+    "en": "Mudlarks",
+    "pl": "Błotniarze"
+  },
+  {
+    "id": "86602555279310860",
+    "key": "Journal.Mechanists",
+    "en": "Mechanists",
+    "pl": "Mechaniści"
+  },
+  {
+    "id": "86602555279310861",
+    "key": "Journal.Rada",
+    "en": "Rada",
+    "pl": "Rada"
+  },
+  {
+    "id": "86602555279310862",
+    "key": "Journal.Gunners",
+    "en": "Gunners",
+    "pl": "Strzelcy"
+  },
+  {
+    "id": "86602555279310863",
+    "key": "Journal.Commonfolk",
+    "en": "Commonfolk",
+    "pl": "Zwykli Ludzie"
+  },
+  {
+    "id": "86602555279310864",
+    "key": "Journal.Acolytes",
+    "en": "Acolytes",
+    "pl": "Akolici"
+  },
+  {
+    "id": "86602555279310865",
+    "key": "Journal.Palatines",
+    "en": "Palatines",
+    "pl": "Palatyni"
+  },
+  {
+    "id": "86602555279310866",
+    "key": "Journal.Vultures",
+    "en": "Vultures",
+    "pl": "Sępy"
+  },
+  {
+    "id": "86602555279310867",
+    "key": "Item.MaxStacks",
+    "en": "Max Stacks",
+    "pl": "Maks. wielkość stosu"
+  },
+  {
+    "id": "86602555279310868",
+    "key": "Item.NotStackable",
+    "en": "Not Stackable",
+    "pl": "Nie łączy się w stos"
+  },
+  {
+    "id": "86602555279310869",
+    "key": "Cloth.Durability",
+    "en": "Durability",
+    "pl": "Trwałość"
+  },
+  {
+    "id": "86602555279310870",
+    "key": "Cloth.BallisticRes",
+    "en": "Ballistic Res",
+    "pl": "Odporność na pociski"
+  },
+  {
+    "id": "86602555279310871",
+    "key": "Cloth.SlashRes",
+    "en": "Slash Res",
+    "pl": "Odporność na cięcia"
+  },
+  {
+    "id": "86602555279310872",
+    "key": "Cloth.RadRes",
+    "en": "Rad Res",
+    "pl": "Odporność na promieniowanie"
+  },
+  {
+    "id": "86674475425234944",
+    "key": "Book.TaskReward",
+    "en": "Reward",
+    "pl": "Nagroda"
+  },
+  {
+    "id": "86674475475566592",
+    "key": "Book.TaskMoneyRewards",
+    "en": "Money:",
+    "pl": "Pieniądze:"
+  },
+  {
+    "id": "86674475475566593",
+    "key": "Gameplay.CameraSize",
+    "en": "CAMERA SIZE",
+    "pl": "ODDALENIE KAMERY"
+  },
+  {
+    "id": "86916729536155648",
+    "key": "ExitToMainMenu.SavePrompt",
+    "en": "Save before returning to the Main Menu?",
+    "pl": "Zapisać grę przed powrotem do menu głównego?"
+  },
+  {
+    "id": "86916729611653120",
+    "key": "ExitToMainMenu.DontSave",
+    "en": "Don't Save",
+    "pl": "Nie zapisuj"
+  },
+  {
+    "id": "86916729611653121",
+    "key": "ActionKey.Hold",
+    "en": "Hold",
+    "pl": "Przytrzymaj"
+  },
+  {
+    "id": "87348120920952832",
+    "key": "Gameplay.CameraShake",
+    "en": "CAMERA SHAKE",
+    "pl": "WSTRZĄSY KAMERY"
+  },
+  {
+    "id": "87542161449062400",
+    "key": "NewGame.Explorer",
+    "en": "EXPLORER",
+    "pl": "ODKRYWCA"
+  },
+  {
+    "id": "87542161662971904",
+    "key": "NewGame.Explorer.GameModeText1",
+    "en": "The journey is more forgiving, but danger still remains.",
+    "pl": "Podróż wybacza więcej błędów, ale niebezpieczeństwo wciąż czyha."
+  },
+  {
+    "id": "87542161662971905",
+    "key": "NewGame.Explorer.GameModeText2",
+    "en": "Earn reputation faster and keep your equipment after death.",
+    "pl": "Szybciej zdobywasz reputację i zachowujesz wyposażenie po śmierci."
+  },
+  {
+    "id": "87542161662971906",
+    "key": "RunMode.Explorer",
+    "en": "Explorer",
+    "pl": "Odkrywca"
+  },
+  {
+    "id": "87542161662971907",
+    "key": "RunMode.Returner",
+    "en": "Returner",
+    "pl": "Powracający"
+  },
+  {
+    "id": "87542161662971908",
+    "key": "RunMode.IronMan",
+    "en": "Iron Man",
+    "pl": "Jedno życie"
+  },
+  {
+    "id": "87567350098464768",
+    "key": "Gameplay.RunAutosaveInterval",
+    "en": "AUTOSAVE INTERVAL",
+    "pl": "CZĘSTOTLIWOŚĆ AUTOZAPISU"
+  },
+  {
+    "id": "87570643319164928",
+    "key": "Gameplay.RunAutosaveDisabled",
+    "en": "DISABLED",
+    "pl": "WYŁĄCZONY"
+  },
+  {
+    "id": "87655479031533568",
+    "key": "LoadGame.DefaultSlotName",
+    "en": "Slot {0}",
+    "pl": "Zapis {0}"
+  },
+  {
+    "id": "88197189996634112",
+    "key": "Sleep.Title",
+    "en": "SLEEP",
+    "pl": "SEN"
+  },
+  {
+    "id": "88197190013411328",
+    "key": "Sleep.CurrentTime",
+    "en": "Current time",
+    "pl": "Obecna godzina"
+  },
+  {
+    "id": "88197190013411329",
+    "key": "Sleep.WakeTime",
+    "en": "Wake up at",
+    "pl": "Pobudka o"
+  },
+  {
+    "id": "88197190013411330",
+    "key": "Sleep.Duration",
+    "en": "Hours to sleep",
+    "pl": "Godziny snu"
+  },
+  {
+    "id": "88197190013411331",
+    "key": "Sleep.Hunger",
+    "en": "Hunger",
+    "pl": "Głód"
+  },
+  {
+    "id": "88197190013411332",
+    "key": "Sleep.Thirst",
+    "en": "Thirst",
+    "pl": "Pragnienie"
+  },
+  {
+    "id": "88197190013411333",
+    "key": "Sleep.Estimate",
+    "en": "Estimated change with current effects. The world keeps moving while you sleep.",
+    "pl": "Przewidywana zmiana przy obecnych efektach. Świat toczy się dalej, gdy śpisz."
+  },
+  {
+    "id": "88197190013411334",
+    "key": "Sleep.Warning",
+    "en": "Hunger or thirst may become harmful. Any health loss will wake you.",
+    "pl": "Głód lub pragnienie mogą ci zaszkodzić. Każda utrata zdrowia cię obudzi."
+  },
+  {
+    "id": "88197190013411336",
+    "key": "Sleep.Cancel",
+    "en": "Cancel",
+    "pl": "Anuluj"
+  },
+  {
+    "id": "88197190013411337",
+    "key": "Sleep.Start",
+    "en": "Sleep",
+    "pl": "Śpij"
+  },
+  {
+    "id": "88197190013411338",
+    "key": "Sleep.Wake",
+    "en": "Wake up",
+    "pl": "Obudź się"
+  },
+  {
+    "id": "88197190013411339",
+    "key": "Sleep.NextDay",
+    "en": "next day",
+    "pl": "następnego dnia"
+  },
+  {
+    "id": "88515927019085824",
+    "key": "Journal.Quests",
+    "en": "Quests",
+    "pl": "Zadania"
+  },
+  {
+    "id": "88534932069015552",
+    "key": "Gameplay.Category.Inventory",
+    "en": "Inventory",
+    "pl": "Ekwipunek"
+  },
+  {
+    "id": "88534932127735808",
+    "key": "Gameplay.AutomaticItemInfo",
+    "en": "AUTOMATICALLY SHOW ITEM INFO (GAMEPAD)",
+    "pl": "AUTOMATYCZNY OPIS PRZEDMIOTU (PAD)"
+  },
+  {
+    "id": "88667747387084800",
+    "key": "Notification.QuantityTurnIn",
+    "en": "Handed in some of {taskName}.",
+    "pl": "Przekazano część przedmiotów na cel: {taskName}."
+  },
+  {
+    "id": "88667747429027840",
+    "key": "Journal.CancelJobConfirm",
+    "en": "Cancel this job? -{amount} reputation with {questGiver}",
+    "pl": "Anulować to zlecenie? -{amount} pkt. reputacji u: {questGiver}"
+  },
+  {
+    "id": "89080518494818304",
+    "key": "Sleep.InterruptedByDamage",
+    "en": "Sleep interrupted by damage.",
+    "pl": "Sen przerwany przez obrażenia."
+  },
+  {
+    "id": "89080769226117120",
+    "key": "Sleep.InterruptedByHunger",
+    "en": "Sleep interrupted by hunger damage.",
+    "pl": "Sen przerwany przez obrażenia z głodu."
+  },
+  {
+    "id": "89080769226117121",
+    "key": "Sleep.InterruptedByThirst",
+    "en": "Sleep interrupted by thirst damage.",
+    "pl": "Sen przerwany przez obrażenia z pragnienia."
+  }
+]

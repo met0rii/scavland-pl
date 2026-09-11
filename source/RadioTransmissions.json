@@ -1,0 +1,157 @@
+[
+  {
+    "id": "44535586816",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_8WFG",
+    "en": "There's a voice coming from the radio again."
+  },
+  {
+    "id": "44543975424",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_FJXE",
+    "en": "The signal suddenly got clearer..."
+  },
+  {
+    "id": "44543975425",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_05HB",
+    "en": "The radio static is turning into a voice..."
+  },
+  {
+    "id": "44543975426",
+    "key": "27_RadioTransmissions_v1_GetWelcomingMessage_8PSS",
+    "en": "The white noise's turning into the voice of a soldier..."
+  },
+  {
+    "id": "44543975427",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_XIUR",
+    "en": "(Stop and listen.)"
+  },
+  {
+    "id": "44543975428",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_T94R",
+    "en": "(Focus on the radio.)"
+  },
+  {
+    "id": "44543975429",
+    "key": "27_RadioTransmissions_v1_GetRandomOutsideInfluencesStart_3E68",
+    "en": "(Listen closely.)"
+  },
+  {
+    "id": "44543975430",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_BWLH",
+    "en": "[ ... And don't worry about the sniper. We'll deal with him later. Fortify our position within the Oblast, ignore the Gunners and move to surround the Slums. That's where the insurgents are hiding; they will be our next target... ]"
+  },
+  {
+    "id": "44543975431",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_P86B",
+    "en": "(They're planning an attack around the Dola...)"
+  },
+  {
+    "id": "44543975432",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_HSRQ",
+    "en": "(They're aiming for a ghetto full of Commonfolk, out West...)"
+  },
+  {
+    "id": "44543975433",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_QHFN",
+    "en": "[ Hmm... Yes, there <i>are</i> surviving Vultures. No matter. We stick to current strategy. We won't scatter just for some stragglers. When we hit, we hit hard. We let them <u>know.</u> <i>The West has won</i>. ]"
+  },
+  {
+    "id": "44543975434",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_XSXF",
+    "en": "(They might know about me, Zhivan, Raisa... But aren't chasing us...)"
+  },
+  {
+    "id": "44543975435",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_DCJK",
+    "en": "(The West...? They're really soldiers of the Western government...)"
+  },
+  {
+    "id": "44543975436",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_QX8D",
+    "en": "<i>(Signal's breaking up. This static hurts my ears.)</i>"
+  },
+  {
+    "id": "44543975437",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_1_0LAV",
+    "en": "(Leave.)"
+  },
+  {
+    "id": "44543975438",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_B6MY",
+    "en": "[ ... Reported on the blockades... I'll be back soon. Keep the common people out of the Dola until I return. We'll be moving West soon enough... Into Respat Mines... The Threshold. Where the bulk of their resistance lies. ]"
+  },
+  {
+    "id": "44543975439",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_YU0F",
+    "en": "(They've blocked the passages to the Dola...)"
+  },
+  {
+    "id": "44543975440",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_XSDU",
+    "en": "(Respat... The Threshold, where Mist comes from...? How could <i>anyone</i> be there?)"
+  },
+  {
+    "id": "44543975441",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_DTZK",
+    "en": "[ ... - me remind you. Our intel comes from High Command. Everywhere the enemy whispers into Commonfolk ears, convincing them to <i>resist.</i> Just look at the Rada. It's our job to wipe out the insurgents. We will do it as <i>I</i> say. ]"
+  },
+  {
+    "id": "44543975442",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_I7G2",
+    "en": "(This voice is their commander...)"
+  },
+  {
+    "id": "44543975443",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_DYYU",
+    "en": "(Commonfolk and Rada... I've never heard about resisting the West. Is it even possible?)"
+  },
+  {
+    "id": "44543975444",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_PWP9",
+    "en": "<i>(Signal's breaking up again... Only some white noise is left.)</i>"
+  },
+  {
+    "id": "44543975445",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_2_AN5J",
+    "en": "(Leave.)"
+  },
+  {
+    "id": "44543975446",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_6IJB",
+    "en": "[ ... could be listening right now, not far from here. I'll deal with it. Make sure everything's in place for my return with the Blood Core. They have ordered us to take them to the Mines: the West has been blind for too long. ]"
+  },
+  {
+    "id": "44543975447",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_JG9W",
+    "en": "(They know I'm listening...? How?)"
+  },
+  {
+    "id": "44543975448",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_T6QN",
+    "en": "(Blood Core? Could it be that thing I saw?)"
+  },
+  {
+    "id": "44543975449",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_XIQO",
+    "en": "[ ... just Mutants and Mudlarks. But no one in this region will cause a ruckus over a few dead corpse-bearers. If your theory is correct, the Lake being nearby should help the Core to appear. This will be useful when we get to the Mines. ]"
+  },
+  {
+    "id": "44543975450",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_JYFY",
+    "en": "(He's planning to kill the Mudlarks... Like they did to Vultures?)"
+  },
+  {
+    "id": "44543975451",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_MHZ5",
+    "en": "(They'll use Blood Cores at the Mines... What's going on down there?)"
+  },
+  {
+    "id": "44543975452",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_VKYS",
+    "en": "<i>The voice in the radio fizzles out. Everything is quiet.</i>"
+  },
+  {
+    "id": "44543975453",
+    "key": "27_RadioTransmissions_v1_OutsideInfluences_Transmission_3_TYJQ",
+    "en": "(Leave.)"
+  }
+]

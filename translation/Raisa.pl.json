@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "131881967616",
+    "key": "19_Raisa_v1_GetRandomLeaveMessage_2NN7",
+    "en": "Bye. Be nice to folks, alright? Makes a difference in our situation.",
+    "pl": "Pa. Bądź miły dla ludzi, dobrze? W naszej sytuacji to coś znaczy."
+  },
+  {
+    "id": "131894550528",
+    "key": "19_Raisa_v1_GetRandomLeaveMessage_5XF1",
+    "en": "See ya. Keep a low profile, alright?",
+    "pl": "Do zobaczenia. Nie rzucaj się w oczy, dobrze?"
+  },
+  {
+    "id": "131894550529",
+    "key": "19_Raisa_v1_GetRandomLeaveMessage_CUPO",
+    "en": "Take care, Brother-in-Scavenge.",
+    "pl": "Trzymaj się, bracie zbieraczu."
+  },
+  {
+    "id": "131894550530",
+    "key": "19_Raisa_v1_GetRandomLeaveMessage_VC76",
+    "en": "Please take care, Returner. It's tough out there.",
+    "pl": "Uważaj na siebie, Powracający. Tam jest ciężko."
+  },
+  {
+    "id": "131894550531",
+    "key": "19_Raisa_v1_GetRandomSavingFaceCompletedStart_78YZ",
+    "en": "I've done what you asked...",
+    "pl": "Zrobiłem, o co prosiłaś..."
+  },
+  {
+    "id": "131894550532",
+    "key": "19_Raisa_v1_GetRandomSavingFaceCompletedStart_ATMI",
+    "en": "I'm done with the request.",
+    "pl": "Skończyłem zlecenie."
+  },
+  {
+    "id": "131894550533",
+    "key": "19_Raisa_v1_GetRandomSavingFaceCompletedStart_PNX5",
+    "en": "Took care of that job...",
+    "pl": "Załatwiłem tę robotę..."
+  },
+  {
+    "id": "131894550534",
+    "key": "19_Raisa_v1_GetRandomSavingFaceStart_1UWW",
+    "en": "Been having a problem...",
+    "pl": "Mam pewien problem..."
+  },
+  {
+    "id": "131894550535",
+    "key": "19_Raisa_v1_GetRandomSavingFaceStart_9P1L",
+    "en": "Might need some diplomatic help.",
+    "pl": "Przydałaby mi się pomoc dyplomatyczna."
+  },
+  {
+    "id": "131894550536",
+    "key": "19_Raisa_v1_GetRandomSavingFaceStart_AKL2",
+    "en": "Think I've made some enemies.",
+    "pl": "Chyba narobiłem sobie wrogów."
+  },
+  {
+    "id": "131894550537",
+    "key": "19_Raisa_v1_GetRandomSavingFaceStart_FU3V",
+    "en": "Afraid I need some help.",
+    "pl": "Obawiam się, że potrzebuję pomocy."
+  },
+  {
+    "id": "131894550538",
+    "key": "19_Raisa_v1_GetRandomSavingFaceStart_L0VJ",
+    "en": "Folks are attacking me on sight...",
+    "pl": "Ludzie atakują mnie na sam widok..."
+  },
+  {
+    "id": "131894550539",
+    "key": "19_Raisa_v1_GetRandomTalkStart_I2NP",
+    "en": "Time for a chat?",
+    "pl": "Masz czas pogadać?"
+  },
+  {
+    "id": "131894550540",
+    "key": "19_Raisa_v1_GetRandomTalkStart_KQVV",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "131894550541",
+    "key": "19_Raisa_v1_GetRandomTalkStart_Q585",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "131894550542",
+    "key": "19_Raisa_v1_GetRandomTradeMessage_1KST",
+    "en": "We Never Give Without Taking.",
+    "pl": "Nigdy nie dajemy bez brania."
+  },
+  {
+    "id": "131894550543",
+    "key": "19_Raisa_v1_GetRandomTradeMessage_ACIR",
+    "en": "Got a few trinkets you might want.",
+    "pl": "Mam parę drobiazgów, które mogą ci się spodobać."
+  },
+  {
+    "id": "131894550544",
+    "key": "19_Raisa_v1_GetRandomTradeMessage_C7X9",
+    "en": "Alright, let's trade. Backpack's not just for show.",
+    "pl": "Dobra, pohandlujmy. Plecak nie jest na pokaz."
+  },
+  {
+    "id": "131894550545",
+    "key": "19_Raisa_v1_GetRandomTradeStart_1PJC",
+    "en": "I've got stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "131894550546",
+    "key": "19_Raisa_v1_GetRandomTradeStart_V8YU",
+    "en": "Let me look at what you've got.",
+    "pl": "Pokaż, co masz."
+  },
+  {
+    "id": "131894550547",
+    "key": "19_Raisa_v1_GetRandomTradeStart_W826",
+    "en": "Do you have anything to trade?",
+    "pl": "Masz coś na handel?"
+  },
+  {
+    "id": "131894550548",
+    "key": "19_Raisa_v1_GetWelcomingMessage_4EPC",
+    "en": "Staying out of trouble, Returner?",
+    "pl": "Unikasz kłopotów, Powracający?"
+  },
+  {
+    "id": "131894550549",
+    "key": "19_Raisa_v1_GetWelcomingMessage_C5VE",
+    "en": "Returner?! Glad you're alive... It's Raisa, we've partnered before. Came here to help with... All this.",
+    "pl": "Powracający?! Cieszę się, że żyjesz... To ja, Raisa, pracowaliśmy razem. Przyszłam pomóc z... Tym wszystkim."
+  },
+  {
+    "id": "131894550550",
+    "key": "19_Raisa_v1_GetWelcomingMessage_H9JX",
+    "en": "Hello, Brother-in-Scavenge.",
+    "pl": "Witaj, bracie zbieraczu."
+  },
+  {
+    "id": "131894550551",
+    "key": "19_Raisa_v1_GetWelcomingMessage_VB45",
+    "en": "Hey, Returner. We See Death In Comfort.",
+    "pl": "Hej, Powracający. W wygodzie widzimy śmierć."
+  },
+  {
+    "id": "131894550552",
+    "key": "19_Raisa_v1_SavingFace_2FIR",
+    "en": "Best way I've found so far is to show some service... You take care of a job for whoever's shooting at you on sight, I'll show them your results, put in a good word, and maybe you'll be back in their good graces.",
+    "pl": "Najlepszy sposób, jaki znalazłam, to wyświadczyć przysługę... Zrobisz zlecenie dla tych, którzy strzelają do ciebie na sam widok, ja pokażę im wyniki, szepnę dobre słowo i może wrócisz do łask."
+  },
+  {
+    "id": "131894550553",
+    "key": "19_Raisa_v1_SavingFace_9IYB",
+    "en": "How can you help?",
+    "pl": "Jak możesz pomóc?"
+  },
+  {
+    "id": "131894550554",
+    "key": "19_Raisa_v1_SavingFace_G984",
+    "en": "Good. Let me see what I've got for you, then...",
+    "pl": "Dobrze. Zobaczmy, co dla ciebie mam..."
+  },
+  {
+    "id": "131894550555",
+    "key": "19_Raisa_v1_SavingFace_LGUQ",
+    "en": "I'll do whatever you say.",
+    "pl": "Zrobię, co powiesz."
+  },
+  {
+    "id": "131894550556",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_0R3J",
+    "en": "I have to kill a bunch of those? They're tough.",
+    "pl": "Mam zabić kilka takich? Są twarde."
+  },
+  {
+    "id": "131894550557",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_3AAI",
+    "en": "So if I deal with them...",
+    "pl": "Czyli jeśli się nimi zajmę..."
+  },
+  {
+    "id": "131894550558",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_4HT9",
+    "en": "No complainin', now. <i>I</i> could take them, and that's how I know <i>you</i> can, too.",
+    "pl": "Bez narzekania. <i>Ja</i> bym dała radę, więc wiem, że <i>ty</i> też możesz."
+  },
+  {
+    "id": "131894550559",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_FKKV",
+    "en": "I've marked their usual spot on your map. Please do this nice and quiet, alright? Remember, everyone's <i>suspicious</i> of us Vultures right now. To put it <i>mildly.</i>",
+    "pl": "Zaznaczyłam na mapie, gdzie zwykle bywają. Załatw to sprawnie i po cichu, dobrze? Pamiętaj, wszyscy teraz <i>podejrzliwie</i> patrzą na Sępy. Delikatnie <i>mówiąc.</i>"
+  },
+  {
+    "id": "131894550560",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_JUF6",
+    "en": "I think I know what you can do to get on pretty much anyone's good graces: Mother Moras. Those freakin' rat moms are <i>infesting</i> all of Zalesye with their offspring...",
+    "pl": "Chyba wiem, jak wkupić się w łaski niemal każdego: matki mor. Te cholerne szczurze matki <i>zalewają</i> całe Zalesye swoim potomstwem..."
+  },
+  {
+    "id": "131894550561",
+    "key": "19_Raisa_v1_SavingFace_Quest_Accepted_SKHT",
+    "en": "If you take care of them, I'll sing your praises to my contacts, and this should help them treat you with at least some neutrality.",
+    "pl": "Jeśli się nimi zajmiesz, wychwalę cię przed moimi kontaktami. To powinno pomóc, żeby traktowali cię przynajmniej neutralnie."
+  },
+  {
+    "id": "131894550562",
+    "key": "19_Raisa_v1_SavingFace_TW8I",
+    "en": "Seems you've made some enemies, huh. I've been trying to smooth things over 'tween us Vultures and other factions. I think I can help.",
+    "pl": "Narobiłeś sobie wrogów, co? Próbuję załagodzić stosunki między Sępami a innymi frakcjami. Chyba mogę pomóc."
+  },
+  {
+    "id": "131894550563",
+    "key": "19_Raisa_v1_SavingFace_UMWL",
+    "en": "Not sure that'll work. Need to think on it.",
+    "pl": "Nie wiem, czy to zadziała. Muszę pomyśleć."
+  },
+  {
+    "id": "131894550564",
+    "key": "19_Raisa_v1_SavingFace_UPN1",
+    "en": "Sounds simple enough. I'm in.",
+    "pl": "Brzmi dość prosto. Wchodzę w to."
+  },
+  {
+    "id": "131894550565",
+    "key": "19_Raisa_v1_SavingFace_WWN9",
+    "en": "It's not foolproof, but it needs to be done, Returner. For the other Vultures in hiding, as well.",
+    "pl": "Gwarancji nie ma, ale trzeba to zrobić, Powracający. Także dla innych ukrywających się Sępów."
+  },
+  {
+    "id": "131894550566",
+    "key": "19_Raisa_v1_SavingFace_XP9H",
+    "en": "You're in trouble, huh? I'll be brief. Got a job here from the folks you've wronged; just take care of it and I'll pitch them on how they shouldn't shoot you on sight. Don't worry; I'm good at that part.",
+    "pl": "Masz kłopoty, co? Krótko: mam zlecenie od ludzi, którym zaszedłeś za skórę. Zrób je, a przekonam ich, żeby nie strzelali do ciebie od razu. Bez obaw, w tym jestem dobra."
+  },
+  {
+    "id": "131894550567",
+    "key": "19_Raisa_v1_SavingFaceComplete_C24B",
+    "en": "Thanks. Here's what that earned ya, besides the peace 'n quiet.",
+    "pl": "Dzięki. Oto co zarobiłeś, poza świętym spokojem."
+  },
+  {
+    "id": "131894550568",
+    "key": "19_Raisa_v1_Talk_2DG8",
+    "en": "Our Brothers- and Sisters-in-Scavenge...",
+    "pl": "Nasi bracia i siostry zbieracze..."
+  },
+  {
+    "id": "131894550569",
+    "key": "19_Raisa_v1_Talk_DLDQ",
+    "en": "From the first shots to all this rubble wasn't even a whole <i>hour...</i>",
+    "pl": "Od pierwszych strzałów do tych gruzów nie minęła nawet <i>godzina...</i>"
+  },
+  {
+    "id": "131894550570",
+    "key": "19_Raisa_v1_Talk_DU20",
+    "en": "What the hell happened...?",
+    "pl": "Co tu się, do cholery, stało...?"
+  },
+  {
+    "id": "131894550571",
+    "key": "19_Raisa_v1_Talk_KMYF",
+    "en": "What a loss, right? I wonder if this means <i>more</i> Doubles outings, or if that'll be even <i>rarer.</i>",
+    "pl": "Taka strata, prawda? Ciekawe, czy teraz wypraw w parach będzie <i>więcej,</i> czy będą jeszcze <i>rzadsze.</i>"
+  },
+  {
+    "id": "131894550572",
+    "key": "19_Raisa_v1_Talk_NMF4",
+    "en": "About the attack...",
+    "pl": "Co do ataku..."
+  },
+  {
+    "id": "131894550573",
+    "key": "19_Raisa_v1_Talk_NWWI",
+    "en": "I don't blame you for being at a loss. Funnily enough, now I know what to do with myself better than ever before.",
+    "pl": "Nie dziwię się, że jesteś zagubiony. Paradoksalnie ja teraz lepiej niż kiedykolwiek wiem, co robić."
+  },
+  {
+    "id": "131894550574",
+    "key": "19_Raisa_v1_Talk_QCNG",
+    "en": "Oh, Returner... It's all <i>gone.</i> Some geared-up soldiers came out of nowhere and shot everyone, placed bombs, started fires.",
+    "pl": "Och, Powracający... Wszystko <i>przepadło.</i> Jacyś dobrze wyposażeni żołnierze wyskoczyli znikąd, rozstrzelali wszystkich, podłożyli bomby i ogień."
+  },
+  {
+    "id": "131894550575",
+    "key": "19_Raisa_v1_Talk_T8ZR",
+    "en": "How can I start over? This is too much...",
+    "pl": "Jak mam zaczynać od nowa? To za wiele..."
+  },
+  {
+    "id": "131894550576",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_2IBP",
+    "en": "Our colleagues put up a <i>fight,</i> though; there's a few foreign soldier corpses around, if you care to pick 'em. I can't be bothered...",
+    "pl": "Nasi jednak <i>walczyli.</i> Leży tu parę ciał obcych żołnierzy, jeśli chcesz je przeszukać. Ja nie mam siły..."
+  },
+  {
+    "id": "131894550577",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_31OV",
+    "en": "No, not the usual. Our folk managed to kill a couple of 'em, see over there? Western-lookin'. Plus, I caught a glimpse of one, too. Just... Got too scared to get closer...",
+    "pl": "Nie. Nie ci co zwykle. Nasi zabili kilku, widzisz tam? Wyglądają na ludzi z Zachodu. Sama też jednego mignięciem widziałam. Tylko... Bałam się podejść..."
+  },
+  {
+    "id": "131894550578",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_6PLD",
+    "en": "No. Was in Dubravka, gettin' a meal, when we heard the shooting. They sent some Palatines to investigate, I tagged along...",
+    "pl": "Nie. Jadłam w Dubravce, kiedy usłyszeliśmy strzały. Wysłali Palatynów, żeby sprawdzili, poszłam z nimi..."
+  },
+  {
+    "id": "131894550579",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_FKFR",
+    "en": "Foreign soldiers? Not Bandits?",
+    "pl": "Obcy żołnierze? Nie Bandyci?"
+  },
+  {
+    "id": "131894550580",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_HCV8",
+    "en": "Listen, man. Dying in Zalesye ain't too bad if the alternative is a suicide mission in that fucking highway.",
+    "pl": "Słuchaj. Śmierć w Zalesye nie jest taka zła, jeśli alternatywą jest samobójcza misja na tej jebanej autostradzie."
+  },
+  {
+    "id": "131894550581",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_KKQG",
+    "en": "Did you see how it went down?",
+    "pl": "Widziałaś, jak to się stało?"
+  },
+  {
+    "id": "131894550582",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_L872",
+    "en": "By the time I got here... Everyone was dead. Our Brothers- and Sisters-in-Scavenge, killed in their homes by those fuckin' foreign soldiers...",
+    "pl": "Kiedy dotarłam... Wszyscy byli martwi. Nasi bracia i siostry zbieracze, zabici we własnych domach przez tych pieprzonych obcych żołnierzy..."
+  },
+  {
+    "id": "131894550583",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_MLUI",
+    "en": "My shack's thrashed. I've lost everything.",
+    "pl": "Moja chałupa jest zrujnowana. Straciłem wszystko."
+  },
+  {
+    "id": "131894550584",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_NN73",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "131894550585",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_P15T",
+    "en": "I'm something of a diplomat. It's why I'm sticking around. No one's gonna stand up for us Vultures but ourselves, not if this shit starts going down in other places as well...",
+    "pl": "Jestem czymś w rodzaju dyplomatki. Dlatego zostaję. Nikt się za nami nie wstawi oprócz nas samych, zwłaszcza jeśli takie gówno zacznie się dziać też gdzie indziej..."
+  },
+  {
+    "id": "131894550586",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_QYZJ",
+    "en": "Help how...?",
+    "pl": "Pomóc jak...?"
+  },
+  {
+    "id": "131894550587",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_R238",
+    "en": "Why the hell did they do it?",
+    "pl": "Po jaką cholerę to zrobili?"
+  },
+  {
+    "id": "131894550588",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_TPCL",
+    "en": "I'm sorry to hear that, Returner. I know you've been gunnin' for the RO-29 for a while, huh? This will set you back...",
+    "pl": "Przykro mi, Powracający. Od dawna szykowałeś się na RO-29, prawda? To cię cofnie..."
+  },
+  {
+    "id": "131894550589",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_U8V4",
+    "en": "Us Vultures are loners, sure... But surviving the road East? That's not some shit you do on your own.",
+    "pl": "My, Sępy, jesteśmy samotnikami... Ale przetrwać drogę na wschód? Takiego gówna nie robi się samemu."
+  },
+  {
+    "id": "131894550590",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_UPNL",
+    "en": "Can't help much with that, but if folks here start giving you attitude on account of this violence, I can help make amends.",
+    "pl": "Niewiele mogę tu pomóc, ale jeśli ludzie zaczną się ciebie czepiać przez tę przemoc, pomogę naprawić stosunki."
+  },
+  {
+    "id": "131894550591",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_XO6B",
+    "en": "Think I'll die in Zalesye.",
+    "pl": "Chyba umrę w Zalesye."
+  },
+  {
+    "id": "131894550592",
+    "key": "19_Raisa_v1_Talk_Villa_Attack_ZDVA",
+    "en": "Right? What was the <i>point?</i> Didn't even loot anything, far as I can tell. Just burned it all down.",
+    "pl": "Właśnie! Jaki był <i>sens?</i> Z tego, co widzę, nawet niczego nie zrabowali. Po prostu wszystko spalili."
+  },
+  {
+    "id": "131894550593",
+    "key": "19_Raisa_v1_Talk_VOZZ",
+    "en": "About the coming days...",
+    "pl": "Co do najbliższych dni..."
+  },
+  {
+    "id": "131894550594",
+    "key": "19_Raisa_v1_Talk_Vultures_0KW6",
+    "en": "... Anyone you knew?",
+    "pl": "... Znałaś kogoś?"
+  },
+  {
+    "id": "131894550595",
+    "key": "19_Raisa_v1_Talk_Vultures_1G3D",
+    "en": "... No one's gonna trust us.",
+    "pl": "... Nikt nam nie zaufa."
+  },
+  {
+    "id": "131894550596",
+    "key": "19_Raisa_v1_Talk_Vultures_8NPH",
+    "en": "And we won't get any odd jobs or requests, either. Imagine having to trade Cores and bear claws every single day just to get by?",
+    "pl": "Nie dostaniemy też drobnych robót ani zleceń. Wyobrażasz sobie codziennie handlować Rdzeniami i niedźwiedzimi pazurami tylko po to, żeby przeżyć?"
+  },
+  {
+    "id": "131894550597",
+    "key": "19_Raisa_v1_Talk_Vultures_A4S4",
+    "en": "More than usual. I've heard there's been lynchings in Zalesye before, of scavs just like us. Don't wanna play around with that.",
+    "pl": "Bardziej niż zwykle. Słyszałam, że w Zalesye linczowano już zbieraczy takich jak my. Nie chcę z tym igrać."
+  },
+  {
+    "id": "131894550598",
+    "key": "19_Raisa_v1_Talk_Vultures_GFU7",
+    "en": "Well, I'm not keen on picking at these burned corpses, but... There's bound to be <i>someone</i> I knew in there.",
+    "pl": "Cóż, nie mam ochoty grzebać w spalonych zwłokach, ale... Na pewno jest tam <i>ktoś,</i> kogo znałam."
+  },
+  {
+    "id": "131894550599",
+    "key": "19_Raisa_v1_Talk_Vultures_IRQL",
+    "en": "I'm not sure how to feel, a lot of these people were basically strangers, that's how our group works. But now... Can't help but think I should've gotten to know 'em better.",
+    "pl": "Nie wiem, co czuć. Wielu z nich było mi właściwie obcych. Tak działa nasza grupa. Ale teraz... Ciągle myślę, że powinnam była poznać ich lepiej."
+  },
+  {
+    "id": "131894550600",
+    "key": "19_Raisa_v1_Talk_Vultures_KVMC",
+    "en": "Does this mean we're all being hunted?",
+    "pl": "To znaczy, że polują na nas wszystkich?"
+  },
+  {
+    "id": "131894550601",
+    "key": "19_Raisa_v1_Talk_Vultures_SIUN",
+    "en": "I don't know, but I think we should assume so. For the time being, I'll just focus on helping our reputation survive this – so we can keep trading, keep getting clients. Otherwise...",
+    "pl": "Nie wiem, ale chyba powinniśmy tak założyć. Na razie skupię się na ratowaniu naszej reputacji, żebyśmy mogli dalej handlować i dostawać zlecenia. Inaczej..."
+  },
+  {
+    "id": "131894550602",
+    "key": "19_Raisa_v1_Talk_Vultures_ZMP2",
+    "en": "... We're all fucked.",
+    "pl": "... Wszyscy mamy przejebane."
+  },
+  {
+    "id": "131894550603",
+    "key": "19_Raisa_v1_Talk_Way_Forward_0S52",
+    "en": "No, no, I'm just... Mulling things over. Think I'll stick around, keep an eye out for those soldiers, and try to help other Vultures being persecuted.",
+    "pl": "Nie, nie, tylko... Rozmyślam. Chyba zostanę, będę wypatrywać tych żołnierzy i pomagać innym prześladowanym Sępom."
+  },
+  {
+    "id": "131894550604",
+    "key": "19_Raisa_v1_Talk_Way_Forward_0XM1",
+    "en": "<i>No one</i> gets past the RO-29, Returner. And the other directions ain't much better, neither. That's just how it is... We're all stuck. This is what we got.",
+    "pl": "<i>Nikt</i> nie przechodzi przez RO-29, Powracający. A w innych kierunkach też niewiele lepiej. Tak już jest... Utknęliśmy. Tyle nam zostało."
+  },
+  {
+    "id": "131894550605",
+    "key": "19_Raisa_v1_Talk_Way_Forward_1H2J",
+    "en": "Yeah, well. There's always other factions to join...",
+    "pl": "Cóż. Zawsze można dołączyć do innej frakcji..."
+  },
+  {
+    "id": "131894550606",
+    "key": "19_Raisa_v1_Talk_Way_Forward_3VI1",
+    "en": "I feel you, really. My shack is wrecked, too. But as much as Zalesye and the Dola beat the crap out of us, we know it inside and out. So we'll pick ourselves up, bit by bit.",
+    "pl": "Rozumiem cię, naprawdę. Moja chałupa też jest zrujnowana. Ale choć Zalesye i Dola dają nam wycisk, znamy je na wylot. Pozbieramy się, kawałek po kawałku."
+  },
+  {
+    "id": "131894550607",
+    "key": "19_Raisa_v1_Talk_Way_Forward_BG7S",
+    "en": "Until it's our turn to get jumped, apparently.",
+    "pl": "Najwyraźniej aż przyjdzie nasza kolej na zasadzkę."
+  },
+  {
+    "id": "131894550608",
+    "key": "19_Raisa_v1_Talk_Way_Forward_G5EU",
+    "en": "If there's one thing about the Rada which isn't complete horseshit, it's how they help each other out when there's need.",
+    "pl": "Jeśli jedna rzecz w Radzie nie jest kompletną bzdurą, to to, że pomagają sobie w potrzebie."
+  },
+  {
+    "id": "131894550609",
+    "key": "19_Raisa_v1_Talk_Way_Forward_HDG4",
+    "en": "Why are you still here? Searching for something?",
+    "pl": "Czemu jeszcze tu jesteś? Czegoś szukasz?"
+  },
+  {
+    "id": "131894550610",
+    "key": "19_Raisa_v1_Talk_Way_Forward_J1GJ",
+    "en": "But <i>this?</i> This full-blown military-lookin' raid, this Gunners-n-Palatines-type shit? I don't get it. That's not... Us.",
+    "pl": "Ale <i>to?</i> Prawdziwy wojskowy najazd, takie gówno w stylu Strzelców i Palatynów? Nie pojmuję. To nie... My."
+  },
+  {
+    "id": "131894550611",
+    "key": "19_Raisa_v1_Talk_Way_Forward_LY8G",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "131894550612",
+    "key": "19_Raisa_v1_Talk_Way_Forward_PQNV",
+    "en": "Rack up a kill count and some loot, always thinking: \"This is just another Scavenge\". Back on our feet in no time.",
+    "pl": "Nabijemy trochę trupów, zbierzemy łupy, powtarzając sobie: „To tylko kolejna wyprawa”. Szybko staniemy na nogi."
+  },
+  {
+    "id": "131894550613",
+    "key": "19_Raisa_v1_Talk_Way_Forward_VOOL",
+    "en": "No idea how to start over, now.",
+    "pl": "Nie mam pojęcia, jak teraz zacząć od nowa."
+  },
+  {
+    "id": "131894550614",
+    "key": "19_Raisa_v1_Talk_Way_Forward_WI8Q",
+    "en": "Can't deny this has fucked up the usual flow of things. We're supposed to be taken by the wasteland, by the Dola. Die to a Bandit or a Mutant, to gettin' greedy.",
+    "pl": "Nie da się ukryć, że to rozwaliło zwykły bieg spraw. Powinno pochłonąć nas pustkowie, Dola. Bandyta albo Mutant. Własna chciwość."
+  },
+  {
+    "id": "131894550615",
+    "key": "19_Raisa_v1_Talk_Way_Forward_X6MT",
+    "en": "That's exactly the cycle I want out of.",
+    "pl": "Właśnie z tego kręgu chcę się wyrwać."
+  },
+  {
+    "id": "4789177651888128",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_DR8M",
+    "en": "I'll get their supplies.",
+    "pl": "Zdobędę im zapasy."
+  },
+  {
+    "id": "4789177689636864",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_RFOM",
+    "en": "Glad to hear it.",
+    "pl": "Miło słyszeć."
+  },
+  {
+    "id": "4789177689636865",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_ZRHA",
+    "en": "Not sure I need their support.",
+    "pl": "Nie wiem, czy potrzebuję ich wsparcia."
+  },
+  {
+    "id": "4789177689636866",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_M0N4",
+    "en": "They're important to a lot of Commonfolk. You need to be mindful of those things now...",
+    "pl": "Są ważni dla wielu Zwykłych Ludzi. Teraz musisz brać takie rzeczy pod uwagę..."
+  },
+  {
+    "id": "4789177689636867",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_646V",
+    "en": "Let me do something else first.",
+    "pl": "Najpierw zajmę się czymś innym."
+  },
+  {
+    "id": "4789177689636868",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Show_TD4U",
+    "en": "Not sure you should delay this, but...",
+    "pl": "Nie wiem, czy powinieneś zwlekać, ale..."
+  },
+  {
+    "id": "4789177689636869",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Complete_2CKW",
+    "en": "Good.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "4789177689636870",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Rada_Complete_U73U",
+    "en": "Can't have them think I'm heartless.",
+    "pl": "Nie mogą mnie uznać za bezdusznego."
+  },
+  {
+    "id": "4789177689636871",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_9JD2",
+    "en": "I'll do it. Hope they see I'm a hero.",
+    "pl": "Zrobię to. Niech zobaczą we mnie bohatera."
+  },
+  {
+    "id": "4789177689636872",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_LH3C",
+    "en": "Whose superpower is getting his rifle jammed and dying to a rat.",
+    "pl": "Którego supermocą jest zacinanie karabinu i umieranie od szczura."
+  },
+  {
+    "id": "4789177689636873",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_V9HS",
+    "en": "No way. Protecting the weak is not my job.",
+    "pl": "Nie. Ochrona słabych to nie moja robota."
+  },
+  {
+    "id": "4789177689636874",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_48FI",
+    "en": "All the violence around you, getting shot, being hunted. Not enough to create some empathy?",
+    "pl": "Tyle przemocy wokół, strzelają do ciebie, polują na ciebie. Za mało, żeby obudzić trochę empatii?"
+  },
+  {
+    "id": "4789177689636875",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_BQFY",
+    "en": "Let me take care of some other problems first.",
+    "pl": "Najpierw rozwiążę inne problemy."
+  },
+  {
+    "id": "4789177689636876",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Show_YODY",
+    "en": "Careful, Returner. The Commonfolk seem weak, but they have lynched one of us before.",
+    "pl": "Ostrożnie, Powracający. Zwykli Ludzie wydają się słabi, ale już zlinczowali jednego z nas."
+  },
+  {
+    "id": "4789177689636877",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Complete_6KNK",
+    "en": "I'm a hero now.",
+    "pl": "Teraz jestem bohaterem."
+  },
+  {
+    "id": "4789177689636878",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Commonfolk_Complete_28L5",
+    "en": "Whatever. Just don't want more trouble.",
+    "pl": "Wszystko jedno. Nie chcę więcej kłopotów."
+  },
+  {
+    "id": "4789177689636879",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_RUXU",
+    "en": "Sure, I'll find some scriptures.",
+    "pl": "Jasne, znajdę jakieś pisma."
+  },
+  {
+    "id": "4789177689636880",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_YGI6",
+    "en": "You'll walk out of this a true believer, I bet.",
+    "pl": "Założę się, że wyjdziesz z tego jako prawdziwy wierny."
+  },
+  {
+    "id": "4789177689636881",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_NYEB",
+    "en": "Not sure I'm up for spreading the gospel.",
+    "pl": "Nie wiem, czy chcę szerzyć ewangelię."
+  },
+  {
+    "id": "4789177689636882",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_UXPF",
+    "en": "They're not gonna stick to sermons if you piss 'em off too much.",
+    "pl": "Jeśli za bardzo ich wkurzysz, na kazaniach się nie skończy."
+  },
+  {
+    "id": "4789177689636883",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_E4J1",
+    "en": "Not feeling this one. Any other ideas?",
+    "pl": "Nie przekonuje mnie to. Inne pomysły?"
+  },
+  {
+    "id": "4789177689636884",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Show_Z4V4",
+    "en": "None for the Acolytes, no...",
+    "pl": "Dla Akolitów nie mam..."
+  },
+  {
+    "id": "4789177689636885",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Complete_T2RN",
+    "en": "Wasn't easy getting those.",
+    "pl": "Niełatwo było je zdobyć."
+  },
+  {
+    "id": "4789177689636886",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Acolytes_Complete_9TUS",
+    "en": "Just hope they'll keep treating my wounds.",
+    "pl": "Oby tylko dalej opatrywali mi rany."
+  },
+  {
+    "id": "4789177689636887",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_FQ98",
+    "en": "Sounds right up my alley.",
+    "pl": "Brzmi jak coś dla mnie."
+  },
+  {
+    "id": "4789177689636888",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_J72G",
+    "en": "I would hope so. Don't let them come to hate you, man.",
+    "pl": "Oby. Nie pozwól, żeby cię znienawidzili."
+  },
+  {
+    "id": "4789177689636889",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_6L3X",
+    "en": "No. Rather deal with this some other way.",
+    "pl": "Nie. Wolę załatwić to inaczej."
+  },
+  {
+    "id": "4789177689636890",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_YMMF",
+    "en": "If you don't want my help, it's OK. I just hope you know what you're doing.",
+    "pl": "Jeśli nie chcesz mojej pomocy, w porządku. Obyś wiedział, co robisz."
+  },
+  {
+    "id": "4789177689636891",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_ATQG",
+    "en": "I'd rather talk about a different problem.",
+    "pl": "Wolę porozmawiać o innym problemie."
+  },
+  {
+    "id": "4789177689636892",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Show_RVKJ",
+    "en": "You like toying around with them geeks, huh? That's a dangerous game.",
+    "pl": "Lubisz drażnić tych kujonów, co? Niebezpieczna gra."
+  },
+  {
+    "id": "4789177689636893",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Complete_6VL5",
+    "en": "Worth a shot long as they don't get violent.",
+    "pl": "Warto spróbować, póki nie użyją siły."
+  },
+  {
+    "id": "4789177689636894",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mechanists_Complete_7AFH",
+    "en": "Can't picture any one of them liking any one of us.",
+    "pl": "Nie wyobrażam sobie, żeby którykolwiek lubił kogoś z nas."
+  },
+  {
+    "id": "4789177689636895",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_OOFD",
+    "en": "Hurts to find that and not keep it, but fine.",
+    "pl": "Boli zdobycie czegoś takiego i oddanie, ale dobrze."
+  },
+  {
+    "id": "4789177689636896",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_NTLB",
+    "en": "One small sacrifice for a whole lotta peace of mind.",
+    "pl": "Małe poświęcenie za mnóstwo spokoju."
+  },
+  {
+    "id": "4789177689636897",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_NMGD",
+    "en": "Not about to give up a weapon.",
+    "pl": "Nie zamierzam oddawać broni."
+  },
+  {
+    "id": "4789177689636898",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_8NDI",
+    "en": "And what if you're forced to use it against <i>them?</i> Would that be worth it?",
+    "pl": "A jeśli będziesz musiał użyć jej przeciw <i>nim?</i> Będzie warto?"
+  },
+  {
+    "id": "4789177689636899",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_0VUT",
+    "en": "I'll take care of something else for now.",
+    "pl": "Na razie zajmę się czymś innym."
+  },
+  {
+    "id": "4789177689636900",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Show_WQJB",
+    "en": "... Then stay clear of Arcadia, of Dubravka, of the Farms, of the Bastion...",
+    "pl": "... To omijaj Arcadię, Dubravkę, gospodarstwa, Bastion..."
+  },
+  {
+    "id": "4789177689636901",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Complete_8BN5",
+    "en": "Easy come, easy go. Just hope they stop shooting at me.",
+    "pl": "Łatwo przyszło, łatwo poszło. Oby przestali do mnie strzelać."
+  },
+  {
+    "id": "4789177689636902",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Palatines_Complete_A8XQ",
+    "en": "It was pretty hard to get. Almost changing my mind, here.",
+    "pl": "Ciężko było to zdobyć. Już prawie zmieniam zdanie."
+  },
+  {
+    "id": "4789177689636903",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_NGY3",
+    "en": "Sounds dangerous, but worth the risk...",
+    "pl": "Brzmi niebezpiecznie, ale warto zaryzykować..."
+  },
+  {
+    "id": "4789177689636904",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_QMPT",
+    "en": "Yes. Especially if you want to cross one of the routes they control.",
+    "pl": "Tak. Zwłaszcza jeśli chcesz przejść którąś kontrolowaną przez nich drogą."
+  },
+  {
+    "id": "4789177689636905",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_W0F6",
+    "en": "Not about to enter one firefight to avoid another...",
+    "pl": "Nie wdaję się w strzelaninę, żeby uniknąć innej..."
+  },
+  {
+    "id": "4789177689636906",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_NX5H",
+    "en": "You sure? Remember, these are <i>thugs.</i> They'll try and get the drop on you. Dirty tactics...",
+    "pl": "Na pewno? Pamiętaj, to <i>bandziory.</i> Spróbują cię zaskoczyć. Brudne sztuczki..."
+  },
+  {
+    "id": "4789177689636907",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_RIMC",
+    "en": "I'll let them hate me a bit longer.",
+    "pl": "Niech jeszcze trochę mnie nienawidzą."
+  },
+  {
+    "id": "4789177689636908",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Show_GEGZ",
+    "en": "I understand wanting to stick it to them. But we need as many allies as we can find right now, Returner.",
+    "pl": "Rozumiem, że chcesz im dopiec. Ale teraz potrzebujemy tylu sojuszników, ilu się da, Powracający."
+  },
+  {
+    "id": "4789177689636909",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Complete_36RB",
+    "en": "Don't need anything from them.",
+    "pl": "Niczego od nich nie potrzebuję."
+  },
+  {
+    "id": "4789177689636910",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Gunners_Complete_UVOV",
+    "en": "I wouldn't want them to.",
+    "pl": "Nie chciałbym tego."
+  },
+  {
+    "id": "4789177689636911",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_B3UL",
+    "en": "Never thought I'd be helping their rituals.",
+    "pl": "Nigdy nie myślałem, że pomogę w ich rytuałach."
+  },
+  {
+    "id": "4789177689636912",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_VXX2",
+    "en": "You'll be dancing and chanting in no time – if this goes well.",
+    "pl": "Wkrótce będziesz tańczył i śpiewał, jeśli pójdzie dobrze."
+  },
+  {
+    "id": "4789177689636913",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_F0WY",
+    "en": "Refuse to mess with those creatures.",
+    "pl": "Nie chcę zadawać się z tymi stworami."
+  },
+  {
+    "id": "4789177689636914",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_9AZU",
+    "en": "They're still human... I think. Some of them, at least. Those are the ones you have to <i>win over...</i>",
+    "pl": "Nadal są ludźmi... Chyba. Przynajmniej niektórzy. Właśnie tych musisz <i>do siebie przekonać...</i>"
+  },
+  {
+    "id": "4789177689636915",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_FDMN",
+    "en": "They're not a threat. What else can I work on?",
+    "pl": "Nie są zagrożeniem. Czym jeszcze mogę się zająć?"
+  },
+  {
+    "id": "4789177689636916",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Show_JXBQ",
+    "en": "Seriously? I've seen what the more... Advanced ones can do to some poor vagrant. Keep your wits about you, man.",
+    "pl": "Serio? Widziałam, co ci bardziej... Zaawansowani potrafią zrobić z biednym włóczęgą. Miej się na baczności."
+  },
+  {
+    "id": "4789177689636917",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Complete_ZHZV",
+    "en": "Don't feel great doing this.",
+    "pl": "Nie czuję się z tym dobrze."
+  },
+  {
+    "id": "4789177689636918",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Mudlarks_Complete_BAIZ",
+    "en": "Staying far away from those freaks from now on.",
+    "pl": "Odtąd będę omijał tych dziwaków z daleka."
+  },
+  {
+    "id": "4789177689636919",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_6IDK",
+    "en": "Sure. Wasn't thinking straight.",
+    "pl": "Racja. Nie myślałem trzeźwo."
+  },
+  {
+    "id": "4789177689636920",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_C8OM",
+    "en": "Just go grab the items, man.",
+    "pl": "Po prostu idź po te przedmioty."
+  },
+  {
+    "id": "4789177689636921",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_2SJ6",
+    "en": "You wouldn't understand.",
+    "pl": "Nie zrozumiałabyś."
+  },
+  {
+    "id": "4789177689636922",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_E8H5",
+    "en": "Of course I fucking would. What makes you so special? We're in the same boat.",
+    "pl": "Oczywiście, kurwa, że bym zrozumiała. Co w tobie takiego wyjątkowego? Jedziemy na tym samym wózku."
+  },
+  {
+    "id": "4789177689636923",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_Y5YP",
+    "en": "I'll mull on that some more, then.",
+    "pl": "Jeszcze to przemyślę."
+  },
+  {
+    "id": "4789177689636924",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Show_SCRU",
+    "en": "I can't believe this. You...",
+    "pl": "Nie wierzę. Ty..."
+  },
+  {
+    "id": "4789177689636925",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Complete_PIPY",
+    "en": "Thank you...",
+    "pl": "Dziękuję..."
+  },
+  {
+    "id": "4789177689636926",
+    "key": "19_Raisa_Jobs_v1_ReputationQuest_Vultures_Complete_L5Z5",
+    "en": "Whatever you say.",
+    "pl": "Jak uważasz."
+  },
+  {
+    "id": "4789177689636927",
+    "key": "19_Raisa_Jobs_v1_GetNoQuestsAvailable_TTVW",
+    "en": "Doesn't look like I can help with anything.",
+    "pl": "Nie wygląda na to, żebym mogła w czymś pomóc."
+  },
+  {
+    "id": "4789177689636928",
+    "key": "19_Raisa_Jobs_v1_GetNoQuestsAvailable_947G",
+    "en": "Unless you have to make amends with someone, I got nothing for ya.",
+    "pl": "Jeśli nie musisz się z nikim pogodzić, nic dla ciebie nie mam."
+  },
+  {
+    "id": "4789177689636929",
+    "key": "19_Raisa_Jobs_v1_GetNoQuestsAvailable_63NM",
+    "en": "Seems you don't need my help.",
+    "pl": "Chyba nie potrzebujesz mojej pomocy."
+  },
+  {
+    "id": "4789177689636930",
+    "key": "19_Raisa_Jobs_v1_GetJobsMessage_HYZS",
+    "en": "Need to make amends with a faction.",
+    "pl": "Muszę pogodzić się z pewną frakcją."
+  },
+  {
+    "id": "4789177689636931",
+    "key": "19_Raisa_Jobs_v1_GetJobsMessage_5YLD",
+    "en": "There's a faction giving me trouble...",
+    "pl": "Jedna frakcja sprawia mi kłopoty..."
+  },
+  {
+    "id": "4789177689636932",
+    "key": "19_Raisa_Jobs_v1_GetJobsMessage_RRBI",
+    "en": "Got on the wrong side of some people...",
+    "pl": "Zaszedłem paru ludziom za skórę..."
+  },
+  {
+    "id": "4789177689636933",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestRadaMessage_Z4GO",
+    "en": "Snugglin' up to the Rada shouldn't be too difficult; they're simple folk. Give them some food or supplies without askin' for much in return, and they'll warm up to you quick.",
+    "pl": "Wkupić się w łaski Rady powinno być łatwo. To prości ludzie. Daj im jedzenie albo zapasy, nie żądaj wiele w zamian, a szybko cię polubią."
+  },
+  {
+    "id": "4789177689636934",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestRadaMessage_4XSY",
+    "en": "Another fall-out with the Rada, huh? Shouldn't be too much trouble. They've been putting out orders for some food, supplies, <i>etcetera.</i> Be their gracious donor and I'll put in a good word.",
+    "pl": "Znów zatarg z Radą, co? To nie powinien być wielki problem. Składają zamówienia na jedzenie, zapasy i <i>tak dalej.</i> Zostań hojnym darczyńcą, a szepnę dobre słowo."
+  },
+  {
+    "id": "4789177689636935",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestRadaMessage_H3EJ",
+    "en": "Got Rada trouble? I'm sure they're quick to forgive, y'know. Try findin' some supplies for them... Food, bandages and such. They're always in dire need of that stuff.",
+    "pl": "Kłopoty z Radą? Na pewno szybko wybaczą. Znajdź im zapasy... Jedzenie, bandaże i takie rzeczy. Zawsze rozpaczliwie ich potrzebują."
+  },
+  {
+    "id": "4789177689636936",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestRadaCompletedMessage_9CWT",
+    "en": "Good work; this should help me convince them you're not against the future of Zalesye, and all that.",
+    "pl": "Dobra robota. To pomoże mi przekonać ich, że nie jesteś przeciw przyszłości Zalesye i w ogóle."
+  },
+  {
+    "id": "4789177689636937",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestRadaCompletedMessage_GJFK",
+    "en": "Good! This will do. They should be able to forgive you when they see the poorer folk getting a meal out of your work.",
+    "pl": "Dobrze! Wystarczy. Powinni wybaczyć, kiedy zobaczą biedniejszych ludzi jedzących dzięki twojej pracy."
+  },
+  {
+    "id": "4789177689636938",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestCommonfolkMessage_NB7P",
+    "en": "Commonfolk never really trusted us, but nowadays it's worse than ever... Say, why don't you take care of a few Mutants 'round their dwellings, see if that don't help smooth things over?",
+    "pl": "Zwykli Ludzie nigdy specjalnie nam nie ufali, ale teraz jest gorzej niż kiedykolwiek... Może zabijesz kilka Mutantów koło ich domów? Zobaczymy, czy pomoże to załagodzić sprawy."
+  },
+  {
+    "id": "4789177689636939",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestCommonfolkMessage_K1A8",
+    "en": "Oh Returner, how could you mess with the Commonfolk? Get it together, man, they're the most vulnerable people out there. Go take care of some Mutants, and I'll see what I can do for ya.",
+    "pl": "Och, Powracający, jak mogłeś skrzywdzić Zwykłych Ludzi? Ogarnij się, oni są najbardziej bezbronni. Idź zająć się Mutantami, a ja zobaczę, co da się zrobić."
+  },
+  {
+    "id": "4789177689636940",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestCommonfolkMessage_EPM8",
+    "en": "You hurt <i>them?</i> Shame on you, man...! They're too vulnerable already. You can make up to them by taking care of some of the dangers they face on the daily, just like we do, but without the means for self-defense.",
+    "pl": "Skrzywdziłeś <i>ich?</i> Wstydź się! Już i tak są bezbronni. Wynagrodź im to, usuwając część zagrożeń, z którymi mierzą się codziennie tak jak my, tylko bez możliwości obrony."
+  },
+  {
+    "id": "4789177689636941",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestCommonfolkCompletedMessage_A49H",
+    "en": "I'm glad you're back safe. The people will feel safer now, as well.",
+    "pl": "Cieszę się, że wróciłeś cały. Teraz ludzie też poczują się bezpieczniej."
+  },
+  {
+    "id": "4789177689636942",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestCommonfolkCompletedMessage_PVHE",
+    "en": "Seems you've made the roads safer for the common man. Good job, Returner.",
+    "pl": "Chyba uczyniłeś drogi bezpieczniejszymi dla zwykłego człowieka. Dobra robota, Powracający."
+  },
+  {
+    "id": "4789177689636943",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestAcolytesMessage_EONZ",
+    "en": "Alright, if I know one thing about those Acolytes, it's how they value their rituals... Why don't you see if you can find some old copies of their scriptures? They will surely appreciate that.",
+    "pl": "Jeśli jedno wiem o Akolitach, to jak cenią swoje rytuały... Może poszukasz starych egzemplarzy ich pism? Na pewno to docenią."
+  },
+  {
+    "id": "4789177689636944",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestAcolytesMessage_OYJU",
+    "en": "Damn, even Acolytes are aggressive towards you now? Well, not like it's difficult for them to reject our ways... Say, go find some copies of their religious texts, that should butter 'em up.",
+    "pl": "Cholera, nawet Akolici są już wobec ciebie agresywni? Cóż, nietrudno im potępić nasz sposób życia... Znajdź egzemplarze ich religijnych tekstów, powinno ich to udobruchać."
+  },
+  {
+    "id": "4789177689636945",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestAcolytesMessage_6588",
+    "en": "You messed with the cult, huh? Well, I guess you're already fucked even without the divine interference. Anyway, just find them some of the scriptures they're so attached to; forgiveness is a big thing in their beliefs, I think.",
+    "pl": "Zadarłeś z kultem, co? Chyba i bez boskiej interwencji masz już przejebane. Znajdź im te pisma, do których są tak przywiązani. Przebaczenie chyba jest ważne w ich wierze."
+  },
+  {
+    "id": "4789177689636946",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestAcolytesCompletedMessage_ASZL",
+    "en": "Done it? Good, good. I'll go have a chat with one of them soon. Should help your situation!",
+    "pl": "Załatwione? Dobrze, dobrze. Niedługo pogadam z jednym z nich. Powinno ci to pomóc!"
+  },
+  {
+    "id": "4789177689636947",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestAcolytesCompletedMessage_DY5L",
+    "en": "Nicely done, Returner. They'll surely appreciate the extra material. Was it too hard to find?",
+    "pl": "Dobra robota, Powracający. Na pewno docenią dodatkowe materiały. Trudno było znaleźć?"
+  },
+  {
+    "id": "4789177689636948",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMechanistsMessage_UGRL",
+    "en": "Hmm. Might be tough, but I'll try to talk them into forgiving whatever you did. Should take something to bargain with, though – maybe you can salvage some electrical components...",
+    "pl": "Hmm. Może być ciężko, ale spróbuję namówić ich, żeby wybaczyli ci to, co zrobiłeś. Przyda się coś do negocjacji. Może odzyskasz trochę części elektrycznych..."
+  },
+  {
+    "id": "4789177689636949",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMechanistsMessage_YMH3",
+    "en": "Oh, no good falling out with them lab coats. Way too important for us as traders, right? But it's alright; for all their intellect and arrogance, they're a bit predictable. Just salvage <i>these</i> for 'em.",
+    "pl": "Och, niedobrze zadzierać z fartuchami. Są dla nas zbyt ważni jako partnerzy handlowi, prawda? Ale spokojnie. Mimo inteligencji i arogancji są dość przewidywalni. Odzyskaj dla nich <i>to.</i>"
+  },
+  {
+    "id": "4789177689636950",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMechanistsMessage_8649",
+    "en": "You've stepped on some pretty important toes now, man. Can't forget how much we depend on those scientist types. But it's okay, I know what types of things they'll want. Just find some of these components and I'll smooth things over for ya.",
+    "pl": "Nadepnąłeś na odcisk komuś naprawdę ważnemu. Nie zapominaj, jak bardzo zależymy od tych naukowców. Ale spokojnie, wiem, czego zechcą. Znajdź te części, a ja załagodzę sprawę."
+  },
+  {
+    "id": "4789177689636951",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMechanistsCompletedMessage_QOBQ",
+    "en": "These parts look good to me. I'm no expert, but I should be able to sweet-talk those Mechanists for you, make them... Less grumpy.",
+    "pl": "Części wyglądają dobrze. Nie jestem ekspertką, ale powinnam zdołać zagadać Mechanistów w twoim imieniu. Sprawić, że będą... Mniej naburmuszeni."
+  },
+  {
+    "id": "4789177689636952",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMechanistsCompletedMessage_FWF2",
+    "en": "Nice, these parts are lookin' good. Bet I can convince them to hate you a little bit less, now.",
+    "pl": "Świetnie, części wyglądają dobrze. Pewnie przekonam ich, żeby nienawidzili cię trochę mniej."
+  },
+  {
+    "id": "4789177689636953",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestPalatinesMessage_0BMK",
+    "en": "Soldiers are a dangerous bunch to mess around with. You'll want 'em on your good side, Returner. Maybe I'm bein' shallow, but guns and ammo seem as fine a peace offering as any.",
+    "pl": "Z żołnierzami niebezpiecznie zadzierać. Lepiej żyć z nimi dobrze, Powracający. Może to powierzchowne, ale broń i amunicja to dobry dar na zgodę."
+  },
+  {
+    "id": "4789177689636954",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestPalatinesMessage_ACUB",
+    "en": "You pissed off the big guys with the big guns? What are ya, a Gunner double-agent? Sheesh, man. Go find them some new toys, and plenty of ammo. I'll try to convince them to forgive you.",
+    "pl": "Wkurzyłeś wielkich facetów z wielkimi giwerami? Kim ty jesteś, podwójnym agentem Strzelców? Jezu. Znajdź im nowe zabawki i dużo amunicji. Spróbuję ich przekonać, żeby wybaczyli."
+  },
+  {
+    "id": "4789177689636955",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestPalatinesMessage_HOQ2",
+    "en": "Messed with the Palatines, huh? I understand how they're kinda easy to knock heads with. But they run security on a lot of spots, so tell you what – find a few new toys for them, I'll smooth things over.",
+    "pl": "Zadarłeś z Palatynami, co? Rozumiem, łatwo się z nimi zetrzeć. Ale pilnują wielu miejsc, więc zróbmy tak: znajdź im kilka nowych zabawek, a ja załagodzę sprawę."
+  },
+  {
+    "id": "4789177689636956",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestPalatinesCompletedMessage_HTD2",
+    "en": "This is some fine gear. Passin' it down will hurt me as much as it hurts you.",
+    "pl": "Porządny sprzęt. Oddanie go zaboli mnie tak samo jak ciebie."
+  },
+  {
+    "id": "4789177689636957",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestPalatinesCompletedMessage_XBFV",
+    "en": "Wow, this is good stuff. Hope you didn't mess with a different faction just for this.",
+    "pl": "Oho, dobre rzeczy. Mam nadzieję, że nie zadarłeś dla nich z inną frakcją."
+  },
+  {
+    "id": "4789177689636958",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestGunnersMessage_TK9S",
+    "en": "I suppose I understand why you wouldn't wanna be on the Gunner's bad side... Especially if you've been going up the Dola Oblast. Thankfully, there's some Bandits they'd like to see gone...",
+    "pl": "Chyba rozumiem, czemu nie chcesz mieć Strzelców przeciwko sobie... Zwłaszcza jeśli zapuszczasz się w obwód Dola. Na szczęście jest paru Bandytów, których chętnie by się pozbyli..."
+  },
+  {
+    "id": "4789177689636959",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestGunnersMessage_31J7",
+    "en": "Gunners? Those psychos only really care about what you can do for them, so they should be quick to forgive you if you take care of some competition, y'know? Just as a favor, of course.",
+    "pl": "Strzelcy? Tych psycholi obchodzi tylko, co możesz dla nich zrobić. Powinni szybko wybaczyć, jeśli pozbędziesz się konkurencji. Oczywiście w ramach przysługi."
+  },
+  {
+    "id": "4789177689636960",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestGunnersMessage_IH3O",
+    "en": "Picked a fight with the gangsters? That's not too bad, honestly. They probably beat each other up all the time. Just take care of a few Bandits and I'll let them know you've been puttin' in some service.",
+    "pl": "Zadarłeś z gangsterami? Szczerze, nie jest tak źle. Pewnie ciągle biją się między sobą. Załatw kilku Bandytów, a dam im znać, że się zasłużyłeś."
+  },
+  {
+    "id": "4789177689636961",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestGunnersCompletedMessage_Y84H",
+    "en": "So you wiped out an entire Bandit squad? If you hadn't messed with them earlier, Gunners might be willing to take you in.",
+    "pl": "Wybiłeś cały oddział Bandytów? Gdybyś wcześniej z nimi nie zadarł, Strzelcy może by cię przyjęli."
+  },
+  {
+    "id": "4789177689636962",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestGunnersCompletedMessage_D36D",
+    "en": "I see you racked up some bodies. I'll let the Gunners know they have been done a favor. Maybe they'll return it.",
+    "pl": "Widzę, że przybyło trupów. Powiem Strzelcom, że wyświadczyłeś im przysługę. Może się odwzajemnią."
+  },
+  {
+    "id": "4789177689636963",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMudlarksMessage_83PB",
+    "en": "Mist-worshippers, that's a bigger threat than you'd think. Plus, we don't hire them now and again, our routes get covered with Mist. Maybe some valuable Mutant parts will please them?",
+    "pl": "Czciciele Mgły są groźniejsi, niż myślisz. A jeśli od czasu do czasu ich nie wynajmiemy, Mgła pokryje nasze szlaki. Może ucieszą ich cenne części Mutantów?"
+  },
+  {
+    "id": "4789177689636964",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMudlarksMessage_Q6UG",
+    "en": "If you don't wanna get slashed to pieces by the corpse-bearers, maybe gather a few Mutant parts, valuable ones, y'know. We'll treat it as an offering, and try to make peace from there.",
+    "pl": "Jeśli nie chcesz, żeby tragarze zwłok posiekali cię na kawałki, zbierz cenne części Mutantów. Potraktujemy je jako dar i od tego zaczniemy godzenie."
+  },
+  {
+    "id": "4789177689636965",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMudlarksMessage_NL85",
+    "en": "Mudlarks are a bit too psycho to keep them on your bad side for long... Best to patch things up before they jump you on some random road. An offering of Mutant parts should appease them.",
+    "pl": "Błotniarze są zbyt szaleni, żeby długo trzymać ich po złej stronie. Lepiej naprawić stosunki, zanim napadną cię na jakiejś drodze. Dar z części Mutantów powinien ich udobruchać."
+  },
+  {
+    "id": "4789177689636966",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMudlarksCompletedMessage_G8Y3",
+    "en": "Nice find. I'll meet with one of them shortly, should be able to prop you up in their eyes...",
+    "pl": "Dobry łup. Niedługo spotkam się z jednym z nich, powinnam poprawić twoją opinię..."
+  },
+  {
+    "id": "4789177689636967",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestMudlarksCompletedMessage_2OFW",
+    "en": "Good find, Returner. I'll try to locate a younger, speaking Mudlark; hopefully they spread the news.",
+    "pl": "Dobry łup, Powracający. Spróbuję znaleźć młodszego Błotniarza, takiego, który mówi. Oby rozpuścił wieści."
+  },
+  {
+    "id": "4789177689636968",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestVulturesMessage_LFIQ",
+    "en": "Can't believe you managed to piss off our Brothers- and Sisters-in-Scavenge, Returner. We Have But Tongue and Fangs. I'm not fucking around: you <i>pay</i> with your <i>gear.</i>",
+    "pl": "Nie wierzę, że zdołałeś wkurzyć naszych braci i siostry zbieraczy, Powracający. Mamy tylko język i kły. Nie żartuję: <i>zapłacisz</i> swoim <i>sprzętem.</i>"
+  },
+  {
+    "id": "4789177689636969",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestVulturesMessage_2XVI",
+    "en": "Don't know if I should help... How could you treat your colleagues so poorly? Aren't things hard enough for us right now, Returner?... Part with some sweet gear, 'n <i>maybe</i> we'll make amends.",
+    "pl": "Nie wiem, czy powinnam pomóc... Jak mogłeś tak potraktować swoich? Nie jest nam teraz dość ciężko, Powracający?... Oddaj trochę dobrego sprzętu i <i>może</i> się pogodzimy."
+  },
+  {
+    "id": "4789177689636970",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestVulturesMessage_MF1X",
+    "en": "That ain't nice, Returner. You should take better care of the few of us who're left. Despite our way of life, we're still in a situation where we <i>gotta</i> stick together. It'll take some nice gear to work this out, alright?",
+    "pl": "To nieładnie, Powracający. Powinieneś lepiej dbać o garstkę, która została. Mimo naszego stylu życia jesteśmy w sytuacji, w której <i>musimy</i> trzymać się razem. Żeby to naprawić, potrzeba dobrego sprzętu, jasne?"
+  },
+  {
+    "id": "4789177689636971",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestVulturesCompletedMessage_0E12",
+    "en": "Done? Good. I'll cool down on this and talk to the others when they come up here. Please go, now.",
+    "pl": "Gotowe? Dobrze. Ochłonę i porozmawiam z innymi, kiedy się tu pojawią. Teraz proszę, idź."
+  },
+  {
+    "id": "4789177689636972",
+    "key": "19_Raisa_Jobs_v1_GetRandomReputationQuestVulturesCompletedMessage_YIJG",
+    "en": "Good stuff. We'll make good use of it, defending against those foreigners. Take care.",
+    "pl": "Dobre rzeczy. Wykorzystamy je do obrony przed obcymi. Uważaj na siebie."
+  },
+  {
+    "id": "10228150243229696",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_7ZQF",
+    "en": "I'll handle it.",
+    "pl": "Zajmę się tym."
+  },
+  {
+    "id": "10228150289367040",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_16DK",
+    "en": "I appreciate the help. Hope you appreciate the work...",
+    "pl": "Doceniam pomoc. Obyś ty docenił robotę..."
+  },
+  {
+    "id": "10228150289367041",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_BGEJ",
+    "en": "Gotta think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "10228150289367042",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_WHCN",
+    "en": "Well, having the luxury of turning down a job is a good thing.",
+    "pl": "Cóż, dobrze móc sobie pozwolić na odrzucenie zlecenia."
+  },
+  {
+    "id": "10228150289367043",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_XG5V",
+    "en": "Don't you have anything else?",
+    "pl": "Nie masz nic innego?"
+  },
+  {
+    "id": "10228150289367044",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_68EU",
+    "en": "Glad to help, Raisa.",
+    "pl": "Chętnie pomogę, Raisa."
+  },
+  {
+    "id": "10228150289367045",
+    "key": "19_Raisa_Jobs_v1_MutantExtermination_2T5K",
+    "en": "Take care.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "10228150289367046",
+    "key": "19_Raisa_Jobs_v1_KillBandits_VDJT",
+    "en": "I'll kill them for you.",
+    "pl": "Zabiję ich dla ciebie."
+  },
+  {
+    "id": "10228150289367047",
+    "key": "19_Raisa_Jobs_v1_KillBandits_R8CX",
+    "en": "Appreciate it, Brother. But don't be too hasty about it.",
+    "pl": "Doceniam to, bracie. Tylko bez pośpiechu."
+  },
+  {
+    "id": "10228150289367048",
+    "key": "19_Raisa_Jobs_v1_KillBandits_0HL5",
+    "en": "Let me think about it.",
+    "pl": "Daj mi pomyśleć."
+  },
+  {
+    "id": "10228150289367049",
+    "key": "19_Raisa_Jobs_v1_KillBandits_7MW4",
+    "en": "They're not gonna give us time to think, Brother.",
+    "pl": "Oni nie dadzą nam czasu na myślenie, bracie."
+  },
+  {
+    "id": "10228150289367050",
+    "key": "19_Raisa_Jobs_v1_KillBandits_VYNN",
+    "en": "Any other requests?",
+    "pl": "Jeszcze jakieś zlecenia?"
+  },
+  {
+    "id": "10228150289367051",
+    "key": "19_Raisa_Jobs_v1_KillBandits_YYPA",
+    "en": "It went well.",
+    "pl": "Poszło dobrze."
+  },
+  {
+    "id": "10228150289367052",
+    "key": "19_Raisa_Jobs_v1_KillBandits_UGHE",
+    "en": "I'll be back for more.",
+    "pl": "Wrócę po więcej."
+  },
+  {
+    "id": "10228150289367053",
+    "key": "19_Raisa_Jobs_v1_GetRandomMutantExterminationStart_Q3XL",
+    "en": "So there’s been more Mutant activity 'round here recently, since most of us Vultures who used to deal with them are gone… We’ll have to step up, keep those pests under control. You down?",
+    "pl": "Ostatnio przybyło tu Mutantów, odkąd zabrakło większości Sępów, którzy je tępili... Musimy się przyłożyć i trzymać szkodniki w ryzach. Wchodzisz w to?"
+  },
+  {
+    "id": "10228150289367054",
+    "key": "19_Raisa_Jobs_v1_GetRandomMutantExterminationStart_5TMU",
+    "en": "A few dangerous Mutants have been attacking too close to the Mire… What with the shortage of Vultures to deal with them naturally, y’know. Got a reward for you if you kill a few of 'em.",
+    "pl": "Niebezpieczne Mutanty atakują zbyt blisko Trzęsawiska... Brakuje Sępów, którzy zajmowaliby się nimi przy okazji. Mam nagrodę, jeśli zabijesz kilka."
+  },
+  {
+    "id": "10228150289367055",
+    "key": "19_Raisa_Jobs_v1_GetRandomMutantExterminationComplete_0WM1",
+    "en": "Awesome job, Brother. Glad you're in one piece, too. Hope this is enough pay.",
+    "pl": "Świetna robota, bracie. Cieszę się, że jesteś cały. Oby zapłata wystarczyła."
+  },
+  {
+    "id": "10228150289367056",
+    "key": "19_Raisa_Jobs_v1_GetRandomMutantExterminationComplete_V8KH",
+    "en": "You did great! I know it's tough for us right now, but see?, we can get by... If we keep doin' what we always do.",
+    "pl": "Spisałeś się świetnie! Wiem, że jest nam ciężko, ale widzisz? Możemy sobie radzić... Jeśli dalej będziemy robić swoje."
+  },
+  {
+    "id": "10228150289367057",
+    "key": "19_Raisa_Jobs_v1_GetRandomKillBanditsStart_8BIS",
+    "en": "Not usually how I do things, but… Need you to kill a Bandit squad for me, Returner. They’re operating around here, killing Commonfolk who'd usually be protected by Vultures. You down?",
+    "pl": "Zwykle tak nie działam, ale... Musisz zabić dla mnie oddział Bandytów, Powracający. Kręcą się tutaj i zabijają Zwykłych Ludzi, których zwykle chroniłyby Sępy. Wchodzisz w to?"
+  },
+  {
+    "id": "10228150289367058",
+    "key": "19_Raisa_Jobs_v1_GetRandomKillBanditsStart_HWDP",
+    "en": "There’s a squad of Bandits who’s been going around this region picking off Commonfolk and Acolytes. They’re taking advantage of the Villa massacre to act more boldly. Let’s correct them.",
+    "pl": "Oddział Bandytów krąży po okolicy i wybija Zwykłych Ludzi oraz Akolitów. Masakra w Willi ich ośmieliła. Wyprowadźmy ich z błędu."
+  },
+  {
+    "id": "10228150289367059",
+    "key": "19_Raisa_Jobs_v1_GetRandomKillBanditsComplete_YTB3",
+    "en": "Glad you took care of those bastards, Brother. Hope they didn't give you too much trouble.",
+    "pl": "Cieszę się, że załatwiłeś tych drani, bracie. Oby nie sprawili za dużo kłopotów."
+  },
+  {
+    "id": "10228150289367060",
+    "key": "19_Raisa_Jobs_v1_GetRandomKillBanditsComplete_IJ8C",
+    "en": "That's great news. Here's your pay – wish I had more to give you, but you know how it's been.",
+    "pl": "Świetna wiadomość. Oto zapłata. Chciałabym dać więcej, ale wiesz, jak jest."
+  }
+]

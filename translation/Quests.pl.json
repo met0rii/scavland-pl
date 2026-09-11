@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "54468313088",
+    "key": "Quest.At_Home_In_Zakrajev.Subtitle",
+    "en": "A roof over one’s head",
+    "pl": "Dach nad głową"
+  },
+  {
+    "id": "54493478912",
+    "key": "Quest.At_Home_In_Zakrajev.Description",
+    "en": "Long journey to Dazbog – exhausted.\n\nIlya told me someone nearby can point to big job\n\nHave to keep working...",
+    "pl": "Długa droga do Dazbog — padam z nóg.\n\nIlya mówiła, że ktoś w pobliżu może mnie skierować do dużej roboty.\n\nMuszę dalej pracować..."
+  },
+  {
+    "id": "54497673216",
+    "key": "Quest.At_Home_In_Zakrajev.CompleteDescription",
+    "en": "Did a favor for Zhivan, a Vulture – found and cleared a spot in Zakrajev Line for him to set up a shack.\n\nHe helped find next job: a Mechanist at Sontse Station can pay big for dangerous scavenge\n\nOnly way to break endless cycle – tired, no gear, no hope. Must risk it",
+    "pl": "Wyświadczyłem przysługę Zhivanowi, jednemu z Sępów — znalazłem i oczyściłem miejsce przy linii Zakrajev, gdzie może postawić chatę.\n\nPomógł mi znaleźć następną robotę: Mechanista ze stacji Sontse dobrze zapłaci za niebezpieczną wyprawę po złom.\n\nJedyna szansa, żeby wyrwać się z tego błędnego koła — zmęczenie, brak sprzętu i nadziei. Muszę zaryzykować."
+  },
+  {
+    "id": "54497673217",
+    "key": "Quest.Rat Killer.Subtitle",
+    "en": "Big Rat Killer",
+    "pl": "Pogromca wielkich szczurów"
+  },
+  {
+    "id": "54497673218",
+    "key": "Quest.Rat Killer.Description",
+    "en": "I need you to kill some rats for me, they've been plaguing the settlement for some time. Even killed a scav last week! Of course, I will have a reward for you if it all goes well.",
+    "pl": "Musisz zabić dla mnie kilka szczurów. Od jakiegoś czasu nękają osadę. W zeszłym tygodniu zabiły nawet jednego zbieracza! Oczywiście, jeśli wszystko pójdzie dobrze, dostaniesz nagrodę."
+  },
+  {
+    "id": "54497673219",
+    "key": "Quest.Rat Killer.CompleteDescription",
+    "en": "Thanks, good ridance. Here is your reward.",
+    "pl": "Dzięki, dobrze się ich pozbyć. Oto twoja nagroda."
+  },
+  {
+    "id": "54497673220",
+    "key": "Quest.Catching Current.Subtitle",
+    "en": "Investigating the anomalies",
+    "pl": "Badanie anomalii"
+  },
+  {
+    "id": "54497673221",
+    "key": "Quest.Catching Current.Description",
+    "en": "Anatoly mentioned more work to be done\n\nInvestigating an Aspect...?",
+    "pl": "Anatoly wspomniał o kolejnej robocie.\n\nBadanie Aspektu...?"
+  },
+  {
+    "id": "54497673222",
+    "key": "Quest.Corpse_Bearers.Subtitle",
+    "en": "The Mist will bloom",
+    "pl": "Mgła rozkwitnie"
+  },
+  {
+    "id": "54497673223",
+    "key": "Quest.Corpse_Bearers.Description",
+    "en": "Alexei worried about corpses around the Mire – drawing Mist fast\nHave to alert Mudlarks – they drag corpses to Lake, drown out Mist\n\nFind them in Dazbog Hollow, to North-Northwest",
+    "pl": "Alexei martwi się zwłokami wokół Trzęsawiska — szybko przyciągają Mgłę.\nMuszę powiadomić Błotniarzy — wloką zwłoki do jeziora, żeby zatopić Mgłę.\n\nZnajdę ich w kotlinie Dazbog, na północny północny zachód."
+  },
+  {
+    "id": "54497673224",
+    "key": "Quest.Corpse_Bearers.CompleteDescription",
+    "en": "Alexei worried about corpses around the Mire – drawing Mist fast\nWas hired to call in Mudlarks from Dazbog Hollow — they take bodies to Lake Pavlie\n\nTold Mudlark named Ilya about corpses…\nTo be consumed by Mist — maybe a comfortable feeling\n\nIlya said someone nearby could use my help",
+    "pl": "Alexei martwił się zwłokami wokół Trzęsawiska — szybko przyciągają Mgłę.\nZlecił mi sprowadzenie Błotniarzy z kotliny Dazbog. Zabierają ciała do jeziora Pavlie.\n\nPowiadomiłem Błotniarkę o imieniu Ilya…\nDać się pochłonąć Mgle — może to nawet przyjemne uczucie.\n\nIlya mówiła, że ktoś w pobliżu potrzebuje mojej pomocy."
+  },
+  {
+    "id": "54497673225",
+    "key": "Quest.Dead_Man_Rest.Subtitle",
+    "en": "Back in limbo",
+    "pl": "Znów w zawieszeniu"
+  },
+  {
+    "id": "54497673226",
+    "key": "Quest.Dead_Man_Rest.Description",
+    "en": "Woke up in hospital – sharp pain in back\n\nDark visions of Scrapyard before fainting – weapons, armor, all gone…\n\nNote near the bed – who?",
+    "pl": "Obudziłem się w szpitalu — ostry ból pleców.\n\nMroczne wizje złomowiska przed utratą przytomności — broń, pancerz, wszystko przepadło…\n\nKartka obok łóżka — od kogo?"
+  },
+  {
+    "id": "54497673227",
+    "key": "Quest.Dead_Man_Rest.CompleteDescription",
+    "en": "Met Alexei at Cemetery. He treated me after I was shot\n\nNow doing a funeral – young Palatine who died rescuing me\n\nNeeded something from me, so we talked",
+    "pl": "Spotkałem Alexeia na cmentarzu. Opatrzył mnie po postrzale.\n\nTeraz odprawia pogrzeb — młody Palatyn zginął, ratując mnie.\n\nCzegoś ode mnie potrzebował, więc porozmawialiśmy."
+  },
+  {
+    "id": "54497673228",
+    "key": "Quest.Desperate_Groundwork_QuestSO.Subtitle",
+    "en": "Field work is tough",
+    "pl": "Ciężka praca w terenie"
+  },
+  {
+    "id": "54497673229",
+    "key": "Quest.Desperate_Groundwork_QuestSO.Description",
+    "en": "Mila, from Rada – got scared investigating nearby camps\n\nHired me to find camp south of train track passage and other near west border checkpoint",
+    "pl": "Mila z Rady — przestraszyła się podczas badania pobliskich obozów.\n\nMam znaleźć obóz na południe od przejścia przez tory i drugi, koło zachodniego posterunku granicznego."
+  },
+  {
+    "id": "54497673230",
+    "key": "Quest.Desperate_Groundwork_QuestSO.CompleteDescription",
+    "en": "Mila learned the history of the nearby camps\n\nThey’re all dead now - letters tell story. She's disheartened\n\nAlways how it is - no space for hope. Maybe in afterlife",
+    "pl": "Mila poznała historię pobliskich obozów.\n\nWszyscy nie żyją — listy mówią wszystko. Straciła zapał.\n\nZawsze tak jest — nie ma miejsca na nadzieję. Może po śmierci."
+  },
+  {
+    "id": "54497673231",
+    "key": "Quest.Rituals_And_Keepsakes_QuestSO.Subtitle",
+    "en": "Remembering sacrifice",
+    "pl": "Pamięć o poświęceniu"
+  },
+  {
+    "id": "54497673232",
+    "key": "Quest.Rituals_And_Keepsakes_QuestSO.Description",
+    "en": "Found a dog tag on corpse of young dead Palatine\n\nShould return it to their headquarters – up northwest from Cemetery. Might be a reward",
+    "pl": "Znalazłem nieśmiertelnik przy zwłokach młodego Palatyna.\n\nPowinienem oddać go w ich kwaterze — na północny zachód od cmentarza. Może dostanę nagrodę."
+  },
+  {
+    "id": "54497673233",
+    "key": "Quest.Rituals_And_Keepsakes_QuestSO.CompleteDescription",
+    "en": "Found a dog tag on corpse of young dead Palatine\n\nGot reward for returning it to the Palatine, Yelena\nLooked heart broken – why? Why care about another soldier?",
+    "pl": "Znalazłem nieśmiertelnik przy zwłokach młodego Palatyna.\n\nDostałem nagrodę za oddanie go Yelenie z Palatynów.\nWyglądała na załamaną — dlaczego? Po co przejmować się kolejnym żołnierzem?"
+  },
+  {
+    "id": "54497673234",
+    "key": "Quest.Scrapyard_Introduction_QuestSO.Subtitle",
+    "en": "Mud, blood and grime",
+    "pl": "Błoto, krew i brud"
+  },
+  {
+    "id": "54497673235",
+    "key": "Quest.Scrapyard_Introduction_QuestSO.Description",
+    "en": "Another trek through the Dola – found a scrapyard, looked promising\nMore Bandits than usual – followed?\n\nMust be careful",
+    "pl": "Kolejna wędrówka przez Dolę — znalazłem złomowisko, wyglądało obiecująco.\nWięcej Bandytów niż zwykle — śledzą mnie?\n\nMuszę uważać."
+  },
+  {
+    "id": "54497673236",
+    "key": "Quest.Scrapyard_Introduction_QuestSO.CompleteDescription",
+    "en": "Scav went wrong\nFelt a hit – unconscious\nHow am I still alive?",
+    "pl": "Wyprawa poszła źle.\nPoczułem uderzenie — straciłem przytomność.\nJakim cudem jeszcze żyję?"
+  },
+  {
+    "id": "54497673237",
+    "key": "Quest.TestQuest.Subtitle",
+    "en": "Greedy Bandits",
+    "pl": "Chciwi Bandyci"
+  },
+  {
+    "id": "54497673238",
+    "key": "Quest.TestQuest.Description",
+    "en": "Some corpses of recently deceased bandits where thrown in the Lake, but some are still around the area. I need to retrieve a valuable piece of armor plating before the Mudlarks finish their job.",
+    "pl": "Część zwłok niedawno zabitych Bandytów wrzucono do jeziora, ale inne wciąż leżą w okolicy. Muszę odzyskać cenną płytę pancerza, zanim Błotniarze skończą robotę."
+  },
+  {
+    "id": "54497673239",
+    "key": "Quest.TestQuest.CompleteDescription",
+    "en": "I got the armor plating back to Grigory and got my reward.",
+    "pl": "Oddałem płytę pancerza Grigory'emu i dostałem nagrodę."
+  },
+  {
+    "id": "54497673240",
+    "key": "Quest.Trespassing Svarog.Subtitle",
+    "en": "How Vultures die",
+    "pl": "Tak giną Sępy"
+  },
+  {
+    "id": "54497673241",
+    "key": "Quest.Trespassing Svarog.Description",
+    "en": "Anatoly – arrogant Mechanist willing to pay big for a special toolbox\nOnly found in Svarog Factories – swarming with Bandits and Gunners killing each other\n\nHe suggested seeing Grigory, the arms dealer, to prepare",
+    "pl": "Anatoly — arogancki Mechanista, który dobrze zapłaci za specjalną skrzynkę narzędziową.\nMożna ją znaleźć tylko w fabrykach Svarog — roi się tam od Bandytów i Strzelców, którzy zabijają się nawzajem.\n\nRadził odwiedzić handlarza bronią, Grigory'ego, żeby się przygotować."
+  },
+  {
+    "id": "54497673242",
+    "key": "Quest.Trespassing Svarog.CompleteDescription",
+    "en": "Anatoly hired me to find a special toolbox at the Factories\r\n\r\nThat place is chaos\r\n\r\nBut I made it – now he says he has more in store for me",
+    "pl": "Anatoly zlecił mi znalezienie specjalnej skrzynki narzędziowej w fabrykach.\n\nPanuje tam kompletny chaos.\n\nAle dałem radę — teraz mówi, że ma dla mnie coś jeszcze."
+  },
+  {
+    "id": "13004860063744",
+    "key": "Quest.At_Home_In_Zakrajev.Title",
+    "en": "At Home In Zakrajev",
+    "pl": "Dom w Zakrajev"
+  },
+  {
+    "id": "13004889423872",
+    "key": "Quest.Rat Killer.Title",
+    "en": "The Weathered Few",
+    "pl": "Garstka ocalałych"
+  },
+  {
+    "id": "13004889423873",
+    "key": "Quest.Catching Current.Title",
+    "en": "Catching Current",
+    "pl": "Złapać prąd"
+  },
+  {
+    "id": "13004889423874",
+    "key": "Quest.Corpse_Bearers.Title",
+    "en": "Corpse Bearers",
+    "pl": "Tragarze zwłok"
+  },
+  {
+    "id": "13004889423875",
+    "key": "Quest.Dead_Man_Rest.Title",
+    "en": "Dead Man's Rest",
+    "pl": "Spoczynek umarłego"
+  },
+  {
+    "id": "13004889423876",
+    "key": "Quest.Desperate_Groundwork_QuestSO.Title",
+    "en": "Desperate Groundwork",
+    "pl": "Desperackie rozpoznanie"
+  },
+  {
+    "id": "13004889423877",
+    "key": "Quest.Rituals_And_Keepsakes_QuestSO.Title",
+    "en": "Rituals And Keepsakes",
+    "pl": "Obrzędy i pamiątki"
+  },
+  {
+    "id": "13004889423878",
+    "key": "Quest.Scrapyard_Introduction_QuestSO.Title",
+    "en": "Another Scavenge",
+    "pl": "Kolejna wyprawa po złom"
+  },
+  {
+    "id": "13004889423879",
+    "key": "Quest.TestQuest.Title",
+    "en": "Test Quest",
+    "pl": "Zadanie testowe"
+  },
+  {
+    "id": "13004889423880",
+    "key": "Quest.Trespassing Svarog.Title",
+    "en": "Trespassing Svarog",
+    "pl": "Wtargnięcie do Svarog"
+  },
+  {
+    "id": "361230414938112",
+    "key": "QuestObjective.SQ03_Kill_Enemies_At_Location",
+    "en": "Clear Area",
+    "pl": "Oczyść teren"
+  },
+  {
+    "id": "361230440103936",
+    "key": "QuestObjective.SQ03_Report_To_Zhivan",
+    "en": "Talk to the Vulture",
+    "pl": "Porozmawiaj z Sępem"
+  },
+  {
+    "id": "361230440103937",
+    "key": "QuestObjective.SQ03_Talk_To_Zhivan",
+    "en": "Talk to the Vulture",
+    "pl": "Porozmawiaj z Sępem"
+  },
+  {
+    "id": "361230440103938",
+    "key": "QuestObjective.Kill 1 Big Rat",
+    "en": "Kill 1 Big Rat",
+    "pl": "Zabij 1 wielkiego szczura"
+  },
+  {
+    "id": "361230440103939",
+    "key": "QuestObjective.Test Find Location",
+    "en": "Find the tall grass area",
+    "pl": "Znajdź teren porośnięty wysoką trawą"
+  },
+  {
+    "id": "361230440103940",
+    "key": "QuestObjective.MQ06_Find_Artefact",
+    "en": "Use the Detector near the Aspect",
+    "pl": "Użyj detektora w pobliżu Aspektu"
+  },
+  {
+    "id": "361230440103941",
+    "key": "QuestObjective.MQ06_Talk_To_Anatoly_CC",
+    "en": "Talk to Anatoly about this new request",
+    "pl": "Porozmawiaj z Anatolym o nowym zleceniu"
+  },
+  {
+    "id": "361230440103942",
+    "key": "QuestObjective.Talk_To_Ilya",
+    "en": "Inform the Mudlarks",
+    "pl": "Powiadom Błotniarzy"
+  },
+  {
+    "id": "361230440103943",
+    "key": "QuestObjective.Find_Note_Objective",
+    "en": "Pick Up Alexei's Note",
+    "pl": "Podnieś notatkę Alexeia"
+  },
+  {
+    "id": "361230444298240",
+    "key": "QuestObjective.Read_Alexei_Note",
+    "en": "Inspect Alexei's Note",
+    "pl": "Obejrzyj notatkę Alexeia"
+  },
+  {
+    "id": "361230444298241",
+    "key": "QuestObjective.Talk_To_Alexei",
+    "en": "Talk to Alexei",
+    "pl": "Porozmawiaj z Alexeiem"
+  },
+  {
+    "id": "361230444298242",
+    "key": "QuestObjective.Find_LetterAyda",
+    "en": "Investigate the Western camp",
+    "pl": "Zbadaj zachodni obóz"
+  },
+  {
+    "id": "361230444298243",
+    "key": "QuestObjective.Find_SettlersNote",
+    "en": "Investigate the Northern camp",
+    "pl": "Zbadaj północny obóz"
+  },
+  {
+    "id": "361230444298244",
+    "key": "QuestObjective.Talk_To_Mila",
+    "en": "Report back to Mila",
+    "pl": "Zdaj relację Mili"
+  },
+  {
+    "id": "361230444298245",
+    "key": "QuestObjective.TalkToYelena",
+    "en": "Found Ilich's dog tag. Should give it back to Yelena...",
+    "pl": "Znalazłem nieśmiertelnik Ilicha. Powinienem oddać go Yelenie..."
+  },
+  {
+    "id": "361230444298246",
+    "key": "QuestObjective.1_Destroy_Corpse_Barrier",
+    "en": "Destroy the corpse barrier",
+    "pl": "Zniszcz zaporę ze zwłok"
+  },
+  {
+    "id": "361230444298247",
+    "key": "QuestObjective.2_Destroy_Corpse_Barrier",
+    "en": "Destroy the corpse barrier",
+    "pl": "Zniszcz zaporę ze zwłok"
+  },
+  {
+    "id": "361230444298248",
+    "key": "QuestObjective.Kill_Hounds_Tutorial",
+    "en": "Kill the Hellhounds",
+    "pl": "Zabij piekielne ogary"
+  },
+  {
+    "id": "361230444298249",
+    "key": "QuestObjective.Kill_Humans_Tutorial",
+    "en": "Kill the Bandits",
+    "pl": "Zabij Bandytów"
+  },
+  {
+    "id": "361230444298250",
+    "key": "QuestObjective.Open_Book_QuestObjective",
+    "en": "Open Journal",
+    "pl": "Otwórz dziennik"
+  },
+  {
+    "id": "361230444298251",
+    "key": "QuestObjective.Open_Inventory_QuestObjective",
+    "en": "Check Backpack for supplies",
+    "pl": "Sprawdź zapasy w plecaku"
+  },
+  {
+    "id": "361230444298252",
+    "key": "QuestObjective.Escape_Scrapyard_Objective",
+    "en": "Escape the Scrapyard",
+    "pl": "Ucieknij ze złomowiska"
+  },
+  {
+    "id": "361230444298253",
+    "key": "QuestObjective.Use_Drink_Objective 1",
+    "en": "I need to drink something.",
+    "pl": "Muszę się czegoś napić."
+  },
+  {
+    "id": "361230444298254",
+    "key": "QuestObjective.Use_Food_Objective",
+    "en": "I need to eat something...",
+    "pl": "Muszę coś zjeść..."
+  },
+  {
+    "id": "361230444298255",
+    "key": "QuestObjective.Use_Heal_Objective",
+    "en": "I need to heal myself!",
+    "pl": "Muszę się opatrzyć!"
+  },
+  {
+    "id": "361230444298256",
+    "key": "QuestObjective.TestObjective",
+    "en": "I need to find a piece of armor plating on one of the bodies.",
+    "pl": "Muszę znaleźć płytę pancerza przy jednym z ciał."
+  },
+  {
+    "id": "361230444298257",
+    "key": "QuestObjective.Find_ToolBox",
+    "en": "Find the Toolbox in the Factory Area",
+    "pl": "Znajdź skrzynkę narzędziową na terenie fabryk"
+  },
+  {
+    "id": "361230444298258",
+    "key": "QuestObjective.Report_To_Anatoly",
+    "en": "Report back to Anatoly",
+    "pl": "Zdaj relację Anatoly'emu"
+  },
+  {
+    "id": "361230444298259",
+    "key": "QuestObjective.Talk_To_Anatoly",
+    "en": "Talk to Anatoly",
+    "pl": "Porozmawiaj z Anatolym"
+  },
+  {
+    "id": "697230982938624",
+    "key": "[complete description]",
+    "en": "Anatoly gave Detector for use near the Flux Aspect\n\nScared – near danger for too long",
+    "pl": "Anatoly dał mi detektor do użycia przy Aspekcie Strumienia.\n\nStrach — zbyt długo w pobliżu zagrożenia."
+  },
+  {
+    "id": "697231012298752",
+    "key": "TaskObjective.KillAny.ObjectiveDescription",
+    "en": "Kill {characterName}",
+    "pl": "Zlikwiduj cel: {characterName}"
+  },
+  {
+    "id": "697231012298753",
+    "key": "TaskObjective.FindAny.ObjectiveDescription",
+    "en": "Find {itemName}",
+    "pl": "Znajdź: {itemName}"
+  },
+  {
+    "id": "697231012298754",
+    "key": "TaskObjective.FindSpecific.ObjectiveDescription",
+    "en": "Find {itemName}",
+    "pl": "Znajdź: {itemName}"
+  },
+  {
+    "id": "697231012298755",
+    "key": "TaskObjective.KillSpecific.ObjectiveDescription",
+    "en": "Kill a target enemy",
+    "pl": "Zabij wskazanego wroga"
+  },
+  {
+    "id": "704018901925888",
+    "key": "Task.MutantExtermination.Title.PestControl",
+    "en": "Pest Control",
+    "pl": "Zwalczanie szkodników"
+  },
+  {
+    "id": "704018927091712",
+    "key": "Task.MutantExtermination.Title.WastelandPurger",
+    "en": "Wasteland Purger",
+    "pl": "Czyściciel pustkowi"
+  },
+  {
+    "id": "704018927091713",
+    "key": "Task.MutantExtermination.Title.MutantExtermination",
+    "en": "Mutant Extermination",
+    "pl": "Eksterminacja mutantów"
+  },
+  {
+    "id": "704018927091714",
+    "key": "Task.MutantExtermination.Title.MutantDisposal",
+    "en": "Mutant Disposal",
+    "pl": "Usuwanie mutantów"
+  },
+  {
+    "id": "704018927091715",
+    "key": "Task.MutantExtermination.Title.CreatureClean-Up",
+    "en": "Creature Clean-Up",
+    "pl": "Porządki z potworami"
+  },
+  {
+    "id": "704018927091716",
+    "key": "Task.MutantExtermination.Description",
+    "en": "Mutants causing too much trouble lately. Got a job to thin out their numbers, even if just for a bit.",
+    "pl": "Mutanty sprawiają ostatnio zbyt wiele kłopotów. Mam nieco przetrzebić ich szeregi, choćby na chwilę."
+  },
+  {
+    "id": "704018927091717",
+    "key": "Task.SupplyRun.Title.VitalRecovery",
+    "en": "Vital Recovery",
+    "pl": "Odzyskać to, co niezbędne"
+  },
+  {
+    "id": "704018927091718",
+    "key": "Task.SupplyRun.Title.MedicaMule",
+    "en": "Medical Mule",
+    "pl": "Tragarz medykamentów"
+  },
+  {
+    "id": "704018927091719",
+    "key": "Task.SupplyRun.Title.MedicCourier",
+    "en": "Medical Courier",
+    "pl": "Kurier medyczny"
+  },
+  {
+    "id": "704018927091720",
+    "key": "Task.SupplyRun.Title.MedicalEmergency",
+    "en": "Medical Emergency",
+    "pl": "Nagły przypadek"
+  },
+  {
+    "id": "704018927091721",
+    "key": "Task.SupplyRun.Title.HealingHand",
+    "en": "Healing Hand",
+    "pl": "Pomocna dłoń"
+  },
+  {
+    "id": "704018927091722",
+    "key": "Task.SupplyRun.Description",
+    "en": "Was asked to find a few supplies for a certain person. This type of job is our bread and butter.",
+    "pl": "Mam znaleźć trochę zaopatrzenia dla pewnej osoby. Taka robota to nasz chleb powszedni."
+  },
+  {
+    "id": "704018927091726",
+    "key": "Task.KillBandits.Description",
+    "en": "I've been hired to kill off some people. Gotta be smart about this.",
+    "pl": "Wynajęto mnie do zabicia kilku ludzi. Muszę podejść do tego z głową."
+  },
+  {
+    "id": "704018931286018",
+    "key": "Task.FindMissingItem.Description",
+    "en": "An important item has gone missing somewhere in the area. I was asked to find it and bring it back before someone else gets to it.",
+    "pl": "Gdzieś w okolicy zaginął ważny przedmiot. Mam go znaleźć i przynieść, zanim dopadnie go ktoś inny."
+  },
+  {
+    "id": "707460756176896",
+    "key": "Task.KillBandits.Title.NoSafePassage",
+    "en": "No Safe Passage",
+    "pl": "Niebezpieczne przejście"
+  },
+  {
+    "id": "707460785537024",
+    "key": "Task.KillBandits.Title.ClearTheHills",
+    "en": "Clear the Hills",
+    "pl": "Oczyścić wzgórza"
+  },
+  {
+    "id": "707460785537025",
+    "key": "Task.KillBandits.Title.BanditTroubleUpNorth",
+    "en": "Bandit Trouble Up North",
+    "pl": "Bandyci na północy"
+  },
+  {
+    "id": "707460785537026",
+    "key": "Task.FindMissingItem.Title.LostNotGone",
+    "en": "Lost, But Not Forever",
+    "pl": "Zgubione, nie stracone"
+  },
+  {
+    "id": "707460789731328",
+    "key": "Task.FindMissingItem.Title.ForMyHandsOnly",
+    "en": "For My Hands Only",
+    "pl": "Tylko do moich rąk"
+  },
+  {
+    "id": "707460789731329",
+    "key": "Task.FindMissingItem.Title.SomewhereOutThere",
+    "en": "Somewhere Out There",
+    "pl": "Gdzieś tam"
+  },
+  {
+    "id": "36611571460374528",
+    "key": "Quest.Mending_Ties.Title",
+    "en": "Mending Ties",
+    "pl": "Odbudowa więzi"
+  },
+  {
+    "id": "36611571485540352",
+    "key": "Quest.Mending_Ties.Subtitle",
+    "en": "Relationships are important",
+    "pl": "Relacje mają znaczenie"
+  },
+  {
+    "id": "36611571485540353",
+    "key": "Quest.Mending_Ties.Description",
+    "en": "Recovering lost reputation.",
+    "pl": "Odzyskiwanie utraconej reputacji."
+  },
+  {
+    "id": "36611571485540354",
+    "key": "Quest.Mending_Ties.CompleteDescription",
+    "en": "I've recovered my reputation.",
+    "pl": "Odzyskałem reputację."
+  },
+  {
+    "id": "39136232639332352",
+    "key": "Quest.Crops_And_Robbers_QuestSO.Title",
+    "en": "Crops and Robbers",
+    "pl": "Plony i rabusie"
+  },
+  {
+    "id": "39136232664498176",
+    "key": "Quest.Crops_And_Robbers_QuestSO.Subtitle",
+    "en": "Working unfamiliar fields",
+    "pl": "Na nieznanym gruncie"
+  },
+  {
+    "id": "39136232664498177",
+    "key": "Quest.Crops_And_Robbers_QuestSO.Description",
+    "en": "Bogdan trying to teach me farm work – typical Rada\n\nLots of running around, gathering, making deliveries, taking care of pests\n\nLet’s see how I do",
+    "pl": "Bogdan próbuje nauczyć mnie pracy na roli — typowe dla Rady.\n\nDużo biegania, zbierania, dostaw i tępienia szkodników.\n\nZobaczymy, jak mi pójdzie."
+  },
+  {
+    "id": "39136232664498178",
+    "key": "Quest.Crops_And_Robbers_QuestSO.CompleteDescription",
+    "en": "Bogdan trying to teach me farm work – surprisingly tough\n\nLots of running around, gathering, making deliveries, taking care of pests\n\nAnd always a risk of Bandits\n\nNot sure on Rada, but – maybe not everything should be resolved by lone Vultures",
+    "pl": "Bogdan próbował nauczyć mnie pracy na roli — zaskakująco ciężka robota.\n\nDużo biegania, zbierania, dostaw i tępienia szkodników.\n\nDo tego ciągłe zagrożenie ze strony Bandytów.\n\nNie wiem, co myśleć o Radzie, ale może nie wszystko powinny załatwiać samotne Sępy."
+  },
+  {
+    "id": "39136232664498179",
+    "key": "QuestObjective.SQ21_Deliver_Berries_To_Rosa",
+    "en": "Deliver 15 Berries to Rosa",
+    "pl": "Dostarcz Rosie 15 jagód"
+  },
+  {
+    "id": "39136232664498180",
+    "key": "QuestObjective.SQ21_Get_Back_To_Bogdan",
+    "en": "Get back to Bogdan",
+    "pl": "Wróć do Bogdana"
+  },
+  {
+    "id": "39136232664498181",
+    "key": "QuestObjective.SQ21_Get_Lime_With_Anatoly",
+    "en": "Get bucket of lime with Anatoly",
+    "pl": "Zdobądź wiadro wapna u Anatoly'ego"
+  },
+  {
+    "id": "39136232664498182",
+    "key": "QuestObjective.SQ21_Kill_Rats",
+    "en": "Kill the Rats (West field)",
+    "pl": "Zabij szczury (zachodnie pole)"
+  },
+  {
+    "id": "46363101264642048",
+    "key": "Quest.God_Willing_QuestSO.Title",
+    "en": "God Willing",
+    "pl": "Jeśli Bóg pozwoli"
+  },
+  {
+    "id": "46363101302390784",
+    "key": "Quest.God_Willing_QuestSO.Subtitle",
+    "en": "Intervention, but not divine",
+    "pl": "Interwencja, lecz nie boska"
+  },
+  {
+    "id": "46363101302390785",
+    "key": "Quest.God_Willing_QuestSO.Description",
+    "en": "Local Acolyte needs her supplies – missing during delivery\n\nPointed me towards Church – should investigate",
+    "pl": "Miejscowa Akolitka potrzebuje zapasów — zaginęły podczas dostawy.\n\nWskazała kościół — powinienem to sprawdzić."
+  },
+  {
+    "id": "46363101302390786",
+    "key": "Quest.God_Willing_QuestSO.CompleteDescription",
+    "en": "Found supplies intended for a local Acolyte after a long investigation\n\nNot sure it was all worth the hassle",
+    "pl": "Po długim śledztwie znalazłem zapasy przeznaczone dla miejscowej Akolitki.\n\nNie wiem, czy było warto tyle się trudzić."
+  },
+  {
+    "id": "46363101302390787",
+    "key": "QuestObjective.Jasna_Find_Acolyte",
+    "en": "Find the Acolyte",
+    "pl": "Znajdź Akolitę"
+  },
+  {
+    "id": "46363101302390788",
+    "key": "QuestObjective.Read_Bandit_Note",
+    "en": "Read Bandit's Note",
+    "pl": "Przeczytaj notatkę Bandyty"
+  },
+  {
+    "id": "46363101302390789",
+    "key": "QuestObjective.Find_Acolyte_Stash",
+    "en": "Find the Acolyte's supplies",
+    "pl": "Znajdź zapasy Akolity"
+  },
+  {
+    "id": "46363101302390790",
+    "key": "QuestObjective.Get_Back_To_Jasna",
+    "en": "Report back to Jasna",
+    "pl": "Zdaj relację Jasnie"
+  },
+  {
+    "id": "57259689625288704",
+    "key": "QuestObjective.SQ21_Kill_Bandit_Squad",
+    "en": "Kill all bandits",
+    "pl": "Zabij wszystkich bandytów"
+  },
+  {
+    "id": "57259689658843136",
+    "key": "Quest.Scorched_Earth_QuestSO.Title",
+    "en": "Scorched Earth",
+    "pl": "Spalona ziemia"
+  },
+  {
+    "id": "57259689658843137",
+    "key": "Quest.Scorched_Earth_QuestSO.Subtitle",
+    "en": "There is no hope",
+    "pl": "Nie ma nadziei"
+  },
+  {
+    "id": "57259689658843138",
+    "key": "Quest.Scorched_Earth_QuestSO.Description",
+    "en": "Alexei says Villa's been attacked\n\nMy shack, my things – must check",
+    "pl": "Alexei mówi, że zaatakowano Willę.\n\nMoja chata, moje rzeczy — muszę sprawdzić."
+  },
+  {
+    "id": "57259689658843139",
+    "key": "Quest.Scorched_Earth_QuestSO.CompleteDescription",
+    "en": "Gone. It’s all gone\nCan’t leave anymore – no gear, no provisions for road\nNo hope",
+    "pl": "Przepadło. Wszystko przepadło.\nJuż nie mogę odejść — nie mam sprzętu ani zapasów na drogę.\nNie ma nadziei."
+  },
+  {
+    "id": "57259689658843140",
+    "key": "QuestObjective.Inspect_Rodion_Tent",
+    "en": "Inspect Rodion's Shack",
+    "pl": "Obejrzyj chatę Rodiona"
+  },
+  {
+    "id": "57259689658843141",
+    "key": "QuestObjective.Find_Old_Stash",
+    "en": "Find Old Stash",
+    "pl": "Znajdź starą skrytkę"
+  },
+  {
+    "id": "58331126034591744",
+    "key": "QuestObjective.Return_To_Raisa",
+    "en": "Return to Raisa",
+    "pl": "Wróć do Raisy"
+  },
+  {
+    "id": "58331592919347200",
+    "key": "QuestObjective.Talk_To_Raisa",
+    "en": "Talk to Raisa",
+    "pl": "Porozmawiaj z Raisą"
+  },
+  {
+    "id": "59787026463956992",
+    "key": "Quest.Saving_Face.Title",
+    "en": "Saving Face",
+    "pl": "Zachować twarz"
+  },
+  {
+    "id": "59787026497511424",
+    "key": "Quest.Saving_Face.Subtitle",
+    "en": "All for a little peace",
+    "pl": "Wszystko dla odrobiny spokoju"
+  },
+  {
+    "id": "59787026497511425",
+    "key": "Quest.Saving_Face.Description",
+    "en": "Got too aggressive with folks around here\n\nMaybe some other Vulture can help make amends",
+    "pl": "Za bardzo naraziłem się tutejszym ludziom.\n\nMoże inny Sęp pomoże mi to naprawić."
+  },
+  {
+    "id": "59787026497511426",
+    "key": "Quest.Saving_Face.CompleteDescription",
+    "en": "Raisa managed to help mend my reputation. Says I can just pay her next time\n\nShould be a lifesaver – combat in Zalesye can’t always be avoided",
+    "pl": "Raisa pomogła mi odbudować reputację. Mówi, że następnym razem wystarczy jej zapłacić.\n\nMoże uratować mi skórę — w Zalesye nie zawsze da się uniknąć walki."
+  },
+  {
+    "id": "63429897491918848",
+    "key": "Quest.Chasing_Muses_QuestSO.Title",
+    "en": "Chasing Muses",
+    "pl": "W pogoni za muzami"
+  },
+  {
+    "id": "63429897517084672",
+    "key": "Quest.Chasing_Muses_QuestSO.Subtitle",
+    "en": "A matter of repertoire",
+    "pl": "Kwestia repertuaru"
+  },
+  {
+    "id": "63429897517084673",
+    "key": "Quest.Chasing_Muses_QuestSO.Description",
+    "en": "Seamster at Mire asked for a lot of different clothes, materials\n\nSomething I should keep in mind while handling other things",
+    "pl": "Krawcowa z Trzęsawiska poprosiła o rozmaite ubrania i materiały.\n\nPowinienem o tym pamiętać, zajmując się innymi sprawami."
+  },
+  {
+    "id": "63429897517084674",
+    "key": "Quest.Chasing_Muses_QuestSO.CompleteDescription",
+    "en": "Seamster at Mire asked for a lot of different clothes, materials\n\nTook me a while, but got all she requested – multiple trips\n\nNow Vesna and Yefim get to expand their shops – and I get something for my efforts",
+    "pl": "Krawcowa z Trzęsawiska poprosiła o rozmaite ubrania i materiały.\n\nTrochę to zajęło, ale zdobyłem wszystko — kilka kursów.\n\nTeraz Vesna i Yefim mogą rozwinąć sklepy, a ja dostanę coś za swój trud."
+  },
+  {
+    "id": "63429897517084675",
+    "key": "QuestObjective.Deliver_Acolyte_Garments",
+    "en": "Deliver Acolyte Garments",
+    "pl": "Dostarcz odzież Akolitów"
+  },
+  {
+    "id": "63429897517084676",
+    "key": "QuestObjective.Deliver_Bandits_Garments",
+    "en": "Deliver Bandits Garments",
+    "pl": "Dostarcz odzież Bandytów"
+  },
+  {
+    "id": "63429897517084677",
+    "key": "QuestObjective.Deliver_Commonfolk_Garments",
+    "en": "Deliver Commonfolk Garments",
+    "pl": "Dostarcz odzież Zwykłych Ludzi"
+  },
+  {
+    "id": "63429897517084678",
+    "key": "QuestObjective.Deliver_Gunners_Garments",
+    "en": "Deliver Gunners Garments",
+    "pl": "Dostarcz odzież Strzelców"
+  },
+  {
+    "id": "63429897517084679",
+    "key": "QuestObjective.Deliver_Mechanists_Garments",
+    "en": "Deliver Mechanists Garments",
+    "pl": "Dostarcz odzież Mechanistów"
+  },
+  {
+    "id": "63429897517084680",
+    "key": "QuestObjective.Deliver_Mudlarks_Garments",
+    "en": "Deliver Mudlarks Garments",
+    "pl": "Dostarcz odzież Błotniarzy"
+  },
+  {
+    "id": "63429897517084681",
+    "key": "QuestObjective.Deliver_Palatines_Garments",
+    "en": "Deliver Palatines Garments",
+    "pl": "Dostarcz odzież Palatynów"
+  },
+  {
+    "id": "63429897517084682",
+    "key": "QuestObjective.Deliver_Rada_Garments",
+    "en": "Deliver Rada Garments",
+    "pl": "Dostarcz odzież Rady"
+  },
+  {
+    "id": "63429897517084683",
+    "key": "QuestObjective.Deliver_Vulture_Garments",
+    "en": "Deliver Vulture Garments",
+    "pl": "Dostarcz odzież Sępów"
+  },
+  {
+    "id": "63429897517084684",
+    "key": "QuestObjective.Find_Acolytes_Garments",
+    "en": "Find Acolytes Garments",
+    "pl": "Znajdź odzież Akolitów"
+  },
+  {
+    "id": "63429897517084685",
+    "key": "QuestObjective.Find_Bandits_Garments",
+    "en": "Find Bandits Garments",
+    "pl": "Znajdź odzież Bandytów"
+  },
+  {
+    "id": "63429897517084686",
+    "key": "QuestObjective.Find_Commonfolk_Garments",
+    "en": "Find Commonfolk Garments",
+    "pl": "Znajdź odzież Zwykłych Ludzi"
+  },
+  {
+    "id": "63429897517084687",
+    "key": "QuestObjective.Find_Gunners_Garments",
+    "en": "Find Gunners Garments",
+    "pl": "Znajdź odzież Strzelców"
+  },
+  {
+    "id": "63429897517084688",
+    "key": "QuestObjective.Find_Mechanists_Garments",
+    "en": "Find Mechanists Garments",
+    "pl": "Znajdź odzież Mechanistów"
+  },
+  {
+    "id": "63429897517084689",
+    "key": "QuestObjective.Find_Mudlarks_Garments",
+    "en": "Find Mudlarks Garments",
+    "pl": "Znajdź odzież Błotniarzy"
+  },
+  {
+    "id": "63429897517084690",
+    "key": "QuestObjective.Find_Palatines_Garments",
+    "en": "Find Palatines Garments",
+    "pl": "Znajdź odzież Palatynów"
+  },
+  {
+    "id": "63429897517084691",
+    "key": "QuestObjective.Find_Rada_Garments",
+    "en": "Find Rada Garments",
+    "pl": "Znajdź odzież Rady"
+  },
+  {
+    "id": "63429897517084692",
+    "key": "QuestObjective.Find_Vultures_Garments",
+    "en": "Find Vulture Garments",
+    "pl": "Znajdź odzież Sępów"
+  },
+  {
+    "id": "64788087865421824",
+    "key": "QuestObjective.SQ22_Report_Back_To_Vesna",
+    "en": "Report Back To Vesna",
+    "pl": "Zdaj relację Vesnie"
+  },
+  {
+    "id": "81917235078135808",
+    "key": "Quest.Selected_Reserve.Title",
+    "en": "Selected Reserve",
+    "pl": "Wybrana rezerwa"
+  },
+  {
+    "id": "81917235103301632",
+    "key": "Quest.Selected_Reserve.Subtitle",
+    "en": "Earning some rest",
+    "pl": "Zasłużyć na odpoczynek"
+  },
+  {
+    "id": "81917235103301633",
+    "key": "Quest.Selected_Reserve.Description",
+    "en": "Veteran soldier-hunter needs help setting up near Church – but camp is full of Bandits\n\nAsked me to clear it\n\nFirst step is to talk to her Palatine escort",
+    "pl": "Doświadczona żołnierka i łowczyni chce osiąść koło kościoła — ale obóz jest pełen Bandytów.\n\nMam go oczyścić.\n\nNajpierw trzeba porozmawiać z jej eskortą z Palatynów."
+  },
+  {
+    "id": "81917235103301634",
+    "key": "Quest.Selected_Reserve.CompleteDescription",
+    "en": "Veteran hunter needed help with Bandits, chose me as spotter\n\nLike Vultures on doubles… Good to have backup\n\nNothing fun ever lasts though",
+    "pl": "Doświadczona łowczyni potrzebowała pomocy z Bandytami. Wybrała mnie na obserwatora.\n\nJak Sępy w duecie… Dobrze mieć wsparcie.\n\nAle nic dobrego nie trwa wiecznie."
+  },
+  {
+    "id": "81917235103301635",
+    "key": "QuestObjective.Talk_To_Sasha",
+    "en": "Talk to Sasha",
+    "pl": "Porozmawiaj z Sashą"
+  },
+  {
+    "id": "81917235103301636",
+    "key": "QuestObjective.Clear_Bandit_Camp",
+    "en": "Clear the Bandit camp",
+    "pl": "Oczyść obóz Bandytów"
+  },
+  {
+    "id": "81917235103301637",
+    "key": "QuestObjective.Report_Back_To_Tajra",
+    "en": "Report back to Tajra",
+    "pl": "Zdaj relację Tajrze"
+  },
+  {
+    "id": "102201465320914944",
+    "key": "Quest.Inhuman Knowledge.Title",
+    "en": "Inhuman Knowledge",
+    "pl": "Nieludzka wiedza"
+  },
+  {
+    "id": "102201465383829504",
+    "key": "Quest.Inhuman Knowledge.Subtitle",
+    "en": "What's best left secret",
+    "pl": "Lepiej nie wiedzieć"
+  },
+  {
+    "id": "102201465383829505",
+    "key": "Quest.Inhuman Knowledge.Description",
+    "en": "Tipped off by Anatoly – another scientist wants help with Aspects. Find her at Sontse.",
+    "pl": "Anatoly dał mi cynk — inna badaczka potrzebuje pomocy z Aspektami. Znajdę ją w Sontse."
+  },
+  {
+    "id": "102201465383829506",
+    "key": "Quest.Inhuman Knowledge.CompleteDescription",
+    "en": "Nadja had theory on killing Aspects. Was wrong.\n\nI was the guinea pig. Found a powerful Core, had a vision, it disappeared. Aspects still around.\n\nThe fuck happened? Can’t explain what I saw.",
+    "pl": "Nadja miała teorię o zabijaniu Aspektów. Myliła się.\n\nByłem królikiem doświadczalnym. Znalazłem potężny Rdzeń, miałem wizję, a potem zniknął. Aspekty nadal tu są.\n\nCo się, kurwa, stało? Nie umiem wyjaśnić tego, co widziałem."
+  },
+  {
+    "id": "102201465383829507",
+    "key": "QuestObjective.Talk_To_Nadja",
+    "en": "Find Nadezhda at Sontse Station",
+    "pl": "Znajdź Nadezhdę na stacji Sontse"
+  },
+  {
+    "id": "102201465383829508",
+    "key": "QuestObjective.Investigate_Plane_Crash_Site",
+    "en": "Investigate the plane crash site",
+    "pl": "Zbadaj miejsce katastrofy samolotu"
+  },
+  {
+    "id": "102201465383829509",
+    "key": "QuestObjective.Defeat_Controller",
+    "en": "Defeat the Neurogeist",
+    "pl": "Pokonaj Neurogeista"
+  },
+  {
+    "id": "102201465383829510",
+    "key": "QuestObjective.Take_Blood_Core",
+    "en": "Take the strange Core that appeared",
+    "pl": "Zabierz dziwny Rdzeń, który się pojawił"
+  },
+  {
+    "id": "102201465383829511",
+    "key": "QuestObjective.Report_To_Nadja",
+    "en": "Report back to Nadja",
+    "pl": "Zdaj relację Nadji"
+  },
+  {
+    "id": "102201465383829512",
+    "key": "QuestObjective.MQ06_Report_To_Anatoly_CC",
+    "en": "Return the Core to Anatoly",
+    "pl": "Oddaj Rdzeń Anatoly'emu"
+  },
+  {
+    "id": "105395915643830272",
+    "key": "Quest.The_Dead_Zone.Title",
+    "en": "The Dead Zone",
+    "pl": "Martwa strefa"
+  },
+  {
+    "id": "105395915740299264",
+    "key": "Quest.The_Dead_Zone.Subtitle",
+    "en": "A land without answers",
+    "pl": "Kraina bez odpowiedzi"
+  },
+  {
+    "id": "105395915740299265",
+    "key": "Quest.The_Dead_Zone.Description",
+    "en": "Lost after having visions from strange Core – who could help me?\n\nGot a feeling I’ve talked to someone about visions before… Near the Mire…",
+    "pl": "Zagubiony po wizjach wywołanych dziwnym Rdzeniem — kto może mi pomóc?\n\nMam wrażenie, że już z kimś rozmawiałem o wizjach… Koło Trzęsawiska…"
+  },
+  {
+    "id": "105395915740299266",
+    "key": "Quest.The_Dead_Zone.CompleteDescription",
+    "en": "Finally convinced Snezhana to let me into the Bunker\n\nWhere I might find compounds for drugs that can give me those visions again\n\nIf I see the Great Trains again… Might find my way out of Zalesye",
+    "pl": "W końcu przekonałem Snezhanę, żeby wpuściła mnie do bunkra.\n\nMoże znajdę tam składniki narkotyku, który pozwoli mi znów doświadczyć tych wizji.\n\nJeśli ponownie zobaczę Wielkie Pociągi… Może odnajdę drogę z Zalesye."
+  },
+  {
+    "id": "105395915740299267",
+    "key": "QuestObjective.Talk_To_Vera_Zoran",
+    "en": "Talk to the twins at the Hospital",
+    "pl": "Porozmawiaj z bliźniętami w szpitalu"
+  },
+  {
+    "id": "105395915740299268",
+    "key": "QuestObjective.Talk_To_Marko",
+    "en": "Talk to the Marko, at the Mire",
+    "pl": "Porozmawiaj z Markiem na Trzęsawisku"
+  },
+  {
+    "id": "105395915740299269",
+    "key": "QuestObjective.Bring_Marko_Alcohol",
+    "en": "Find some alcohol for Marko",
+    "pl": "Znajdź trochę alkoholu dla Marka"
+  },
+  {
+    "id": "105395915740299270",
+    "key": "QuestObjective.Talk_To_Gavron",
+    "en": "Talk to Gavron, the Mudlark",
+    "pl": "Porozmawiaj z Gavronem, Błotniarzem"
+  },
+  {
+    "id": "105395915740299271",
+    "key": "QuestObjective.Talk_To_Snezhana",
+    "en": "Talk to Snezhana at the Microrayon",
+    "pl": "Porozmawiaj ze Snezhaną w Mikrorajonie"
+  },
+  {
+    "id": "105395915740299272",
+    "key": "QuestObjective.Deliver_Medved_Guns_To_Snezhana",
+    "en": "Deliver Medved Guns to Snezhana",
+    "pl": "Dostarcz Snezhanie broń Medved"
+  },
+  {
+    "id": "106481334698647552",
+    "key": "QuestObjective.MQ09_Enter_Microrayon_Bunker",
+    "en": "Enter the Microrayon Bunker",
+    "pl": "Wejdź do bunkra w Mikrorajonie"
+  },
+  {
+    "id": "106481334744784896",
+    "key": "Quest.Crows_Are_Singing.Subtitle",
+    "en": "The search continues",
+    "pl": "Poszukiwania trwają"
+  },
+  {
+    "id": "106481334744784897",
+    "key": "Quest.Crows_Are_Singing.Description",
+    "en": "Got permission to enter dangerous Bunker. Drug compounds should be inside\n\nNeed to keep going – having those visions again will be worth it",
+    "pl": "Mam pozwolenie na wejście do niebezpiecznego bunkra. Składniki narkotyku powinny być w środku.\n\nMuszę iść dalej — warto, żeby znowu zobaczyć te wizje."
+  },
+  {
+    "id": "106481334744784898",
+    "key": "Quest.Crows_Are_Singing.CompleteDescription",
+    "en": "Found drug compounds at Bunker, barely made it out\n\nBut this is a strange, remote place\n\nMudlarks all around… And… A Bandit?!",
+    "pl": "Znalazłem składniki narkotyku w bunkrze. Ledwo uszedłem z życiem.\n\nAle to dziwne, odludne miejsce.\n\nWszędzie Błotniarze… I… Bandyta?!"
+  },
+  {
+    "id": "106486816259710976",
+    "key": "Quest.Crows_Are_Singing.Title",
+    "en": "Singing Crows",
+    "pl": "Śpiew wron"
+  },
+  {
+    "id": "106486816293265408",
+    "key": "QuestObjective.MQ09_Find_Drug_Compounds",
+    "en": "Find Drug Compounds",
+    "pl": "Znajdź składniki narkotyku"
+  },
+  {
+    "id": "106486816293265409",
+    "key": "QuestObjective.MQ09_Find_A_Way_Out",
+    "en": "Find a way out",
+    "pl": "Znajdź wyjście"
+  },
+  {
+    "id": "106486816293265410",
+    "key": "QuestObjective.MQ09_Leave_The_Bunker",
+    "en": "Leave the Bunker",
+    "pl": "Opuść bunkier"
+  },
+  {
+    "id": "109452175038513152",
+    "key": "Quest.Catching Current.CompleteDescription",
+    "en": "At Home In Zakrajev",
+    "pl": "Dom w Zakrajev"
+  },
+  {
+    "id": "109452175105622016",
+    "key": "QuestObjective.Kill_Big_Rat",
+    "en": "Kill the Mother Mora",
+    "pl": "Zabij matkę mor"
+  },
+  {
+    "id": "109452175105622017",
+    "key": "QuestObjective.SQ22_Deliver_Faction_Garments",
+    "en": "Deliver Faction Garments",
+    "pl": "Dostarcz odzież frakcji"
+  },
+  {
+    "id": "109728666253328384",
+    "key": "Quest.Inhuman_Knowledge.Title",
+    "en": "Inhuman Knowledge",
+    "pl": "Nieludzka wiedza"
+  },
+  {
+    "id": "109728666400129024",
+    "key": "Quest.Inhuman_Knowledge.Subtitle",
+    "en": "What’s best left secret",
+    "pl": "Lepiej nie wiedzieć"
+  },
+  {
+    "id": "109728666400129025",
+    "key": "Quest.Inhuman_Knowledge.Description",
+    "en": "Tipped off by Anatoly – another scientist wants help with Aspects. Find her at Sontse.",
+    "pl": "Anatoly dał mi cynk — inna badaczka potrzebuje pomocy z Aspektami. Znajdę ją w Sontse."
+  },
+  {
+    "id": "109728666400129026",
+    "key": "Quest.Inhuman_Knowledge.CompleteDescription",
+    "en": "Nadja had theory on killing Aspects. Was wrong.\n\nI was the guinea pig. Found a powerful Core, had a vision, it disappeared. Aspects still around.\n\nThe fuck happened? Can’t explain what I saw.",
+    "pl": "Nadja miała teorię o zabijaniu Aspektów. Myliła się.\n\nByłem królikiem doświadczalnym. Znalazłem potężny Rdzeń, miałem wizję, a potem zniknął. Aspekty nadal tu są.\n\nCo się, kurwa, stało? Nie umiem wyjaśnić tego, co widziałem."
+  },
+  {
+    "id": "109763150960984064",
+    "key": "QuestObjective.Leave_The_Bunker",
+    "en": "Leave the Bunker",
+    "pl": "Opuść bunkier"
+  },
+  {
+    "id": "109763151011315712",
+    "key": "QuestObjective.Kill_Enemies_At_Location",
+    "en": "Clear the area of threats",
+    "pl": "Oczyść teren z zagrożeń"
+  },
+  {
+    "id": "109763151011315713",
+    "key": "QuestObjective.Report_To_Zhivan",
+    "en": "Report back to Zhivan, the Vulture",
+    "pl": "Zdaj relację Zhivanowi, Sępowi"
+  },
+  {
+    "id": "109763151011315714",
+    "key": "QuestObjective.Talk_To_Zhivan",
+    "en": "Talk to the Vulture nearby",
+    "pl": "Porozmawiaj z pobliskim Sępem"
+  },
+  {
+    "id": "109763151011315715",
+    "key": "QuestObjective.Find_Artefact",
+    "en": "Use the Detector near the Aspect",
+    "pl": "Użyj detektora w pobliżu Aspektu"
+  },
+  {
+    "id": "109763151011315716",
+    "key": "QuestObjective.Report_To_Anatoly_CC",
+    "en": "Deliver the Flux Core to Anatoly",
+    "pl": "Dostarcz Rdzeń Strumienia Anatoly'emu"
+  },
+  {
+    "id": "109763151011315717",
+    "key": "QuestObjective.Talk_To_Anatoly_CC",
+    "en": "Talk to Anatoly about this new request",
+    "pl": "Porozmawiaj z Anatolym o nowym zleceniu"
+  },
+  {
+    "id": "109763151015510016",
+    "key": "QuestObjective.Enter_Microrayon_Bunker",
+    "en": "Enter the Microrayon Bunker",
+    "pl": "Wejdź do bunkra w Mikrorajonie"
+  },
+  {
+    "id": "109763151015510017",
+    "key": "QuestObjective.Find_A_Way_Out",
+    "en": "Find a way out",
+    "pl": "Znajdź wyjście"
+  },
+  {
+    "id": "109763151015510018",
+    "key": "QuestObjective.Find_Drug_Compounds",
+    "en": "Find the Drug Compounds",
+    "pl": "Znajdź składniki narkotyku"
+  },
+  {
+    "id": "109763151015510019",
+    "key": "QuestObjective.Pass_The_Barrier_Obective",
+    "en": "Pass the corpse barrier",
+    "pl": "Przejdź przez zaporę ze zwłok"
+  },
+  {
+    "id": "109763151015510020",
+    "key": "QuestObjective.Report_To_Sasha",
+    "en": "Report to Sasha",
+    "pl": "Zdaj relację Sashy"
+  },
+  {
+    "id": "109763151015510021",
+    "key": "QuestObjective.Report_To_Tajra",
+    "en": "Report to Tajra",
+    "pl": "Zdaj relację Tajrze"
+  },
+  {
+    "id": "109763151015510022",
+    "key": "QuestObjective.Deliver_Berries_To_Rosa",
+    "en": "Deliver 15 Berries to Rosa",
+    "pl": "Dostarcz Rosie 15 jagód"
+  },
+  {
+    "id": "109763151015510023",
+    "key": "QuestObjective.Get_Back_To_Bogdan",
+    "en": "Get back to Bogdan",
+    "pl": "Wróć do Bogdana"
+  },
+  {
+    "id": "109763151015510024",
+    "key": "QuestObjective.Get_Lime_With_Anatoly",
+    "en": "Get bucket of lime with Anatoly",
+    "pl": "Zdobądź wiadro wapna u Anatoly'ego"
+  },
+  {
+    "id": "109763151015510025",
+    "key": "QuestObjective.Kill_Bandit_Squad",
+    "en": "Kill all Bandits",
+    "pl": "Zabij wszystkich Bandytów"
+  },
+  {
+    "id": "109763151015510026",
+    "key": "QuestObjective.Kill_Rats",
+    "en": "Kill the Rats",
+    "pl": "Zabij szczury"
+  },
+  {
+    "id": "109763151015510027",
+    "key": "QuestObjective.Deliver_Faction_Garments",
+    "en": "Deliver Faction Garments",
+    "pl": "Dostarcz odzież frakcji"
+  },
+  {
+    "id": "109763151015510028",
+    "key": "QuestObjective.Report_Back_To_Vesna",
+    "en": "Report Back To Vesna",
+    "pl": "Zdaj relację Vesnie"
+  },
+  {
+    "id": "111898729504563200",
+    "key": "TaskObjective.KillSquad.ObjectiveDescription",
+    "en": "Kill an enemy squad",
+    "pl": "Zlikwiduj wrogi oddział"
+  },
+  {
+    "id": "113317692990021632",
+    "key": "Task.KillBandits.Title",
+    "en": "Hunt",
+    "pl": "Polowanie"
+  },
+  {
+    "id": "113317693153599488",
+    "key": "Task.ReputationQuest_Rada.Title",
+    "en": "Repair standing with Rada",
+    "pl": "Odbuduj reputację u Rady"
+  },
+  {
+    "id": "113317693153599489",
+    "key": "Task.ReputationQuest_Rada.Description",
+    "en": "I need to redeem myself in the eyes of the Rada. They'll probably forgive me if I bring them supplies and food.",
+    "pl": "Muszę odkupić winy w oczach Rady. Pewnie mi wybaczą, jeśli przyniosę zapasy i jedzenie."
+  },
+  {
+    "id": "113317693153599490",
+    "key": "Task.ReputationQuest_Commonfolk.Title",
+    "en": "Repair standing with Commonfolk",
+    "pl": "Odbuduj reputację u Zwykłych Ludzi"
+  },
+  {
+    "id": "113317693153599491",
+    "key": "Task.ReputationQuest_Commonfolk.Description",
+    "en": "The Commonfolk hate me. Killing a few dangerous Mutants should be enough.",
+    "pl": "Zwykli Ludzie mnie nienawidzą. Zabicie kilku groźnych mutantów powinno wystarczyć."
+  },
+  {
+    "id": "113317693153599492",
+    "key": "Task.ReputationQuest_Acolytes.Title",
+    "en": "Repair standing with Acolytes",
+    "pl": "Odbuduj reputację u Akolitów"
+  },
+  {
+    "id": "113317693153599493",
+    "key": "Task.ReputationQuest_Acolytes.Description",
+    "en": "I've made the Acolytes detest me. Finding a few copies of their scriptures should do it.",
+    "pl": "Akolici nie mogą mnie znieść. Znalezienie kilku egzemplarzy ich świętych pism powinno pomóc."
+  },
+  {
+    "id": "113317693153599494",
+    "key": "Task.ReputationQuest_Mechanists.Title",
+    "en": "Repair standing with Mechanists",
+    "pl": "Odbuduj reputację u Mechanistów"
+  },
+  {
+    "id": "113317693153599495",
+    "key": "Task.ReputationQuest_Mechanists.Description",
+    "en": "I've made Mechanists want to kill me. Salvaging some interesting components and scrap should help.",
+    "pl": "Mechaniści chcą mnie zabić. Zdobycie ciekawych części i złomu powinno pomóc."
+  },
+  {
+    "id": "113317693153599496",
+    "key": "Task.ReputationQuest_Palatines.Title",
+    "en": "Repair standing with Palatines",
+    "pl": "Odbuduj reputację u Palatynów"
+  },
+  {
+    "id": "113317693153599497",
+    "key": "Task.ReputationQuest_Palatines.Description",
+    "en": "Palatines are shooting me on sight. Offering them some guns and ammo should be a good olive branch.",
+    "pl": "Palatyni strzelają do mnie na sam widok. Trochę broni i amunicji powinno być dobrym gestem pojednania."
+  },
+  {
+    "id": "113317693153599498",
+    "key": "Task.ReputationQuest_Gunners.Title",
+    "en": "Repair standing with the Gunners",
+    "pl": "Odbuduj reputację u Strzelców"
+  },
+  {
+    "id": "113317693153599499",
+    "key": "Task.ReputationQuest_Gunners.Description",
+    "en": "Raisa asked me to wipe a hostile squad to repair my standing with the Gunners.",
+    "pl": "Raisa kazała mi zlikwidować wrogi oddział, żeby odbudować reputację u Strzelców."
+  },
+  {
+    "id": "113317693153599500",
+    "key": "Task.ReputationQuest_Mudlarks.Title",
+    "en": "Repair standing with Mudlarks",
+    "pl": "Odbuduj reputację u Błotniarzy"
+  },
+  {
+    "id": "113317693153599501",
+    "key": "Task.ReputationQuest_Mudlarks.Description",
+    "en": "Mudlarks have started to hate me; need to revert this. Gathering valuable Mutant parts should please them.",
+    "pl": "Błotniarze zaczęli mnie nienawidzić. Muszę to zmienić. Powinni ucieszyć się z cennych części mutantów."
+  },
+  {
+    "id": "113317693153599502",
+    "key": "Task.ReputationQuest_Vultures.Title",
+    "en": "Repair standing with Vultures",
+    "pl": "Odbuduj reputację u Sępów"
+  },
+  {
+    "id": "113317693153599503",
+    "key": "Task.ReputationQuest_Vultures.Description",
+    "en": "My Vulture Brothers and Sisters have started to hate me. I should find them some nice gear so they'll forgive me.",
+    "pl": "Moi bracia i siostry z Sępów zaczęli mnie nienawidzić. Powinienem zdobyć dla nich dobry sprzęt, żeby mi wybaczyli."
+  },
+  {
+    "id": "113467638158450688",
+    "key": "Task.SupplyRun.Title",
+    "en": "Supply Run",
+    "pl": "Wyprawa po zapasy"
+  },
+  {
+    "id": "113492219652988928",
+    "key": "Task.FindMissingItem.Title",
+    "en": "Lost, But Not Forever",
+    "pl": "Zgubione, nie stracone"
+  },
+  {
+    "id": "115234227503529984",
+    "key": "QuestObjective.Kill_Rats_East",
+    "en": "Kill the Rats (East field)",
+    "pl": "Zabij szczury (wschodnie pole)"
+  },
+  {
+    "id": "115235943250690048",
+    "key": "QuestObjective.Kill_Rats_West",
+    "en": "Kill the Rats (West field)",
+    "pl": "Zabij szczury (zachodnie pole)"
+  },
+  {
+    "id": "115567082501111808",
+    "key": "CleanupGig.description",
+    "en": "Hunt down a certain Mutant type.",
+    "pl": "Upoluj wskazany rodzaj mutanta."
+  },
+  {
+    "id": "115567082522083328",
+    "key": "CleanupGig.title",
+    "en": "Cleanup Gig",
+    "pl": "Robota porządkowa"
+  },
+  {
+    "id": "115567082522083329",
+    "key": "Manhunt.description",
+    "en": "Eliminate a Bandit squad.",
+    "pl": "Zlikwiduj oddział Bandytów."
+  },
+  {
+    "id": "115567082522083330",
+    "key": "Manhunt.title",
+    "en": "Manhunt",
+    "pl": "Obława"
+  },
+  {
+    "id": "115568388062117888",
+    "key": "Task.SupplyRun.MedicalEmergency.Description",
+    "en": "Medical supplies are getting more scarce and a trader asked me to ressuply then so that we can keep things running for a little longer.",
+    "pl": "Coraz trudniej o zapasy medyczne. Handlarz poprosił mnie o nową dostawę, żebyśmy mogli jeszcze trochę pociągnąć."
+  },
+  {
+    "id": "115569376164642816",
+    "key": "Task.MutantSupplyRun.Description",
+    "en": "Was hired to gather bits and pieces from Mutants and give them to a trader. It's a gross job, but someone's gotta do it.",
+    "pl": "Mam pozbierać części mutantów i dostarczyć je handlarzowi. Obrzydliwa robota, ale ktoś musi ją wykonać."
+  },
+  {
+    "id": "115569376164642817",
+    "key": "Task.MutantSupplyRun.Title",
+    "en": "Mutant Supply Run",
+    "pl": "Wyprawa po części mutantów"
+  }
+]

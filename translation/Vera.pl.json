@@ -1,0 +1,644 @@
+[
+  {
+    "id": "52051779584",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_4UTM",
+    "en": "A dark pit, full of oil fires...",
+    "pl": "Ciemny dół, pełen płonącej ropy..."
+  },
+  {
+    "id": "52068556800",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_997G",
+    "en": "A giant industrial building near the Lake...",
+    "pl": "Ogromny budynek przemysłowy koło jeziora..."
+  },
+  {
+    "id": "52068556801",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_XIDC",
+    "en": "A mass of flesh... Beneath the Earth...",
+    "pl": "Masa mięsa... Pod ziemią..."
+  },
+  {
+    "id": "52068556802",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_RTPP",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "52068556803",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_VF2R",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "52068556804",
+    "key": "09_Vera-Zoran_v1_Talk_BURY",
+    "en": "About those visions...",
+    "pl": "Co do tych wizji..."
+  },
+  {
+    "id": "52068556805",
+    "key": "09_Vera-Zoran_v1_Talk_1XEC",
+    "en": "About your illness...",
+    "pl": "Co do waszej choroby..."
+  },
+  {
+    "id": "52068556806",
+    "key": "09_Vera-Zoran_v1_Talk_GMFS",
+    "en": "And if you just went out? Won't tell.",
+    "pl": "A gdybyście po prostu wyszli? Nie powiem nikomu."
+  },
+  {
+    "id": "52068556807",
+    "key": "09_Vera-Zoran_v1_Talk_7REO",
+    "en": "Call me something else.",
+    "pl": "Nazywaj mnie inaczej."
+  },
+  {
+    "id": "52068556808",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_PGXP",
+    "en": "Can I bother you a bit?",
+    "pl": "Mogę wam chwilę poprzeszkadzać?"
+  },
+  {
+    "id": "52068556809",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_LK3A",
+    "en": "Can we talk a bit?",
+    "pl": "Możemy chwilę pogadać?"
+  },
+  {
+    "id": "52068556810",
+    "key": "09_Vera-Zoran_v1_Talk_T1AW",
+    "en": "Did you see who brought me here?",
+    "pl": "Widziałaś, kto mnie tu przyniósł?"
+  },
+  {
+    "id": "52068556811",
+    "key": "09_Vera-Zoran_v1_Talk_CWNK",
+    "en": "Don't care what you call me.",
+    "pl": "Nie obchodzi mnie, jak mnie nazywasz."
+  },
+  {
+    "id": "52068556812",
+    "key": "09_Vera-Zoran_v1_Talk_BN04",
+    "en": "Don't think I've seen you before.",
+    "pl": "Chyba cię wcześniej nie widziałem."
+  },
+  {
+    "id": "52068556813",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_M3D5",
+    "en": "How did it start?",
+    "pl": "Jak to się zaczęło?"
+  },
+  {
+    "id": "52068556814",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_XEU5",
+    "en": "How do I see all that again? I need those answers.",
+    "pl": "Jak znów to zobaczyć? Potrzebuję odpowiedzi."
+  },
+  {
+    "id": "52068556815",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_MC1W",
+    "en": "How's it going?",
+    "pl": "Jak się macie?"
+  },
+  {
+    "id": "52068556816",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_OF7T",
+    "en": "I had a vision. Something with Mist. And... You two.",
+    "pl": "Miałem wizję. Coś z Mgłą. I... z wami."
+  },
+  {
+    "id": "52068556817",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_FW5H",
+    "en": "I need to go, now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "52068556818",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_ETVE",
+    "en": "I should get going.",
+    "pl": "Powinienem się zbierać."
+  },
+  {
+    "id": "52068556819",
+    "key": "09_Vera-Zoran_v1_Talk_H6WU",
+    "en": "I should get going.",
+    "pl": "Powinienem się zbierać."
+  },
+  {
+    "id": "52068556820",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_1J0Y",
+    "en": "I think I saw you in a vision...",
+    "pl": "Chyba widziałem was w wizji..."
+  },
+  {
+    "id": "52068556821",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_6I5X",
+    "en": "I'll try and find them both. Thank you.",
+    "pl": "Spróbuję ich obu znaleźć. Dziękuję."
+  },
+  {
+    "id": "52068556822",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_VUS0",
+    "en": "Isn't there a cure?",
+    "pl": "Nie ma lekarstwa?"
+  },
+  {
+    "id": "52068556823",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_UC4B",
+    "en": "Lots of drunks around here. Who was he?",
+    "pl": "Dużo tu pijaków. Który to był?"
+  },
+  {
+    "id": "52068556824",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_K2X6",
+    "en": "Saw things I want to see again. To know if they're real.",
+    "pl": "Widziałem coś, co chcę zobaczyć znowu. Sprawdzić, czy to prawda."
+  },
+  {
+    "id": "52068556825",
+    "key": "09_Vera-Zoran_v1_Talk_4FEK",
+    "en": "Sounds tough.",
+    "pl": "Brzmi ciężko."
+  },
+  {
+    "id": "52068556826",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_4ZJT",
+    "en": "The Great Trains... Taking us to Wyraj...",
+    "pl": "Wielkie Pociągi... Wiozące nas do Wyraju..."
+  },
+  {
+    "id": "52068556827",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_XBXG",
+    "en": "Think I saw flashes of my... <i>Our</i> future.",
+    "pl": "Chyba widziałem przebłyski mojej... <i>Naszej</i> przyszłości."
+  },
+  {
+    "id": "52068556828",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_WWGH",
+    "en": "This was a waste of time.",
+    "pl": "To była strata czasu."
+  },
+  {
+    "id": "52068556829",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_BX36",
+    "en": "What are the symptoms?",
+    "pl": "Jakie są objawy?"
+  },
+  {
+    "id": "52068556830",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_NOCC",
+    "en": "What are those visions, exactly?",
+    "pl": "Czym dokładnie są te wizje?"
+  },
+  {
+    "id": "52068556831",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_TBIL",
+    "en": "What do you mean, gross bits?",
+    "pl": "Co masz na myśli, mówiąc o obrzydliwych częściach?"
+  },
+  {
+    "id": "52068556832",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_LUPQ",
+    "en": "Who pays for your treatment, though?",
+    "pl": "Ale kto płaci za wasze leczenie?"
+  },
+  {
+    "id": "52068556833",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_66FQ",
+    "en": "Who takes care of you?",
+    "pl": "Kto się wami opiekuje?"
+  },
+  {
+    "id": "52068556834",
+    "key": "09_Vera-Zoran_v1_Talk_WL37",
+    "en": "Why are you here?",
+    "pl": "Dlaczego tu jesteście?"
+  },
+  {
+    "id": "52068556835",
+    "key": "09_Vera-Zoran_v1_Talk_B0D9",
+    "en": "You know me?",
+    "pl": "Znasz mnie?"
+  },
+  {
+    "id": "52068556836",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_N9B2",
+    "en": "You mentioned visions?",
+    "pl": "Wspominałaś o wizjach?"
+  },
+  {
+    "id": "52068556837",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_MA8B",
+    "en": "You think the Mudlarks would know?",
+    "pl": "Myślisz, że Błotniarze mogą wiedzieć?"
+  },
+  {
+    "id": "52068556838",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_F3SK",
+    "en": "You two were in a vision I had...",
+    "pl": "Byliście oboje w mojej wizji..."
+  },
+  {
+    "id": "52068556839",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_A0AD",
+    "en": "(\"Symp-toms\", Zo-zo. It means how we feel, if it hurts and all that.) It hurts, doesn't it, Zo?",
+    "pl": "(„Ob-ja-wy”, Zo-zo. To znaczy, jak się czujemy, czy boli i w ogóle.) Boli, prawda, Zo?"
+  },
+  {
+    "id": "52068556840",
+    "key": "09_Vera-Zoran_v1_Talk_MA7F",
+    "en": "(What's that, Zo? Oh honey... Sorry I was being scary.) I'm sorry, mister. I'm fine.",
+    "pl": "(Co takiego, Zo? Och, kochanie... Przepraszam, że cię przestraszyłam.) Przepraszam, proszę pana. Nic mi nie jest."
+  },
+  {
+    "id": "52068556841",
+    "key": "09_Vera-Zoran_v1_Talk_5FXG",
+    "en": "(What's that, Zo? Oh yeah.) We also feel tired all the time... Can't play around much. These past two years, we've been mostly... Y'know... Here. In this bed.",
+    "pl": "(Co, Zo? Ach, tak.) Ciągle też jesteśmy zmęczeni... Nie możemy się dużo bawić. Przez ostatnie dwa lata głównie... No... Leżymy tutaj. W łóżku."
+  },
+  {
+    "id": "52068556842",
+    "key": "09_Vera-Zoran_v1_Talk_Y3M2",
+    "en": "(What's that, Zoran? Oh, right...) Sorry, maybe you don't like being called that?",
+    "pl": "(Co, Zoran? Ach, racja...) Przepraszam, może nie lubisz, jak się tak do ciebie mówi?"
+  },
+  {
+    "id": "52068556843",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_FJK4",
+    "en": "(Zo, what can you say? About the drunk man. Hmm. Hm-hmm.) Oh, I think he's that guy who keeps inviting people to parties... He actually invited <i>me</i> and even <i>Zoran,</i> can you imagine?!",
+    "pl": "(Zo, co możesz powiedzieć? O tym pijanym panu. Hmm. Mhm.) Och, chyba to ten, który ciągle zaprasza ludzi na imprezy... Zaprosił nawet <i>mnie</i> i <i>Zorana,</i> wyobrażasz sobie?!"
+  },
+  {
+    "id": "52068556844",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_NWO4",
+    "en": "(Zo, you wanna ask him something?) Was it like the ones we have, like a bird looking down on everything?",
+    "pl": "(Zo, chcesz go o coś zapytać?) To było jak u nas? Jak ptak patrzący z góry na wszystko?"
+  },
+  {
+    "id": "52068556845",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_4IWZ",
+    "en": "(Zoran: H-hi...)",
+    "pl": "(Zoran: C-cześć...)"
+  },
+  {
+    "id": "52068556846",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_T8RO",
+    "en": "A bunch of dead people rising from the black water...?",
+    "pl": "Mnóstwo martwych ludzi wychodzących z czarnej wody...?"
+  },
+  {
+    "id": "52068556847",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_FLNX",
+    "en": "A scary monster... With a big loud heartbeat... Right? (Calm down, Zo-zo. That one's <i>not real.</i>)",
+    "pl": "Straszny potwór... Z wielkim, głośno bijącym sercem... Prawda? (Spokojnie, Zo-zo. Ten <i>nie jest prawdziwy.</i>)"
+  },
+  {
+    "id": "52068556848",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_QDNC",
+    "en": "Alexei is doing his best. But we don't have a lot of hope. Zo thinks the only cure is more Mist, but what does he know? He just saw that in some dream.",
+    "pl": "Alexei robi, co może. Ale nie mamy wielkiej nadziei. Zo uważa, że jedynym lekarstwem jest więcej Mgły, ale skąd może wiedzieć? Zobaczył to w jakimś śnie."
+  },
+  {
+    "id": "52068556849",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_0ZV9",
+    "en": "Alexei. He wipes our bruises with water and a tiny bit of... Uhmm... What's it called? <i>Something</i>-alcohol... (Yes, Zo, that one you <i>can't</i> drink.)",
+    "pl": "Alexei. Przemywa nasze siniaki wodą z odrobiną... Yyy... Jak to się nazywa? <i>Jakiegoś</i> alkoholu... (Tak, Zo, tego, którego <i>nie wolno</i> pić.)"
+  },
+  {
+    "id": "52068556850",
+    "key": "09_Vera-Zoran_v1_GetTalkWhoBrought_LI6H",
+    "en": "Anyway, Mr. Vulture. She's a Palatine. She dragged you in here with some other guy... But I don't think he made it.",
+    "pl": "W każdym razie, panie Sępie, to Palatynka. Przywlokła cię tu z jakimś drugim panem... Ale on chyba nie przeżył."
+  },
+  {
+    "id": "52068556851",
+    "key": "09_Vera-Zoran_v1_GetTalkWhoBrought_K5O1",
+    "en": "Anyway, Returner. She's a Palatine. She dragged you in here with some other guy... But I don't think he made it.",
+    "pl": "W każdym razie, Powracający, to Palatynka. Przywlokła cię tu z jakimś drugim panem... Ale on chyba nie przeżył."
+  },
+  {
+    "id": "52068556852",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutIllness_S7KJ",
+    "en": "Anyway... You seem nice, Mr. Vulture. Thanks for listening... Please let us rest a bit, now.",
+    "pl": "W każdym razie... Wydajesz się miły, panie Sępie. Dzięki, że słuchasz... Teraz pozwól nam trochę odpocząć."
+  },
+  {
+    "id": "52068556853",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutIllness_9FDH",
+    "en": "Anyway... You seem nice, Returner. Thanks for listening... Please let us rest a bit, now.",
+    "pl": "W każdym razie... Wydajesz się miły, Powracający. Dzięki, że słuchasz... Teraz pozwól nam trochę odpocząć."
+  },
+  {
+    "id": "52068556854",
+    "key": "09_Vera-Zoran_v1_Talk_VQJQ",
+    "en": "Are you sure? We're here quite a lot... And you've been here a lot, too!",
+    "pl": "Na pewno? Często tu jesteśmy... A ty też często tu bywałeś!"
+  },
+  {
+    "id": "52068556855",
+    "key": "09_Vera-Zoran_v1_Leave_L9I7",
+    "en": "Be back sometime...",
+    "pl": "Wróć kiedyś..."
+  },
+  {
+    "id": "52068556856",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_QNBQ",
+    "en": "Because of the bodies in the Villa and all. (Zo, don't ask me about that, sweetie.)",
+    "pl": "Przez te ciała w Willi i w ogóle. (Zo, nie pytaj mnie o to, kochanie.)"
+  },
+  {
+    "id": "52068556857",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_7Q00",
+    "en": "But sometimes I feel a tingling. Like I'm <i>supposed</i> to touch the Mist somehow. I don't know... Maybe someday, if I <i>know</i> it won't hurt Zo-zo...",
+    "pl": "Ale czasem czuję mrowienie. Jakbym <i>powinna</i> jakoś dotknąć Mgły. Nie wiem... Może kiedyś, jeśli będę <i>wiedziała,</i> że to nie skrzywdzi Zo-zo..."
+  },
+  {
+    "id": "52068556858",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_NFVZ",
+    "en": "But the pain and the bruises... Being tired all the freaking time... That's just in the last two years. Don't know why...",
+    "pl": "Ale ból i siniaki... I to ciągłe cholerne zmęczenie... Dopiero od dwóch lat. Nie wiem dlaczego..."
+  },
+  {
+    "id": "52068556859",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_SADZ",
+    "en": "But what did you see, mister?",
+    "pl": "Ale co widziałeś, proszę pana?"
+  },
+  {
+    "id": "52068556860",
+    "key": "09_Vera-Zoran_v1_Leave_TW49",
+    "en": "Bye, mister...",
+    "pl": "Pa, proszę pana..."
+  },
+  {
+    "id": "52068556861",
+    "key": "09_Vera-Zoran_v1_Talk_GVSU",
+    "en": "Hehe, forget it. Guess we'll just call you Mr. Vulture!",
+    "pl": "Hehe, nieważne. To będziemy mówić pan Sęp!"
+  },
+  {
+    "id": "52068556862",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_IU7C",
+    "en": "Hello, friend!",
+    "pl": "Cześć, przyjacielu!"
+  },
+  {
+    "id": "52068556863",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_T2TV",
+    "en": "Hey Zoran, look who's come to talk. Say hi.",
+    "pl": "Hej, Zoran, zobacz, kto przyszedł pogadać. Przywitaj się."
+  },
+  {
+    "id": "52068556864",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_VTHK",
+    "en": "Hey, Returner. Remember us? I'm Vera. This is my lil' brother, Zoran. He's shy. I'm not.",
+    "pl": "Cześć, Powracający. Pamiętasz nas? Jestem Vera. To mój młodszy brat, Zoran. On jest nieśmiały. Ja nie."
+  },
+  {
+    "id": "52068556865",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_NDU1",
+    "en": "Hi! So you've finally had a vision, mister Vulture?",
+    "pl": "Cześć! Więc w końcu miałeś wizję, panie Sępie?"
+  },
+  {
+    "id": "52068556866",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_37N0",
+    "en": "Hmmm... The Mudlarks maybe know... They know Mist stuff so much... But no one lets us talk to them...",
+    "pl": "Hmmm... Może Błotniarze wiedzą... Tyle wiedzą o Mgle... Ale nikt nie pozwala nam z nimi rozmawiać..."
+  },
+  {
+    "id": "52068556867",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_Q2BQ",
+    "en": "Hmmm... The visions, we've had since we were <i>very</i> little. Mist! Fog! Scary monsters...",
+    "pl": "Hmmm... Wizje mamy, odkąd byliśmy <i>bardzo</i> mali. Mgła! Opary! Straszne potwory..."
+  },
+  {
+    "id": "52068556868",
+    "key": "09_Vera-Zoran_v1_Talk_RGBZ",
+    "en": "Honestly... Somedays I feel like I'd rather get shot dead by Bandits or ripped into pieces by a nasty Mutant, than lie in this bed a <i>second</i> longer...",
+    "pl": "Szczerze... Czasem wolałabym, żeby Bandyci mnie zastrzelili albo jakiś paskudny Mutant rozerwał na strzępy, niż leżeć w tym łóżku choćby <i>sekundę</i> dłużej..."
+  },
+  {
+    "id": "52068556869",
+    "key": "09_Vera-Zoran_v1_Talk_Y6VC",
+    "en": "How about... (Zoran, do you know his name? No? And he's too scary to ask?)",
+    "pl": "Może... (Zoran, znasz jego imię? Nie? I za straszny, żeby zapytać?)"
+  },
+  {
+    "id": "52068556870",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutVision_I5UC",
+    "en": "I'm not sure... We <i>do</i> see Mr. Returner a lot, don't we, Zo-zo? Walking around. Getting... Uhm... Getting shot. (Sorry.)",
+    "pl": "Nie wiem... <i>Często</i> widujemy pana Powracającego, prawda, Zo-zo? Jak chodzi. Jak... Yyy... Jak do niego strzelają. (Przepraszam.)"
+  },
+  {
+    "id": "52068556871",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutVision_C7MR",
+    "en": "I'm not sure... We <i>do</i> see Mr. Vulture a lot, don't we, Zo-zo? Walking around. Getting... Uhm... Getting shot. (Sorry.)",
+    "pl": "Nie wiem... <i>Często</i> widujemy pana Sępa, prawda, Zo-zo? Jak chodzi. Jak... Yyy... Jak do niego strzelają. (Przepraszam.)"
+  },
+  {
+    "id": "52068556872",
+    "key": "09_Vera-Zoran_v1_Talk_GKI8",
+    "en": "It is! We just wanna get out there to play. I'm sure Zo-zo wants to roll around in the mud like a proper kid.",
+    "pl": "Tak! Chcemy tylko wyjść się pobawić. Zo-zo na pewno chciałby tarzać się w błocie jak zwykłe dziecko."
+  },
+  {
+    "id": "52068556873",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_GG76",
+    "en": "It's like we see the Earth, but the <i>insides</i> of it. It's hard to explain... (Hehe, Zo-zo, that's a good way to put it. We see the \"gross bits\" of everything!)",
+    "pl": "Jakbyśmy widzieli ziemię, ale jej <i>wnętrze.</i> Trudno wyjaśnić... (Hehe, Zo-zo, dobrze to ująłeś. Widzimy „obrzydliwe części” wszystkiego!)"
+  },
+  {
+    "id": "52068556874",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_8K6C",
+    "en": "It's like... (How did you describe it, Zo-zo?) Like a bird. We see things <i>like a bird,</i> looking down. But not just people and the ground, it's like...",
+    "pl": "To jak... (Jak to opisałeś, Zo-zo?) Jak ptak. Widzimy wszystko <i>jak ptak,</i> z góry. Ale nie tylko ludzi i ziemię, to jakby..."
+  },
+  {
+    "id": "52068556875",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_U351",
+    "en": "Jasna does! Do you know her? She's an Acolyte, too! (No, don't say she's mean, Zo.)",
+    "pl": "Jasna! Znasz ją? Też jest Akolitką! (Nie, Zo, nie mów, że jest wredna.)"
+  },
+  {
+    "id": "52068556876",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_JPPZ",
+    "en": "Like a big factory, with a bunch of Mist rising to the sky, eating all the clouds?",
+    "pl": "Jak wielka fabryka, z której Mgła wzbija się w niebo i pożera wszystkie chmury?"
+  },
+  {
+    "id": "52068556877",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_L88N",
+    "en": "Me and Zo always feel like the visions are like not even past or future, but, uhh... It's <i>everything</i> at the same time...",
+    "pl": "Zawsze mamy z Zo wrażenie, że wizje to ani przeszłość, ani przyszłość, tylko, yyy... <i>Wszystko</i> naraz..."
+  },
+  {
+    "id": "52068556878",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_ET6N",
+    "en": "No problems mister... I hope you can find a way to have the visions again... I also hope they don't make you sick... (Zo-zo, say bye-bye to the nice Vulture.)",
+    "pl": "Nie ma za co, proszę pana... Mam nadzieję, że znajdziesz sposób, żeby znowu mieć wizje... I że od nich nie zachorujesz... (Zo-zo, powiedz pa-pa miłemu Sępowi.)"
+  },
+  {
+    "id": "52068556879",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_XFQB",
+    "en": "Oh yeah, there was a drunk man who spent some time here, Alexei said he was shaking and having visions... That he took some drugs or something... Said it was bad for his soul.",
+    "pl": "Ach, tak, był tu przez jakiś czas pijany pan. Alexei mówił, że się trząsł i miał wizje... Że brał narkotyki czy coś... Mówił, że to złe dla jego duszy."
+  },
+  {
+    "id": "52068556880",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_8UAP",
+    "en": "Okay... Sorry, mister. Me and Zoran just sit here all day, so we don't know much... I can talk about visions more if you want... (Say bye-bye, Zo.)",
+    "pl": "Dobrze... Przepraszam, proszę pana. Siedzimy z Zoranem całymi dniami, więc mało wiemy... Mogę jeszcze opowiedzieć o wizjach, jeśli chcesz... (Powiedz pa-pa, Zo.)"
+  },
+  {
+    "id": "52068556881",
+    "key": "09_Vera-Zoran_v1_Talk_W5N7",
+    "en": "Okey-doke then.",
+    "pl": "No to okej."
+  },
+  {
+    "id": "52068556882",
+    "key": "09_Vera-Zoran_v1_Talk_VDQS",
+    "en": "Plus we're tired... And I'm too worried about Zo-zo... I'd just regret it in like two seconds flat.",
+    "pl": "Poza tym jesteśmy zmęczeni... I za bardzo martwię się o Zo-zo... Żałowałabym już po dwóch sekundach."
+  },
+  {
+    "id": "52068556883",
+    "key": "09_Vera-Zoran_v1_Talk_QAUZ",
+    "en": "See these marks? We're pretty much always sick. Sometimes a new thing shows up on my arms, on his legs. And it hurts...",
+    "pl": "Widzisz te plamy? Prawie zawsze jesteśmy chorzy. Czasem coś nowego pojawia się na moich rękach, na jego nogach. I boli..."
+  },
+  {
+    "id": "52068556884",
+    "key": "09_Vera-Zoran_v1_Leave_JHRB",
+    "en": "See you... Come back if you want!",
+    "pl": "Do zobaczenia... Wróć, jeśli chcesz!"
+  },
+  {
+    "id": "52068556885",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_RGWR",
+    "en": "She just... Worries too much. Says we should stay here... Says the disease is contagious or something.",
+    "pl": "Ona po prostu... Za bardzo się martwi. Mówi, że powinniśmy tu zostać... Że choroba jest zaraźliwa czy coś."
+  },
+  {
+    "id": "52068556886",
+    "key": "09_Vera-Zoran_v1_Talk_XOQ8",
+    "en": "Sure! Everyone knows you're the Returner. 'Least around here. Right?",
+    "pl": "Jasne! Wszyscy wiedzą, że jesteś Powracającym. Przynajmniej tutaj. Prawda?"
+  },
+  {
+    "id": "52068556887",
+    "key": "09_Vera-Zoran_v1_Leave_E9S9",
+    "en": "Talk to us later if you wanna play... Zo-zo needs company.",
+    "pl": "Zagadaj później, jeśli chcesz się pobawić... Zo-zo potrzebuje towarzystwa."
+  },
+  {
+    "id": "52068556888",
+    "key": "09_Vera-Zoran_v1_Leave_VFBT",
+    "en": "Thanks for talking to us! It was fun...",
+    "pl": "Dzięki za rozmowę! Było fajnie..."
+  },
+  {
+    "id": "52068556889",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_B8CJ",
+    "en": "There's the visions, too. And the fatigue... That's what Alexei tells us, that we're always \"fatigued\". Even when we really want to play...",
+    "pl": "Są też wizje. I znużenie... Tak mówi Alexei: że ciągle jesteśmy „znużeni”. Nawet kiedy bardzo chcemy się bawić..."
+  },
+  {
+    "id": "52068556890",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_754T",
+    "en": "They can maybe help you have visions again... Since... They're so crazy about Mist! And... Maybe there are some of them around here?",
+    "pl": "Może pomogą ci znowu mieć wizje... Skoro... Tak wariują na punkcie Mgły! I... Może jacyś są gdzieś w pobliżu?"
+  },
+  {
+    "id": "52068556891",
+    "key": "09_Vera-Zoran_v1_Talk_F6Y2",
+    "en": "This place is like a dusty, shitty prison sometimes.",
+    "pl": "Czasem to miejsce jest jak zakurzone, zasrane więzienie."
+  },
+  {
+    "id": "52068556892",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_CUEB",
+    "en": "We think they're real... But we see them all the time. I don't know how you can see them as much as we do.",
+    "pl": "Myślimy, że są prawdziwe... Ale widzimy je bez przerwy. Nie wiem, jak możesz widzieć je tak często jak my."
+  },
+  {
+    "id": "52068556893",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_IW11",
+    "en": "We've seen people shot, here, you know. Their inside bits hanging out.",
+    "pl": "Widzieliśmy tu postrzelonych ludzi, wiesz. Z wnętrznościami na wierzchu."
+  },
+  {
+    "id": "52068556894",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_295S",
+    "en": "We've seen that one before too, mister.",
+    "pl": "Tę też już widzieliśmy, proszę pana."
+  },
+  {
+    "id": "52068556895",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_71TU",
+    "en": "Well I think we saw many of the same things... Which must mean they're real... Right? Not just our imagination? Or because we're sick?",
+    "pl": "Chyba widzieliśmy dużo tych samych rzeczy... To musi znaczyć, że są prawdziwe... Prawda? Że ich sobie nie wymyśliliśmy? I to nie przez chorobę?"
+  },
+  {
+    "id": "52068556896",
+    "key": "09_Vera-Zoran_v1_Talk_YD8O",
+    "en": "What about them?",
+    "pl": "A co z nimi?"
+  },
+  {
+    "id": "52068556897",
+    "key": "09_Vera-Zoran_v1_GetTalkWhatIsIt_0AP5",
+    "en": "What is it, Mr. Vulture?",
+    "pl": "Co takiego, panie Sępie?"
+  },
+  {
+    "id": "52068556898",
+    "key": "09_Vera-Zoran_v1_GetTalkWhatIsIt_QF5T",
+    "en": "What is it, Returner?",
+    "pl": "Co takiego, Powracający?"
+  },
+  {
+    "id": "52068556899",
+    "key": "09_Vera-Zoran_v1_Talk_YQJ0",
+    "en": "Wish we could... But everyone except Alexei and Jasna keep their distance.",
+    "pl": "Chciałabym... Ale wszyscy oprócz Alexeia i Jasny trzymają się z dala."
+  },
+  {
+    "id": "52068556900",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_7D2F",
+    "en": "Yeah...",
+    "pl": "Tak..."
+  },
+  {
+    "id": "52068556901",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_29UU",
+    "en": "Yes! And the sun... Warming up our legs when we sit at the edge of the cart, looking at the grass going by so fast, zoom! Zoom! Visions can be warm sometimes...",
+    "pl": "Tak! I słońce... Grzejące nam nogi, kiedy siedzimy na brzegu wagonu i patrzymy, jak szybko mija trawa, szuuu! Szuuu! Wizje czasem są ciepłe..."
+  },
+  {
+    "id": "52068556902",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_TJPC",
+    "en": "Zo-zo, he <i>loves</i> Alexei. Him and Jasna treat us so well.",
+    "pl": "Zo-zo <i>uwielbia</i> Alexeia. On i Jasna tak dobrze nas traktują."
+  },
+  {
+    "id": "52068556903",
+    "key": "09_Vera-Zoran_v1_Talk_CBVZ",
+    "en": "Zoran calls her \"big strong lady\"! Ring any bells? It was Yelena. (Say it with me, Zo-zo. Ye-le-na. She played with us once, remember?)",
+    "pl": "Zoran mówi na nią „duża silna pani”! Coś ci to mówi? To była Yelena. (Powiedz ze mną, Zo-zo. Ye-le-na. Raz się z nami bawiła, pamiętasz?)"
+  },
+  {
+    "id": "52068556904",
+    "key": "09_Vera-Zoran_v1_Talk_9JOJ",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "52068556905",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_JQGN",
+    "en": "Imagine something like that, but for... Everything. Beneath the ground. There's something moving down there. But I know that's like, crazy talk...",
+    "pl": "Wyobraź sobie coś takiego, tylko że... Wszędzie. Pod ziemią. Coś się tam porusza. Ale wiem, to brzmi jak brednie..."
+  }
+]

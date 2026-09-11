@@ -1,0 +1,43 @@
+TYTUŁ MODA
+Scavland - Polish Translation / Spolszczenie PL
+
+KRÓTKI OPIS
+Nieoficjalne spolszczenie Scavland: interfejs, zadania, mapa, przedmioty, dialogi i transmisje radiowe. Wszystkie odnalezione tabele tekstowe po polsku. Pierwsza publiczna wersja testowa.
+
+PEŁNY OPIS
+Scavland po polsku — od menu i opisów przedmiotów po rozmowy z mieszkańcami Zalesye.
+
+Nieoficjalne spolszczenie obejmuje wszystkie odnalezione tabele tekstowe gry: 9980 wpisów w 44 tabelach, w tym powtórzenia i starsze warianty dialogów. Zachowuje potoczny język, wulgaryzmy oraz różnice w sposobie mówienia postaci.
+
+ZAKRES
+• Menu, interfejs i sterowanie.
+• Zadania, zlecenia, dziennik i mapa.
+• Przedmioty, wyposażenie, schematy i notatki.
+• Dialogi, transmisje radiowe oraz opisy frakcji i skrytek.
+• Obsługa polskich liter.
+
+To lokalizacja tekstowa — bez polskiego dubbingu i zmieniania napisów na grafikach. Nazwy własne, modele broni i oznaczenia klawiszy mogą pozostać w oryginalnym zapisie.
+
+INSTALACJA
+1. Zamknij grę i rozpakuj ZIP.
+2. Uruchom Scavland-PL-Instalator.exe i wybierz 1 — Zainstaluj / aktualizuj.
+3. Wskaż folder zawierający Scavland.exe i poczekaj na zakończenie.
+4. W grze wybierz English. Mod zastępuje angielski; nie dodaje osobnej pozycji Polski.
+
+Paczka nie zawiera archiwów ani czcionek gry. Instalator nanosi polskie teksty i drobną poprawkę czcionki na pliki z Twojej instalacji. Nie wymaga Pythona i nie pobiera zasobów gry.
+
+Przy pierwszej instalacji potrzebne są oryginalne pliki Steam Build 25222006. Po wcześniejszych ręcznych paczkach 1.0/1.1 przywróć je przez sprawdzenie spójności w Steam. Instalator 1.2+ obsługuje aktualizacje własnych wydań.
+
+Kopia do przywracania powstaje tylko na Twoim komputerze, w Scavland_Data/ScavlandPL-backup. Przygotowanie wymaga około 1 GB wolnego miejsca i może potrwać kilka minut.
+
+ZGODNOŚĆ
+Wydanie Windows/Steam, przygotowane na instalacji Steam Build ID 25222006. Aktualizacje gry mogą wymagać nowej wersji spolszczenia. Mod może kolidować z innymi modyfikacjami podmieniającymi te same pliki lokalizacji, katalog zasobów lub data.unity3d.
+
+WERSJA TESTOWA I POPRAWKI
+Wersja {{VERSION}} zawiera pełny zakres odnalezionych tekstów, ale nie przeszła jeszcze pełnej kontroli podczas rozgrywki. Tłumaczenie przygotowano z pomocą AI i sprawdzono pod kątem kompletności oraz poprawności plików. Nadal mogą występować literówki, niezręczne zdania, błędy kontekstowe lub zbyt długie teksty.
+
+Znalazłeś błąd? Napisz, której postaci, zadania lub przedmiotu dotyczy, i najlepiej dołącz zrzut ekranu. Takie zgłoszenia pomogą poprawić kolejne wydania.
+
+USUNIĘCIE
+W instalatorze wybierz 3 — Przywróć oryginały. Opcja 2 sprawdza stan plików. Możesz też użyć sprawdzania spójności w Steam; przywraca ono również pliki podmienione przez inne mody.
+Instrukcja Steam: https://help.steampowered.com/pl/faqs/view/0C48-FCBD-DA71-93EB

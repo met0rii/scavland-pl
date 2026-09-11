@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "18246303744",
+    "key": "01_Yelena_v1_Talk_DCW8",
+    "en": "You're a Palatine, then?"
+  },
+  {
+    "id": "18271469568",
+    "key": "01_Yelena_v1_Talk_MG2P",
+    "en": "Don't I look it? *hic* I'm a veteran, man."
+  },
+  {
+    "id": "18271469569",
+    "key": "01_Yelena_v1_Talk_OTZ7",
+    "en": "Supposed to be a big shot... Couldn't even save the kid... Not even his dog tag."
+  },
+  {
+    "id": "18271469570",
+    "key": "01_Yelena_v1_Talk_VN09",
+    "en": "Was it you who rescued me?"
+  },
+  {
+    "id": "18275663872",
+    "key": "01_Yelena_v1_Talk_PXDS",
+    "en": "Yep. And weren't the first time either, Rodion."
+  },
+  {
+    "id": "18275663873",
+    "key": "01_Yelena_v1_Talk_H6S7",
+    "en": "Savin' y'all clueless Vultures – that's typical Palatine work. Although I guess we failed you all now, huh... I saw the burning... Shit..."
+  },
+  {
+    "id": "18275663874",
+    "key": "01_Yelena_v1_Talk_OP5A",
+    "en": "Can you tell me about the Palatines?"
+  },
+  {
+    "id": "18275663875",
+    "key": "01_Yelena_v1_Talk_9DF0",
+    "en": "Lemme tell ya 'bout Palatines, man... *hic*"
+  },
+  {
+    "id": "18275663876",
+    "key": "01_Yelena_v1_Talk_MA13",
+    "en": "Some of us aren't complete psycho-assholes. But you GOTTA be a psycho, you GOTTA be an asshole... To put on a brave face... *hic* And patrol this shitland. We try'n make it better..."
+  },
+  {
+    "id": "18275663877",
+    "key": "01_Yelena_v1_Talk_B7UN",
+    "en": "We're the goddamn cavalry! Fuck 'em Gunners! Fuck 'em bandits! FUCK Mutants! FUCK whoever burned down the Villa..."
+  },
+  {
+    "id": "18275663878",
+    "key": "01_Yelena_v1_Talk_STNK",
+    "en": "All bark, no bite, those *hic*, those fucks. Funny they came all the way from the Dola just to shout at us from across the street."
+  },
+  {
+    "id": "18275663879",
+    "key": "01_Yelena_v1_Talk_Y0WK",
+    "en": "If they were serious, it might be trouble. But I think it's just a show... *hic* Hope I ain't wrong..."
+  },
+  {
+    "id": "18275663880",
+    "key": "01_Yelena_v1_Talk_IUMA",
+    "en": "About the Gunners again..."
+  },
+  {
+    "id": "18275663881",
+    "key": "01_Yelena_v1_Talk_3259",
+    "en": "Never mind."
+  },
+  {
+    "id": "18275663882",
+    "key": "01_Yelena_v1_Talk_5BZN",
+    "en": "Huh? Where ya goin'?"
+  },
+  {
+    "id": "18275663883",
+    "key": "01_Yelena_v1_Talk_3L9V",
+    "en": "See you around."
+  },
+  {
+    "id": "18275663884",
+    "key": "01_Yelena_v1_Talk_The_Rescue_A8US",
+    "en": "What happened, exactly?"
+  },
+  {
+    "id": "18275663885",
+    "key": "01_Yelena_v1_Talk_The_Rescue_15Q6",
+    "en": "Saw you lying there... So Ilich, he... He'd <i>just enlisted...</i> He checked yer pulse, I looked around for the shooter... Nowhere... *hic*"
+  },
+  {
+    "id": "18275663886",
+    "key": "01_Yelena_v1_Talk_The_Rescue_0BH6",
+    "en": "You never saw who shot me?"
+  },
+  {
+    "id": "18275663887",
+    "key": "01_Yelena_v1_Talk_The_Rescue_74WW",
+    "en": "Nah... Must've been a sniper. Not many people have access to that kinda weapon 'round here... Not even Grigory."
+  },
+  {
+    "id": "18275663888",
+    "key": "01_Yelena_v1_Talk_The_Rescue_LSYO",
+    "en": "Maybe a Gunner...? They've been on our ass, but I don't think... Nah, sumthin's off. Weren't no Gunner."
+  },
+  {
+    "id": "18275663889",
+    "key": "01_Yelena_v1_Talk_The_Rescue_T2Y2",
+    "en": "Anyway, whoever it was... Got a shot off while we were draggin' your ass away. The kid was slow... We lost him. <i>I</i> lost the kid..."
+  },
+  {
+    "id": "18275663890",
+    "key": "01_Yelena_v1_Talk_The_Rescue_CYAJ",
+    "en": "Guess I should thank you."
+  },
+  {
+    "id": "18275663891",
+    "key": "01_Yelena_v1_Talk_The_Rescue_HPDD",
+    "en": "Oh, you <i>think?</i> ... Got any booze for me?"
+  },
+  {
+    "id": "18275663892",
+    "key": "01_Yelena_v1_Talk_The_Rescue_35EY",
+    "en": "The gear I had on me... Think it's still there?"
+  },
+  {
+    "id": "18275663893",
+    "key": "01_Yelena_v1_Talk_The_Rescue_S408",
+    "en": "Really? Worried about some fuckin' gear?... Wait – no, I get it. They tore down the Villa, right? You probably lost all your shit... *hic*"
+  },
+  {
+    "id": "18275663894",
+    "key": "01_Yelena_v1_Talk_The_Rescue_AE7D",
+    "en": "Don't ask me about that bullshit again, fuckin'..."
+  },
+  {
+    "id": "18275663895",
+    "key": "01_Yelena_v1_Talk_The_Rescue_75NK",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "18275663896",
+    "key": "01_Yelena_v1_Talk_The_Rescue_ZMHQ",
+    "en": "Whatever..."
+  },
+  {
+    "id": "18275663897",
+    "key": "01_Yelena_v1_Talk_The_Rescue_PS8L",
+    "en": "I'll just get going."
+  },
+  {
+    "id": "18275663898",
+    "key": "01_Yelena_v1_Talk_Realization_MDQH",
+    "en": "Wait – no, I get it. I was a Vulture once... *hic*"
+  },
+  {
+    "id": "18275663899",
+    "key": "01_Yelena_v1_Talk_Realization_F9SH",
+    "en": "Look, I didn't take it off you or anything, but... Damn, is that what Ilich was busy doing?"
+  },
+  {
+    "id": "18275663900",
+    "key": "01_Yelena_v1_Talk_Realization_8ZQV",
+    "en": "Did... Did the kid get hisself killed tryin' to take yer armor? Is that what... Ha ha... Oh, ha ha ha... Fuck <i>me...</i>"
+  },
+  {
+    "id": "18275663901",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_X67Y",
+    "en": "The kid... Ilich. Your colleague?"
+  },
+  {
+    "id": "18275663902",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_GZU2",
+    "en": "Just some kid, a new recruit. *hic* Kinda <i>psycho,</i> but... I mean, he was <i>young,</i> y'know?"
+  },
+  {
+    "id": "18275663903",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_CCWU",
+    "en": "Fuck, who cares... You go to his funeral?"
+  },
+  {
+    "id": "18275663904",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_9D8O",
+    "en": "Yeah, I was there. Alexei did good."
+  },
+  {
+    "id": "18275663905",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_0ZHM",
+    "en": "Did he... Good. Least there's that, 'fore they dump him in the Lake."
+  },
+  {
+    "id": "18275663906",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_7Z9B",
+    "en": "Yes. I don't understand why we still do that."
+  },
+  {
+    "id": "18275663907",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_LZJ0",
+    "en": "... I don't like that you said that. But maybe I agree. Whatever..."
+  },
+  {
+    "id": "18275663908",
+    "key": "01_Yelena_v1_Talk_Lost_Someone_LIZD",
+    "en": "Who fucking cares... It's all bullshit, man. Everyone dies..."
+  },
+  {
+    "id": "18275663909",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_70FZ",
+    "en": "Sorry, I got nothing."
+  },
+  {
+    "id": "18275663910",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_YNTO",
+    "en": "Hmm. Whatever. *hic*"
+  },
+  {
+    "id": "18275663911",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_2M00",
+    "en": "Afraid not. Thanks for saving me, though. Also, Alexei says hi."
+  },
+  {
+    "id": "18275663912",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_0SPC",
+    "en": "That creep, yeah? Can't stand religious types... Tell'im to eat a dick."
+  },
+  {
+    "id": "18275663913",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_33C5",
+    "en": "Shit, no, don't tell him that. I don't fucking know... Whatcha think?"
+  },
+  {
+    "id": "18275663914",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_E7EV",
+    "en": "Uh, sure. He can \"eat a dick\"."
+  },
+  {
+    "id": "18275663915",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_5LMZ",
+    "en": "Yeeeah. Tell him that to his face, then. Ha ha! *hic*"
+  },
+  {
+    "id": "18275663916",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_MH6F",
+    "en": "Well, he <i>did</i> take care of me..."
+  },
+  {
+    "id": "18275663917",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_2KSB",
+    "en": "Whatever, BOY SCOUT."
+  },
+  {
+    "id": "18275663918",
+    "key": "01_Yelena_v1_Talk_Give_Thanks_9D4Z",
+    "en": "You know what, I <i>don't</i> owe you. See ya."
+  },
+  {
+    "id": "18275663919",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_D1NQ",
+    "en": "Any idea what caused this?"
+  },
+  {
+    "id": "18275663920",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_A4KU",
+    "en": "Welp, we might've been patrollin' the upper Bastion, near their turf... Rookie mistake by new patrols... Big *hic* influx of Mutants there. Maybe they saw it as a threat?"
+  },
+  {
+    "id": "18275663921",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_0708",
+    "en": "Aren't you afraid they'll start shooting?"
+  },
+  {
+    "id": "18275663922",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_OT5S",
+    "en": "Shit, I live in fear of a lot of things... That's what the booze is for. Helps drown it <i>out.</i>"
+  },
+  {
+    "id": "18275663923",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_VS74",
+    "en": "Don't get me wrong, we can handle those cunts. But... Not without some more dog tags fallin' in the dirt..."
+  },
+  {
+    "id": "18275663924",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_KK3O",
+    "en": "What do your colleagues think?"
+  },
+  {
+    "id": "18275663925",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_XAAJ",
+    "en": "Some of 'em are chewing out their fingernails, shakin'... I woulda talked some sense into 'em before, but y'know... I've let the kid <i>die</i> now."
+  },
+  {
+    "id": "18275663926",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_DS9A",
+    "en": "Don't got the same authority..."
+  },
+  {
+    "id": "18279858176",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_5KYN",
+    "en": "I talked to Volodymyr. You know him?"
+  },
+  {
+    "id": "18279858177",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_FX6N",
+    "en": "One o' their leaders, right? Yea, I know the cunt."
+  },
+  {
+    "id": "18279858178",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_WP9F",
+    "en": "And?"
+  },
+  {
+    "id": "18279858179",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_7ZEO",
+    "en": "He's a right cunt."
+  },
+  {
+    "id": "18279858180",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_NLM2",
+    "en": "What, you wanna talk <i>politics?</i> *hic* Hate that shit even when I'm sober..."
+  },
+  {
+    "id": "18279858181",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_B28T",
+    "en": "We can talk about something else."
+  },
+  {
+    "id": "18279858182",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_5HIV",
+    "en": "Wait... This dog tag... What...?"
+  },
+  {
+    "id": "18279858183",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_QGG2",
+    "en": "It belonged to Ilich."
+  },
+  {
+    "id": "18279858184",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_RT7B",
+    "en": "Found it on Ilich's body, at the Cemetery."
+  },
+  {
+    "id": "18279858185",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_CYFE",
+    "en": "You were at the funeral, yeah... I see..."
+  },
+  {
+    "id": "18279858186",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_6BSL",
+    "en": "Thank you. Kid's home now. Whatever the fuck that's worth... Here, you've *hic* earned it."
+  },
+  {
+    "id": "18279858187",
+    "key": "01_Yelena_v1_RitualsAndKeepsakes_9023",
+    "en": "... Damn... Why..."
+  },
+  {
+    "id": "18279858188",
+    "key": "01_Yelena_v1_GetWelcomingMessage_RXBC",
+    "en": "Hey... How come you're walkin' around already? I just rescued your sorry ass..."
+  },
+  {
+    "id": "18279858189",
+    "key": "01_Yelena_v1_GetWelcomingMessage_C3R9",
+    "en": "Oh, it's the Returner. Howdy... *hic*"
+  },
+  {
+    "id": "18279858190",
+    "key": "01_Yelena_v1_GetWelcomingMessage_7NSQ",
+    "en": "Whatcha doin' up and about, you ass."
+  },
+  {
+    "id": "18279858191",
+    "key": "01_Yelena_v1_GetWelcomingMessage_6DOI",
+    "en": "You look like a corpse."
+  },
+  {
+    "id": "18279858192",
+    "key": "01_Yelena_v1_GetTalkMessage_8XRA",
+    "en": "Got some questions, Yelena."
+  },
+  {
+    "id": "18279858193",
+    "key": "01_Yelena_v1_GetTalkMessage_HW2B",
+    "en": "Sober enough to chat?"
+  },
+  {
+    "id": "18279858194",
+    "key": "01_Yelena_v1_GetTalkMessage_BRSP",
+    "en": "Wanna talk for a bit."
+  },
+  {
+    "id": "18279858195",
+    "key": "01_Yelena_v1_GetTradeMessage_RU94",
+    "en": "Why don't we trade?"
+  },
+  {
+    "id": "18279858196",
+    "key": "01_Yelena_v1_GetTradeMessage_C3QY",
+    "en": "Got something to trade for?"
+  },
+  {
+    "id": "18279858197",
+    "key": "01_Yelena_v1_GetTradeMessage_2MIU",
+    "en": "I have some stuff to trade."
+  },
+  {
+    "id": "18279858198",
+    "key": "01_Yelena_v1_AskAboutGunners_7I9P",
+    "en": "But who are those Gunners?"
+  },
+  {
+    "id": "18279858199",
+    "key": "01_Yelena_v1_AskAboutGunners_KTUR",
+    "en": "You said something about the \"Gunners\"?"
+  },
+  {
+    "id": "18279858200",
+    "key": "01_Yelena_v1_RitualsAndKeepsakesStart_A9C7",
+    "en": "Found something for you. (show Dog Tag)"
+  },
+  {
+    "id": "18279858201",
+    "key": "01_Yelena_v1_RitualsAndKeepsakesStart_UNE3",
+    "en": "This was your colleague's? (show Dog Tag)"
+  },
+  {
+    "id": "18279858202",
+    "key": "01_Yelena_v1_RitualsAndKeepsakesStart_8CAG",
+    "en": "Found this in Ilich's body. [show Dog Tag]"
+  },
+  {
+    "id": "18279858203",
+    "key": "01_Yelena_v1_GetTradeResponse_T4O2",
+    "en": "You want my booze, don'tcha?"
+  },
+  {
+    "id": "18279858204",
+    "key": "01_Yelena_v1_GetTradeResponse_CYA6",
+    "en": "Gotta make it worth my while, man..."
+  },
+  {
+    "id": "18279858205",
+    "key": "01_Yelena_v1_GetTradeResponse_3IVV",
+    "en": "Aight, let's see what you have."
+  },
+  {
+    "id": "18279858206",
+    "key": "01_Yelena_v1_GetDismissResponse_OYO1",
+    "en": "What? Don't leave me hanging, shithead..."
+  },
+  {
+    "id": "18279858207",
+    "key": "01_Yelena_v1_GetDismissResponse_0791",
+    "en": "Damn, why so cold? Cunt..."
+  },
+  {
+    "id": "18279858208",
+    "key": "01_Yelena_v1_GetDismissResponse_DQXT",
+    "en": "The fuck? Ya need some Palatine discipline, mate..."
+  },
+  {
+    "id": "18279858209",
+    "key": "01_Yelena_v1_GetLeaveMessage_XKTB",
+    "en": "See ya, Returner. Keep outta trouble."
+  },
+  {
+    "id": "18279858210",
+    "key": "01_Yelena_v1_GetLeaveMessage_26W5",
+    "en": "Here's to ya. *hic* Take care."
+  },
+  {
+    "id": "18279858211",
+    "key": "01_Yelena_v1_GetLeaveMessage_NM6C",
+    "en": "Be seein' ya. Don't scavenge in that sorry state..."
+  },
+  {
+    "id": "18279858212",
+    "key": "01_Yelena_v1_GetTalkAboutSomethingElseResponse_9HI6",
+    "en": "Sure can."
+  },
+  {
+    "id": "18279858213",
+    "key": "01_Yelena_v1_GetTalkAboutSomethingElseResponse_10K8",
+    "en": "Please'n'thank you."
+  },
+  {
+    "id": "821345098170368",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Show_IPUS",
+    "en": "I'll take care of them."
+  },
+  {
+    "id": "821345131724800",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Show_KLRD",
+    "en": "Dig the confidence. Take care, now."
+  },
+  {
+    "id": "821345131724801",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Show_87IY",
+    "en": "Need some time to think."
+  },
+  {
+    "id": "821345131724802",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Show_SNW0",
+    "en": "Sure, they'll happily wait around for ya."
+  },
+  {
+    "id": "821345131724803",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Show_DG0R",
+    "en": "Not interested. Got anything else?"
+  },
+  {
+    "id": "821345131724804",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Complete_78YW",
+    "en": "Lemme know if anything comes up."
+  },
+  {
+    "id": "821345131724805",
+    "key": "01_Yelena_Jobs_v1_MutantExtermination_Complete_4CJR",
+    "en": "Do it yourselves next time."
+  },
+  {
+    "id": "821345131724806",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Show_EE2M",
+    "en": "I'll get them for you."
+  },
+  {
+    "id": "821345131724807",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Show_JRBK",
+    "en": "Aight then hot shot, go make them a new asshole."
+  },
+  {
+    "id": "821345131724808",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Show_TTNM",
+    "en": "Gotta think about it."
+  },
+  {
+    "id": "821345131724809",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Show_XS99",
+    "en": "Have some fucking agency, for cryin' out loud."
+  },
+  {
+    "id": "821345135919104",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Show_D12L",
+    "en": "Nah... Got anything else?"
+  },
+  {
+    "id": "821345135919105",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Complete_9XWP",
+    "en": "Wasn't a big deal."
+  },
+  {
+    "id": "821345135919106",
+    "key": "01_Yelena_Jobs_v1_Manhunt_Complete_ZHNJ",
+    "en": "Glad I could help y'all."
+  },
+  {
+    "id": "821345135919107",
+    "key": "01_Yelena_Jobs_v1_GetJobsMessage_JMFV",
+    "en": "Palatines need help with anything?"
+  },
+  {
+    "id": "821345135919108",
+    "key": "01_Yelena_Jobs_v1_GetJobsMessage_47KD",
+    "en": "Any requests for a scavenger?"
+  },
+  {
+    "id": "821345135919109",
+    "key": "01_Yelena_Jobs_v1_GetJobsMessage_BSFK",
+    "en": "Got jobs for a Vulture?"
+  },
+  {
+    "id": "821345135919110",
+    "key": "01_Yelena_Jobs_v1_MutantExterminationStart_Z5MW",
+    "en": "Some of our scouts done seen groups o' Mutants scurryin' about... Clear 'em and we’ll be mighty thankful. *hic*"
+  },
+  {
+    "id": "821345135919111",
+    "key": "01_Yelena_Jobs_v1_MutantExterminationStart_E8H9",
+    "en": "We’re havin' trouble with some fuckin' Mutants, goin' in packs... Help us out with all that, will ya."
+  },
+  {
+    "id": "821345135919112",
+    "key": "01_Yelena_Jobs_v1_MutantExterminationComplete_9ZKA",
+    "en": "Hey look atcha. Didn't get shot this time! Anyway, here ya go."
+  },
+  {
+    "id": "821345135919113",
+    "key": "01_Yelena_Jobs_v1_ManhuntStart_4KSY",
+    "en": "Bandits and Gunners always givin' us trouble, killin' my <i>colleagues...</i> Sendin' in a kill squad now would compromise patrols 'n shit... Wanna help?"
+  },
+  {
+    "id": "821345135919114",
+    "key": "01_Yelena_Jobs_v1_ManhuntStart_UQFJ",
+    "en": "Markin' a spot on yer map. Find a group of fuckin' <i>assholes</i> around there, take ‘em out. Bastards took one of ours..."
+  },
+  {
+    "id": "821345135919115",
+    "key": "01_Yelena_Jobs_v1_ManhuntComplete_U6BU",
+    "en": "Ain't ya a killer. Good goin', here's your stuff."
+  },
+  {
+    "id": "821345135919116",
+    "key": "01_Yelena_Jobs_v1_GetNoQuestsAvailable_PJZ4",
+    "en": "Got nothin' for ya right now, Returner. Sit still a lil'."
+  },
+  {
+    "id": "821345135919117",
+    "key": "01_Yelena_Jobs_v1_GetNoQuestsAvailable_XEQF",
+    "en": "Got nothin' right now. Wait a while before askin' again."
+  },
+  {
+    "id": "821345135919118",
+    "key": "01_Yelena_Jobs_v1_GetNoQuestsAvailable_8UUX",
+    "en": "Nothing new for ya, I'm afraid. Just let me drink in peace."
+  },
+  {
+    "id": "111311489805524992",
+    "key": "01_Yelena_v1_BetterInfantry_2QPK",
+    "en": "Shit, really... You went in there? And it were the right one, ya <i>sure?</i> Near the detachment 'n all?"
+  },
+  {
+    "id": "111311489813913600",
+    "key": "01_Yelena_v1_BetterInfantry_35MX",
+    "en": "Exactly. Thought you'd wanna know before those soldiers get hurt."
+  },
+  {
+    "id": "111311489813913601",
+    "key": "01_Yelena_v1_BetterInfantry_5FS4",
+    "en": "Came all this way to warn me...? *hic*"
+  },
+  {
+    "id": "111311489813913602",
+    "key": "01_Yelena_v1_BetterInfantry_7UAR",
+    "en": "I'd be in your debt. Need some help, after the Villa..."
+  },
+  {
+    "id": "111311489813913603",
+    "key": "01_Yelena_v1_BetterInfantry_AXLY",
+    "en": "What? First I save *hic* your sorry hide, now you want me to hand over a bunker's worth of loot? For nothin'?"
+  },
+  {
+    "id": "111311489813913604",
+    "key": "01_Yelena_v1_BetterInfantry_DLZS",
+    "en": "Ahh Returner, *hic* Returner, I got a great many flaws, it's plain to see. But I ain't that easy to bribe, and it sucks to see ya even try."
+  },
+  {
+    "id": "111311489813913605",
+    "key": "01_Yelena_v1_BetterInfantry_LH0G",
+    "en": "If that place is a deathtrap, might not be worth investigatin'... *hic* Maybe callin' 'em back to Arcadia... Not like we don't got much work 'round here..."
+  },
+  {
+    "id": "111311489813913606",
+    "key": "01_Yelena_v1_BetterInfantry_PUDE",
+    "en": "You're already <i>in</i> my debt, man. *hic* And fuck your Villa sob story. What happened to your colleagues was terrible... *hic* But YOU? Yer fiiine."
+  },
+  {
+    "id": "111311489813913607",
+    "key": "01_Yelena_v1_BetterInfantry_Q5BI",
+    "en": "Oh yeah, *hic* – we found a key lyin' around here which we're thinkin' opens some bunker waaay down East... Sent a group there to investigate. What's it to ya? *hic*"
+  },
+  {
+    "id": "111311489813913608",
+    "key": "01_Yelena_v1_BetterInfantry_Q5VK",
+    "en": "We could work something out. Wouldn't be for nothing."
+  },
+  {
+    "id": "111311489813913609",
+    "key": "01_Yelena_v1_BetterInfantry_TRGF",
+    "en": "'Cuz of me 'n the <i>dead</i> kid, yer <i>fine.</i> So don't give me that crap, man. Drop it. Let my boys do their work."
+  },
+  {
+    "id": "111311489813913610",
+    "key": "01_Yelena_v1_BetterInfantry_TZQ1",
+    "en": "Someone unlocked it. Went in to loot, and it's a <i>death trap.</i>"
+  },
+  {
+    "id": "111311489813913611",
+    "key": "01_Yelena_v1_BetterInfantry_XZIV",
+    "en": "Got a client hoping to loot that bunker. Wondering if you'd help."
+  },
+  {
+    "id": "111311489813913612",
+    "key": "01_Yelena_v1_BetterInfantry_Z47A",
+    "en": "Can't say the same for some of the jackasses 'round here, but hey, maybe – *hic* – maybe that's why I'm in charge. Now scram 'fore I lose my patience witcha."
+  },
+  {
+    "id": "111311489813913613",
+    "key": "01_Yelena_v1_GetRandomBetterInfantryStart_0HX8",
+    "en": "Saw some Palatines operating near a bunker in the East."
+  },
+  {
+    "id": "111311489813913614",
+    "key": "01_Yelena_v1_GetRandomBetterInfantryStart_5V1B",
+    "en": "Need to talk about this detachment I found near a bunker."
+  },
+  {
+    "id": "111311489813913615",
+    "key": "01_Yelena_v1_GetRandomBetterInfantryStart_X6K0",
+    "en": "Found a Palatine detachment East of Sontse."
+  },
+  {
+    "id": "111311489813913616",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudCompletedStart_2LVQ",
+    "en": "Looks like we won."
+  },
+  {
+    "id": "111311489813913617",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudCompletedStart_C2PZ",
+    "en": "It's over."
+  },
+  {
+    "id": "111311489813913618",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudCompletedStart_EHIC",
+    "en": "Attack was a success."
+  },
+  {
+    "id": "111311489813913619",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudStart_13G2",
+    "en": "Something troubling you?"
+  },
+  {
+    "id": "111311489813913620",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudStart_P8TW",
+    "en": "Looking troubled."
+  },
+  {
+    "id": "111311489813913621",
+    "key": "01_Yelena_v1_GetRandomYelenasFeudStart_TUEZ",
+    "en": "You seem down."
+  },
+  {
+    "id": "111311489813913622",
+    "key": "01_Yelena_v1_Quest_Completed_29IG",
+    "en": "Yep, seems we took those bastards down... God, my head's hurtin' like a <i>bitch.</i> Why do I feel like shit?"
+  },
+  {
+    "id": "111311489813913623",
+    "key": "01_Yelena_v1_Quest_Completed_5RH5",
+    "en": "That cheeky prick. That's what he used to say after I saved his ass on some random assignment... But hey, you weren't half bad back there yourself, man. I should be saying \"well done\" to <i>you.</i>"
+  },
+  {
+    "id": "111311489813913624",
+    "key": "01_Yelena_v1_Quest_Completed_DPFH",
+    "en": "Hah! That's the last thing he wanted. That prick thinks he can fool me, actin' nice and sing-songy with everybody. He's gunnin' for my spot, y'see. Plain as day."
+  },
+  {
+    "id": "111311489813913625",
+    "key": "01_Yelena_v1_Quest_Completed_JMPN",
+    "en": "Favor's paid in full... Hnngh, my head... I should be safe from a demotion now... And you? You get outta here pronto, 'fore I drag you into the Palatines <i>officially...</i>"
+  },
+  {
+    "id": "111311489813913626",
+    "key": "01_Yelena_v1_Quest_Completed_RGH6",
+    "en": "Kolia said to say, \"Well done, Sarge\"."
+  },
+  {
+    "id": "111311489813913627",
+    "key": "01_Yelena_v1_Quest_Completed_SIWU",
+    "en": "Kolia wanted to be part of the action."
+  },
+  {
+    "id": "111311489813913628",
+    "key": "01_Yelena_v1_Quest_Completed_SJZU",
+    "en": "But anyway – you did good out there, Rodion. This should give me some respect... And you best haul ass outta here before I recruit you into this mess of a unit."
+  },
+  {
+    "id": "111311489813913629",
+    "key": "01_Yelena_v1_Quest_Completed_UJFP",
+    "en": "Anyway... You talk to Kolia already?"
+  },
+  {
+    "id": "111311489813913630",
+    "key": "01_Yelena_v1_QuestUpdates_07NJ",
+    "en": "Ew, what's got into ya? I'm just believin' an experienced scav, one o' the few that's left in Zalesye, when he tells me a place is too dangerous for my crew."
+  },
+  {
+    "id": "111311489813913631",
+    "key": "01_Yelena_v1_QuestUpdates_5RHA",
+    "en": "You're really the typa fella care about that so much, huh? *hic* Well, shit... Not like we don't need more hands on deck <i>here,</i> help with that Gunner shit goin' down... Could call 'em back."
+  },
+  {
+    "id": "111311489813913632",
+    "key": "01_Yelena_v1_QuestUpdates_7ALH",
+    "en": "Sorry about that bunker thing. Can't you reconsider?"
+  },
+  {
+    "id": "111311489813913633",
+    "key": "01_Yelena_v1_QuestUpdates_EIJG",
+    "en": "You'd call them back here?"
+  },
+  {
+    "id": "111311489813913634",
+    "key": "01_Yelena_v1_QuestUpdates_FV1U",
+    "en": "... Since when do ya care 'bout some dead Palatines out in the boons? When Ilich died for you it didn't seem to weigh much on yer mind. *hic*"
+  },
+  {
+    "id": "111311489813913635",
+    "key": "01_Yelena_v1_QuestUpdates_IBHJ",
+    "en": "I don't know, man. Think I'll just sit 'n wait for the report, thank you very much. Don't wanna rush these things. Now, *hic* <i>scram.</i>"
+  },
+  {
+    "id": "111311489813913636",
+    "key": "01_Yelena_v1_QuestUpdates_L9PT",
+    "en": "If you's sayin' it's too risky, then *hic* it probably is. Not that I don't think yer gonna try lootin' there again soon... So take care o' yerself too..."
+  },
+  {
+    "id": "111311489813913637",
+    "key": "01_Yelena_v1_QuestUpdates_PCX4",
+    "en": "Thanks, Yelena. You're a good leader."
+  },
+  {
+    "id": "111311489813913638",
+    "key": "01_Yelena_v1_QuestUpdates_Q827",
+    "en": "You know what, never mind."
+  },
+  {
+    "id": "111311489813913639",
+    "key": "01_Yelena_v1_QuestUpdates_QNBL",
+    "en": "Yer a weird one. Can't waste my time on top of me... Wasting it... M'self... *hic*"
+  },
+  {
+    "id": "111311489813913640",
+    "key": "01_Yelena_v1_QuestUpdates_SENL",
+    "en": "That's beautiful of ya, Returner, but you ain't show your love in a *hic* <i>while,</i> so I'm just gonna sit here and wait for them boys to return like they always do. Dismissed."
+  },
+  {
+    "id": "111311489813913641",
+    "key": "01_Yelena_v1_QuestUpdates_STRI",
+    "en": "I'm the one, *hic* who should apologize, Returner. Seems I misjudged ya. No hard feelings? And yeah, 'bout that bunker..."
+  },
+  {
+    "id": "111311489813913642",
+    "key": "01_Yelena_v1_QuestUpdates_U0WA",
+    "en": "About that bunker thing... I promise, I <i>do</i> care."
+  },
+  {
+    "id": "111311489813913643",
+    "key": "01_Yelena_v1_QuestUpdates_ZFHU",
+    "en": "No need to get sappy n' shit. *hic*"
+  },
+  {
+    "id": "111311489813913644",
+    "key": "01_Yelena_v1_QuestUpdates_ZR0I",
+    "en": "Yeah, too much radiation and Mutants, like you said... We got ways to send the signal. They'll be outta there soon."
+  },
+  {
+    "id": "111311489813913645",
+    "key": "01_Yelena_v1_Talk_Gunners_Situation_PAWT",
+    "en": "..."
+  },
+  {
+    "id": "111311489813913646",
+    "key": "01_Yelena_v1_Talk_Realization_B3KT",
+    "en": "..."
+  },
+  {
+    "id": "111311489813913647",
+    "key": "01_Yelena_v1_Talk_The_Rescue_4QOR",
+    "en": "We were on patrol 'round the Scrapyard when we saw you fuckin' up some Bandits... Then you got shot and we came runnin' like the fuckin' cavalry."
+  },
+  {
+    "id": "111311489813913648",
+    "key": "01_Yelena_v1_YelenasFeud_646O",
+    "en": "Got a lot on my mind, man. Been gettin' no respect since that time I saved <i>your</i> ass and lost the <i>kid.</i> Gotta take the lead again... Kill some Bandits, <i>establish</i> myself again..."
+  },
+  {
+    "id": "111311489813913649",
+    "key": "01_Yelena_v1_YelenasFeud_Inform_Quest_3NAL",
+    "en": "How detailed a brief could you <i>possibly</i> need..."
+  },
+  {
+    "id": "111311489813913650",
+    "key": "01_Yelena_v1_YelenasFeud_Inform_Quest_6L9X",
+    "en": "Had some questions first."
+  },
+  {
+    "id": "111311489813913651",
+    "key": "01_Yelena_v1_YelenasFeud_Inform_Quest_S5HP",
+    "en": "Well work faster... Man... This shit could blow up in our hands otherwise..."
+  },
+  {
+    "id": "111311489813913652",
+    "key": "01_Yelena_v1_YelenasFeud_Inform_Quest_VWSM",
+    "en": "You didn't set up the attack yet, did you?... I sobered up for nothing?"
+  },
+  {
+    "id": "111311489813913653",
+    "key": "01_Yelena_v1_YelenasFeud_Inform_Quest_ZJI2",
+    "en": "Working on it."
+  },
+  {
+    "id": "111311489813913654",
+    "key": "01_Yelena_v1_YelenasFeud_MIDA",
+    "en": "Got some intel 'bout a small power grid near Dubravka, where those asshats been holin' up. You help round up some soldiers... Then we coordinate an attack. Make <i>me</i> look good. *hic* You in? You <u>gotta</u> say yes."
+  },
+  {
+    "id": "111311489813913655",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_3SZ9",
+    "en": "... Yes."
+  },
+  {
+    "id": "111311489813913656",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_E4IW",
+    "en": "I have to mull it over."
+  },
+  {
+    "id": "111311489813913657",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_L7QN",
+    "en": "Why, you <i>prick.</i> This's important for me, man. Don't fuck around, not after that kid took a <i>bullet</i> for you."
+  },
+  {
+    "id": "111311489813913658",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_MNUI",
+    "en": "Right. On to th-*hic*, the mission brief!"
+  },
+  {
+    "id": "111311489813913659",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_O4EB",
+    "en": "I can't believe you! *hic* <i>Fucking cunt!</i> Ugh... W-wait, don't seriously leave me *hic* h-hangin' on this, man..."
+  },
+  {
+    "id": "111311489813913660",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Decision_ZQD7",
+    "en": "Pull yourself together before barking orders."
+  },
+  {
+    "id": "111311489813913661",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_0EXQ",
+    "en": "Got no more questions."
+  },
+  {
+    "id": "111311489813913662",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_3CCE",
+    "en": "You expect me to join the attack?"
+  },
+  {
+    "id": "111311489813913663",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_7DPQ",
+    "en": "He'll acknowledge my orders 'n help you gather them other Palatines together..."
+  },
+  {
+    "id": "111311489813913664",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_7M43",
+    "en": "Easy peasy. Talk to a commander named <i>Kolia...</i> He should be around the Microrayon, in a position primed for the attack... But he'll be playin' his guitar instead of doin' any <i>commandin'...</i>"
+  },
+  {
+    "id": "111311489813913665",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_8V58",
+    "en": "Can't cover Dubravka Camp <i>and</i> the Microrayon both, to be perfectly *hic* <i>honest</i> with you. But can't concede any ground to them Gunners either... If we leave... They swoop in..."
+  },
+  {
+    "id": "111311489813913666",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_9GOI",
+    "en": "Good... Then <i>hop to, soldier.</i> *hic*"
+  },
+  {
+    "id": "111311489813913667",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_HMNV",
+    "en": "You'd better live up to that expectation, don't make our sacrifice for nothin'... Prove you got what it takes, man. I'll join up with you guys later, of course. Gotta be there for the combat."
+  },
+  {
+    "id": "111311489813913668",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_ILWP",
+    "en": "Where are those Bandit squatters?"
+  },
+  {
+    "id": "111311489813913669",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_ME12",
+    "en": "... I'll join you later, when the operation's underway."
+  },
+  {
+    "id": "111311489813913670",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_P0QA",
+    "en": "How do I round up the soldiers?"
+  },
+  {
+    "id": "111311489813913671",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_YLYR",
+    "en": "Join? No, no, you won't just join. After I put myself on the line for you? And having the experience that I know you have? Shit, Rodion, I expect you to be the <i>MVP.</i>"
+  },
+  {
+    "id": "111311489813913672",
+    "key": "01_Yelena_v1_YelenasFeud_Quest_Questions_ZGYH",
+    "en": "Place called Dubravka Grid, near... You guessed it... Been gettin' lots of complaints from the Rada 'bout our troops bein' \"lazy\"... Truth is, we's just stretched thin, man."
+  },
+  {
+    "id": "111311489813913673",
+    "key": "01_Yelena_v1_YelenasFeud_UJ0R",
+    "en": "Thinkin' about hittin' a Bandit camp near the Rada... And since you <i>owe</i> me, y-*hic* <i>you're</i> gonna help with the <i>footwork.</i>"
+  },
+  {
+    "id": "125097901592055808",
+    "key": "01_Yelena_Jobs_v1_ManhuntComplete_YDUM",
+    "en": "Whoa whoa, got a bad boy here folks. Watch the fuck ooout. *hic* Here ya go, Returner."
+  },
+  {
+    "id": "125097901621415936",
+    "key": "01_Yelena_Jobs_v1_ManhuntComplete_5QZT",
+    "en": "You're more cold-blooded than I thought. *hic* Here ya go..."
+  },
+  {
+    "id": "125097901621415937",
+    "key": "01_Yelena_Jobs_v1_MutantExterminationComplete_NSHT",
+    "en": "Not bad for a civvie! Ha! *hic* Here's that stuff I promised ya."
+  },
+  {
+    "id": "125097901621415938",
+    "key": "01_Yelena_Jobs_v1_MutantExterminationComplete_67NE",
+    "en": "Well if it ain't Mr. Hot Shit hisself. Nice job, here's your stuff. *hic*"
+  }
+]

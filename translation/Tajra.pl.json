@@ -1,0 +1,584 @@
+[
+  {
+    "id": "589115629568",
+    "key": "21_Tajra_v1_GetWelcomingMessage_WQR8",
+    "en": "Oh good, a scav. I'm Tajra, ex-Palatine. Retired. C'mere, you're gonna help me with something.",
+    "pl": "O, dobrze, zbieracz. Jestem Tajra, była Palatynka. Na emeryturze. Chodź no, pomożesz mi w czymś."
+  },
+  {
+    "id": "589124018176",
+    "key": "21_Tajra_v1_GetWelcomingMessage_O0GO",
+    "en": "What do you want?",
+    "pl": "Czego chcesz?"
+  },
+  {
+    "id": "589124018177",
+    "key": "21_Tajra_v1_GetWelcomingMessage_EI7J",
+    "en": "You make too much noise.",
+    "pl": "Za bardzo hałasujesz."
+  },
+  {
+    "id": "589124018178",
+    "key": "21_Tajra_v1_GetWelcomingMessage_VK0A",
+    "en": "Saw you from a mile away.",
+    "pl": "Widziałam cię z kilometra."
+  },
+  {
+    "id": "589124018179",
+    "key": "21_Tajra_v1_GetWelcomingMessage_UMKC",
+    "en": "Why're you bothering me?",
+    "pl": "Po co mi zawracasz głowę?"
+  },
+  {
+    "id": "589124018180",
+    "key": "21_Tajra_v1_GetRandomTalkStart_LGJ7",
+    "en": "We gotta talk.",
+    "pl": "Musimy pogadać."
+  },
+  {
+    "id": "589124018181",
+    "key": "21_Tajra_v1_GetRandomTalkStart_BRT7",
+    "en": "Let's talk.",
+    "pl": "Porozmawiajmy."
+  },
+  {
+    "id": "589124018182",
+    "key": "21_Tajra_v1_GetRandomTalkStart_E3IE",
+    "en": "Need to talk to you.",
+    "pl": "Muszę z tobą porozmawiać."
+  },
+  {
+    "id": "589124018183",
+    "key": "21_Tajra_v1_GetRandomTradeStart_JO7C",
+    "en": "Got anything to trade?",
+    "pl": "Masz coś na handel?"
+  },
+  {
+    "id": "589124018184",
+    "key": "21_Tajra_v1_GetRandomTradeStart_HEOI",
+    "en": "I want to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "589124018185",
+    "key": "21_Tajra_v1_GetRandomTradeStart_H4QL",
+    "en": "Got something to trade?",
+    "pl": "Masz coś do wymiany?"
+  },
+  {
+    "id": "589124018186",
+    "key": "21_Tajra_v1_GetRandomTradeMessage_CBDD",
+    "en": "You came to the right place.",
+    "pl": "Dobrze trafiłeś."
+  },
+  {
+    "id": "589124018187",
+    "key": "21_Tajra_v1_GetRandomTradeMessage_Z4J0",
+    "en": "Always got <i>something.</i>",
+    "pl": "Zawsze mam <i>coś.</i>"
+  },
+  {
+    "id": "589124018188",
+    "key": "21_Tajra_v1_GetRandomTradeMessage_VVVN",
+    "en": "Well I'm not <i>going</i> anywhere, am I.",
+    "pl": "Przecież i tak nigdzie się <i>nie wybieram.</i>"
+  },
+  {
+    "id": "589124018189",
+    "key": "21_Tajra_v1_GetRandomTradeMessage_PXJD",
+    "en": "Sure, don't see why not.",
+    "pl": "Jasne, czemu nie."
+  },
+  {
+    "id": "589124018190",
+    "key": "21_Tajra_v1_GetRandomLeaveMessage_I1XA",
+    "en": "Try not to be a target out there.",
+    "pl": "Postaraj się nie robić za tarczę."
+  },
+  {
+    "id": "589124018191",
+    "key": "21_Tajra_v1_GetRandomLeaveMessage_KXAW",
+    "en": "Go on, now.",
+    "pl": "No, idź już."
+  },
+  {
+    "id": "589124018192",
+    "key": "21_Tajra_v1_GetRandomLeaveMessage_NTMV",
+    "en": "You have to go, so go.",
+    "pl": "Musisz iść, to idź."
+  },
+  {
+    "id": "589124018193",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveStart_W9RF",
+    "en": "Got a request?",
+    "pl": "Masz jakąś prośbę?"
+  },
+  {
+    "id": "589124018194",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveStart_LWHE",
+    "en": "Got work for me?",
+    "pl": "Masz dla mnie robotę?"
+  },
+  {
+    "id": "589124018195",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveStart_UZVE",
+    "en": "Need something from me?",
+    "pl": "Potrzebujesz czegoś ode mnie?"
+  },
+  {
+    "id": "589124018196",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveCompletedStart_5Z6Y",
+    "en": "You're good to move.",
+    "pl": "Możesz się przenieść."
+  },
+  {
+    "id": "589124018197",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveCompletedStart_G678",
+    "en": "We've cleared that area for you.",
+    "pl": "Oczyściliśmy dla ciebie okolicę."
+  },
+  {
+    "id": "589124018198",
+    "key": "21_Tajra_v1_GetRandomSelectedReserveCompletedStart_A950",
+    "en": "Sasha and I took care of your problem.",
+    "pl": "Sasha i ja rozwiązaliśmy twój problem."
+  },
+  {
+    "id": "589124018199",
+    "key": "21_Tajra_v1_Talk_JCON",
+    "en": "You're an ex-Palatine, then?",
+    "pl": "Czyli byłaś Palatynką?"
+  },
+  {
+    "id": "589124018200",
+    "key": "21_Tajra_v1_Talk_ZWPL",
+    "en": "I've served the Palatines <i>25 years.</i> You'd think they'd give me a better pension. Ha! It's like after I lost my leg, I became like dirt to them.",
+    "pl": "Służyłam Palatynom <i>25 lat.</i> Można by się spodziewać lepszej emerytury. Ha! Odkąd straciłam nogę, traktują mnie jak śmiecia."
+  },
+  {
+    "id": "589124018201",
+    "key": "21_Tajra_v1_Talk_AUBS",
+    "en": "I'm pretty sure the old, pre-War army wouldn't have been so ungrateful to its soldiers. Well, at least I have Sasha. He's always treated me right, that boy.",
+    "pl": "Jestem pewna, że dawna, przedwojenna armia nie byłaby aż tak niewdzięczna wobec swoich żołnierzy. Cóż, przynajmniej mam Sashę. Ten chłopak zawsze dobrze mnie traktował."
+  },
+  {
+    "id": "589124018202",
+    "key": "21_Tajra_v1_Talk_JP3E",
+    "en": "How are you finding the new place?",
+    "pl": "Jak ci w nowym miejscu?"
+  },
+  {
+    "id": "589124018203",
+    "key": "21_Tajra_v1_Talk_Z9T7",
+    "en": "It's been good, scav. Acolytes will drop by every now and then, hell, maybe a bit <i>too</i> often for my taste, but... There's been more bad days than good days, so I let them in.",
+    "pl": "Dobrze, zbieraczu. Akolici wpadają od czasu do czasu. Cholera, jak dla mnie może nawet <i>za</i> często, ale... Złych dni jest więcej niż dobrych, więc ich wpuszczam."
+  },
+  {
+    "id": "589124018204",
+    "key": "21_Tajra_v1_Talk_EXBK",
+    "en": "And this is a good spot for hunting... Although sometimes a pesky squatter will come asking for a handout. Well, it's fun to scare them away, I suppose.",
+    "pl": "To też dobre miejsce do polowania... Choć czasem jakiś upierdliwy dziki lokator przyjdzie po jałmużnę. Przynajmniej fajnie się ich straszy."
+  },
+  {
+    "id": "589124018205",
+    "key": "21_Tajra_v1_Talk_CXTO",
+    "en": "How'd you lose that leg?",
+    "pl": "Jak straciłaś nogę?"
+  },
+  {
+    "id": "589124018206",
+    "key": "21_Tajra_v1_Talk_MK9Z",
+    "en": "You're not afraid to ask about that stuff, huh? But come on, now. You're a scav, you've seen some <i>shit.</i> Isn't it more fun to use your <i>imagination?</i>",
+    "pl": "Nie boisz się zadawać takich pytań, co? No ale daj spokój. Jesteś zbieraczem, swoje <i>widziałeś.</i> Nie ciekawiej użyć <i>wyobraźni?</i>"
+  },
+  {
+    "id": "589124018207",
+    "key": "21_Tajra_v1_Talk_95QH",
+    "en": "Didn't know they expelled their soldiers.",
+    "pl": "Nie wiedziałem, że wyrzucają żołnierzy."
+  },
+  {
+    "id": "589124018208",
+    "key": "21_Tajra_v1_Talk_0Y3U",
+    "en": "Expel? No, no. <i>Honorably discharged.</i> They offered me an officer post, sitting behind a desk in Arcadia, barking orders, warm meals every day. Sounded like <i>hell,</i> so I <i>left.</i>",
+    "pl": "Wyrzucają? Nie, nie. <i>Honorowe zwolnienie ze służby.</i> Zaproponowali mi stanowisko oficera: biurko w Arcadii, wydawanie rozkazów, ciepłe posiłki codziennie. Brzmiało jak <i>piekło,</i> więc <i>odeszłam.</i>"
+  },
+  {
+    "id": "589124018209",
+    "key": "21_Tajra_v1_Talk_NNJZ",
+    "en": "I know it doesn't seem like it now, but if you'd seen me in my heyday... Well, you <i>wouldn't</i> have; I'd be lying in the bushes... Knife between my teeth...",
+    "pl": "Wiem, że teraz na to nie wyglądam, ale gdybyś mnie widział w najlepszych latach... Właściwie <i>nie zobaczyłbyś</i> mnie. Leżałabym w krzakach... Z nożem w zębach..."
+  },
+  {
+    "id": "589124018210",
+    "key": "21_Tajra_v1_Talk_VPHL",
+    "en": "Unseen, but <i>ready.</i> Those were the days... Why'd anyone choose a bit of comfort over the thrill of getting <i>kills?</i>",
+    "pl": "Niewidoczna, ale <i>gotowa.</i> To były czasy... Kto by wybrał odrobinę wygody zamiast dreszczyku <i>zabijania?</i>"
+  },
+  {
+    "id": "589124018211",
+    "key": "21_Tajra_v1_Talk_OFUR",
+    "en": "Okay. Mutant bite.",
+    "pl": "Dobra. Ugryzienie Mutanta."
+  },
+  {
+    "id": "589124018212",
+    "key": "21_Tajra_v1_Talk_0VWR",
+    "en": "I said to use your imagination, not to come up with the single most trivial, boring thing that Zalesye has to offer.",
+    "pl": "Miałeś użyć wyobraźni, a nie wymyślić najbardziej banalną, nudną rzecz, jaką ma do zaoferowania Zalesye."
+  },
+  {
+    "id": "589124018213",
+    "key": "21_Tajra_v1_Talk_ZPTV",
+    "en": "You <i>complained</i> about a situation that you <i>chose</i> and <i>bragged about.</i>",
+    "pl": "<i>Narzekasz</i> na coś, co sama <i>wybrałaś</i> i czym się <i>chwaliłaś.</i>"
+  },
+  {
+    "id": "589124018214",
+    "key": "21_Tajra_v1_Talk_HWTV",
+    "en": "Yeah, so? Life's full of contradictions, boy. Just because they offered me the post, doesn't mean they shouldn't help this old hag out a little more when she made her choice.",
+    "pl": "No i? Życie jest pełne sprzeczności, chłopcze. Zaproponowali mi posadę, ale to nie znaczy, że nie powinni bardziej pomóc starej jędzy, gdy już dokonała wyboru."
+  },
+  {
+    "id": "589124018215",
+    "key": "21_Tajra_v1_Talk_PMHS",
+    "en": "About that Palatine thing...",
+    "pl": "Co do tych Palatynów..."
+  },
+  {
+    "id": "589124018216",
+    "key": "21_Tajra_v1_Talk_XF0F",
+    "en": "Yeah?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "589124018217",
+    "key": "21_Tajra_v1_Talk_9MRS",
+    "en": "Let me guess the leg thing again.",
+    "pl": "Jeszcze raz zgadnę, co z nogą."
+  },
+  {
+    "id": "589124018218",
+    "key": "21_Tajra_v1_Talk_TAI0",
+    "en": "Sure, take a stab at it.",
+    "pl": "Jasne, strzelaj."
+  },
+  {
+    "id": "589124018219",
+    "key": "21_Tajra_v1_Talk_SX0T",
+    "en": "Gotta go.",
+    "pl": "Muszę iść."
+  },
+  {
+    "id": "589124018220",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_SGRG",
+    "en": "Stepped on a landmine.",
+    "pl": "Wdepnęłaś na minę."
+  },
+  {
+    "id": "589124018221",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_DM0D",
+    "en": "Are those still around? I'd think you scavs would've already stepped on every single one.",
+    "pl": "Jeszcze jakieś zostały? Myślałam, że wy, zbieracze, wdepnęliście już na wszystkie."
+  },
+  {
+    "id": "589124018222",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_PN6B",
+    "en": "Fell into Lake Pavlie.",
+    "pl": "Wpadłaś do jeziora Pavlie."
+  },
+  {
+    "id": "589124018223",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_GKHP",
+    "en": "You know, I did once, actually. It was a shallow bit, thankfully. My gear protected me, came out unscathed, my squadmates bullied me about it for a <i>while.</i>",
+    "pl": "Wiesz, raz naprawdę mi się zdarzyło. Na szczęście na płyciźnie. Sprzęt mnie ochronił, wyszłam bez szwanku, ale koledzy z oddziału dokuczali mi przez <i>długi czas.</i>"
+  },
+  {
+    "id": "589124018224",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_S3RG",
+    "en": "Spontaneous combustion.",
+    "pl": "Samozapłon."
+  },
+  {
+    "id": "589124018225",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_UBRP",
+    "en": "Hmm, that's too dry. Work an Aspect into it or something.",
+    "pl": "Hmm, zbyt suche. Dorzuć do tego Aspekt czy coś."
+  },
+  {
+    "id": "589124018226",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_NBZS",
+    "en": "Cut it off yourself, just to feel something.",
+    "pl": "Sama ją odcięłaś, żeby cokolwiek poczuć."
+  },
+  {
+    "id": "589124018227",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_YZF3",
+    "en": "I see the Mist has started to corrode your brain a little bit. Might want to replace that gas mask, boy.",
+    "pl": "Widzę, że Mgła zaczęła ci podżerać mózg. Chyba pora wymienić maskę, chłopcze."
+  },
+  {
+    "id": "589124018228",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_8FWU",
+    "en": "Got mistaken for a corpse, Mudlarks hacked it off.",
+    "pl": "Błotniarze wzięli cię za trupa i ją odrąbali."
+  },
+  {
+    "id": "589124018229",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_Y1Q7",
+    "en": "You're a cheeky fuck, aren't you? Though I'll be the first to admit, that's becoming a more likely reality by the day! Ha!",
+    "pl": "Bezczelny z ciebie skurczybyk, co? Ale pierwsza przyznam, że z każdym dniem to coraz bardziej prawdopodobne! Ha!"
+  },
+  {
+    "id": "589124018230",
+    "key": "21_Tajra_v1_Talk_Using_Imagination_LX1N",
+    "en": "Good guess, but no cigar.",
+    "pl": "Dobry strzał, ale pudło."
+  },
+  {
+    "id": "589124018231",
+    "key": "21_Tajra_v1_Talk_About_Choices_8LJG",
+    "en": "I would <i>never</i> turn down an offer like that.",
+    "pl": "<i>Nigdy</i> bym nie odrzucił takiej oferty."
+  },
+  {
+    "id": "589124018232",
+    "key": "21_Tajra_v1_Talk_About_Choices_6XM2",
+    "en": "Well, you say that, young man, but it's not like you don't have goals of your own. I've worked with many scavs... Vultures, over the years. You're always looking at those train tracks...",
+    "pl": "Tak mówisz, młody człowieku, ale przecież sam też masz swoje cele. Przez lata pracowałam z wieloma zbieraczami... Sępami. Zawsze patrzycie na te tory..."
+  },
+  {
+    "id": "589124018233",
+    "key": "21_Tajra_v1_Talk_About_Choices_UNOW",
+    "en": "Ooohh, that look you just gave. Looks like I'm <i>spot on.</i>",
+    "pl": "Oooch, to twoje spojrzenie. Chyba trafiłam <i>w samo sedno.</i>"
+  },
+  {
+    "id": "589124018234",
+    "key": "21_Tajra_v1_Talk_About_Choices_5E0F",
+    "en": "Look, I've served the military a long, long time, seen many leaders come and go. I just like to hunt and shoot things, don't want any <i>real responsibilities,</i> thank you very much.",
+    "pl": "Słuchaj, służyłam w wojsku bardzo długo. Widziałam, jak przychodzą i odchodzą kolejni dowódcy. Po prostu lubię polować i strzelać. Za <i>prawdziwą odpowiedzialność</i> serdecznie dziękuję."
+  },
+  {
+    "id": "589124018235",
+    "key": "21_Tajra_v1_Talk_About_Choices_NU2V",
+    "en": "Why <i>are</i> you living alone like this?",
+    "pl": "<i>Dlaczego</i> mieszkasz tu sama?"
+  },
+  {
+    "id": "589124018236",
+    "key": "21_Tajra_v1_Talk_About_Choices_GG7W",
+    "en": "Why, because I'm a <i>hunter,</i> of course. I've lived in this shitty little shack since my retirement, chasing down Mutants for food every day. It's fun stuff, hell, you've done it before for sure, so I know you know.",
+    "pl": "Bo jestem <i>łowczynią,</i> oczywiście. Od emerytury żyję w tej zasranej budzie i codziennie gonię Mutanty, żeby mieć co jeść. To dobra zabawa, cholera. Na pewno sam to robiłeś, więc wiesz."
+  },
+  {
+    "id": "589124018237",
+    "key": "21_Tajra_v1_Talk_About_Choices_VPSK",
+    "en": "But lately, the Mist's been creeping in, attracting more and more of those creatures... Bigger ones, too. I need to move soon. Every day I've been cutting it a little closer...",
+    "pl": "Ale ostatnio Mgła się zbliża, przyciąga coraz więcej tych stworów... I coraz większe. Muszę się niedługo przenieść. Codziennie jest o włos bliżej..."
+  },
+  {
+    "id": "589124018238",
+    "key": "21_Tajra_v1_Talk_About_Choices_0A1S",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "589124018239",
+    "key": "21_Tajra_v1_Talk_About_Choices_UBX8",
+    "en": "Never mind; I have to go.",
+    "pl": "Nieważne, muszę iść."
+  },
+  {
+    "id": "589124018240",
+    "key": "21_Tajra_v1_SelectedReserve_T8L0",
+    "en": "Yeah, could use a scav. As you can see, I'm low-mobility and this place isn't safe to live in anymore... I heard of a good spot, near the Church, but there's a Bandit camp nearby. An old squadmate's promised to help me take them out, but...",
+    "pl": "Tak, przydałby mi się zbieracz. Jak widzisz, niezbyt sprawnie się poruszam, a tu już nie jest bezpiecznie... Słyszałam o dobrym miejscu koło kościoła, ale w pobliżu jest obóz Bandytów. Dawny kolega z oddziału obiecał pomóc mi ich wybić, ale..."
+  },
+  {
+    "id": "589124018241",
+    "key": "21_Tajra_v1_SelectedReserve_PRXX",
+    "en": "I <i>refuse</i> to ask dear Sasha to snipe them all <i>alone.</i> So I thought I'd hire <i>you,</i> so you two can team up to clear that Bandit camp, and <i>then</i> I'll move.",
+    "pl": "<i>Nie zgadzam się,</i> żeby kochany Sasha wystrzelał ich <i>sam.</i> Pomyślałam więc, że wynajmę <i>ciebie.</i> Razem oczyścicie obóz Bandytów i <i>wtedy</i> się przeniosę."
+  },
+  {
+    "id": "589124018242",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Decision_T08T",
+    "en": "Does this sound like a job you'd be interested in?",
+    "pl": "Interesuje cię taka robota?"
+  },
+  {
+    "id": "589124018243",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Decision_CP6B",
+    "en": "I'll do it, sure. Just gotta have a plan.",
+    "pl": "Jasne, zrobię to. Trzeba tylko mieć plan."
+  },
+  {
+    "id": "589124018244",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Decision_6XEW",
+    "en": "Good, good. Meet up with Sasha, work something out. You can trust him. I think he's around... <i>Here,</i> let me mark that down for you...",
+    "pl": "Dobrze, dobrze. Spotkaj się z Sashą i coś ustalcie. Możesz mu ufać. Powinien być gdzieś... <i>Tutaj,</i> zaznaczę ci..."
+  },
+  {
+    "id": "589124018245",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Decision_LULW",
+    "en": "Me and a sniper? An entire camp? Too dangerous.",
+    "pl": "Ja i snajper na cały obóz? Zbyt ryzykowne."
+  },
+  {
+    "id": "589124018246",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Decision_X2ZK",
+    "en": "Listen, I'm not doing it myself because I'm in <i>this</i> rickety thing. Healthy young man like you should have a breezy time handlin' some punks with Sasha by your side.",
+    "pl": "Słuchaj, nie idę sama tylko dlatego, że tkwię w <i>tym</i> rozklekotanym gracie. Zdrowy młody chłopak taki jak ty, z Sashą u boku, bez trudu poradzi sobie z paroma szumowinami."
+  },
+  {
+    "id": "589124018247",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_392V",
+    "en": "Where do I meet your escort, again?",
+    "pl": "Gdzie mam spotkać twoją obstawę?"
+  },
+  {
+    "id": "589124018248",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_VBMG",
+    "en": "Show me your map. Here, I've marked the spot where Sasha should've set up.",
+    "pl": "Pokaż mapę. Tutaj, zaznaczyłam miejsce, gdzie Sasha powinien zająć pozycję."
+  },
+  {
+    "id": "589124018249",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_HVSP",
+    "en": "Where's this camp we're about to hit?",
+    "pl": "Gdzie jest obóz, który mamy zaatakować?"
+  },
+  {
+    "id": "589124018250",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_WU7E",
+    "en": "Oh, Sasha should be able to show you that. Don't worry, I'm sure you two will get along.",
+    "pl": "Och, Sasha ci pokaże. Bez obaw, na pewno się dogadacie."
+  },
+  {
+    "id": "589124018251",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_522G",
+    "en": "A retired Palatine can't handle a few Bandits?",
+    "pl": "Emerytowana Palatynka nie da rady kilku Bandytom?"
+  },
+  {
+    "id": "589124018252",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_2424",
+    "en": "Ugh... It's painful to admit this, but... As you can see, I'm past my prime. I'm afraid I can't handle those losers anymore... Not after I lost the leg.",
+    "pl": "Ech... Ciężko mi to przyznać, ale... Jak widzisz, najlepsze lata mam za sobą. Obawiam się, że już sobie z nimi nie poradzę... Nie po utracie nogi."
+  },
+  {
+    "id": "589124018253",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_ZWNC",
+    "en": "Why not move somewhere with no Bandits?",
+    "pl": "Czemu nie przeniesiesz się gdzieś bez Bandytów?"
+  },
+  {
+    "id": "589124018254",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_TBPC",
+    "en": "I've got to stay closer to the Church, so those Acolytes can help me with my routine. I've been needing more and more help, and... I'm a bit scared, I suppose.",
+    "pl": "Muszę być bliżej kościoła, żeby Akolici pomagali mi w codziennych sprawach. Potrzebuję coraz więcej pomocy i... Chyba trochę się boję."
+  },
+  {
+    "id": "589124018255",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_JF8Q",
+    "en": "Plenty of spots for squatters near the Church...",
+    "pl": "Koło kościoła jest dużo miejsc do zamieszkania..."
+  },
+  {
+    "id": "589124018256",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_L4TJ",
+    "en": "Well, yes, but I'd also like to be able to keep <i>hunting,</i> on the good days. Don't want my independent lifestyle to be <i>fully</i> gone.",
+    "pl": "No tak, ale w lepsze dni chciałabym nadal móc <i>polować.</i> Nie chcę <i>całkiem</i> stracić niezależności."
+  },
+  {
+    "id": "589124018257",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_52HO",
+    "en": "So that's why... It needs to be a specific place. And there's Bandits in the way. And they just need to <i>die.</i>",
+    "pl": "Dlatego... To musi być konkretne miejsce. A tam przeszkadzają Bandyci. I po prostu muszą <i>umrzeć.</i>"
+  },
+  {
+    "id": "589124018258",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_CC5Q",
+    "en": "I don't have any more questions.",
+    "pl": "Nie mam więcej pytań."
+  },
+  {
+    "id": "589124018259",
+    "key": "21_Tajra_v1_SelectedReserve_Quest_Questions_GVNL",
+    "en": "Then it sounds like you're good to go. Don't keep Sasha waiting, now.",
+    "pl": "To chyba możesz ruszać. Nie każ Sashy czekać."
+  },
+  {
+    "id": "589124018260",
+    "key": "21_Tajra_v1_SelectedReserve_Inform_Quest_3N94",
+    "en": "Have you met with Sasha yet?",
+    "pl": "Spotkałeś już Sashę?"
+  },
+  {
+    "id": "589124018261",
+    "key": "21_Tajra_v1_SelectedReserve_Inform_Quest_7RJA",
+    "en": "Not yet.",
+    "pl": "Jeszcze nie."
+  },
+  {
+    "id": "589124018262",
+    "key": "21_Tajra_v1_SelectedReserve_Inform_Quest_QNLL",
+    "en": "Don't keep him waiting. He might get confident and open fire on the camp all alone. Whatever happens next, you can be <i>sure</i> you'll lose your reward.",
+    "pl": "Nie każ mu czekać. Może nabrać pewności siebie i sam ostrzelać obóz. Cokolwiek stanie się potem, możesz być <i>pewien,</i> że stracisz nagrodę."
+  },
+  {
+    "id": "589124018263",
+    "key": "21_Tajra_v1_SelectedReserve_Inform_Quest_ME6I",
+    "en": "Had some questions first.",
+    "pl": "Najpierw miałem kilka pytań."
+  },
+  {
+    "id": "589124018264",
+    "key": "21_Tajra_v1_SelectedReserve_Inform_Quest_LBEB",
+    "en": "Well, don't beat around the bush.",
+    "pl": "No to bez owijania w bawełnę."
+  },
+  {
+    "id": "589124018265",
+    "key": "21_Tajra_v1_Quest_Completed_LD6O",
+    "en": "Hah! So you did. How was working with my boy? I'm sure y'all wiped them out easily.",
+    "pl": "Ha! A jednak. Jak ci się pracowało z moim chłopakiem? Na pewno bez trudu ich wybiliście."
+  },
+  {
+    "id": "589124018266",
+    "key": "21_Tajra_v1_Quest_Completed_GN6L",
+    "en": "Thanks for the help, scav. Now I can finally move to a better place and live out the rest of my days with a little bit of peace of mind... Maybe some company, too.",
+    "pl": "Dzięki za pomoc, zbieraczu. Wreszcie mogę przenieść się w lepsze miejsce i dożyć swoich dni ze spokojniejszą głową... Może nawet w towarzystwie."
+  },
+  {
+    "id": "589124018267",
+    "key": "21_Tajra_v1_Quest_Completed_O62Y",
+    "en": "And what do I get?",
+    "pl": "A co ja dostanę?"
+  },
+  {
+    "id": "589124018268",
+    "key": "21_Tajra_v1_Quest_Completed_1WK5",
+    "en": "Oh, right, right. Been a bit forgetful, heh. Here you go, scav. I'll be on the move now... If you're ever near the Church, do pay a visit, huh?",
+    "pl": "Ach, tak, tak. Ostatnio trochę zapominam, heh. Proszę, zbieraczu. Będę się zbierać... Jak będziesz koło kościoła, zajrzyj, dobrze?"
+  },
+  {
+    "id": "589124018269",
+    "key": "21_Tajra_v1_Quest_Completed_BQ9U",
+    "en": "Sasha's good backup. He'd be a decent Vulture.",
+    "pl": "Sasha dobrze osłania. Byłby z niego niezły Sęp."
+  },
+  {
+    "id": "589124018270",
+    "key": "21_Tajra_v1_Quest_Completed_GYIM",
+    "en": "Ha ha, no, no, I bet he would <i>hate</i> it. Wandering the wastes would mess up his <i>shirt.</i>",
+    "pl": "Ha, ha, nie, nie, na pewno by tego <i>nie znosił.</i> Włóczenie się po pustkowiach zniszczyłoby mu <i>koszulę.</i>"
+  },
+  {
+    "id": "589124018271",
+    "key": "21_Tajra_v1_Quest_Completed_S8W9",
+    "en": "Here; your reward. If you're near the Church sometime, do drop by.",
+    "pl": "Proszę, twoja nagroda. Wpadnij kiedyś, jeśli będziesz koło kościoła."
+  }
+]

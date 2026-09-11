@@ -1,0 +1,47 @@
+[
+  {
+    "id": "13131309056",
+    "key": "Stock",
+    "en": "Stock"
+  },
+  {
+    "id": "13177446400",
+    "key": "Magazine",
+    "en": "Magazine"
+  },
+  {
+    "id": "13177446401",
+    "key": "BackGrip",
+    "en": "Back grip"
+  },
+  {
+    "id": "13177446402",
+    "key": "FrontGrip",
+    "en": "Front grip"
+  },
+  {
+    "id": "13177446403",
+    "key": "HandGuard",
+    "en": "Hand guard"
+  },
+  {
+    "id": "13177446404",
+    "key": "DustCover",
+    "en": "Dust cover"
+  },
+  {
+    "id": "13181640704",
+    "key": "Muzzle",
+    "en": "Muzzle"
+  },
+  {
+    "id": "748714258849792",
+    "key": "ForeGrip",
+    "en": "Foregrip"
+  },
+  {
+    "id": "67362062704082944",
+    "key": "Sight",
+    "en": "Sight"
+  }
+]

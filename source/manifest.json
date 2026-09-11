@@ -1,0 +1,282 @@
+{
+  "files": {
+    "localization-string-tables-english(en)_assets_all.bundle": {
+      "sha256": "fb987be45a66d6378f921b7b6bdd4abd5ea22b8d5969f731b83ce542608ad1a8",
+      "size": 282313
+    },
+    "localization-assets-shared_assets_all.bundle": {
+      "sha256": "e70dd53b469c5fe3d3c10c68e96b57830919dacad2468c73cab9827ec2c98c55",
+      "size": 93520
+    },
+    "localization-locales_assets_all.bundle": {
+      "sha256": "11b90d04cefbd727e7a5a4b1383360280acb3ba12f301efca4fd1612da10c909",
+      "size": 2696
+    }
+  },
+  "tables": [
+    {
+      "table": "Snezhana",
+      "path_id": -9101816803251610455,
+      "entries": 138,
+      "words": 1780
+    },
+    {
+      "table": "Nadja",
+      "path_id": -9076203237105597286,
+      "entries": 161,
+      "words": 2227
+    },
+    {
+      "table": "Volk",
+      "path_id": -8702482094407251967,
+      "entries": 98,
+      "words": 717
+    },
+    {
+      "table": "Alexei",
+      "path_id": -5865672790717920861,
+      "entries": 899,
+      "words": 11066
+    },
+    {
+      "table": "DefaultTable",
+      "path_id": -4976933656529026258,
+      "entries": 426,
+      "words": 1355
+    },
+    {
+      "table": "Angel",
+      "path_id": -4146780190146687947,
+      "entries": 22,
+      "words": 318
+    },
+    {
+      "table": "Barks",
+      "path_id": -4142660763412020701,
+      "entries": 4,
+      "words": 0
+    },
+    {
+      "table": "Vera",
+      "path_id": -4018711435019662657,
+      "entries": 107,
+      "words": 1331
+    },
+    {
+      "table": "Bogdan",
+      "path_id": -3561472764454261255,
+      "entries": 459,
+      "words": 6077
+    },
+    {
+      "table": "Mila",
+      "path_id": -3368261033220719641,
+      "entries": 205,
+      "words": 2756
+    },
+    {
+      "table": "Rosa",
+      "path_id": -3352052755585417249,
+      "entries": 348,
+      "words": 4455
+    },
+    {
+      "table": "Vesna",
+      "path_id": -1746501803682826308,
+      "entries": 384,
+      "words": 4620
+    },
+    {
+      "table": "ControlsActions",
+      "path_id": -609514103885698230,
+      "entries": 138,
+      "words": 285
+    },
+    {
+      "table": "Yefim",
+      "path_id": 462224387799170688,
+      "entries": 371,
+      "words": 4871
+    },
+    {
+      "table": "DyingBandit",
+      "path_id": 887628701072450770,
+      "entries": 27,
+      "words": 120
+    },
+    {
+      "table": "Jasna",
+      "path_id": 1142858308483232216,
+      "entries": 371,
+      "words": 4469
+    },
+    {
+      "table": "Zhivan",
+      "path_id": 1473645180090042621,
+      "entries": 170,
+      "words": 1798
+    },
+    {
+      "table": "Marko",
+      "path_id": 1538639426927883517,
+      "entries": 399,
+      "words": 5686
+    },
+    {
+      "table": "DestroyedShack",
+      "path_id": 2301819895547101911,
+      "entries": 30,
+      "words": 525
+    },
+    {
+      "table": "Vera-Zoran",
+      "path_id": 2384079826790576404,
+      "entries": 253,
+      "words": 2979
+    },
+    {
+      "table": "Factions",
+      "path_id": 2524101249005093623,
+      "entries": 9,
+      "words": 767
+    },
+    {
+      "table": "Grigory",
+      "path_id": 2545332171224684218,
+      "entries": 205,
+      "words": 2760
+    },
+    {
+      "table": "Petar",
+      "path_id": 2577518096019041095,
+      "entries": 326,
+      "words": 4235
+    },
+    {
+      "table": "Olga",
+      "path_id": 3690547720368397317,
+      "entries": 258,
+      "words": 4561
+    },
+    {
+      "table": "Ilya",
+      "path_id": 3946485241904191805,
+      "entries": 442,
+      "words": 3431
+    },
+    {
+      "table": "Gavron",
+      "path_id": 4080973836003842619,
+      "entries": 111,
+      "words": 902
+    },
+    {
+      "table": "Stashes",
+      "path_id": 4376200359985977842,
+      "entries": 40,
+      "words": 66
+    },
+    {
+      "table": "Anatoly",
+      "path_id": 4455412912273501655,
+      "entries": 230,
+      "words": 2494
+    },
+    {
+      "table": "Radio Transmissions",
+      "path_id": 4572315636171017958,
+      "entries": 31,
+      "words": 437
+    },
+    {
+      "table": "RadioTransmissions",
+      "path_id": 5407596351165713973,
+      "entries": 31,
+      "words": 437
+    },
+    {
+      "table": "Casmir",
+      "path_id": 5474714591985887541,
+      "entries": 80,
+      "words": 1096
+    },
+    {
+      "table": "Quests",
+      "path_id": 6126322956956906297,
+      "entries": 240,
+      "words": 1966
+    },
+    {
+      "table": "MapTitles",
+      "path_id": 6538527110639652364,
+      "entries": 129,
+      "words": 264
+    },
+    {
+      "table": "Weapons",
+      "path_id": 7267417063168044051,
+      "entries": 9,
+      "words": 13
+    },
+    {
+      "table": "ItemsTable",
+      "path_id": 7395649395936454026,
+      "entries": 1319,
+      "words": 13408
+    },
+    {
+      "table": "Volodymyr",
+      "path_id": 7401356908041067802,
+      "entries": 423,
+      "words": 4410
+    },
+    {
+      "table": "Tajra",
+      "path_id": 7421779521344440902,
+      "entries": 97,
+      "words": 1283
+    },
+    {
+      "table": "Yelena",
+      "path_id": 7990659209097153817,
+      "entries": 202,
+      "words": 2394
+    },
+    {
+      "table": "Destroyed Shack",
+      "path_id": 8079237609309495165,
+      "entries": 30,
+      "words": 525
+    },
+    {
+      "table": "Raisa",
+      "path_id": 8235622333702319334,
+      "entries": 221,
+      "words": 3193
+    },
+    {
+      "table": "Ropeburn",
+      "path_id": 8365759488037571916,
+      "entries": 123,
+      "words": 1955
+    },
+    {
+      "table": "MysteriousFigure",
+      "path_id": 8659411340858470223,
+      "entries": 63,
+      "words": 519
+    },
+    {
+      "table": "Sasha",
+      "path_id": 8725705454927613064,
+      "entries": 139,
+      "words": 1859
+    },
+    {
+      "table": "UI",
+      "path_id": 9070967968077596894,
+      "entries": 212,
+      "words": 510
+    }
+  ]
+}

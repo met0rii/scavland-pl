@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "steam_build_id": "25222006",
+  "original_files": {
+    "Scavland_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle": {
+      "sha256": "fb987be45a66d6378f921b7b6bdd4abd5ea22b8d5969f731b83ce542608ad1a8",
+      "size": 282313
+    },
+    "Scavland_Data/StreamingAssets/aa/StandaloneWindows64/localization-locales_assets_all.bundle": {
+      "sha256": "11b90d04cefbd727e7a5a4b1383360280acb3ba12f301efca4fd1612da10c909",
+      "size": 2696
+    },
+    "Scavland_Data/StreamingAssets/aa/catalog.bin": {
+      "sha256": "0d889a7bfa6b7c63894c988fefe21a0da7e530551376c8767031aabdb4ec0fde",
+      "size": 7264145
+    },
+    "Scavland_Data/data.unity3d": {
+      "sha256": "188893d51af9510f94e137bb813aa76b6de0726472d6dc60ed8c838843298d4a",
+      "size": 160126144
+    }
+  },
+  "font_patched_sha256": "ad8d490139cdc5bc0af65471447dcac7f5ed653bd5f4326d222907349999144e",
+  "font_patch": {
+    "asset": "sharedassets0.assets",
+    "path_id": 11118,
+    "original_object_sha256": "deab73752de4214960c57e5ce58dfc2d18345dd15dd7734e15d17dbbba003359",
+    "patched_object_sha256": "10c6277a2c4ac084a1adff4fa68b02c9c7b0766dd3f19b628cbd56c186f08d9a",
+    "offset": 40112,
+    "remove_hex": "",
+    "insert_hex": "0100000000000000792b0000"
+  }
+}

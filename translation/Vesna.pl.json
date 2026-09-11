@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "1112571904",
+    "key": "",
+    "en": "Vulture, yes. Why?",
+    "pl": "Tak, Sęp. Dlaczego pytasz?"
+  },
+  {
+    "id": "1133543424",
+    "key": "",
+    "en": "Needed to see one today. Uh, so... Your name?",
+    "pl": "Musiałam dziś spotkać jakiegoś. Yyy, więc... Jak się nazywasz?"
+  },
+  {
+    "id": "1133543425",
+    "key": "",
+    "en": "People call me Returner.",
+    "pl": "Ludzie mówią na mnie Powracający."
+  },
+  {
+    "id": "1133543426",
+    "key": "",
+    "en": "Oh, you use nicknames, I see.",
+    "pl": "Och, używacie przezwisk, rozumiem."
+  },
+  {
+    "id": "1133543427",
+    "key": "",
+    "en": "Rodion.",
+    "pl": "Rodion."
+  },
+  {
+    "id": "1133543428",
+    "key": "",
+    "en": "Nice to meet you, Rodion.",
+    "pl": "Miło cię poznać, Rodion."
+  },
+  {
+    "id": "1133543429",
+    "key": "",
+    "en": "You make... Clothes?",
+    "pl": "Robisz... ubrania?"
+  },
+  {
+    "id": "1133543430",
+    "key": "",
+    "en": "I'm a seamster. Make all sorts of new clothes, um, I also patch and repair things... Holes in boots, rips on vests, worn down dust coats. I fix that...",
+    "pl": "Jestem krawcową. Szyję różne ubrania, yyy, łatam też i naprawiam rzeczy... Dziury w butach, rozdarcia w kamizelkach, znoszone płaszcze. Tym się zajmuję..."
+  },
+  {
+    "id": "1133543431",
+    "key": "",
+    "en": "It's mostly my husband who handles customers... I just work. But I've been having trouble with materials, so I have to be more active, uhm, in <i>talking</i> to people now... Not my forte...",
+    "pl": "Klientami zajmuje się głównie mąż... Ja po prostu pracuję. Ale mam kłopoty z materiałami, więc muszę częściej, yyy, <i>rozmawiać</i> z ludźmi... To nie moja mocna strona..."
+  },
+  {
+    "id": "1133543432",
+    "key": "",
+    "en": "Trouble with materials?",
+    "pl": "Kłopoty z materiałami?"
+  },
+  {
+    "id": "1133543433",
+    "key": "",
+    "en": "Well, I use a lot of cloth, linen, leather, little specialized tools for cutting, sewing, patching... Stuff that's rare to come by.",
+    "pl": "Używam dużo tkanin, płótna, skóry, małych specjalistycznych narzędzi do cięcia, szycia, łatania... Trudno to zdobyć."
+  },
+  {
+    "id": "1133543434",
+    "key": "",
+    "en": "It's why I need to trade with and hire Vultures to get these things for me. Never enough inventory... S-sorry, I'm just whining now...",
+    "pl": "Dlatego muszę handlować z Sępami i zlecać im zdobywanie tego. Zawsze za mało zapasów... P-przepraszam, już tylko narzekam..."
+  },
+  {
+    "id": "1133543435",
+    "key": "",
+    "en": "Who's your husband?",
+    "pl": "Kto jest twoim mężem?"
+  },
+  {
+    "id": "1133543436",
+    "key": "",
+    "en": "Oh, it's Yefim... H-He's a trader, stays near Sontse, East of here. He sells armor, accessories and stuff. He looks scary... But he's kind. You should meet him.",
+    "pl": "Och, Yefim... J-jest handlarzem, koło Sontse, na wschód stąd. Sprzedaje pancerze, akcesoria i takie rzeczy. Wygląda strasznie... Ale jest dobry. Powinieneś go poznać."
+  },
+  {
+    "id": "1133543437",
+    "key": "",
+    "en": "Wish he would join the Rada like I did. But he... Has his own way of helping out.",
+    "pl": "Chciałabym, żeby dołączył do Rady tak jak ja. Ale on... Pomaga na swój sposób."
+  },
+  {
+    "id": "1133543438",
+    "key": "",
+    "en": "Having a husband – unusual around here.",
+    "pl": "Mąż to tutaj rzadkość."
+  },
+  {
+    "id": "1133543439",
+    "key": "",
+    "en": "I guess before this whole thing with the Mist it was super common? But yeah, not many folks in Zalesye have someone they can <i>rely</i> on like that...",
+    "pl": "Chyba przed tą całą Mgłą to było bardzo powszechne? Ale tak, niewielu ludzi w Zalesye ma kogoś, na kim może tak <i>polegać...</i>"
+  },
+  {
+    "id": "1133543440",
+    "key": "",
+    "en": "We never married like the Church would describe it, though. I call Yefim my husband anyway. He calls me Ves. I really like that. Having someone to lean on at the end of each day... It's a privilege. I wonder if others around here even think about it...",
+    "pl": "Nigdy nie wzięliśmy ślubu tak, jak opisuje to Kościół. I tak nazywam Yefima mężem. On mówi na mnie Ves. Bardzo to lubię. Mieć w kimś oparcie pod koniec dnia... To przywilej. Ciekawe, czy inni w ogóle o tym myślą..."
+  },
+  {
+    "id": "1133543441",
+    "key": "",
+    "en": "Does he help with work?",
+    "pl": "Pomaga ci w pracy?"
+  },
+  {
+    "id": "1133543442",
+    "key": "",
+    "en": "Very much. I help him too. We complement each other's supplies, a-and he handles some of my clients...",
+    "pl": "Bardzo. Ja jemu też. Uzupełniamy sobie zapasy, a-a on obsługuje część moich klientów..."
+  },
+  {
+    "id": "1133543443",
+    "key": "",
+    "en": "You can tell I'm not super good with people, can't you. I hope that's no bother, I don't mean anything by it...",
+    "pl": "Widać, że nie jestem najlepsza w kontaktach z ludźmi, prawda? Oby to nie przeszkadzało. Nie mam nic złego na myśli..."
+  },
+  {
+    "id": "1133543444",
+    "key": "",
+    "en": "What's he like? As a person?",
+    "pl": "Jaki on jest? Jako człowiek?"
+  },
+  {
+    "id": "1133543445",
+    "key": "",
+    "en": "I-I... Don't know how to respond to that. I know you didn't mean it that way, but... It's like, too <i>intimate</i> to say?",
+    "pl": "J-ja... Nie wiem, jak odpowiedzieć. Wiem, że nie o to ci chodziło, ale... To chyba zbyt <i>osobiste,</i> żeby mówić?"
+  },
+  {
+    "id": "1133543446",
+    "key": "",
+    "en": "It's a weird feeling, I know. But let's talk about something else, ok?",
+    "pl": "Dziwne uczucie, wiem. Ale porozmawiajmy o czymś innym, dobrze?"
+  },
+  {
+    "id": "1133543447",
+    "key": "",
+    "en": "You're a member of the Rada?",
+    "pl": "Należysz do Rady?"
+  },
+  {
+    "id": "1133543448",
+    "key": "",
+    "en": "Yes, I am. Best decision I've made – the only hope for this region is if we stick together, after all...",
+    "pl": "Tak. Najlepsza decyzja w moim życiu. Jedyna nadzieja dla tego regionu to trzymać się razem..."
+  },
+  {
+    "id": "1133543449",
+    "key": "",
+    "en": "Why? Would you like to know more?",
+    "pl": "Dlaczego? Chcesz wiedzieć więcej?"
+  },
+  {
+    "id": "1133543450",
+    "key": "",
+    "en": "About the Rada...",
+    "pl": "Co do Rady..."
+  },
+  {
+    "id": "1133543451",
+    "key": "",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "1133543452",
+    "key": "",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "1133543453",
+    "key": "",
+    "en": "What's the Rada, exactly?",
+    "pl": "Czym dokładnie jest Rada?"
+  },
+  {
+    "id": "1133543454",
+    "key": "",
+    "en": "Uhm. I'm not the best at explaining things, but... We're a group that wants to organize Zalesye. Bring folks together. It started like a sort of town assembly – a get-together of skilled folks who built our shacks, grew our food, protected us from Mutants...",
+    "pl": "Yyy. Nie umiem najlepiej wyjaśniać, ale... Chcemy zorganizować Zalesye. Zjednoczyć ludzi. Zaczęło się jak zebranie mieszkańców: fachowców, którzy budowali nasze chaty, uprawiali jedzenie, chronili nas przed Mutantami..."
+  },
+  {
+    "id": "1133543455",
+    "key": "",
+    "en": "It's all modeled after the way things used to be before the War. How do I say this... If everyone's work is connected, and not <i>just</i> for the individual... Things get, like, much better. <i>Exponentially.</i>",
+    "pl": "Wzorujemy się na tym, jak było przed wojną. Jak to ująć... Jeśli praca wszystkich się łączy i nie służy <i>tylko</i> jednostce... Jest dużo lepiej. Poprawa jest <i>wykładnicza.</i>"
+  },
+  {
+    "id": "1133543456",
+    "key": "",
+    "en": "Connected how?",
+    "pl": "Jak się łączy?"
+  },
+  {
+    "id": "1133543457",
+    "key": "",
+    "en": "Part of a larger whole...? Like, if we can really look at the work everyone has to do in order for us to survive, and really <i>make sure</i> everyone's pulling their weight...",
+    "pl": "Jest częścią większej całości...? Jeśli przyjrzymy się pracy, którą wszyscy muszą wykonać, żebyśmy przetrwali, i <i>naprawdę dopilnujemy,</i> żeby każdy robił swoje..."
+  },
+  {
+    "id": "1133543458",
+    "key": "",
+    "en": "If we make sure that all work that gets done is <i>useful</i> and properly <i>balanced</i> between people, we can be more <i>productive,</i> and then actually flat-out <i>give stuff away</i> to folks who need it, and then <i>they</i> can become part of this whole cycle. That's the basic idea...? I'm not very eloquent...",
+    "pl": "Jeśli cała praca jest <i>użyteczna</i> i <i>sprawiedliwie rozdzielona,</i> możemy być bardziej <i>wydajni.</i> Wtedy możemy po prostu <i>rozdawać rzeczy</i> potrzebującym, a <i>oni</i> staną się częścią tego kręgu. Taki jest zamysł...? Nie jestem zbyt elokwentna..."
+  },
+  {
+    "id": "1133543459",
+    "key": "",
+    "en": "What is your role in the Rada?",
+    "pl": "Jaka jest twoja rola w Radzie?"
+  },
+  {
+    "id": "1133543460",
+    "key": "",
+    "en": "Well, I'm a seamster, so I just make clothes. I make more than we think we'll need, if I can, since there's always a couple vagrants in need of warmth, you know...",
+    "pl": "Jestem krawcową, więc szyję ubrania. Jeśli mogę, robię więcej, niż przewidujemy potrzebować. Zawsze jest paru włóczęgów, którym brakuje ciepła, wiesz..."
+  },
+  {
+    "id": "1133543461",
+    "key": "",
+    "en": "I'm supposed to talk to people about the Rada, too... I guess I'm doing it with you, now. But it's usually the others who bring new folks in...",
+    "pl": "Mam też opowiadać ludziom o Radzie... Chyba właśnie to robię. Ale zwykle to inni przyciągają nowych członków..."
+  },
+  {
+    "id": "1133543462",
+    "key": "",
+    "en": "Do you get paid for your work?",
+    "pl": "Dostajesz zapłatę za pracę?"
+  },
+  {
+    "id": "1133543463",
+    "key": "",
+    "en": "Well, kinda. I get a portion of the food and necessities that we have stashed in our bunkers and distributed among our leaders.",
+    "pl": "Tak jakby. Dostaję część jedzenia i niezbędnych rzeczy, które przechowujemy w bunkrach i rozdzielamy między przywódców."
+  },
+  {
+    "id": "1133543464",
+    "key": "",
+    "en": "This is, like, the main point of contention. We can't afford to just store all our stuff in one place or it'll get raided for sure. So the leading members have to keep a network of items... And guard them. This causes, uhh, fights. Criticism. But, yeah, I guess that's kinda like payment.",
+    "pl": "To główna kość niezgody. Nie możemy trzymać wszystkiego razem, bo na pewno padnie łupem napadu. Przywódcy muszą więc utrzymywać sieć zapasów... I ich strzec. To wywołuje, yyy, kłótnie. Krytykę. Ale tak, chyba można to uznać za zapłatę."
+  },
+  {
+    "id": "1133543465",
+    "key": "",
+    "en": "Has the Rada been growing?",
+    "pl": "Rada się rozwija?"
+  },
+  {
+    "id": "1133543466",
+    "key": "",
+    "en": "Not really. We've stagnated a bit these past couple of years, what with the Acolytes taking over some of our responsibilities.",
+    "pl": "Nie bardzo. Przez ostatnie lata trochę stoimy w miejscu, bo Akolici przejmują część naszych obowiązków."
+  },
+  {
+    "id": "1133543467",
+    "key": "",
+    "en": "They're like, occasional allies, and friendly competitors in a sense... Kind-hearted people whose work is always tied to God and to the power of the Church as an institution. A pre-War monolith.",
+    "pl": "Czasem są sojusznikami, a w pewnym sensie przyjazną konkurencją... Ludzie dobrego serca, których praca zawsze wiąże się z Bogiem i władzą Kościoła jako instytucji. Przedwojenny monolit."
+  },
+  {
+    "id": "1133543468",
+    "key": "",
+    "en": "When push comes to shove, I don't think that structure really has our common interests at heart.",
+    "pl": "Gdy przychodzi co do czego, nie sądzę, żeby ta struktura naprawdę miała na względzie nasz wspólny interes."
+  },
+  {
+    "id": "1133543469",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "1133543470",
+    "key": "",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "1133543471",
+    "key": "",
+    "en": "Oh, good – are you a Vulture? Name's Vesna. I make clothes. We should, uh, talk...",
+    "pl": "Och, dobrze. Jesteś Sępem? Mam na imię Vesna. Szyję ubrania. Powinniśmy, yyy, porozmawiać..."
+  },
+  {
+    "id": "1133543472",
+    "key": "",
+    "en": "H-Hello.",
+    "pl": "D-dzień dobry."
+  },
+  {
+    "id": "1133543473",
+    "key": "",
+    "en": "Oh, hi.",
+    "pl": "Och, cześć."
+  },
+  {
+    "id": "1133543474",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "1133543475",
+    "key": "",
+    "en": "Need to talk a bit.",
+    "pl": "Muszę chwilę pogadać."
+  },
+  {
+    "id": "1133543476",
+    "key": "",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "1133543477",
+    "key": "",
+    "en": "Got something to ask.",
+    "pl": "Chcę o coś zapytać."
+  },
+  {
+    "id": "1133543478",
+    "key": "",
+    "en": "I'd like to trade.",
+    "pl": "Chciałbym pohandlować."
+  },
+  {
+    "id": "1133543479",
+    "key": "",
+    "en": "I've some stuff to trade.",
+    "pl": "Mam trochę rzeczy do wymiany."
+  },
+  {
+    "id": "1133543480",
+    "key": "",
+    "en": "Wanna see what you have.",
+    "pl": "Chcę zobaczyć, co masz."
+  },
+  {
+    "id": "1133543481",
+    "key": "",
+    "en": "Oh, ok, we can trade!",
+    "pl": "Och, dobrze, możemy pohandlować!"
+  },
+  {
+    "id": "1133543482",
+    "key": "",
+    "en": "Sure, please look at what I have.",
+    "pl": "Jasne, zobacz, co mam."
+  },
+  {
+    "id": "1133543483",
+    "key": "",
+    "en": "There's some stuff I need to trade, too.",
+    "pl": "Też mam rzeczy, które muszę wymienić."
+  },
+  {
+    "id": "1133543484",
+    "key": "",
+    "en": "Cool, let's...",
+    "pl": "Świetnie, to..."
+  },
+  {
+    "id": "1133543485",
+    "key": "",
+    "en": "Alright.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "1133543486",
+    "key": "",
+    "en": "See you around.",
+    "pl": "Do zobaczenia."
+  },
+  {
+    "id": "1133543487",
+    "key": "",
+    "en": "'Til later, I guess.",
+    "pl": "To chyba do później."
+  },
+  {
+    "id": "1133543488",
+    "key": "",
+    "en": "Alright, bye.",
+    "pl": "Dobrze, pa."
+  },
+  {
+    "id": "1133543489",
+    "key": "",
+    "en": "Come by again.",
+    "pl": "Zajrzyj znowu."
+  },
+  {
+    "id": "1133543490",
+    "key": "",
+    "en": "I'll do it.",
+    "pl": "Zrobię to."
+  },
+  {
+    "id": "1133543491",
+    "key": "",
+    "en": "Thank you. Let me know how it goes.",
+    "pl": "Dziękuję. Daj znać, jak poszło."
+  },
+  {
+    "id": "1133543492",
+    "key": "",
+    "en": "I'll think on it a bit.",
+    "pl": "Trochę się zastanowię."
+  },
+  {
+    "id": "1133543493",
+    "key": "",
+    "en": "Sure... Please don't take too long.",
+    "pl": "Jasne... Tylko proszę, nie za długo."
+  },
+  {
+    "id": "1133543494",
+    "key": "",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "1133543495",
+    "key": "",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "1133543496",
+    "key": "",
+    "en": "Wasn't a big deal.",
+    "pl": "To nie było nic wielkiego."
+  },
+  {
+    "id": "1133543497",
+    "key": "",
+    "en": "I'll get them for you.",
+    "pl": "Zdobędę je dla ciebie."
+  },
+  {
+    "id": "1133543498",
+    "key": "",
+    "en": "Nice! I'll be waiting. Be safe.",
+    "pl": "Świetnie! Będę czekać. Uważaj na siebie."
+  },
+  {
+    "id": "1133543499",
+    "key": "",
+    "en": "Have to think about this.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "1133543500",
+    "key": "",
+    "en": "I understand...",
+    "pl": "Rozumiem..."
+  },
+  {
+    "id": "1133543501",
+    "key": "",
+    "en": "Sorry – got anything else?",
+    "pl": "Przykro mi. Masz coś innego?"
+  },
+  {
+    "id": "1133543502",
+    "key": "",
+    "en": "Thank you.",
+    "pl": "Dziękuję."
+  },
+  {
+    "id": "1133543503",
+    "key": "",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "1133543504",
+    "key": "",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "1133543505",
+    "key": "",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "1133543506",
+    "key": "",
+    "en": "Need to hire a Vulture?",
+    "pl": "Potrzebujesz wynająć Sępa?"
+  },
+  {
+    "id": "1133543507",
+    "key": "",
+    "en": "I need more resources to make clothes for the squatters in Dubravka... Can you help me find these items?",
+    "pl": "Potrzebuję więcej materiałów na ubrania dla dzikich lokatorów w Dubravce... Pomożesz znaleźć te przedmioty?"
+  },
+  {
+    "id": "1133543508",
+    "key": "",
+    "en": "I’m short a few items for work... The Vulture who used to get them for me went missing... Are you interested?",
+    "pl": "Brakuje mi paru rzeczy do pracy... Sęp, który je przynosił, zaginął... Jesteś zainteresowany?"
+  },
+  {
+    "id": "1133543509",
+    "key": "",
+    "en": "Thank you! Hope it went smoothly. Here's what I promised.",
+    "pl": "Dziękuję! Oby poszło gładko. Oto co obiecałam."
+  },
+  {
+    "id": "1133543510",
+    "key": "",
+    "en": "Good to see you're in one piece. Here's your reward.",
+    "pl": "Dobrze widzieć cię całego. Oto nagroda."
+  },
+  {
+    "id": "1133543511",
+    "key": "",
+    "en": "This'll help my work a lot. Here you go.",
+    "pl": "To bardzo pomoże w pracy. Proszę."
+  },
+  {
+    "id": "1133543512",
+    "key": "",
+    "en": "A Rada cache has just been overrun by Bandits. Would you clear it for us? We have to salvage those materials...",
+    "pl": "Bandyci zajęli skrytkę Rady. Odbijesz ją dla nas? Musimy odzyskać te materiały..."
+  },
+  {
+    "id": "1133543513",
+    "key": "",
+    "en": "There’s been more than a spot of trouble with our supplies, on account of a group of Bandits... If you could deal with them, I’d appreciate it...",
+    "pl": "Mamy niemałe kłopoty z zaopatrzeniem przez grupę Bandytów... Byłabym wdzięczna, gdybyś się nimi zajął..."
+  },
+  {
+    "id": "1133543514",
+    "key": "",
+    "en": "You're a lifesaver. Here's your share.",
+    "pl": "Ratujesz nam życie. Oto twoja część."
+  },
+  {
+    "id": "1133543515",
+    "key": "",
+    "en": "Great! Now, as promised...",
+    "pl": "Świetnie! Teraz, zgodnie z obietnicą..."
+  },
+  {
+    "id": "1133543516",
+    "key": "",
+    "en": "Good. This will really help us! Here's your reward.",
+    "pl": "Dobrze. Bardzo nam to pomoże! Oto nagroda."
+  },
+  {
+    "id": "1133543517",
+    "key": "",
+    "en": "Afraid I don't have anything else for a scavenger, right now.",
+    "pl": "Obawiam się, że teraz nie mam nic więcej dla zbieracza."
+  },
+  {
+    "id": "1133543518",
+    "key": "",
+    "en": "I don't have other requests right now. Check later.",
+    "pl": "Na razie nie mam innych zleceń. Sprawdź później."
+  },
+  {
+    "id": "1133543519",
+    "key": "",
+    "en": "Don't need anything else; we'll talk later.",
+    "pl": "Niczego więcej nie potrzebuję. Porozmawiamy później."
+  },
+  {
+    "id": "363570618466304",
+    "key": "",
+    "en": "Vulture, yes. Why?",
+    "pl": "Tak, Sęp. Dlaczego pytasz?"
+  },
+  {
+    "id": "363570639437824",
+    "key": "",
+    "en": "Needed to see one today. Uh, so... Your name?",
+    "pl": "Musiałam dziś spotkać jakiegoś. Yyy, więc... Jak się nazywasz?"
+  },
+  {
+    "id": "363570639437825",
+    "key": "",
+    "en": "People call me Returner.",
+    "pl": "Ludzie mówią na mnie Powracający."
+  },
+  {
+    "id": "363570639437826",
+    "key": "",
+    "en": "Oh, you use nicknames, I see.",
+    "pl": "Och, używacie przezwisk, rozumiem."
+  },
+  {
+    "id": "363570639437827",
+    "key": "",
+    "en": "Rodion.",
+    "pl": "Rodion."
+  },
+  {
+    "id": "363570639437828",
+    "key": "",
+    "en": "Nice to meet you, Rodion.",
+    "pl": "Miło cię poznać, Rodion."
+  },
+  {
+    "id": "363570639437829",
+    "key": "",
+    "en": "You make... Clothes?",
+    "pl": "Robisz... ubrania?"
+  },
+  {
+    "id": "363570639437830",
+    "key": "",
+    "en": "I'm a seamster. Make all sorts of new clothes, um, I also patch and repair things... Holes in boots, rips on vests, worn down dust coats. I fix that...",
+    "pl": "Jestem krawcową. Szyję różne ubrania, yyy, łatam też i naprawiam rzeczy... Dziury w butach, rozdarcia w kamizelkach, znoszone płaszcze. Tym się zajmuję..."
+  },
+  {
+    "id": "363570639437831",
+    "key": "",
+    "en": "It's mostly my husband who handles customers... I just work. But I've been having trouble with materials, so I have to be more active, uhm, in <i>talking</i> to people now... Not my forte...",
+    "pl": "Klientami zajmuje się głównie mąż... Ja po prostu pracuję. Ale mam kłopoty z materiałami, więc muszę częściej, yyy, <i>rozmawiać</i> z ludźmi... To nie moja mocna strona..."
+  },
+  {
+    "id": "363570639437832",
+    "key": "",
+    "en": "Trouble with materials?",
+    "pl": "Kłopoty z materiałami?"
+  },
+  {
+    "id": "363570639437833",
+    "key": "",
+    "en": "Well, I use a lot of cloth, linen, leather, little specialized tools for cutting, sewing, patching... Stuff that's rare to come by.",
+    "pl": "Używam dużo tkanin, płótna, skóry, małych specjalistycznych narzędzi do cięcia, szycia, łatania... Trudno to zdobyć."
+  },
+  {
+    "id": "363570639437834",
+    "key": "",
+    "en": "It's why I need to trade with and hire Vultures to get these things for me. Never enough inventory... S-sorry, I'm just whining now...",
+    "pl": "Dlatego muszę handlować z Sępami i zlecać im zdobywanie tego. Zawsze za mało zapasów... P-przepraszam, już tylko narzekam..."
+  },
+  {
+    "id": "363570639437835",
+    "key": "",
+    "en": "Who's your husband?",
+    "pl": "Kto jest twoim mężem?"
+  },
+  {
+    "id": "363570639437836",
+    "key": "",
+    "en": "Oh, it's Yefim... H-He's a trader, stays near Sontse, East of here. He sells armor, accessories and stuff. He looks scary... But he's kind. You should meet him.",
+    "pl": "Och, Yefim... J-jest handlarzem, koło Sontse, na wschód stąd. Sprzedaje pancerze, akcesoria i takie rzeczy. Wygląda strasznie... Ale jest dobry. Powinieneś go poznać."
+  },
+  {
+    "id": "363570639437837",
+    "key": "",
+    "en": "Wish he would join the Rada like I did. But he... Has his own way of helping out.",
+    "pl": "Chciałabym, żeby dołączył do Rady tak jak ja. Ale on... Pomaga na swój sposób."
+  },
+  {
+    "id": "363570639437838",
+    "key": "",
+    "en": "Having a husband – unusual around here.",
+    "pl": "Mąż to tutaj rzadkość."
+  },
+  {
+    "id": "363570639437839",
+    "key": "",
+    "en": "I guess before this whole thing with the Mist it was super common? But yeah, not many folks in Zalesye have someone they can <i>rely</i> on like that...",
+    "pl": "Chyba przed tą całą Mgłą to było bardzo powszechne? Ale tak, niewielu ludzi w Zalesye ma kogoś, na kim może tak <i>polegać...</i>"
+  },
+  {
+    "id": "363570639437840",
+    "key": "",
+    "en": "We never married like the Church would describe it, though. I call Yefim my husband anyway. He calls me Ves. I really like that. Having someone to lean on at the end of each day... It's a privilege. I wonder if others around here even think about it...",
+    "pl": "Nigdy nie wzięliśmy ślubu tak, jak opisuje to Kościół. I tak nazywam Yefima mężem. On mówi na mnie Ves. Bardzo to lubię. Mieć w kimś oparcie pod koniec dnia... To przywilej. Ciekawe, czy inni w ogóle o tym myślą..."
+  },
+  {
+    "id": "363570639437841",
+    "key": "",
+    "en": "Does he help with work?",
+    "pl": "Pomaga ci w pracy?"
+  },
+  {
+    "id": "363570639437842",
+    "key": "",
+    "en": "Very much. I help him too. We complement each other's supplies, a-and he handles some of my clients...",
+    "pl": "Bardzo. Ja jemu też. Uzupełniamy sobie zapasy, a-a on obsługuje część moich klientów..."
+  },
+  {
+    "id": "363570639437843",
+    "key": "",
+    "en": "You can tell I'm not super good with people, can't you. I hope that's no bother, I don't mean anything by it...",
+    "pl": "Widać, że nie jestem najlepsza w kontaktach z ludźmi, prawda? Oby to nie przeszkadzało. Nie mam nic złego na myśli..."
+  },
+  {
+    "id": "363570639437844",
+    "key": "",
+    "en": "What's he like? As a person?",
+    "pl": "Jaki on jest? Jako człowiek?"
+  },
+  {
+    "id": "363570639437845",
+    "key": "",
+    "en": "I-I... Don't know how to respond to that. I know you didn't mean it that way, but... It's like, too <i>intimate</i> to say?",
+    "pl": "J-ja... Nie wiem, jak odpowiedzieć. Wiem, że nie o to ci chodziło, ale... To chyba zbyt <i>osobiste,</i> żeby mówić?"
+  },
+  {
+    "id": "363570639437846",
+    "key": "",
+    "en": "It's a weird feeling, I know. But let's talk about something else, ok?",
+    "pl": "Dziwne uczucie, wiem. Ale porozmawiajmy o czymś innym, dobrze?"
+  },
+  {
+    "id": "363570639437847",
+    "key": "",
+    "en": "You're a member of the Rada?",
+    "pl": "Należysz do Rady?"
+  },
+  {
+    "id": "363570639437848",
+    "key": "",
+    "en": "Yes, I am. Best decision I've made – the only hope for this region is if we stick together, after all...",
+    "pl": "Tak. Najlepsza decyzja w moim życiu. Jedyna nadzieja dla tego regionu to trzymać się razem..."
+  },
+  {
+    "id": "363570639437849",
+    "key": "",
+    "en": "Why? Would you like to know more?",
+    "pl": "Dlaczego? Chcesz wiedzieć więcej?"
+  },
+  {
+    "id": "363570639437850",
+    "key": "",
+    "en": "About the Rada...",
+    "pl": "Co do Rady..."
+  },
+  {
+    "id": "363570639437851",
+    "key": "",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "363570639437852",
+    "key": "",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "363570639437853",
+    "key": "",
+    "en": "What's the Rada, exactly?",
+    "pl": "Czym dokładnie jest Rada?"
+  },
+  {
+    "id": "363570639437854",
+    "key": "",
+    "en": "Uhm. I'm not the best at explaining things, but... We're a group that wants to organize Zalesye. Bring folks together. It started like a sort of town assembly – a get-together of skilled folks who built our shacks, grew our food, protected us from Mutants...",
+    "pl": "Yyy. Nie umiem najlepiej wyjaśniać, ale... Chcemy zorganizować Zalesye. Zjednoczyć ludzi. Zaczęło się jak zebranie mieszkańców: fachowców, którzy budowali nasze chaty, uprawiali jedzenie, chronili nas przed Mutantami..."
+  },
+  {
+    "id": "363570639437855",
+    "key": "",
+    "en": "It's all modeled after the way things used to be before the War. How do I say this... If everyone's work is connected, and not <i>just</i> for the individual... Things get, like, much better. <i>Exponentially.</i>",
+    "pl": "Wzorujemy się na tym, jak było przed wojną. Jak to ująć... Jeśli praca wszystkich się łączy i nie służy <i>tylko</i> jednostce... Jest dużo lepiej. Poprawa jest <i>wykładnicza.</i>"
+  },
+  {
+    "id": "363570639437856",
+    "key": "",
+    "en": "Connected how?",
+    "pl": "Jak się łączy?"
+  },
+  {
+    "id": "363570639437857",
+    "key": "",
+    "en": "Part of a larger whole...? Like, if we can really look at the work everyone has to do in order for us to survive, and really <i>make sure</i> everyone's pulling their weight...",
+    "pl": "Jest częścią większej całości...? Jeśli przyjrzymy się pracy, którą wszyscy muszą wykonać, żebyśmy przetrwali, i <i>naprawdę dopilnujemy,</i> żeby każdy robił swoje..."
+  },
+  {
+    "id": "363570639437858",
+    "key": "",
+    "en": "If we make sure that all work that gets done is <i>useful</i> and properly <i>balanced</i> between people, we can be more <i>productive,</i> and then actually flat-out <i>give stuff away</i> to folks who need it, and then <i>they</i> can become part of this whole cycle. That's the basic idea...? I'm not very eloquent...",
+    "pl": "Jeśli cała praca jest <i>użyteczna</i> i <i>sprawiedliwie rozdzielona,</i> możemy być bardziej <i>wydajni.</i> Wtedy możemy po prostu <i>rozdawać rzeczy</i> potrzebującym, a <i>oni</i> staną się częścią tego kręgu. Taki jest zamysł...? Nie jestem zbyt elokwentna..."
+  },
+  {
+    "id": "363570639437859",
+    "key": "",
+    "en": "What is your role in the Rada?",
+    "pl": "Jaka jest twoja rola w Radzie?"
+  },
+  {
+    "id": "363570639437860",
+    "key": "",
+    "en": "Well, I'm a seamster, so I just make clothes. I make more than we think we'll need, if I can, since there's always a couple vagrants in need of warmth, you know...",
+    "pl": "Jestem krawcową, więc szyję ubrania. Jeśli mogę, robię więcej, niż przewidujemy potrzebować. Zawsze jest paru włóczęgów, którym brakuje ciepła, wiesz..."
+  },
+  {
+    "id": "363570639437861",
+    "key": "",
+    "en": "I'm supposed to talk to people about the Rada, too... I guess I'm doing it with you, now. But it's usually the others who bring new folks in...",
+    "pl": "Mam też opowiadać ludziom o Radzie... Chyba właśnie to robię. Ale zwykle to inni przyciągają nowych członków..."
+  },
+  {
+    "id": "363570639437862",
+    "key": "",
+    "en": "Do you get paid for your work?",
+    "pl": "Dostajesz zapłatę za pracę?"
+  },
+  {
+    "id": "363570639437863",
+    "key": "",
+    "en": "Well, kinda. I get a portion of the food and necessities that we have stashed in our bunkers and distributed among our leaders.",
+    "pl": "Tak jakby. Dostaję część jedzenia i niezbędnych rzeczy, które przechowujemy w bunkrach i rozdzielamy między przywódców."
+  },
+  {
+    "id": "363570639437864",
+    "key": "",
+    "en": "This is, like, the main point of contention. We can't afford to just store all our stuff in one place or it'll get raided for sure. So the leading members have to keep a network of items... And guard them. This causes, uhh, fights. Criticism. But, yeah, I guess that's kinda like payment.",
+    "pl": "To główna kość niezgody. Nie możemy trzymać wszystkiego razem, bo na pewno padnie łupem napadu. Przywódcy muszą więc utrzymywać sieć zapasów... I ich strzec. To wywołuje, yyy, kłótnie. Krytykę. Ale tak, chyba można to uznać za zapłatę."
+  },
+  {
+    "id": "363570639437865",
+    "key": "",
+    "en": "Has the Rada been growing?",
+    "pl": "Rada się rozwija?"
+  },
+  {
+    "id": "363570639437866",
+    "key": "",
+    "en": "Not really. We've stagnated a bit these past couple of years, what with the Acolytes taking over some of our responsibilities.",
+    "pl": "Nie bardzo. Przez ostatnie lata trochę stoimy w miejscu, bo Akolici przejmują część naszych obowiązków."
+  },
+  {
+    "id": "363570639437867",
+    "key": "",
+    "en": "They're like, occasional allies, and friendly competitors in a sense... Kind-hearted people whose work is always tied to God and to the power of the Church as an institution. A pre-War monolith.",
+    "pl": "Czasem są sojusznikami, a w pewnym sensie przyjazną konkurencją... Ludzie dobrego serca, których praca zawsze wiąże się z Bogiem i władzą Kościoła jako instytucji. Przedwojenny monolit."
+  },
+  {
+    "id": "363570639437868",
+    "key": "",
+    "en": "When push comes to shove, I don't think that structure really has our common interests at heart.",
+    "pl": "Gdy przychodzi co do czego, nie sądzę, żeby ta struktura naprawdę miała na względzie nasz wspólny interes."
+  },
+  {
+    "id": "363570639437869",
+    "key": "",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "363570639437870",
+    "key": "",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "363570639437871",
+    "key": "",
+    "en": "Oh, good – are you a Vulture? Name's Vesna. I make clothes. We should, uh, talk...",
+    "pl": "Och, dobrze. Jesteś Sępem? Mam na imię Vesna. Szyję ubrania. Powinniśmy, yyy, porozmawiać..."
+  },
+  {
+    "id": "363570639437872",
+    "key": "",
+    "en": "H-Hello.",
+    "pl": "D-dzień dobry."
+  },
+  {
+    "id": "363570639437873",
+    "key": "",
+    "en": "Oh, hi.",
+    "pl": "Och, cześć."
+  },
+  {
+    "id": "363570639437874",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "363570639437875",
+    "key": "",
+    "en": "Need to talk a bit.",
+    "pl": "Muszę chwilę pogadać."
+  },
+  {
+    "id": "363570639437876",
+    "key": "",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "363570639437877",
+    "key": "",
+    "en": "Got something to ask.",
+    "pl": "Chcę o coś zapytać."
+  },
+  {
+    "id": "363570639437878",
+    "key": "",
+    "en": "I'd like to trade.",
+    "pl": "Chciałbym pohandlować."
+  },
+  {
+    "id": "363570639437879",
+    "key": "",
+    "en": "I've some stuff to trade.",
+    "pl": "Mam trochę rzeczy do wymiany."
+  },
+  {
+    "id": "363570639437880",
+    "key": "",
+    "en": "Wanna see what you have.",
+    "pl": "Chcę zobaczyć, co masz."
+  },
+  {
+    "id": "363570639437881",
+    "key": "",
+    "en": "Oh, ok, we can trade!",
+    "pl": "Och, dobrze, możemy pohandlować!"
+  },
+  {
+    "id": "363570639437882",
+    "key": "",
+    "en": "Sure, please look at what I have.",
+    "pl": "Jasne, zobacz, co mam."
+  },
+  {
+    "id": "363570639437883",
+    "key": "",
+    "en": "There's some stuff I need to trade, too.",
+    "pl": "Też mam rzeczy, które muszę wymienić."
+  },
+  {
+    "id": "363570639437884",
+    "key": "",
+    "en": "Cool, let's...",
+    "pl": "Świetnie, to..."
+  },
+  {
+    "id": "363570639437885",
+    "key": "",
+    "en": "Alright.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "363570639437886",
+    "key": "",
+    "en": "See you around.",
+    "pl": "Do zobaczenia."
+  },
+  {
+    "id": "363570639437887",
+    "key": "",
+    "en": "'Til later, I guess.",
+    "pl": "To chyba do później."
+  },
+  {
+    "id": "363570639437888",
+    "key": "",
+    "en": "Alright, bye.",
+    "pl": "Dobrze, pa."
+  },
+  {
+    "id": "363570639437889",
+    "key": "",
+    "en": "Come by again.",
+    "pl": "Zajrzyj znowu."
+  },
+  {
+    "id": "363570639437890",
+    "key": "",
+    "en": "I'll do it.",
+    "pl": "Zrobię to."
+  },
+  {
+    "id": "363570639437891",
+    "key": "",
+    "en": "Thank you. Let me know how it goes.",
+    "pl": "Dziękuję. Daj znać, jak poszło."
+  },
+  {
+    "id": "363570639437892",
+    "key": "",
+    "en": "I'll think on it a bit.",
+    "pl": "Trochę się zastanowię."
+  },
+  {
+    "id": "363570639437893",
+    "key": "",
+    "en": "Sure... Please don't take too long.",
+    "pl": "Jasne... Tylko proszę, nie za długo."
+  },
+  {
+    "id": "363570639437894",
+    "key": "",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "363570639437895",
+    "key": "",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "363570639437896",
+    "key": "",
+    "en": "Wasn't a big deal.",
+    "pl": "To nie było nic wielkiego."
+  },
+  {
+    "id": "363570639437897",
+    "key": "",
+    "en": "I'll get them for you.",
+    "pl": "Zdobędę je dla ciebie."
+  },
+  {
+    "id": "363570639437898",
+    "key": "",
+    "en": "Nice! I'll be waiting. Be safe.",
+    "pl": "Świetnie! Będę czekać. Uważaj na siebie."
+  },
+  {
+    "id": "363570639437899",
+    "key": "",
+    "en": "Have to think about this.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "363570639437900",
+    "key": "",
+    "en": "I understand...",
+    "pl": "Rozumiem..."
+  },
+  {
+    "id": "363570639437901",
+    "key": "",
+    "en": "Sorry – got anything else?",
+    "pl": "Przykro mi. Masz coś innego?"
+  },
+  {
+    "id": "363570639437902",
+    "key": "",
+    "en": "Thank you.",
+    "pl": "Dziękuję."
+  },
+  {
+    "id": "363570639437903",
+    "key": "",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "363570639437904",
+    "key": "",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "363570639437905",
+    "key": "",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "363570639437906",
+    "key": "",
+    "en": "Need to hire a Vulture?",
+    "pl": "Potrzebujesz wynająć Sępa?"
+  },
+  {
+    "id": "363570639437907",
+    "key": "",
+    "en": "I need more resources to make clothes for the squatters in Dubravka... Can you help me find these items?",
+    "pl": "Potrzebuję więcej materiałów na ubrania dla dzikich lokatorów w Dubravce... Pomożesz znaleźć te przedmioty?"
+  },
+  {
+    "id": "363570639437908",
+    "key": "",
+    "en": "I’m short a few items for work... The Vulture who used to get them for me went missing... Are you interested?",
+    "pl": "Brakuje mi paru rzeczy do pracy... Sęp, który je przynosił, zaginął... Jesteś zainteresowany?"
+  },
+  {
+    "id": "363570639437909",
+    "key": "",
+    "en": "Thank you! Hope it went smoothly. Here's what I promised.",
+    "pl": "Dziękuję! Oby poszło gładko. Oto co obiecałam."
+  },
+  {
+    "id": "363570639437910",
+    "key": "",
+    "en": "Good to see you're in one piece. Here's your reward.",
+    "pl": "Dobrze widzieć cię całego. Oto nagroda."
+  },
+  {
+    "id": "363570639437911",
+    "key": "",
+    "en": "This'll help my work a lot. Here you go.",
+    "pl": "To bardzo pomoże w pracy. Proszę."
+  },
+  {
+    "id": "363570639437912",
+    "key": "",
+    "en": "A Rada cache has just been overrun by Bandits. Would you clear it for us? We have to salvage those materials...",
+    "pl": "Bandyci zajęli skrytkę Rady. Odbijesz ją dla nas? Musimy odzyskać te materiały..."
+  },
+  {
+    "id": "363570639437913",
+    "key": "",
+    "en": "There’s been more than a spot of trouble with our supplies, on account of a group of Bandits... If you could deal with them, I’d appreciate it...",
+    "pl": "Mamy niemałe kłopoty z zaopatrzeniem przez grupę Bandytów... Byłabym wdzięczna, gdybyś się nimi zajął..."
+  },
+  {
+    "id": "363570639437914",
+    "key": "",
+    "en": "You're a lifesaver. Here's your share.",
+    "pl": "Ratujesz nam życie. Oto twoja część."
+  },
+  {
+    "id": "363570639437915",
+    "key": "",
+    "en": "Great! Now, as promised...",
+    "pl": "Świetnie! Teraz, zgodnie z obietnicą..."
+  },
+  {
+    "id": "363570639437916",
+    "key": "",
+    "en": "Good. This will really help us! Here's your reward.",
+    "pl": "Dobrze. Bardzo nam to pomoże! Oto nagroda."
+  },
+  {
+    "id": "363570639437917",
+    "key": "",
+    "en": "Afraid I don't have anything else for a scavenger, right now.",
+    "pl": "Obawiam się, że teraz nie mam nic więcej dla zbieracza."
+  },
+  {
+    "id": "363570639437918",
+    "key": "",
+    "en": "I don't have other requests right now. Check later.",
+    "pl": "Na razie nie mam innych zleceń. Sprawdź później."
+  },
+  {
+    "id": "363570639437919",
+    "key": "",
+    "en": "Don't need anything else; we'll talk later.",
+    "pl": "Niczego więcej nie potrzebuję. Porozmawiamy później."
+  },
+  {
+    "id": "367015689748480",
+    "key": "12_Vesna_v1_Talk_4HGT",
+    "en": "Vulture, yes. Call me Returner. Why?",
+    "pl": "Tak, Sęp. Mów mi Powracający. Dlaczego?"
+  },
+  {
+    "id": "367015706525696",
+    "key": "12_Vesna_v1_Talk_CSFD",
+    "en": "Uh, n-nothing... I might have a couple of jobs for you, but we can talk about that w-whenever's best for you...",
+    "pl": "Yyy, n-nic... Może mam parę zleceń, ale możemy o tym porozmawiać, k-kiedy ci pasuje..."
+  },
+  {
+    "id": "367015706525697",
+    "key": "12_Vesna_v1_Talk_F2KV",
+    "en": "People call me Returner.",
+    "pl": "Ludzie mówią na mnie Powracający."
+  },
+  {
+    "id": "367015706525698",
+    "key": "12_Vesna_v1_Talk_GJVV",
+    "en": "Oh, you use nicknames, I see.",
+    "pl": "Och, używacie przezwisk, rozumiem."
+  },
+  {
+    "id": "367015706525699",
+    "key": "12_Vesna_v1_Talk_2WCU",
+    "en": "Rodion.",
+    "pl": "Rodion."
+  },
+  {
+    "id": "367015706525700",
+    "key": "12_Vesna_v1_Talk_SC85",
+    "en": "Nice to meet you, Rodion.",
+    "pl": "Miło cię poznać, Rodion."
+  },
+  {
+    "id": "367015706525701",
+    "key": "12_Vesna_v1_Talk_273S",
+    "en": "You make... Clothes?",
+    "pl": "Robisz... ubrania?"
+  },
+  {
+    "id": "367015706525702",
+    "key": "12_Vesna_v1_Talk_9JMN",
+    "en": "I'm a seamster. Make all sorts of new clothes, um, I also patch and repair things... Holes in boots, rips and tears, worn down dust coats. I fix that...",
+    "pl": "Jestem krawcową. Szyję różne ubrania, yyy, łatam też i naprawiam rzeczy... Dziury w butach, rozdarcia, znoszone płaszcze. Tym się zajmuję..."
+  },
+  {
+    "id": "367015706525703",
+    "key": "12_Vesna_v1_Talk_X98O",
+    "en": "It's mostly my husband who handles \"business\"... But I've been having trouble with materials, so I have to <i>talk</i> to people now, negotiate... Not my forte...",
+    "pl": "„Interesami” zajmuje się głównie mąż... Ale mam kłopoty z materiałami, więc teraz muszę <i>rozmawiać</i> z ludźmi, negocjować... To nie moja mocna strona..."
+  },
+  {
+    "id": "367015706525704",
+    "key": "12_Vesna_v1_Talk_SOJ0",
+    "en": "Trouble with materials?",
+    "pl": "Kłopoty z materiałami?"
+  },
+  {
+    "id": "367015706525705",
+    "key": "12_Vesna_v1_Talk_BGUQ",
+    "en": "Well yeah, since I use a lot of cloth, linen, leather, plus little specialized tools for cutting, sewing, patching... Stuff that's rare to come by.",
+    "pl": "No tak, używam dużo tkanin, płótna, skóry i małych specjalistycznych narzędzi do cięcia, szycia, łatania... Trudno to zdobyć."
+  },
+  {
+    "id": "367015706525706",
+    "key": "12_Vesna_v1_Talk_T6K8",
+    "en": "<i>Hubby</i> can't help me anymore, so I need to hire Vultures to get these things for me. Never enough inventory, it's so... S-sorry, I'm just <i>whining</i> now...",
+    "pl": "<i>Mężulek</i> już nie może pomagać, więc muszę wynajmować Sępy, żeby mi to zdobywały. Wiecznie za mało zapasów, to takie... P-przepraszam, już tylko <i>narzekam...</i>"
+  },
+  {
+    "id": "367015706525707",
+    "key": "12_Vesna_v1_Talk_B48L",
+    "en": "... Who's <i>\"hubby\"?</i>",
+    "pl": "... Kto to <i>„mężulek”?</i>"
+  },
+  {
+    "id": "367015706525708",
+    "key": "12_Vesna_v1_Talk_UGMH",
+    "en": "O-oh, it's Y-Yefim... He's a trader, stays near Sontse, East of here. He sells armor, accessories and stuff. Looks scary, but he's a kind man. You should meet 'im.",
+    "pl": "O-och, Y-Yefim... Handlarz koło Sontse, na wschód stąd. Sprzedaje pancerze, akcesoria i takie rzeczy. Wygląda strasznie, ale jest dobrym człowiekiem. Powinieneś go poznać."
+  },
+  {
+    "id": "367015706525709",
+    "key": "12_Vesna_v1_Talk_032M",
+    "en": "Wish he would join the Rada like I did. But he... Has his own way of helping out.",
+    "pl": "Chciałabym, żeby dołączył do Rady tak jak ja. Ale on... Pomaga na swój sposób."
+  },
+  {
+    "id": "367015706525710",
+    "key": "12_Vesna_v1_Talk_MJXI",
+    "en": "A <i>couple...</i> Unusual around here.",
+    "pl": "<i>Para...</i> Tutaj to rzadkość."
+  },
+  {
+    "id": "367015706525711",
+    "key": "12_Vesna_v1_Talk_RYZW",
+    "en": "I guess before this whole thing with the Mist it was super common? But yeah, not many folks in Zalesye have someone they can <i>rely</i> on like that...",
+    "pl": "Chyba przed tą całą Mgłą to było bardzo powszechne? Ale tak, niewielu ludzi w Zalesye ma kogoś, na kim może tak <i>polegać...</i>"
+  },
+  {
+    "id": "367015706525712",
+    "key": "12_Vesna_v1_Talk_41JC",
+    "en": "We never married in the Church like they used to, but I call him <i>hubby</i> anyway, and he calls me \"Ves\". Having someone to lean on after a day's work is a privilege. I wonder if others around here even think about it...",
+    "pl": "Nie wzięliśmy ślubu w kościele, jak dawniej robiono, ale i tak mówię <i>mężulek,</i> a on na mnie „Ves”. Oparcie w kimś po dniu pracy to przywilej. Ciekawe, czy inni w ogóle o tym myślą..."
+  },
+  {
+    "id": "367015706525713",
+    "key": "12_Vesna_v1_Talk_FG4M",
+    "en": "Does he help with work?",
+    "pl": "Pomaga ci w pracy?"
+  },
+  {
+    "id": "367015706525714",
+    "key": "12_Vesna_v1_Talk_YCB3",
+    "en": "Very much. I help him too. We complement each other's supplies, a-and he handles s-some of my clients...",
+    "pl": "Bardzo. Ja jemu też. Uzupełniamy sobie zapasy, a-a on obsługuje c-część moich klientów..."
+  },
+  {
+    "id": "367015706525715",
+    "key": "12_Vesna_v1_Talk_ZE33",
+    "en": "You can tell I'm not super good with people, can't you. I hope that's no bother, I don't mean anything by it...",
+    "pl": "Widać, że nie jestem najlepsza w kontaktach z ludźmi, prawda? Oby to nie przeszkadzało. Nie mam nic złego na myśli..."
+  },
+  {
+    "id": "367015706525716",
+    "key": "12_Vesna_v1_Talk_2SJT",
+    "en": "What's he like? As a person?",
+    "pl": "Jaki on jest? Jako człowiek?"
+  },
+  {
+    "id": "367015706525717",
+    "key": "12_Vesna_v1_Talk_TIW6",
+    "en": "I-I... Don't know how to respond to that. I know you didn't mean it that way, but... It's like, too <i>intimate</i> to say?",
+    "pl": "J-ja... Nie wiem, jak odpowiedzieć. Wiem, że nie o to ci chodziło, ale... To chyba zbyt <i>osobiste,</i> żeby mówić?"
+  },
+  {
+    "id": "367015706525718",
+    "key": "12_Vesna_v1_Talk_MX1S",
+    "en": "Weird feeling, I know. But let's talk about something else, ok?",
+    "pl": "Dziwne uczucie, wiem. Ale porozmawiajmy o czymś innym, dobrze?"
+  },
+  {
+    "id": "367015706525719",
+    "key": "12_Vesna_v1_Talk_9PD6",
+    "en": "You're a member of the Rada?",
+    "pl": "Należysz do Rady?"
+  },
+  {
+    "id": "367015706525720",
+    "key": "12_Vesna_v1_Talk_BAMV",
+    "en": "Yes, I am. Best decision I've made – the only hope for this region is if we stick together, after all...",
+    "pl": "Tak. Najlepsza decyzja w moim życiu. Jedyna nadzieja dla tego regionu to trzymać się razem..."
+  },
+  {
+    "id": "367015706525721",
+    "key": "12_Vesna_v1_Talk_9K27",
+    "en": "Why? Would you like to know more?",
+    "pl": "Dlaczego? Chcesz wiedzieć więcej?"
+  },
+  {
+    "id": "367015706525722",
+    "key": "12_Vesna_v1_Talk_T9KI",
+    "en": "About the Rada...",
+    "pl": "Co do Rady..."
+  },
+  {
+    "id": "367015706525723",
+    "key": "12_Vesna_v1_Talk_4CFR",
+    "en": "Yes?",
+    "pl": "Tak?"
+  },
+  {
+    "id": "367015706525724",
+    "key": "12_Vesna_v1_Talk_GD9T",
+    "en": "I've got to get going.",
+    "pl": "Muszę się zbierać."
+  },
+  {
+    "id": "367015706525725",
+    "key": "12_Vesna_v1_Talk_About_Rada_6CO4",
+    "en": "What's the Rada, exactly?",
+    "pl": "Czym dokładnie jest Rada?"
+  },
+  {
+    "id": "367015706525726",
+    "key": "12_Vesna_v1_Talk_About_Rada_V0TR",
+    "en": "Uhm. I'm not good at explaining, but... We're a group that wants to <i>organize</i> Zalesye. It started like a sort of town assembly – skilled folks who built our shacks, grew our food, protected us from Mutants...",
+    "pl": "Yyy. Nie umiem wyjaśniać, ale... Chcemy <i>zorganizować</i> Zalesye. Zaczęło się jak zebranie mieszkańców: fachowców, którzy budowali chaty, uprawiali jedzenie, chronili nas przed Mutantami..."
+  },
+  {
+    "id": "367015706525727",
+    "key": "12_Vesna_v1_Talk_About_Rada_0UQ4",
+    "en": "It's all modeled after the way things used to be before the War. How do I put it... If work is socialized, things get, like, <i>exponentially</i> better.",
+    "pl": "Wzorujemy się na tym, jak było przed wojną. Jak to ująć... Jeśli praca jest uspołeczniona, poprawa jest wręcz <i>wykładnicza.</i>"
+  },
+  {
+    "id": "367015706525728",
+    "key": "12_Vesna_v1_Talk_About_Rada_4NVT",
+    "en": "Socialized. Not sure that makes sense.",
+    "pl": "Uspołeczniona. Nie wiem, czy to ma sens."
+  },
+  {
+    "id": "367015706525729",
+    "key": "12_Vesna_v1_Talk_About_Rada_9Q33",
+    "en": "Like, not individualistic? No one hogs all the resources, we make sure everyone's pulling their weight, and contributing to society's survival...",
+    "pl": "Czyli nie skupia się na jednostce? Nikt nie zagarnia wszystkich zasobów. Pilnujemy, żeby każdy robił swoje i przyczyniał się do przetrwania społeczeństwa..."
+  },
+  {
+    "id": "367015706525730",
+    "key": "12_Vesna_v1_Talk_About_Rada_6ZMS",
+    "en": "And then <i>they</i> can become part of this whole cycle. That's the basic idea...? I'm not very eloquent...",
+    "pl": "A wtedy <i>oni</i> też mogą stać się częścią tego kręgu. Taki jest zamysł...? Nie jestem zbyt elokwentna..."
+  },
+  {
+    "id": "367015706525731",
+    "key": "12_Vesna_v1_Talk_About_Rada_2DIY",
+    "en": "Guessing you make clothes for the Rada, then.",
+    "pl": "Czyli szyjesz ubrania dla Rady."
+  },
+  {
+    "id": "367015710720000",
+    "key": "12_Vesna_v1_Talk_About_Rada_OEOJ",
+    "en": "Well, I'm a seamster, so that's my main thing. And there's always a couple vagrants in need of extra warmth...",
+    "pl": "Jestem krawcową, więc głównie tym się zajmuję. A zawsze jest paru włóczęgów, którym przyda się więcej ciepła..."
+  },
+  {
+    "id": "367015710720001",
+    "key": "12_Vesna_v1_Talk_About_Rada_LEPD",
+    "en": "I'm supposed to talk to people about the Rada, too... I guess I'm doing it with you, now. But it's usually the others who bring new folks in...",
+    "pl": "Mam też opowiadać ludziom o Radzie... Chyba właśnie to robię. Ale zwykle to inni przyciągają nowych członków..."
+  },
+  {
+    "id": "367015710720002",
+    "key": "12_Vesna_v1_Talk_About_Rada_85GO",
+    "en": "Do you get paid for your work?",
+    "pl": "Dostajesz zapłatę za pracę?"
+  },
+  {
+    "id": "367015710720003",
+    "key": "12_Vesna_v1_Talk_About_Rada_N73Z",
+    "en": "Well, kinda. I get a portion of the food and necessities that we have stashed in our bunkers and distributed among our leaders.",
+    "pl": "Tak jakby. Dostaję część jedzenia i niezbędnych rzeczy, które przechowujemy w bunkrach i rozdzielamy między przywódców."
+  },
+  {
+    "id": "367015710720004",
+    "key": "12_Vesna_v1_Talk_About_Rada_NKNH",
+    "en": "This is, like, the main point of contention. We can't afford to store all our stuff in one place or it'll get raided for sure, so our leaders have to <i>guard</i> some items. This draws a fair bit of criticism...",
+    "pl": "To główna kość niezgody. Nie możemy trzymać wszystkiego razem, bo na pewno padnie łupem napadu. Przywódcy muszą więc <i>strzec</i> części zapasów. To budzi sporą krytykę..."
+  },
+  {
+    "id": "367015710720005",
+    "key": "12_Vesna_v1_Talk_About_Rada_JZBX",
+    "en": "Has the Rada been growing?",
+    "pl": "Rada się rozwija?"
+  },
+  {
+    "id": "367015710720006",
+    "key": "12_Vesna_v1_Talk_About_Rada_37Q0",
+    "en": "Not really. We've stagnated a bit these past couple of years, what with the Acolytes taking over some of our responsibilities.",
+    "pl": "Nie bardzo. Przez ostatnie lata trochę stoimy w miejscu, bo Akolici przejmują część naszych obowiązków."
+  },
+  {
+    "id": "367015710720007",
+    "key": "12_Vesna_v1_Talk_About_Rada_47UG",
+    "en": "They're occasional allies, and friendly competitors in a sense... Kind-hearted, but always tied to the power of the Church as an institution from the pre-War era.",
+    "pl": "Czasem są sojusznikami, w pewnym sensie przyjazną konkurencją... Dobre serca, ale zawsze związani z władzą Kościoła jako instytucji sprzed wojny."
+  },
+  {
+    "id": "367015710720008",
+    "key": "12_Vesna_v1_Talk_About_Rada_IKXO",
+    "en": "When push comes to shove, I don't think that structure really has our common interests at heart.",
+    "pl": "Gdy przychodzi co do czego, nie sądzę, żeby ta struktura naprawdę miała na względzie nasz wspólny interes."
+  },
+  {
+    "id": "367015710720009",
+    "key": "12_Vesna_v1_Talk_About_Rada_1IB2",
+    "en": "Changing the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "367015710720010",
+    "key": "12_Vesna_v1_Talk_About_Rada_7FOI",
+    "en": "I've gotta go now.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "367015710720011",
+    "key": "12_Vesna_v1_GetWelcomingMessage_Y9SJ",
+    "en": "Oh, good – are you a Vulture? Name's Vesna. I make clothes. We should, uh, talk...",
+    "pl": "Och, dobrze. Jesteś Sępem? Mam na imię Vesna. Szyję ubrania. Powinniśmy, yyy, porozmawiać..."
+  },
+  {
+    "id": "367015710720012",
+    "key": "12_Vesna_v1_GetWelcomingMessage_X0WX",
+    "en": "H-Hello.",
+    "pl": "D-dzień dobry."
+  },
+  {
+    "id": "367015710720013",
+    "key": "12_Vesna_v1_GetWelcomingMessage_67RU",
+    "en": "Oh, hi.",
+    "pl": "Och, cześć."
+  },
+  {
+    "id": "367015710720014",
+    "key": "12_Vesna_v1_GetWelcomingMessage_79UV",
+    "en": "Hi there...",
+    "pl": "Witaj..."
+  },
+  {
+    "id": "367015710720015",
+    "key": "12_Vesna_v1_GetTalkMessage_A54C",
+    "en": "Need to talk a bit.",
+    "pl": "Muszę chwilę pogadać."
+  },
+  {
+    "id": "367015710720016",
+    "key": "12_Vesna_v1_GetTalkMessage_HUZK",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "367015710720017",
+    "key": "12_Vesna_v1_GetTalkMessage_C1T6",
+    "en": "Got something to ask.",
+    "pl": "Chcę o coś zapytać."
+  },
+  {
+    "id": "367015710720018",
+    "key": "12_Vesna_v1_GetTradeMessage_24WJ",
+    "en": "I'd like to trade.",
+    "pl": "Chciałbym pohandlować."
+  },
+  {
+    "id": "367015710720019",
+    "key": "12_Vesna_v1_GetTradeMessage_9571",
+    "en": "I've some stuff to trade.",
+    "pl": "Mam trochę rzeczy do wymiany."
+  },
+  {
+    "id": "367015710720020",
+    "key": "12_Vesna_v1_GetTradeMessage_H7WU",
+    "en": "Wanna see what you have.",
+    "pl": "Chcę zobaczyć, co masz."
+  },
+  {
+    "id": "367015710720021",
+    "key": "12_Vesna_v1_GetRandomTradeStart_KII1",
+    "en": "Oh, ok, we can trade!",
+    "pl": "Och, dobrze, możemy pohandlować!"
+  },
+  {
+    "id": "367015710720022",
+    "key": "12_Vesna_v1_GetRandomTradeStart_HY5I",
+    "en": "Sure, please look at what I have.",
+    "pl": "Jasne, zobacz, co mam."
+  },
+  {
+    "id": "367015710720023",
+    "key": "12_Vesna_v1_GetRandomTradeStart_BYFO",
+    "en": "There's some stuff I need to trade, too.",
+    "pl": "Też mam rzeczy, które muszę wymienić."
+  },
+  {
+    "id": "367015710720024",
+    "key": "12_Vesna_v1_GetRandomTradeStart_K4U9",
+    "en": "Cool, let's...",
+    "pl": "Świetnie, to..."
+  },
+  {
+    "id": "367015710720025",
+    "key": "12_Vesna_v1_GetRandomTradeStart_TN5H",
+    "en": "Alright.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "367015710720026",
+    "key": "12_Vesna_v1_GetRandomLeaveMessage_AHBU",
+    "en": "See you around.",
+    "pl": "Do zobaczenia."
+  },
+  {
+    "id": "367015710720027",
+    "key": "12_Vesna_v1_GetRandomLeaveMessage_0XQ4",
+    "en": "'Til later, I guess.",
+    "pl": "To chyba do później."
+  },
+  {
+    "id": "367015710720028",
+    "key": "12_Vesna_v1_GetRandomLeaveMessage_J3J1",
+    "en": "Alright, bye.",
+    "pl": "Dobrze, pa."
+  },
+  {
+    "id": "367015710720029",
+    "key": "12_Vesna_v1_GetRandomLeaveMessage_77S7",
+    "en": "Come by again.",
+    "pl": "Zajrzyj znowu."
+  },
+  {
+    "id": "367015710720030",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Show_KIMZ",
+    "en": "I'll do it.",
+    "pl": "Zrobię to."
+  },
+  {
+    "id": "367015710720031",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Show_RVN8",
+    "en": "Thank you. Let me know how it goes.",
+    "pl": "Dziękuję. Daj znać, jak poszło."
+  },
+  {
+    "id": "367015710720032",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Show_ZGYE",
+    "en": "I'll think on it a bit.",
+    "pl": "Trochę się zastanowię."
+  },
+  {
+    "id": "367015710720033",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Show_7A09",
+    "en": "Sure... Please don't take too long.",
+    "pl": "Jasne... Tylko proszę, nie za długo."
+  },
+  {
+    "id": "367015710720034",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Show_VLC5",
+    "en": "Not interested. Got anything else?",
+    "pl": "Nie jestem zainteresowany. Masz coś innego?"
+  },
+  {
+    "id": "367015710720035",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Complete_00L5",
+    "en": "Thanks.",
+    "pl": "Dzięki."
+  },
+  {
+    "id": "367015710720036",
+    "key": "12_Vesna_Jobs_v1_SupplyRun_Complete_MK77",
+    "en": "Wasn't a big deal.",
+    "pl": "To nie było nic wielkiego."
+  },
+  {
+    "id": "367015710720037",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Show_PRB9",
+    "en": "I'll get them for you.",
+    "pl": "Zdobędę je dla ciebie."
+  },
+  {
+    "id": "367015710720038",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Show_HUB3",
+    "en": "Nice! I'll be waiting. Be safe.",
+    "pl": "Świetnie! Będę czekać. Uważaj na siebie."
+  },
+  {
+    "id": "367015710720039",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Show_KZNO",
+    "en": "Have to think about this.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "367015710720040",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Show_F4JQ",
+    "en": "I understand...",
+    "pl": "Rozumiem..."
+  },
+  {
+    "id": "367015710720041",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Show_24B7",
+    "en": "Sorry – got anything else?",
+    "pl": "Przykro mi. Masz coś innego?"
+  },
+  {
+    "id": "367015710720042",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Complete_X4V9",
+    "en": "Thank you.",
+    "pl": "Dziękuję."
+  },
+  {
+    "id": "367015710720043",
+    "key": "12_Vesna_Jobs_v1_Manhunt_Complete_MCN9",
+    "en": "Glad to help.",
+    "pl": "Chętnie pomogłem."
+  },
+  {
+    "id": "367015710720044",
+    "key": "12_Vesna_Jobs_v1_GetJobsMessage_NAQQ",
+    "en": "Need help with anything?",
+    "pl": "Potrzebujesz w czymś pomocy?"
+  },
+  {
+    "id": "367015710720045",
+    "key": "12_Vesna_Jobs_v1_GetJobsMessage_T1NC",
+    "en": "Any requests for a scavenger?",
+    "pl": "Jakieś zlecenia dla zbieracza?"
+  },
+  {
+    "id": "367015710720046",
+    "key": "12_Vesna_Jobs_v1_GetJobsMessage_77VU",
+    "en": "Need to hire a Vulture?",
+    "pl": "Potrzebujesz wynająć Sępa?"
+  },
+  {
+    "id": "367015710720047",
+    "key": "12_Vesna_Jobs_v1_SupplyRunStart_RJXU",
+    "en": "I need more resources to make clothes for the squatters in Dubravka... Can you help me find these items?",
+    "pl": "Potrzebuję więcej materiałów na ubrania dla dzikich lokatorów w Dubravce... Pomożesz znaleźć te przedmioty?"
+  },
+  {
+    "id": "367015710720048",
+    "key": "12_Vesna_Jobs_v1_SupplyRunStart_0K35",
+    "en": "I’m short a few items for work... The Vulture who used to get them for me went missing... Are you interested?",
+    "pl": "Brakuje mi paru rzeczy do pracy... Sęp, który je przynosił, zaginął... Jesteś zainteresowany?"
+  },
+  {
+    "id": "367015710720049",
+    "key": "12_Vesna_Jobs_v1_SupplyRunComplete_OAYH",
+    "en": "Thank you! Hope it went smoothly. Here's what I promised.",
+    "pl": "Dziękuję! Oby poszło gładko. Oto co obiecałam."
+  },
+  {
+    "id": "367015710720050",
+    "key": "12_Vesna_Jobs_v1_SupplyRunComplete_XKYL",
+    "en": "Good to see you're in one piece. Here's your reward.",
+    "pl": "Dobrze widzieć cię całego. Oto nagroda."
+  },
+  {
+    "id": "367015710720051",
+    "key": "12_Vesna_Jobs_v1_SupplyRunComplete_04YH",
+    "en": "This'll help my work a lot. Here you go.",
+    "pl": "To bardzo pomoże w pracy. Proszę."
+  },
+  {
+    "id": "367015710720052",
+    "key": "12_Vesna_Jobs_v1_ManhuntStart_744J",
+    "en": "A Rada cache has just been overrun by Bandits. Would you clear it for us? We have to salvage those materials...",
+    "pl": "Bandyci zajęli skrytkę Rady. Odbijesz ją dla nas? Musimy odzyskać te materiały..."
+  },
+  {
+    "id": "367015710720053",
+    "key": "12_Vesna_Jobs_v1_ManhuntStart_NPMQ",
+    "en": "There’s been more than a spot of trouble with our supplies, on account of a group of Bandits... If you could deal with them, I’d appreciate it...",
+    "pl": "Mamy niemałe kłopoty z zaopatrzeniem przez grupę Bandytów... Byłabym wdzięczna, gdybyś się nimi zajął..."
+  },
+  {
+    "id": "367015710720054",
+    "key": "12_Vesna_Jobs_v1_ManhuntComplete_GQSB",
+    "en": "You're a lifesaver. Here's your share.",
+    "pl": "Ratujesz nam życie. Oto twoja część."
+  },
+  {
+    "id": "367015710720055",
+    "key": "12_Vesna_Jobs_v1_ManhuntComplete_TD6T",
+    "en": "Great! Now, as promised...",
+    "pl": "Świetnie! Teraz, zgodnie z obietnicą..."
+  },
+  {
+    "id": "367015710720056",
+    "key": "12_Vesna_Jobs_v1_ManhuntComplete_JUXW",
+    "en": "Good. This will really help us! Here's your reward.",
+    "pl": "Dobrze. Bardzo nam to pomoże! Oto nagroda."
+  },
+  {
+    "id": "367015710720057",
+    "key": "12_Vesna_Jobs_v1_GetNoQuestsAvailable_H2T4",
+    "en": "Afraid I don't have anything else for a scavenger, right now.",
+    "pl": "Obawiam się, że teraz nie mam nic więcej dla zbieracza."
+  },
+  {
+    "id": "367015710720058",
+    "key": "12_Vesna_Jobs_v1_GetNoQuestsAvailable_UEOR",
+    "en": "I don't have other requests right now. Check later.",
+    "pl": "Na razie nie mam innych zleceń. Sprawdź później."
+  },
+  {
+    "id": "367015710720059",
+    "key": "12_Vesna_Jobs_v1_GetNoQuestsAvailable_ZQMM",
+    "en": "Don't need anything else; we'll talk later.",
+    "pl": "Niczego więcej nie potrzebuję. Porozmawiamy później."
+  },
+  {
+    "id": "107258605103161344",
+    "key": "12_Vesna_v1_ChasingMuses_1RJR",
+    "en": "I'm in. But I have questions first.",
+    "pl": "Wchodzę w to. Ale najpierw pytania."
+  },
+  {
+    "id": "107258605111549952",
+    "key": "12_Vesna_v1_ChasingMuses_4CKE",
+    "en": "I'll do it... But it might take a while.",
+    "pl": "Zrobię to... Ale może trochę potrwać."
+  },
+  {
+    "id": "107258605111549953",
+    "key": "12_Vesna_v1_ChasingMuses_AXYU",
+    "en": "Sounds like too much work.",
+    "pl": "Brzmi jak za dużo roboty."
+  },
+  {
+    "id": "107258605115744256",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_1374",
+    "en": "Right... Okay...",
+    "pl": "Rozumiem... Dobrze..."
+  },
+  {
+    "id": "107258605115744257",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_9VCB",
+    "en": "Good to hear... N-no real rush on this, okay? It's not like... A big priority or anything...",
+    "pl": "Miło słyszeć... N-nie ma pośpiechu, dobrze? To nie jest... Jakiś wielki priorytet..."
+  },
+  {
+    "id": "107258605115744258",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_KEKY",
+    "en": "Had some questions.",
+    "pl": "Miałem kilka pytań."
+  },
+  {
+    "id": "107258605115744259",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_LNMN",
+    "en": "I'll get to it later.",
+    "pl": "Zajmę się tym później."
+  },
+  {
+    "id": "107258605115744260",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_S762",
+    "en": "Making progress.",
+    "pl": "Robię postępy."
+  },
+  {
+    "id": "107258605115744261",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_SUS0",
+    "en": "Oh, of course...",
+    "pl": "Och, oczywiście..."
+  },
+  {
+    "id": "107258605115744262",
+    "key": "12_Vesna_v1_ChasingMuses_Inform_Quest_V1MC",
+    "en": "H-hey, Vulture... How's the \"hunt\" g-going?",
+    "pl": "H-hej, Sępie... Jak i-idzie „polowanie”?"
+  },
+  {
+    "id": "107258605115744263",
+    "key": "12_Vesna_v1_ChasingMuses_JJMH",
+    "en": "If you can get some clothes from all nine groups in Zalesye, it'd be wonderful for me. I'd have lots to study from, copy, adapt, recycle. It'd help the business a lot. S-so... Y-you in? I promise I'll reward you fairly... It's an investment, after all...",
+    "pl": "Gdybyś zdobył ubrania wszystkich dziewięciu grup w Zalesye, byłoby cudownie. Miałabym co badać, kopiować, dostosowywać, przerabiać. Bardzo pomogłoby to w pracy. W-więc... W-wchodzisz w to? Obiecuję uczciwą nagrodę... To w końcu inwestycja..."
+  },
+  {
+    "id": "107258605115744264",
+    "key": "12_Vesna_v1_ChasingMuses_KQOC",
+    "en": "That's okay!... You can, ehm, y-you can deliver my request bit by bit... Come by every time you have something you want to d-drop off, and I-I'll take it off your hands...",
+    "pl": "W porządku!... Możesz, yyy, m-możesz przynosić rzeczy po trochu... Wpadaj zawsze, gdy masz coś do o-oddania, a j-ja to odbiorę..."
+  },
+  {
+    "id": "107258605115744265",
+    "key": "12_Vesna_v1_ChasingMuses_MGMJ",
+    "en": "Oh, u-um... I m-mean, I guess it <i>is...</i> Can't hide that... It's clothes for <i>all the factions</i> after all... B-but I hope you'll reconsider! Please take some time to think it over!...",
+    "pl": "Och, y-yyy... To znaczy, chyba <i>tak...</i> Nie ukrywam... To ubrania <i>wszystkich frakcji...</i> A-ale może jeszcze rozważysz! Proszę, przemyśl to spokojnie!..."
+  },
+  {
+    "id": "107258605115744266",
+    "key": "12_Vesna_v1_ChasingMuses_ONK1",
+    "en": "Uh, w-well, I'm in need of some, uhm, <i>inspiration...</i> Work's been drying up, I-I need more clients from more factions... Gotta help Yefim make sales, too, so...",
+    "pl": "Yyy, n-no, potrzebuję trochę, yyy, <i>inspiracji...</i> Pracy ubywa, p-potrzebuję klientów z większej liczby frakcji... Muszę też pomóc Yefimowi ze sprzedażą, więc..."
+  },
+  {
+    "id": "107258605115744267",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_7CZN",
+    "en": "Three things, really...",
+    "pl": "Właściwie do trzech rzeczy..."
+  },
+  {
+    "id": "107258605115744268",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_BN6J",
+    "en": "So I can give you the request little by little?",
+    "pl": "Czyli mogę dostarczać po trochu?"
+  },
+  {
+    "id": "107258605115744269",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_E6O9",
+    "en": "Very unusual request.",
+    "pl": "Bardzo nietypowe zlecenie."
+  },
+  {
+    "id": "107258605115744270",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_ERGM",
+    "en": "Second: inspiration. I'd like to come up with clothing that can fit a variety of needs while still being resistant against dirt, radiation, Mist... And it needs to be cheap, too. So I need <i>ideas.</i>",
+    "pl": "Po drugie: inspiracja. Chcę tworzyć ubrania do różnych potrzeb, odporne na brud, promieniowanie i Mgłę... A przy tym tanie. Potrzebuję <i>pomysłów.</i>"
+  },
+  {
+    "id": "107258605115744271",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_GL10",
+    "en": "Also, I figured this is a good a time as any to put in this request... Since I've been saving up, and I know it's been t-tough for Vultures lately, so... Y'know...",
+    "pl": "Uznałam też, że to dobry moment na takie zlecenie... Odłożyłam trochę, a wiem, że Sępy mają ostatnio c-ciężko, więc... Rozumiesz..."
+  },
+  {
+    "id": "107258605115744272",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_JCPM",
+    "en": "First: studying. There's many different styles and techniques people use to make their clothes, just like any other gear, like the stuff you carry around. I have to learn from looking, touching, experimenting.",
+    "pl": "Po pierwsze: nauka. Ludzie używają różnych stylów i technik szycia, jak przy każdym sprzęcie, choćby twoim. Muszę uczyć się przez oglądanie, dotyk, eksperymentowanie."
+  },
+  {
+    "id": "107258605115744273",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_K3J4",
+    "en": "I'll get going, then.",
+    "pl": "To będę się zbierał."
+  },
+  {
+    "id": "107258605115744274",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_LFK9",
+    "en": "Don't get what you'll use other people's clothes for.",
+    "pl": "Nie rozumiem, po co ci cudze ubrania."
+  },
+  {
+    "id": "107258605115744275",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_NKPQ",
+    "en": "Is it? I g-guess people don't usually take an interest in this stuff like I do... M-maybe that's my strength, that I'm willing to do nothing but <i>this,</i> while for most others, even us Rada, it's like a shitty <i>chore...</i>",
+    "pl": "Tak? Ch-chyba ludzie zwykle się tym tak nie interesują... M-może to moja zaleta: chcę robić tylko <i>to,</i> a dla większości, nawet w Radzie, to przykry <i>obowiązek...</i>"
+  },
+  {
+    "id": "107258605115744276",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_O42Z",
+    "en": "I'd have to <i>kill</i> people for all these different sets.",
+    "pl": "Żeby zdobyć te zestawy, musiałbym <i>zabijać.</i>"
+  },
+  {
+    "id": "107258605115744277",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_PBUW",
+    "en": "And last but not least... More inventory means more materials to recycle, reuse, and so on. Useful for stuff like patching up old clothes.",
+    "pl": "I wreszcie: więcej zapasów to więcej materiałów do przerobienia i ponownego użycia. Przydatne choćby do łatania starych ubrań."
+  },
+  {
+    "id": "107258605115744278",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_PZVE",
+    "en": "Yeah! Sh-shouldn't be an issue. Just tell me which faction you got and I'll mark it down for y-you...",
+    "pl": "Tak! N-nie ma problemu. Powiedz, którą frakcję masz, a z-zaznaczę..."
+  },
+  {
+    "id": "107258605115744279",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_TLIL",
+    "en": "Okay... T-take care out there, let me know if there's anything I can help with...",
+    "pl": "Dobrze... U-uważaj na siebie i powiedz, jeśli mogę w czymś pomóc..."
+  },
+  {
+    "id": "107258605115744280",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_VH76",
+    "en": "I won't <i>know</i> where it's from, and I know you're bound to find some stuff on <u>corpses...</u> I won't pry, but... Please, Returner. Don't harm anyone unless you <i>have</i> to...",
+    "pl": "Nie będę <i>wiedzieć,</i> skąd to masz. I na pewno coś znajdziesz przy <u>zwłokach...</u> Nie będę dociekać, ale... Proszę, Powracający. Nie krzywdź nikogo, jeśli nie <i>musisz...</i>"
+  },
+  {
+    "id": "107258605115744281",
+    "key": "12_Vesna_v1_ChasingMuses_Quest_Questions_W3M0",
+    "en": "Well, n-no, <i>please</i> don't kill anyone on my account... I'm sure there's plenty of ways to get everything without bloodshed, <u>trading,</u> or... I'm s-sure you can <u>find</u> a lot of it just, uh, lying around...",
+    "pl": "N-no nie, <i>proszę,</i> nie zabijaj nikogo z mojego powodu... Na pewno jest mnóstwo sposobów bez rozlewu krwi: <u>handel</u> albo... N-na pewno można dużo <u>znaleźć,</u> yyy, po prostu gdzieś..."
+  },
+  {
+    "id": "107258605115744282",
+    "key": "12_Vesna_v1_ChasingMuses_TC8A",
+    "en": "I wanted <i>samples,</i> p-pieces of clothing from every faction there is. Just enough to figure out how they're made, find new techniques. I figured that's where a V-Vulture comes in...?",
+    "pl": "Chciałam <i>próbki,</i> f-fragmenty ubrań każdej frakcji. Tyle, żeby zrozumieć wykonanie i poznać nowe techniki. Pomyślałam, że do tego nada się S-Sęp...?"
+  },
+  {
+    "id": "107258605115744283",
+    "key": "12_Vesna_v1_ChasingMuses_XIQ8",
+    "en": "T-take care, Returner...",
+    "pl": "U-uważaj na siebie, Powracający..."
+  },
+  {
+    "id": "107258605115744284",
+    "key": "12_Vesna_v1_ChasingMuses_YSIO",
+    "en": "Oh, of course... What is it?",
+    "pl": "Och, oczywiście... O co chodzi?"
+  },
+  {
+    "id": "107258605115744285",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_7EIR",
+    "en": "Glad you're satisfied.",
+    "pl": "Cieszę się, że jesteś zadowolona."
+  },
+  {
+    "id": "107258605115744286",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_8U5R",
+    "en": "Well, yeah... Oh! H-here, that reminds me, your reward... I h-hope you'll come around again...",
+    "pl": "No tak... Och! T-to przypomniało mi o nagrodzie. Proszę... M-mam nadzieję, że znowu wpadniesz..."
+  },
+  {
+    "id": "107258605115744287",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_AY82",
+    "en": "Thank you so much, Returner. I'm gonna take my time analyzing all of these... There might be some better products to trade for next time you're around...",
+    "pl": "Bardzo dziękuję, Powracający. Spokojnie wszystko przeanalizuję... Następnym razem może będę miała lepszy towar..."
+  },
+  {
+    "id": "107258605115744288",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_GL93",
+    "en": "This was a pain... Pay up.",
+    "pl": "Było ciężko... Płać."
+  },
+  {
+    "id": "107258605115744289",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_R4BJ",
+    "en": "Oh, y-yay! Seems like it's all here... So many great samples.",
+    "pl": "O-och, świetnie! Chyba wszystko jest... Tyle znakomitych próbek."
+  },
+  {
+    "id": "107258605115744290",
+    "key": "12_Vesna_v1_ChasingMusesCompleted_RQ2F",
+    "en": "S-sure, here you go... I, uhm, I hope you'll still be around for more jobs, i-if I need you?...",
+    "pl": "J-jasne, proszę... Ja, yyy, mam nadzieję, że weźmiesz jeszcze jakieś zlecenie, j-jeśli będę potrzebować?..."
+  },
+  {
+    "id": "107258605115744291",
+    "key": "12_Vesna_v1_DeliverAcolyteGarments_EBBM",
+    "en": "Got religious clothes from the Acolytes.",
+    "pl": "Mam szaty religijne Akolitów."
+  },
+  {
+    "id": "107258605115744292",
+    "key": "12_Vesna_v1_DeliverAcolyteGarments_IFKW",
+    "en": "Thanks! Hm, they're plainly-made, like Commonfolk clothes... But they have a certain visual appeal... Humble but conspicuous at the same time...",
+    "pl": "Dzięki! Hm, proste wykonanie, jak u Zwykłych Ludzi... Ale mają urok... Skromne, a zarazem wyraziste..."
+  },
+  {
+    "id": "107258605115744293",
+    "key": "12_Vesna_v1_DeliverBanditsGarments_FWVH",
+    "en": "Got some Bandit clothes. They have... An odor.",
+    "pl": "Mam ubrania Bandytów. Mają... swój zapach."
+  },
+  {
+    "id": "107258605115744294",
+    "key": "12_Vesna_v1_DeliverBanditsGarments_YFC0",
+    "en": "Thank you, Returner... They do have an odor, don't they... I suppose there's not much to be done about that... And the clothes themselves are very haphazard.",
+    "pl": "Dziękuję, Powracający... Rzeczywiście pachną... Chyba niewiele da się z tym zrobić... A same ubrania są bardzo niedbale zrobione."
+  },
+  {
+    "id": "107258605115744295",
+    "key": "12_Vesna_v1_DeliverCommonfolkGarments_5QRJ",
+    "en": "Thanks! I guess they <i>are</i> pretty standard, but there's still something to learn from how they make it under bad conditions... You'd think they don't get to choose the cloth, for one, but then you realize... S-sorry, I'm running my mouth.",
+    "pl": "Dzięki! Chyba <i>są</i> zwyczajne, ale można się nauczyć, jak powstają w złych warunkach... Myślisz, że choćby tkanin nie wybierają, a potem widzisz... P-przepraszam, rozgadałam się."
+  },
+  {
+    "id": "107258605115744296",
+    "key": "12_Vesna_v1_DeliverCommonfolkGarments_ZU4O",
+    "en": "Here's some Commonfolk-style clothes. Pretty standard.",
+    "pl": "Ubrania Zwykłych Ludzi. Całkiem zwyczajne."
+  },
+  {
+    "id": "107258605115744297",
+    "key": "12_Vesna_v1_DeliverGunnersGarments_36OR",
+    "en": "Managed to find some Gunner clothes. Not easy.",
+    "pl": "Znalazłem ubrania Strzelców. Nie było łatwo."
+  },
+  {
+    "id": "107258605115744298",
+    "key": "12_Vesna_v1_DeliverGunnersGarments_978B",
+    "en": "Yeah, I can imagine...  Hopefully it wasn't a risk for you? They have some very high-quality stuff, now that I look closer... I wonder how they even got this in the first place...",
+    "pl": "Tak, wyobrażam sobie... Obyś nie ryzykował? Z bliska widać, że mają bardzo dobre rzeczy... Ciekawe, skąd w ogóle je wzięli..."
+  },
+  {
+    "id": "107258605115744299",
+    "key": "12_Vesna_v1_DeliverMechanistsGarments_RRVV",
+    "en": "Got my hands on a Mechanist's work clothes.",
+    "pl": "Zdobyłem robocze ubrania Mechanisty."
+  },
+  {
+    "id": "107258605115744300",
+    "key": "12_Vesna_v1_DeliverMechanistsGarments_V4HQ",
+    "en": "Good job, Vulture! I can smell the grease and sweat... But yep, work clothes through and through. I'll give them a wash and see how I can maybe make some stuff for them in the future...",
+    "pl": "Dobra robota, Sępie! Czuję smar i pot... Ale tak, ubranie robocze pełną gębą. Wypiorę i zobaczę, co mogłabym dla nich szyć w przyszłości..."
+  },
+  {
+    "id": "107258605115744301",
+    "key": "12_Vesna_v1_DeliverMudlarksGarments_L75E",
+    "en": "Here's some stuff Mudlarks wear.",
+    "pl": "Mam rzeczy, które noszą Błotniarze."
+  },
+  {
+    "id": "107258605115744302",
+    "key": "12_Vesna_v1_DeliverMudlarksGarments_M8TH",
+    "en": "Thanks, Returner. Hm, they clearly don't care much about this clothing thing, huh? I get the impression they'd be walking around naked if they could get away with it... Might happen sooner or later, too...",
+    "pl": "Dzięki, Powracający. Hm, wyraźnie mało dbają o ubrania, co? Mam wrażenie, że chodziliby nago, gdyby mogli... Prędzej czy później może tak być..."
+  },
+  {
+    "id": "107258605115744303",
+    "key": "12_Vesna_v1_DeliverPalatinesGarments_A3W1",
+    "en": "Awesome! Wow, this is good stuff. A bit beat up, but it's real War-era gear... Protective but light... Pretty high-quality for something that probably had to be mass-produced...",
+    "pl": "Świetnie! To dobre rzeczy. Trochę zniszczone, ale prawdziwy sprzęt z czasów wojny... Chroni, a jest lekki... Bardzo wysoka jakość jak na coś pewnie produkowanego masowo..."
+  },
+  {
+    "id": "107258605115744304",
+    "key": "12_Vesna_v1_DeliverPalatinesGarments_Q4X9",
+    "en": "Snagged a Palatine's military gear.",
+    "pl": "Zdobyłem wojskowy sprzęt Palatyna."
+  },
+  {
+    "id": "107258605115744305",
+    "key": "12_Vesna_v1_DeliverRadaGarments_NUDO",
+    "en": "Thanks! Saves me the trouble of annoying them for some extra garments, haha... I've always liked these, how they're inspired by traditional farmer attires and such... Though I suppose some of this is \"form over function\" and all...",
+    "pl": "Dzięki! Nie muszę męczyć ich o dodatkowe ubrania, haha... Zawsze lubiłam te stroje, wzorowane na tradycyjnych ubraniach rolników... Choć część to chyba „forma ponad funkcją” i tak dalej..."
+  },
+  {
+    "id": "107258605115744306",
+    "key": "12_Vesna_v1_DeliverRadaGarments_SE05",
+    "en": "Got some clothes from the Rada folks.",
+    "pl": "Mam ubrania ludzi z Rady."
+  },
+  {
+    "id": "107258605115744307",
+    "key": "12_Vesna_v1_DeliverVulturesGarments_BRJG",
+    "en": "Found some typical Vulture clothing.",
+    "pl": "Znalazłem typowe ubrania Sępów."
+  },
+  {
+    "id": "107258605115744308",
+    "key": "12_Vesna_v1_DeliverVulturesGarments_PSNW",
+    "en": "That's great, Returner! I'm glad you didn't have to give up something of yours for this. Let me take a look and figure out what sorts of adaptations you guys will make to help you walk the wastelands all day...",
+    "pl": "Świetnie, Powracający! Dobrze, że nie musiałeś oddawać swoich. Przyjrzę się, jak je dostosowujecie do całodziennej wędrówki po pustkowiach..."
+  },
+  {
+    "id": "107258605115744309",
+    "key": "12_Vesna_v1_GetRandomChasingMusesCompletedStart_IK4Y",
+    "en": "I'm done with all you asked me.",
+    "pl": "Zrobiłem wszystko, o co prosiłaś."
+  },
+  {
+    "id": "107258605115744310",
+    "key": "12_Vesna_v1_GetRandomChasingMusesCompletedStart_PX23",
+    "en": "I think I've got everything you asked.",
+    "pl": "Chyba mam wszystko, czego chciałaś."
+  },
+  {
+    "id": "107258605115744311",
+    "key": "12_Vesna_v1_GetRandomChasingMusesCompletedStart_ZK5C",
+    "en": "Got all faction clothes for you.",
+    "pl": "Mam ubrania wszystkich frakcji."
+  },
+  {
+    "id": "107258605115744312",
+    "key": "12_Vesna_v1_GetRandomChasingMusesStart_8MYR",
+    "en": "Got some special gig for me?",
+    "pl": "Masz dla mnie jakieś szczególne zlecenie?"
+  },
+  {
+    "id": "107258605115744313",
+    "key": "12_Vesna_v1_GetRandomChasingMusesStart_KM7E",
+    "en": "You got a job for me?",
+    "pl": "Masz dla mnie robotę?"
+  },
+  {
+    "id": "107258605115744314",
+    "key": "12_Vesna_v1_GetRandomChasingMusesStart_LACI",
+    "en": "Need a Vulture for anything?",
+    "pl": "Potrzebujesz do czegoś Sępa?"
+  },
+  {
+    "id": "107258605115744315",
+    "key": "12_Vesna_v1_GetRandomTalkStart_A54C",
+    "en": "Need to talk a bit.",
+    "pl": "Muszę chwilę pogadać."
+  },
+  {
+    "id": "107258605115744316",
+    "key": "12_Vesna_v1_GetRandomTalkStart_C1T6",
+    "en": "Got something to ask.",
+    "pl": "Chcę o coś zapytać."
+  },
+  {
+    "id": "107258605115744317",
+    "key": "12_Vesna_v1_GetRandomTalkStart_HUZK",
+    "en": "Can we talk?",
+    "pl": "Możemy porozmawiać?"
+  },
+  {
+    "id": "107258605115744318",
+    "key": "12_Vesna_v1_GetRandomTradeMessage_BYFO",
+    "en": "There's some stuff I need to trade, too.",
+    "pl": "Też mam rzeczy, które muszę wymienić."
+  },
+  {
+    "id": "107258605115744319",
+    "key": "12_Vesna_v1_GetRandomTradeMessage_HY5I",
+    "en": "Sure, please look at what I have.",
+    "pl": "Jasne, zobacz, co mam."
+  },
+  {
+    "id": "107258605115744320",
+    "key": "12_Vesna_v1_GetRandomTradeMessage_K4U9",
+    "en": "Cool, let's...",
+    "pl": "Świetnie, to..."
+  },
+  {
+    "id": "107258605115744321",
+    "key": "12_Vesna_v1_GetRandomTradeMessage_KII1",
+    "en": "Oh, ok, we can trade!",
+    "pl": "Och, dobrze, możemy pohandlować!"
+  },
+  {
+    "id": "107258605115744322",
+    "key": "12_Vesna_v1_GetRandomTradeMessage_TN5H",
+    "en": "Alright.",
+    "pl": "Dobrze."
+  },
+  {
+    "id": "107258605115744323",
+    "key": "12_Vesna_v1_GetRandomTradeStart_24WJ",
+    "en": "I'd like to trade.",
+    "pl": "Chciałbym pohandlować."
+  },
+  {
+    "id": "107258605115744324",
+    "key": "12_Vesna_v1_GetRandomTradeStart_9571",
+    "en": "Got some stuff to trade.",
+    "pl": "Mam rzeczy do wymiany."
+  },
+  {
+    "id": "107258605115744325",
+    "key": "12_Vesna_v1_GetRandomTradeStart_H7WU",
+    "en": "Wanna see what you have to trade.",
+    "pl": "Chcę zobaczyć, co masz na handel."
+  },
+  {
+    "id": "107258605115744326",
+    "key": "12_Vesna_v1_Talk_1WL5",
+    "en": "Gunners and Palatines use military and police gear from before the War, some of which they've creatively adapted to support their roles, real or imagined. There's other examples, but you get the gist...",
+    "pl": "Strzelcy i Palatyni noszą przedwojenny sprzęt wojskowy i policyjny. Część pomysłowo dostosowali do swoich ról, prawdziwych albo wyobrażonych. Są inne przykłady, ale rozumiesz..."
+  },
+  {
+    "id": "107258605115744327",
+    "key": "12_Vesna_v1_Talk_2L04",
+    "en": "O-oh, sure... What is it?",
+    "pl": "O-och, jasne... O co chodzi?"
+  },
+  {
+    "id": "107258605115744328",
+    "key": "12_Vesna_v1_Talk_338H",
+    "en": "Y-yes! Of course, I have to see all sorts of garments and understand, l-like, how they're <i>made</i> and stuff. And <i>why</i> they're made that way.",
+    "pl": "T-tak! Muszę oglądać różne ubrania i rozumieć, j-jak są <i>zrobione.</i> I <i>dlaczego</i> właśnie tak."
+  },
+  {
+    "id": "107258605115744329",
+    "key": "12_Vesna_v1_Talk_8DEY",
+    "en": "F-for example, right? Commonfolk and Mudlarks are forced to work with simple fabrics, but their handiwork is easy to patch up. Mechanists can throw overalls or a coat over anything else and be ready for a productive day, because that stuff handles spillage and stress well.",
+    "pl": "N-na przykład Zwykli Ludzie i Błotniarze muszą pracować z prostymi tkaninami, ale ich wyroby łatwo łatać. Mechaniści narzucą kombinezon czy fartuch na resztę i mogą pracować, bo takie ubrania dobrze znoszą rozlane płyny i obciążenia."
+  },
+  {
+    "id": "107258605115744330",
+    "key": "12_Vesna_v1_Talk_About_Rada_0R3G",
+    "en": "About something else.",
+    "pl": "Pomówmy o czymś innym."
+  },
+  {
+    "id": "107258605115744331",
+    "key": "12_Vesna_v1_Talk_About_Rada_ZTM9",
+    "en": "If we make sure that all work done is <i>useful</i> and not just for accumulation, we can be more <i>productive,</i> and even flat-out <i>give stuff away</i> to folks who need it.",
+    "pl": "Jeśli cała praca jest <i>użyteczna,</i> a nie służy tylko gromadzeniu, możemy być bardziej <i>wydajni</i> i wręcz <i>rozdawać rzeczy</i> potrzebującym."
+  },
+  {
+    "id": "107258605115744332",
+    "key": "12_Vesna_v1_Talk_About_Work_A99P",
+    "en": "Back to my <i>own</i> work...",
+    "pl": "Wracając do <i>mojej</i> pracy..."
+  },
+  {
+    "id": "107258605115744333",
+    "key": "12_Vesna_v1_Talk_UXTU",
+    "en": "About your work...",
+    "pl": "Co do twojej pracy..."
+  },
+  {
+    "id": "107258605115744334",
+    "key": "12_Vesna_v1_Talk_XCZM",
+    "en": "You said you wanted to \"study\" different clothes...",
+    "pl": "Mówiłaś, że chcesz „badać” różne ubrania..."
+  },
+  {
+    "id": "117468557569490944",
+    "key": "12_Vesna_Jobs_v1_GetRandomMutantExterminationStart_KDXI",
+    "en": "Mutants have been tearing up our supplies during the night... We need someone to hunt them down, or we'll lose too much food.",
+    "pl": "Mutanty nocą rozszarpują nasze zapasy... Ktoś musi je upolować, bo stracimy za dużo jedzenia."
+  },
+  {
+    "id": "117468557594656768",
+    "key": "12_Vesna_Jobs_v1_GetRandomMutantExterminationStart_4OIZ",
+    "en": "We've seen more Commonfolk deaths from Mutant attacks in the last few weeks... Please search for the creatures that did it and kill them!",
+    "pl": "W ostatnich tygodniach Mutanty zabiły więcej Zwykłych Ludzi... Proszę, znajdź te stworzenia i zabij je!"
+  },
+  {
+    "id": "117468557594656769",
+    "key": "12_Vesna_Jobs_v1_GetRandomMutantExterminationComplete_598Y",
+    "en": "Oh, you did great! I hope they didn't bite you!",
+    "pl": "Och, świetnie się spisałeś! Oby cię nie pogryzły!"
+  },
+  {
+    "id": "117468557594656770",
+    "key": "12_Vesna_Jobs_v1_GetRandomMutantExterminationComplete_AF34",
+    "en": "Thank you, Vulture! I hope the reward is good enough.",
+    "pl": "Dziękuję, Sępie! Oby nagroda wystarczyła."
+  },
+  {
+    "id": "117468557594656771",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_RRBS",
+    "en": "I'll take care of it.",
+    "pl": "Zajmę się tym."
+  },
+  {
+    "id": "117468557594656772",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_B990",
+    "en": "Okay, good, but stay safe!",
+    "pl": "Dobrze, ale uważaj na siebie!"
+  },
+  {
+    "id": "117468557594656773",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_Q19O",
+    "en": "Have to think about this.",
+    "pl": "Muszę to przemyśleć."
+  },
+  {
+    "id": "117468557594656774",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_MA5C",
+    "en": "Uhm, o-ok... I might have to ask someone else...",
+    "pl": "Yyy, d-dobrze... Chyba muszę poprosić kogoś innego..."
+  },
+  {
+    "id": "117468557594656775",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_TGZ4",
+    "en": "Sorry – got anything else?",
+    "pl": "Przykro mi. Masz coś innego?"
+  },
+  {
+    "id": "117468557594656776",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_H7N2",
+    "en": "You're lucky I'm cheap.",
+    "pl": "Masz szczęście, że jestem tani."
+  },
+  {
+    "id": "117468557594656777",
+    "key": "12_Vesna_Jobs_v1_MutantExtermination_G6XJ",
+    "en": "Always a pleasure.",
+    "pl": "Zawsze z przyjemnością."
+  }
+]

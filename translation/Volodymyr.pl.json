@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "29298294784",
+    "key": "02_Volodymyr_v1_Talk_7633",
+    "en": "What's going on here?",
+    "pl": "Co tu się dzieje?"
+  },
+  {
+    "id": "29327654912",
+    "key": "02_Volodymyr_v1_Talk_5CX6",
+    "en": "Palatines been bothering us too much. We're showing who they messed with.",
+    "pl": "Palatyni za bardzo nas dręczyli. Pokazujemy, z kim zadarli."
+  },
+  {
+    "id": "29327654913",
+    "key": "02_Volodymyr_v1_Talk_EV59",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols.",
+    "pl": "Podeszliśmy pod sam ich sztab, przegrywy nazywają go „Arcadią”. Teraz boją się wysyłać patrole."
+  },
+  {
+    "id": "29327654914",
+    "key": "02_Volodymyr_v1_Talk_SVGY",
+    "en": "Why'd you set up camp here?",
+    "pl": "Czemu rozbiliście tu obóz?"
+  },
+  {
+    "id": "29327654915",
+    "key": "02_Volodymyr_v1_Talk_Z249",
+    "en": "We're not just setting up camp. We're *expanding*.",
+    "pl": "Nie tylko rozbijamy obóz. *Rozszerzamy terytorium*."
+  },
+  {
+    "id": "29327654916",
+    "key": "02_Volodymyr_v1_Talk_QY2U",
+    "en": "And not a single Palatine has the balls to confront us.",
+    "pl": "A żaden Palatyn nie ma jaj, żeby się nam postawić."
+  },
+  {
+    "id": "29327654917",
+    "key": "02_Volodymyr_v1_Talk_6EWQ",
+    "en": "Tell me more about this standoff.",
+    "pl": "Opowiedz więcej o tej konfrontacji."
+  },
+  {
+    "id": "29327654918",
+    "key": "02_Volodymyr_v1_Talk_4D9V",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way.",
+    "pl": "To nie „konfrontacja”, Sępie. Tchórze nawet nie patrzą w naszą stronę."
+  },
+  {
+    "id": "29327654919",
+    "key": "02_Volodymyr_v1_Talk_H8Z7",
+    "en": "Never talked to a Gunner before.",
+    "pl": "Nigdy nie rozmawiałem ze Strzelcem."
+  },
+  {
+    "id": "29327654920",
+    "key": "02_Volodymyr_v1_Talk_544H",
+    "en": "Then choose your words wisely.",
+    "pl": "To uważnie dobieraj słowa."
+  },
+  {
+    "id": "29327654921",
+    "key": "02_Volodymyr_v1_Talk_M5IS",
+    "en": "Can you tell me about the Gunners?",
+    "pl": "Opowiesz mi o Strzelcach?"
+  },
+  {
+    "id": "29327654922",
+    "key": "02_Volodymyr_v1_Talk_6ROX",
+    "en": "Time to go. Later.",
+    "pl": "Pora iść. Do potem."
+  },
+  {
+    "id": "29327654923",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse1_XSFG",
+    "en": "We don't hire shit-smelling Vultures.",
+    "pl": "Nie zatrudniamy śmierdzących gównem Sępów."
+  },
+  {
+    "id": "29327654924",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse2_CVML",
+    "en": "Careful now. You're too curious.",
+    "pl": "Ostrożnie. Jesteś zbyt ciekawski."
+  },
+  {
+    "id": "29327654925",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_2168",
+    "en": "What does your group do?",
+    "pl": "Czym zajmuje się wasza grupa?"
+  },
+  {
+    "id": "29327654926",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_FRBO",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it.",
+    "pl": "Załatwiamy sprawy. Inwazje Mutantów, napady Bandytów, bójki Zwykłych Ludzi. Zajmujemy się wszystkim."
+  },
+  {
+    "id": "29327654927",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_QGU1",
+    "en": "Isn't that what the Palatines do?",
+    "pl": "Nie robią tego Palatyni?"
+  },
+  {
+    "id": "29327654928",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_7H9W",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding.",
+    "pl": "Pierdol to. Tym pizdom nie można powierzyć regionu, więc się rozrastamy."
+  },
+  {
+    "id": "29327654929",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_Q5DV",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal.",
+    "pl": "W przeciwieństwie do tych świrów z wojskowym fetyszem, <b>my</b> podajemy cenę z góry. Niektórych odstrasza, ale wszyscy znają warunki."
+  },
+  {
+    "id": "29331849216",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_5G59",
+    "en": "I heard Gunners were... Aggressive.",
+    "pl": "Słyszałem, że Strzelcy są... agresywni."
+  },
+  {
+    "id": "29331849217",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LBFO",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off.",
+    "pl": "Gdybym choć przez sekundę pomyślał, że jesteś z Palatynami, wyrwałbym ci jelita."
+  },
+  {
+    "id": "29331849218",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_8DBH",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>",
+    "pl": "Ale zbieracze jak ty, Zwykli Ludzie, nawet kościelni idioci: jesteście słabi i potrzebujecie ochrony. Tak się składa, że ją oferujemy. Nie mamy powodu krzywdzić <b>klientów.</b>"
+  },
+  {
+    "id": "29331849219",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_4LNW",
+    "en": "Where do you usually operate?",
+    "pl": "Gdzie zwykle działacie?"
+  },
+  {
+    "id": "29331849220",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_XPWH",
+    "en": "Down Southwest, around the Water Tower; near Dinepry Fortress and the entrance to the Dola.",
+    "pl": "Na południowym zachodzie, koło wieży ciśnień, twierdzy Dinepry i wejścia do Doli."
+  },
+  {
+    "id": "29331849221",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_CL8D",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge.",
+    "pl": "Popytaj następnym razem. Ludzie <b>wiedzą,</b> kto rządzi."
+  },
+  {
+    "id": "29331849222",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_VEXD",
+    "en": "Have you had conflicts with the Palatines before?",
+    "pl": "Walczyliście już wcześniej z Palatynami?"
+  },
+  {
+    "id": "29331849223",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_1SN0",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more.",
+    "pl": "Raz zaatakowali nas przy wieży ciśnień. Lata temu, przegraliśmy. Byłem wtedy zielony, mogłem zrobić więcej."
+  },
+  {
+    "id": "29331849224",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_FYCJ",
+    "en": "Next time will be different.",
+    "pl": "Następnym razem będzie inaczej."
+  },
+  {
+    "id": "29331849225",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_DI3W",
+    "en": "Let's change the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "29331849226",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_WP1F",
+    "en": "Gotta go. Continue this later.",
+    "pl": "Muszę iść. Dokończymy później."
+  },
+  {
+    "id": "29331849227",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_52WB",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye...",
+    "pl": "Palatyni mają wielu rekrutów, patrolują całe Zalesye..."
+  },
+  {
+    "id": "29331849228",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_IKI5",
+    "en": "<b>Nearly</b> all of Zalesye.",
+    "pl": "<b>Prawie</b> całe Zalesye."
+  },
+  {
+    "id": "29445095424",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_24F7",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us.",
+    "pl": "Najważniejsze miejsca: dostęp do kanionu, wieża ciśnień, najlepsze wejście do Doli, to wszystko nasze."
+  },
+  {
+    "id": "29445095425",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_3QZZ",
+    "en": "Palatines have access to weaponry and supplies from the old military posts...",
+    "pl": "Palatyni mają dostęp do broni i zapasów ze starych posterunków..."
+  },
+  {
+    "id": "29445095426",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_0C2E",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that.",
+    "pl": "Mam to w dupie. Stare, zniszczone graty. Nawet Sępy takie jak ty mają lepszy sprzęt."
+  },
+  {
+    "id": "29445095427",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YFTR",
+    "en": "Besides -- not to flaunt my hand -- but good ol' Grigory's on <b>our</b> side.",
+    "pl": "Poza tym, nie żebym odkrywał karty, ale stary dobry Grigory jest po <b>naszej</b> stronie."
+  },
+  {
+    "id": "29445095428",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YL3A",
+    "en": "He gets us that *Eastern* shit.",
+    "pl": "Załatwia nam towar ze *Wschodu*."
+  },
+  {
+    "id": "29445095429",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_OAV9",
+    "en": "So how come the Gunners are only expanding now?",
+    "pl": "To czemu Strzelcy rozrastają się dopiero teraz?"
+  },
+  {
+    "id": "29445095430",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_WANE",
+    "en": "Simple. Folks haven't fully realized our value yet.",
+    "pl": "Proste. Ludzie jeszcze nie docenili naszej wartości."
+  },
+  {
+    "id": "29445095431",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_P55G",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first.",
+    "pl": "Mamy umiejętności i siłę, żeby <b>naprawdę</b> przepędzić Mutanty i Bandytów. Ale żądamy zapłaty i stosujemy przemyślaną przemoc. Ludziom z początku się to nie podoba."
+  },
+  {
+    "id": "29445095432",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_Y56K",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us.",
+    "pl": "Ludzie są głupi i niewdzięczni, Sępie. Nie daj sobie wmówić, że my jesteśmy źli. Nie kiedy ci wojskowi fetyszyści paradują i gówno robią dla naszej ochrony."
+  },
+  {
+    "id": "29445095433",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_7W27",
+    "en": "What's this all about?",
+    "pl": "O co w tym wszystkim chodzi?"
+  },
+  {
+    "id": "29445095434",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_FN9J",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk...",
+    "pl": "Palatyni za wygodnie poczuli się przy wieży ciśnień, koło Doli. To nasz teren. Ustrzelili kilka Mutantów, prawili kazania miejscowym..."
+  },
+  {
+    "id": "29445095435",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_FGWR",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense.",
+    "pl": "Uznaliśmy, że sami zaczniemy ekspansję, zamiast tkwić w obronie."
+  },
+  {
+    "id": "29445095436",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_QPD9",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection.",
+    "pl": "Najwyższy czas, żeby ludzie w Trzęsawisku wiedzieli, na kogo <b>naprawdę</b> liczyć w sprawie ochrony."
+  },
+  {
+    "id": "29445095437",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_I1BY",
+    "en": "They don't look too scared.",
+    "pl": "Nie wyglądają na przestraszonych."
+  },
+  {
+    "id": "29445095438",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_RSVK",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune.",
+    "pl": "Są tępi. Myślą, że tylko szczekamy. Kilku kolejnych Palatynów w błocie zmieni ich zdanie."
+  },
+  {
+    "id": "29445095439",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_R9XZ",
+    "en": "Are you planning an attack?",
+    "pl": "Planujecie atak?"
+  },
+  {
+    "id": "29445095440",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_W91B",
+    "en": "Why, you gonna tell on us? Fuckin' rat.",
+    "pl": "Co, doniesiesz na nas? Pieprzony szczur."
+  },
+  {
+    "id": "29445095441",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_HDCI",
+    "en": "Don't care either way – just don't do it while I'm passing by.",
+    "pl": "Wszystko mi jedno. Tylko nie atakujcie, kiedy przechodzę."
+  },
+  {
+    "id": "29445095442",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_OHF7",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture.",
+    "pl": "<b>Ty</b> nie wchodź <b>nam</b> w drogę, Sępie."
+  },
+  {
+    "id": "29445095443",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_O5CG",
+    "en": "Forget it – don't need to know.",
+    "pl": "Nieważne. Nie muszę wiedzieć."
+  },
+  {
+    "id": "29445095444",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_8IKI",
+    "en": "And I'm not telling you shit either way.",
+    "pl": "I tak gówno ci powiem."
+  },
+  {
+    "id": "29445095445",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Q59M",
+    "en": "What if the Palatines attack again?",
+    "pl": "A jeśli Palatyni znowu zaatakują?"
+  },
+  {
+    "id": "29445095446",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_ONO5",
+    "en": "I *hope* they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp.",
+    "pl": "*Oby* spróbowali. Mamy teraz strukturę, jesteśmy zorganizowani. Wyrwiemy im flaki gołymi rękami i rozwiesimy wokół oboziku."
+  },
+  {
+    "id": "29445095447",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_D3ZZ",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad.",
+    "pl": "Czerwień krwi zmieszana z zielenią i brązem niestrawionego gówna. Mam artystyczne zacięcie, wiesz. Mój oddział też."
+  },
+  {
+    "id": "29445095448",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DBQL",
+    "en": "You're not worried about losing some men?",
+    "pl": "Nie boisz się stracić ludzi?"
+  },
+  {
+    "id": "29445095449",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_O5XU",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today.",
+    "pl": "Martwić się tym to jak martwić się, czy dziś wdepnę w błoto."
+  },
+  {
+    "id": "29445095450",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_XSVN",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture.",
+    "pl": "Mój oddział jest lojalny. Wiedzą, o co chodzi. A Palatynów, którzy dobrze zawalczą, zawsze możemy zwerbować. <i>Przekonać</i> ich do dołączenia. Jesteśmy rozwijającą się organizacją, Sępie."
+  },
+  {
+    "id": "29445095451",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_BJ1R",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "29445095452",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_KR67",
+    "en": "I really have to go now.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "29445095453",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_RS8B",
+    "en": "Volodymyr. I run things here. My boys let you pass because I might have business for you.",
+    "pl": "Volodymyr. Ja tu rządzę. Chłopaki cię przepuścili, bo może mam dla ciebie interes."
+  },
+  {
+    "id": "29445095454",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_6UAO",
+    "en": "Hm?",
+    "pl": "Hm?"
+  },
+  {
+    "id": "29445095455",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9CM6",
+    "en": "What do you need, scavenger?",
+    "pl": "Czego potrzebujesz, zbieraczu?"
+  },
+  {
+    "id": "29445095456",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9S7F",
+    "en": "Shit, if it ain't a Vulture.",
+    "pl": "Cholera, czyżby Sęp."
+  },
+  {
+    "id": "29445095457",
+    "key": "02_Volodymyr_v1_GetTalkMessage_DUCS",
+    "en": "Volodymyr – let's talk.",
+    "pl": "Volodymyr, pogadajmy."
+  },
+  {
+    "id": "29445095458",
+    "key": "02_Volodymyr_v1_GetTalkMessage_V6IL",
+    "en": "We need to talk.",
+    "pl": "Musimy porozmawiać."
+  },
+  {
+    "id": "29445095459",
+    "key": "02_Volodymyr_v1_GetTalkMessage_JWK1",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "29445095460",
+    "key": "02_Volodymyr_v1_GetTradeMessage_6GEL",
+    "en": "I'm looking to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "29445095461",
+    "key": "02_Volodymyr_v1_GetTradeMessage_69MS",
+    "en": "Got things that could interest you.",
+    "pl": "Mam rzeczy, które mogą cię zainteresować."
+  },
+  {
+    "id": "29445095462",
+    "key": "02_Volodymyr_v1_GetTradeMessage_Q40U",
+    "en": "Got anything I can trade for?",
+    "pl": "Masz coś do wymiany?"
+  },
+  {
+    "id": "29445095463",
+    "key": "02_Volodymyr_v1_GetTradeMessage_U9J2",
+    "en": "Gunners need to trade, too. Let's do it.",
+    "pl": "Strzelcy też muszą handlować. Zaczynajmy."
+  },
+  {
+    "id": "29445095464",
+    "key": "02_Volodymyr_v1_GetTradeResponse_FLNG",
+    "en": "What can a Vulture offer other than useless trinkets?",
+    "pl": "Co Sęp może zaoferować poza bezużytecznymi błyskotkami?"
+  },
+  {
+    "id": "29445095465",
+    "key": "02_Volodymyr_v1_GetTradeResponse_DBJ7",
+    "en": "You do good by us, we'll get these prices down.",
+    "pl": "Zasłużysz się u nas, obniżymy ceny."
+  },
+  {
+    "id": "29445095466",
+    "key": "02_Volodymyr_v1_GetTradeResponse_QCQX",
+    "en": "I think we'll make some good deals today.",
+    "pl": "Chyba dziś zrobimy dobre interesy."
+  },
+  {
+    "id": "29445095467",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_W2JG",
+    "en": "We done wasting time?",
+    "pl": "Koniec marnowania czasu?"
+  },
+  {
+    "id": "29445095468",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_S450",
+    "en": "Next time, make it snappy.",
+    "pl": "Następnym razem się streszczaj."
+  },
+  {
+    "id": "29445095469",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_C2UD",
+    "en": "We're watching you, runt.",
+    "pl": "Obserwujemy cię, kurduplu."
+  },
+  {
+    "id": "29445095470",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_Q0J9",
+    "en": "We're watching you, Vulture.",
+    "pl": "Obserwujemy cię, Sępie."
+  },
+  {
+    "id": "29445095471",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_JG5W",
+    "en": "Time to kill some Bandits.",
+    "pl": "Pora pozabijać Bandytów."
+  },
+  {
+    "id": "29445095472",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_B3RW",
+    "en": "Glad I'm not the only psycho killer here.",
+    "pl": "Dobrze, że nie tylko ja jestem tu psychopatycznym mordercą."
+  },
+  {
+    "id": "29445095473",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_WB2Y",
+    "en": "Gotta think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "29445095474",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_BIJ6",
+    "en": "No, you don't. Make up your goddamn mind.",
+    "pl": "Nie musisz. Zdecyduj się, do cholery."
+  },
+  {
+    "id": "29445095475",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_GHMV",
+    "en": "Got anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "29445095476",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_1QDH",
+    "en": "Ok.",
+    "pl": "Okej."
+  },
+  {
+    "id": "29445095477",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_QQNH",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "29445095478",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_2426",
+    "en": "I'll get what you want.",
+    "pl": "Zdobędę, czego chcesz."
+  },
+  {
+    "id": "29445095479",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_7ICT",
+    "en": "Of course you will. You know who's boss.",
+    "pl": "Oczywiście, że tak. Wiesz, kto tu rządzi."
+  },
+  {
+    "id": "29445095480",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_SFN8",
+    "en": "Let me think on it.",
+    "pl": "Daj mi pomyśleć."
+  },
+  {
+    "id": "29445095481",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_FE98",
+    "en": "Stop fucking with me – last warning.",
+    "pl": "Przestań ze mną pogrywać. Ostatnie ostrzeżenie."
+  },
+  {
+    "id": "29445095482",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_63ZE",
+    "en": "Got other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "29445095483",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_YN4X",
+    "en": "Alright.",
+    "pl": "Dobra."
+  },
+  {
+    "id": "29445095484",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_RYSP",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "29445095485",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_7I4G",
+    "en": "Got any jobs for me?",
+    "pl": "Masz dla mnie robotę?"
+  },
+  {
+    "id": "29445095486",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_YA65",
+    "en": "Need work. Got anything?",
+    "pl": "Szukam pracy. Masz coś?"
+  },
+  {
+    "id": "29445095487",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_ENA3",
+    "en": "Need the services of a Vulture?",
+    "pl": "Potrzebujesz usług Sępa?"
+  },
+  {
+    "id": "29445095488",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntStart_BMVA",
+    "en": "You don't need to know the details, but we're past the point of <i>collecting</i> with some people. Kill 'em for us.",
+    "pl": "Szczegółów nie musisz znać, ale przy niektórych ludziach etap <i>ściągania należności</i> już minął. Zabij ich dla nas."
+  },
+  {
+    "id": "29445095489",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntStart_OYR9",
+    "en": "It's a shame, Vulture, but some folks just don't take our threats seriously. Let's see if you can help change that.",
+    "pl": "Szkoda, Sępie, ale niektórzy nie traktują naszych gróźb poważnie. Zobaczmy, czy pomożesz to zmienić."
+  },
+  {
+    "id": "29445095490",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_QOMA",
+    "en": "Might be good enough for the Gunners some day, huh. Hehe... Fat fuckin' chance.",
+    "pl": "Może kiedyś będziesz dość dobry na Strzelca, co? Hehe... Chuja tam."
+  },
+  {
+    "id": "29445095491",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_G2GC",
+    "en": "Well well, not totally useless, are ya.",
+    "pl": "No, no. Nie jesteś całkiem bezużyteczny."
+  },
+  {
+    "id": "29445095492",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_CZZK",
+    "en": "Took you long enough, scavenger.",
+    "pl": "Trochę ci to zajęło, zbieraczu."
+  },
+  {
+    "id": "29445095493",
+    "key": "02_Volodymyr_Jobs_v1_CollectionStart_JUKN",
+    "en": "There’s a specific type of gun that I want to try out. See if you can find one for me – I’ll make it worth it, long as you hurry the fuck up.",
+    "pl": "Chcę wypróbować konkretny rodzaj broni. Znajdź mi taki egzemplarz. Opłaci ci się, jeśli ruszysz, kurwa, dupę."
+  },
+  {
+    "id": "29445095494",
+    "key": "02_Volodymyr_Jobs_v1_CollectionStart_RZ2K",
+    "en": "We’re short on some equipment for our patrols – from having extended to this camp. Here’s some stuff we’re gonna need. Get to it.",
+    "pl": "Brakuje sprzętu dla patroli, odkąd rozszerzyliśmy działania o ten obóz. Oto czego potrzebujemy. Do roboty."
+  },
+  {
+    "id": "29445095495",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_8KM8",
+    "en": "Not a moment too soon. Here, take this.",
+    "pl": "W ostatniej chwili. Masz, bierz."
+  },
+  {
+    "id": "29445095496",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_YC4T",
+    "en": "Fuckin' finally. Any Gunner woulda been done much quicker.",
+    "pl": "Kurwa, nareszcie. Każdy Strzelec uwinąłby się szybciej."
+  },
+  {
+    "id": "29445095497",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_4BPH",
+    "en": "Good. I get some new toys and you get these scraps. Here ya go, small-time.",
+    "pl": "Dobrze. Ja dostaję nowe zabawki, a ty te ochłapy. Masz, płotko."
+  },
+  {
+    "id": "29445095498",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_BWLV",
+    "en": "Got nothin'. Sit still, cunt.",
+    "pl": "Nic nie mam. Siedź cicho, pizdo."
+  },
+  {
+    "id": "29445095499",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_7PNV",
+    "en": "Think you're a Gunner or something? Got nothing for ya now.",
+    "pl": "Myślisz, że jesteś Strzelcem? Teraz nic dla ciebie nie mam."
+  },
+  {
+    "id": "29445095500",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_WT0Z",
+    "en": "Got nothing else right now – go wallow in the mud or whatever you Vultures like to do.",
+    "pl": "Nic więcej nie mam. Idź tarzać się w błocie czy co tam lubicie robić."
+  },
+  {
+    "id": "3231040983302144",
+    "key": "",
+    "en": "What's going on here?",
+    "pl": "Co tu się dzieje?"
+  },
+  {
+    "id": "3231041004273664",
+    "key": "",
+    "en": "Palatines been bothering us too much. We're showing who they messed with.",
+    "pl": "Palatyni za bardzo nas dręczyli. Pokazujemy, z kim zadarli."
+  },
+  {
+    "id": "3231041004273665",
+    "key": "",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols.",
+    "pl": "Podeszliśmy pod sam ich sztab, przegrywy nazywają go „Arcadią”. Teraz boją się wysyłać patrole."
+  },
+  {
+    "id": "3231041004273666",
+    "key": "",
+    "en": "Why'd you set up camp here?",
+    "pl": "Czemu rozbiliście tu obóz?"
+  },
+  {
+    "id": "3231041004273667",
+    "key": "",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>",
+    "pl": "Nie tylko rozbijamy obóz. <i>Rozszerzamy terytorium.</i>"
+  },
+  {
+    "id": "3231041004273668",
+    "key": "",
+    "en": "And not a single Palatine has the balls to confront us.",
+    "pl": "A żaden Palatyn nie ma jaj, żeby się nam postawić."
+  },
+  {
+    "id": "3231041004273669",
+    "key": "",
+    "en": "Tell me more about this standoff.",
+    "pl": "Opowiedz więcej o tej konfrontacji."
+  },
+  {
+    "id": "3231041004273670",
+    "key": "",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way.",
+    "pl": "To nie „konfrontacja”, Sępie. Tchórze nawet nie patrzą w naszą stronę."
+  },
+  {
+    "id": "3231041004273671",
+    "key": "",
+    "en": "Never talked to a Gunner before.",
+    "pl": "Nigdy nie rozmawiałem ze Strzelcem."
+  },
+  {
+    "id": "3231041004273672",
+    "key": "",
+    "en": "Then choose your words wisely.",
+    "pl": "To uważnie dobieraj słowa."
+  },
+  {
+    "id": "3231041004273673",
+    "key": "",
+    "en": "Can you tell me about the Gunners?",
+    "pl": "Opowiesz mi o Strzelcach?"
+  },
+  {
+    "id": "3231041004273674",
+    "key": "",
+    "en": "Time to go. Later.",
+    "pl": "Pora iść. Do potem."
+  },
+  {
+    "id": "3231041004273675",
+    "key": "",
+    "en": "We don't hire shit-smelling Vultures.",
+    "pl": "Nie zatrudniamy śmierdzących gównem Sępów."
+  },
+  {
+    "id": "3231041004273676",
+    "key": "",
+    "en": "Careful now. You're too curious.",
+    "pl": "Ostrożnie. Jesteś zbyt ciekawski."
+  },
+  {
+    "id": "3231041004273677",
+    "key": "",
+    "en": "What does your group do?",
+    "pl": "Czym zajmuje się wasza grupa?"
+  },
+  {
+    "id": "3231041004273678",
+    "key": "",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it.",
+    "pl": "Załatwiamy sprawy. Inwazje Mutantów, napady Bandytów, bójki Zwykłych Ludzi. Zajmujemy się wszystkim."
+  },
+  {
+    "id": "3231041004273679",
+    "key": "",
+    "en": "Isn't that what the Palatines do?",
+    "pl": "Nie robią tego Palatyni?"
+  },
+  {
+    "id": "3231041004273680",
+    "key": "",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding.",
+    "pl": "Pierdol to. Tym pizdom nie można powierzyć regionu, więc się rozrastamy."
+  },
+  {
+    "id": "3231041004273681",
+    "key": "",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal.",
+    "pl": "W przeciwieństwie do tych świrów z wojskowym fetyszem, <b>my</b> podajemy cenę z góry. Niektórych odstrasza, ale wszyscy znają warunki."
+  },
+  {
+    "id": "3231041004273682",
+    "key": "",
+    "en": "I heard Gunners were... Aggressive.",
+    "pl": "Słyszałem, że Strzelcy są... agresywni."
+  },
+  {
+    "id": "3231041004273683",
+    "key": "",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off.",
+    "pl": "Gdybym choć przez sekundę pomyślał, że jesteś z Palatynami, wyrwałbym ci jelita."
+  },
+  {
+    "id": "3231041004273684",
+    "key": "",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>",
+    "pl": "Ale zbieracze jak ty, Zwykli Ludzie, nawet kościelni idioci: jesteście słabi i potrzebujecie ochrony. Tak się składa, że ją oferujemy. Nie mamy powodu krzywdzić <b>klientów.</b>"
+  },
+  {
+    "id": "3231041004273685",
+    "key": "",
+    "en": "Where do you usually operate?",
+    "pl": "Gdzie zwykle działacie?"
+  },
+  {
+    "id": "3231041004273686",
+    "key": "",
+    "en": "Vodnik. To the West, near the Canyon. I don't think you'd make it there.",
+    "pl": "Vodnik. Na zachód, koło kanionu. Nie sądzę, żebyś tam dotarł."
+  },
+  {
+    "id": "3231041004273687",
+    "key": "",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge.",
+    "pl": "Popytaj następnym razem. Ludzie <b>wiedzą,</b> kto rządzi."
+  },
+  {
+    "id": "3231041004273688",
+    "key": "",
+    "en": "Have you had conflicts with the Palatines before?",
+    "pl": "Walczyliście już wcześniej z Palatynami?"
+  },
+  {
+    "id": "3231041004273689",
+    "key": "",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more.",
+    "pl": "Raz zaatakowali nas przy wieży ciśnień. Lata temu, przegraliśmy. Byłem wtedy zielony, mogłem zrobić więcej."
+  },
+  {
+    "id": "3231041004273690",
+    "key": "",
+    "en": "Next time will be different.",
+    "pl": "Następnym razem będzie inaczej."
+  },
+  {
+    "id": "3231041004273691",
+    "key": "",
+    "en": "Let's change the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "3231041004273692",
+    "key": "",
+    "en": "Gotta go. Continue this later.",
+    "pl": "Muszę iść. Dokończymy później."
+  },
+  {
+    "id": "3231041004273693",
+    "key": "",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye...",
+    "pl": "Palatyni mają wielu rekrutów, patrolują całe Zalesye..."
+  },
+  {
+    "id": "3231041004273694",
+    "key": "",
+    "en": "<b>Nearly</b> all of Zalesye.",
+    "pl": "<b>Prawie</b> całe Zalesye."
+  },
+  {
+    "id": "3231041004273695",
+    "key": "",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us.",
+    "pl": "Najważniejsze miejsca: dostęp do kanionu, wieża ciśnień, najlepsze wejście do Doli, to wszystko nasze."
+  },
+  {
+    "id": "3231041004273696",
+    "key": "",
+    "en": "Palatines have access to weaponry and supplies from the old military posts...",
+    "pl": "Palatyni mają dostęp do broni i zapasów ze starych posterunków..."
+  },
+  {
+    "id": "3231041004273697",
+    "key": "",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that.",
+    "pl": "Mam to w dupie. Stare, zniszczone graty. Nawet Sępy takie jak ty mają lepszy sprzęt."
+  },
+  {
+    "id": "3231041004273698",
+    "key": "",
+    "en": "Besides – not to flaunt my hand – but good ol' Grigory's on <b>our</b> side.",
+    "pl": "Poza tym, nie żebym odkrywał karty, ale stary dobry Grigory jest po <b>naszej</b> stronie."
+  },
+  {
+    "id": "3231041004273699",
+    "key": "",
+    "en": "He gets us that *Eastern* shit.",
+    "pl": "Załatwia nam towar ze *Wschodu*."
+  },
+  {
+    "id": "3231041004273700",
+    "key": "",
+    "en": "So how come the Gunners are only expanding now?",
+    "pl": "To czemu Strzelcy rozrastają się dopiero teraz?"
+  },
+  {
+    "id": "3231041004273701",
+    "key": "",
+    "en": "Simple. Folks haven't fully realized our value yet.",
+    "pl": "Proste. Ludzie jeszcze nie docenili naszej wartości."
+  },
+  {
+    "id": "3231041004273702",
+    "key": "",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first.",
+    "pl": "Mamy umiejętności i siłę, żeby <b>naprawdę</b> przepędzić Mutanty i Bandytów. Ale żądamy zapłaty i stosujemy przemyślaną przemoc. Ludziom z początku się to nie podoba."
+  },
+  {
+    "id": "3231041004273703",
+    "key": "",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us.",
+    "pl": "Ludzie są głupi i niewdzięczni, Sępie. Nie daj sobie wmówić, że my jesteśmy źli. Nie kiedy ci wojskowi fetyszyści paradują i gówno robią dla naszej ochrony."
+  },
+  {
+    "id": "3231041004273704",
+    "key": "",
+    "en": "What's this all about?",
+    "pl": "O co w tym wszystkim chodzi?"
+  },
+  {
+    "id": "3231041004273705",
+    "key": "",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk...",
+    "pl": "Palatyni za wygodnie poczuli się przy wieży ciśnień, koło Doli. To nasz teren. Ustrzelili kilka Mutantów, prawili kazania miejscowym..."
+  },
+  {
+    "id": "3231041004273706",
+    "key": "",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense.",
+    "pl": "Uznaliśmy, że sami zaczniemy ekspansję, zamiast tkwić w obronie."
+  },
+  {
+    "id": "3231041004273707",
+    "key": "",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection.",
+    "pl": "Najwyższy czas, żeby ludzie w Trzęsawisku wiedzieli, na kogo <b>naprawdę</b> liczyć w sprawie ochrony."
+  },
+  {
+    "id": "3231041004273708",
+    "key": "",
+    "en": "They don't look too scared.",
+    "pl": "Nie wyglądają na przestraszonych."
+  },
+  {
+    "id": "3231041004273709",
+    "key": "",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune.",
+    "pl": "Są tępi. Myślą, że tylko szczekamy. Kilku kolejnych Palatynów w błocie zmieni ich zdanie."
+  },
+  {
+    "id": "3231041004273710",
+    "key": "",
+    "en": "Are you planning an attack?",
+    "pl": "Planujecie atak?"
+  },
+  {
+    "id": "3231041004273711",
+    "key": "",
+    "en": "Why, you gonna tell on us? Fuckin' rat.",
+    "pl": "Co, doniesiesz na nas? Pieprzony szczur."
+  },
+  {
+    "id": "3231041004273712",
+    "key": "",
+    "en": "Don't care either way – just don't do it while I'm passing by.",
+    "pl": "Wszystko mi jedno. Tylko nie atakujcie, kiedy przechodzę."
+  },
+  {
+    "id": "3231041004273713",
+    "key": "",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture.",
+    "pl": "<b>Ty</b> nie wchodź <b>nam</b> w drogę, Sępie."
+  },
+  {
+    "id": "3231041004273714",
+    "key": "",
+    "en": "Forget it – don't need to know.",
+    "pl": "Nieważne. Nie muszę wiedzieć."
+  },
+  {
+    "id": "3231041004273715",
+    "key": "",
+    "en": "And I'm not telling you shit either way.",
+    "pl": "I tak gówno ci powiem."
+  },
+  {
+    "id": "3231041004273716",
+    "key": "",
+    "en": "What if the Palatines attack again?",
+    "pl": "A jeśli Palatyni znowu zaatakują?"
+  },
+  {
+    "id": "3231041004273717",
+    "key": "",
+    "en": "I <b>hope</b> they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp.",
+    "pl": "<b>Oby</b> spróbowali. Mamy teraz strukturę, jesteśmy zorganizowani. Wyrwiemy im flaki gołymi rękami i rozwiesimy wokół oboziku."
+  },
+  {
+    "id": "3231041004273718",
+    "key": "",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad.",
+    "pl": "Czerwień krwi zmieszana z zielenią i brązem niestrawionego gówna. Mam artystyczne zacięcie, wiesz. Mój oddział też."
+  },
+  {
+    "id": "3231041004273719",
+    "key": "",
+    "en": "You're not worried about losing some men?",
+    "pl": "Nie boisz się stracić ludzi?"
+  },
+  {
+    "id": "3231041004273720",
+    "key": "",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today.",
+    "pl": "Martwić się tym to jak martwić się, czy dziś wdepnę w błoto."
+  },
+  {
+    "id": "3231041004273721",
+    "key": "",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture.",
+    "pl": "Mój oddział jest lojalny. Wiedzą, o co chodzi. A Palatynów, którzy dobrze zawalczą, zawsze możemy zwerbować. <i>Przekonać</i> ich do dołączenia. Jesteśmy rozwijającą się organizacją, Sępie."
+  },
+  {
+    "id": "3231041004273722",
+    "key": "",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "3231041004273723",
+    "key": "",
+    "en": "I really have to go now.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "3231041004273724",
+    "key": "",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?",
+    "pl": "Volodymyr. A ty, kurwa, kto? Wchodzisz tu jak do siebie. Szukasz kłopotów?"
+  },
+  {
+    "id": "3231041004273725",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "3231041004273726",
+    "key": "",
+    "en": "What do you need, scavenger?",
+    "pl": "Czego potrzebujesz, zbieraczu?"
+  },
+  {
+    "id": "3231041004273727",
+    "key": "",
+    "en": "Shit, if it ain't a Vulture.",
+    "pl": "Cholera, czyżby Sęp."
+  },
+  {
+    "id": "3231041004273728",
+    "key": "",
+    "en": "Volodymyr – let's talk.",
+    "pl": "Volodymyr, pogadajmy."
+  },
+  {
+    "id": "3231041004273729",
+    "key": "",
+    "en": "We need to talk.",
+    "pl": "Musimy porozmawiać."
+  },
+  {
+    "id": "3231041004273730",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "3231041004273731",
+    "key": "",
+    "en": "I'm looking to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "3231041004273732",
+    "key": "",
+    "en": "Got things that could interest you.",
+    "pl": "Mam rzeczy, które mogą cię zainteresować."
+  },
+  {
+    "id": "3231041004273733",
+    "key": "",
+    "en": "Got anything I can take off your hands?",
+    "pl": "Masz coś, co mógłbym od ciebie wziąć?"
+  },
+  {
+    "id": "3231041004273734",
+    "key": "",
+    "en": "Gunners need to trade, too. Let's do it.",
+    "pl": "Strzelcy też muszą handlować. Zaczynajmy."
+  },
+  {
+    "id": "3231041004273735",
+    "key": "",
+    "en": "What can a Vulture offer other than useless trinkets?",
+    "pl": "Co Sęp może zaoferować poza bezużytecznymi błyskotkami?"
+  },
+  {
+    "id": "3231041004273736",
+    "key": "",
+    "en": "You do good by us, we'll get these prices down.",
+    "pl": "Zasłużysz się u nas, obniżymy ceny."
+  },
+  {
+    "id": "3231041004273737",
+    "key": "",
+    "en": "I think we'll make some good deals today.",
+    "pl": "Chyba dziś zrobimy dobre interesy."
+  },
+  {
+    "id": "3231041004273738",
+    "key": "",
+    "en": "We done wasting time?",
+    "pl": "Koniec marnowania czasu?"
+  },
+  {
+    "id": "3231041004273739",
+    "key": "",
+    "en": "Next time, make it snappy.",
+    "pl": "Następnym razem się streszczaj."
+  },
+  {
+    "id": "3231041004273740",
+    "key": "",
+    "en": "We're watching you, runt.",
+    "pl": "Obserwujemy cię, kurduplu."
+  },
+  {
+    "id": "3231041004273741",
+    "key": "",
+    "en": "We're watching you, Vulture.",
+    "pl": "Obserwujemy cię, Sępie."
+  },
+  {
+    "id": "3231041004273742",
+    "key": "",
+    "en": "Time to kill some Bandits.",
+    "pl": "Pora pozabijać Bandytów."
+  },
+  {
+    "id": "3231041004273743",
+    "key": "",
+    "en": "Glad I'm not the only psycho killer here.",
+    "pl": "Dobrze, że nie tylko ja jestem tu psychopatycznym mordercą."
+  },
+  {
+    "id": "3231041004273744",
+    "key": "",
+    "en": "Gotta think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "3231041004273745",
+    "key": "",
+    "en": "No, you don't. Make up your goddamn mind.",
+    "pl": "Nie musisz. Zdecyduj się, do cholery."
+  },
+  {
+    "id": "3231041004273746",
+    "key": "",
+    "en": "Got anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "3231041004273747",
+    "key": "",
+    "en": "Ok.",
+    "pl": "Okej."
+  },
+  {
+    "id": "3231041004273748",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "3231041004273749",
+    "key": "",
+    "en": "I'll get what you want.",
+    "pl": "Zdobędę, czego chcesz."
+  },
+  {
+    "id": "3231041004273750",
+    "key": "",
+    "en": "Of course you will. You know who's boss.",
+    "pl": "Oczywiście, że tak. Wiesz, kto tu rządzi."
+  },
+  {
+    "id": "3231041004273751",
+    "key": "",
+    "en": "Let me think on it.",
+    "pl": "Daj mi pomyśleć."
+  },
+  {
+    "id": "3231041004273752",
+    "key": "",
+    "en": "Stop fucking with me – last warning.",
+    "pl": "Przestań ze mną pogrywać. Ostatnie ostrzeżenie."
+  },
+  {
+    "id": "3231041004273753",
+    "key": "",
+    "en": "Got other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "3231041004273754",
+    "key": "",
+    "en": "Alright.",
+    "pl": "Dobra."
+  },
+  {
+    "id": "3231041004273755",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "3594610875072512",
+    "key": "",
+    "en": "What's going on here?",
+    "pl": "Co tu się dzieje?"
+  },
+  {
+    "id": "3594610891849728",
+    "key": "",
+    "en": "Palatines been bothering us too much. We're showing who they messed with.",
+    "pl": "Palatyni za bardzo nas dręczyli. Pokazujemy, z kim zadarli."
+  },
+  {
+    "id": "3594610891849729",
+    "key": "",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols.",
+    "pl": "Podeszliśmy pod sam ich sztab, przegrywy nazywają go „Arcadią”. Teraz boją się wysyłać patrole."
+  },
+  {
+    "id": "3594610891849730",
+    "key": "",
+    "en": "Why'd you set up camp here?",
+    "pl": "Czemu rozbiliście tu obóz?"
+  },
+  {
+    "id": "3594610891849731",
+    "key": "",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>",
+    "pl": "Nie tylko rozbijamy obóz. <i>Rozszerzamy terytorium.</i>"
+  },
+  {
+    "id": "3594610891849732",
+    "key": "",
+    "en": "And not a single Palatine has the balls to confront us.",
+    "pl": "A żaden Palatyn nie ma jaj, żeby się nam postawić."
+  },
+  {
+    "id": "3594610891849733",
+    "key": "",
+    "en": "Tell me more about this standoff.",
+    "pl": "Opowiedz więcej o tej konfrontacji."
+  },
+  {
+    "id": "3594610891849734",
+    "key": "",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way.",
+    "pl": "To nie „konfrontacja”, Sępie. Tchórze nawet nie patrzą w naszą stronę."
+  },
+  {
+    "id": "3594610891849735",
+    "key": "",
+    "en": "Never talked to a Gunner before.",
+    "pl": "Nigdy nie rozmawiałem ze Strzelcem."
+  },
+  {
+    "id": "3594610891849736",
+    "key": "",
+    "en": "Then choose your words wisely.",
+    "pl": "To uważnie dobieraj słowa."
+  },
+  {
+    "id": "3594610891849737",
+    "key": "",
+    "en": "Can you tell me about the Gunners?",
+    "pl": "Opowiesz mi o Strzelcach?"
+  },
+  {
+    "id": "3594610891849738",
+    "key": "",
+    "en": "Time to go. Later.",
+    "pl": "Pora iść. Do potem."
+  },
+  {
+    "id": "3594610891849739",
+    "key": "",
+    "en": "We don't hire shit-smelling Vultures.",
+    "pl": "Nie zatrudniamy śmierdzących gównem Sępów."
+  },
+  {
+    "id": "3594610891849740",
+    "key": "",
+    "en": "Careful now. You're too curious.",
+    "pl": "Ostrożnie. Jesteś zbyt ciekawski."
+  },
+  {
+    "id": "3594610891849741",
+    "key": "",
+    "en": "What does your group do?",
+    "pl": "Czym zajmuje się wasza grupa?"
+  },
+  {
+    "id": "3594610891849742",
+    "key": "",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it.",
+    "pl": "Załatwiamy sprawy. Inwazje Mutantów, napady Bandytów, bójki Zwykłych Ludzi. Zajmujemy się wszystkim."
+  },
+  {
+    "id": "3594610891849743",
+    "key": "",
+    "en": "Isn't that what the Palatines do?",
+    "pl": "Nie robią tego Palatyni?"
+  },
+  {
+    "id": "3594610891849744",
+    "key": "",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding.",
+    "pl": "Pierdol to. Tym pizdom nie można powierzyć regionu, więc się rozrastamy."
+  },
+  {
+    "id": "3594610891849745",
+    "key": "",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal.",
+    "pl": "W przeciwieństwie do tych świrów z wojskowym fetyszem, <b>my</b> podajemy cenę z góry. Niektórych odstrasza, ale wszyscy znają warunki."
+  },
+  {
+    "id": "3594610891849746",
+    "key": "",
+    "en": "I heard Gunners were... Aggressive.",
+    "pl": "Słyszałem, że Strzelcy są... agresywni."
+  },
+  {
+    "id": "3594610891849747",
+    "key": "",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off.",
+    "pl": "Gdybym choć przez sekundę pomyślał, że jesteś z Palatynami, wyrwałbym ci jelita."
+  },
+  {
+    "id": "3594610891849748",
+    "key": "",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>",
+    "pl": "Ale zbieracze jak ty, Zwykli Ludzie, nawet kościelni idioci: jesteście słabi i potrzebujecie ochrony. Tak się składa, że ją oferujemy. Nie mamy powodu krzywdzić <b>klientów.</b>"
+  },
+  {
+    "id": "3594610891849749",
+    "key": "",
+    "en": "Where do you usually operate?",
+    "pl": "Gdzie zwykle działacie?"
+  },
+  {
+    "id": "3594610891849750",
+    "key": "",
+    "en": "Vodnik. To the West, near the Canyon. I don't think you'd make it there.",
+    "pl": "Vodnik. Na zachód, koło kanionu. Nie sądzę, żebyś tam dotarł."
+  },
+  {
+    "id": "3594610891849751",
+    "key": "",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge.",
+    "pl": "Popytaj następnym razem. Ludzie <b>wiedzą,</b> kto rządzi."
+  },
+  {
+    "id": "3594610891849752",
+    "key": "",
+    "en": "Have you had conflicts with the Palatines before?",
+    "pl": "Walczyliście już wcześniej z Palatynami?"
+  },
+  {
+    "id": "3594610891849753",
+    "key": "",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more.",
+    "pl": "Raz zaatakowali nas przy wieży ciśnień. Lata temu, przegraliśmy. Byłem wtedy zielony, mogłem zrobić więcej."
+  },
+  {
+    "id": "3594610891849754",
+    "key": "",
+    "en": "Next time will be different.",
+    "pl": "Następnym razem będzie inaczej."
+  },
+  {
+    "id": "3594610891849755",
+    "key": "",
+    "en": "Let's change the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "3594610891849756",
+    "key": "",
+    "en": "Gotta go. Continue this later.",
+    "pl": "Muszę iść. Dokończymy później."
+  },
+  {
+    "id": "3594610891849757",
+    "key": "",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye...",
+    "pl": "Palatyni mają wielu rekrutów, patrolują całe Zalesye..."
+  },
+  {
+    "id": "3594610891849758",
+    "key": "",
+    "en": "<b>Nearly</b> all of Zalesye.",
+    "pl": "<b>Prawie</b> całe Zalesye."
+  },
+  {
+    "id": "3594610891849759",
+    "key": "",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us.",
+    "pl": "Najważniejsze miejsca: dostęp do kanionu, wieża ciśnień, najlepsze wejście do Doli, to wszystko nasze."
+  },
+  {
+    "id": "3594610891849760",
+    "key": "",
+    "en": "Palatines have access to weaponry and supplies from the old military posts...",
+    "pl": "Palatyni mają dostęp do broni i zapasów ze starych posterunków..."
+  },
+  {
+    "id": "3594610891849761",
+    "key": "",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that.",
+    "pl": "Mam to w dupie. Stare, zniszczone graty. Nawet Sępy takie jak ty mają lepszy sprzęt."
+  },
+  {
+    "id": "3594610891849762",
+    "key": "",
+    "en": "Besides – not to flaunt my hand – but good ol' Grigory's on <b>our</b> side.",
+    "pl": "Poza tym, nie żebym odkrywał karty, ale stary dobry Grigory jest po <b>naszej</b> stronie."
+  },
+  {
+    "id": "3594610891849763",
+    "key": "",
+    "en": "He gets us that *Eastern* shit.",
+    "pl": "Załatwia nam towar ze *Wschodu*."
+  },
+  {
+    "id": "3594610891849764",
+    "key": "",
+    "en": "So how come the Gunners are only expanding now?",
+    "pl": "To czemu Strzelcy rozrastają się dopiero teraz?"
+  },
+  {
+    "id": "3594610891849765",
+    "key": "",
+    "en": "Simple. Folks haven't fully realized our value yet.",
+    "pl": "Proste. Ludzie jeszcze nie docenili naszej wartości."
+  },
+  {
+    "id": "3594610891849766",
+    "key": "",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first.",
+    "pl": "Mamy umiejętności i siłę, żeby <b>naprawdę</b> przepędzić Mutanty i Bandytów. Ale żądamy zapłaty i stosujemy przemyślaną przemoc. Ludziom z początku się to nie podoba."
+  },
+  {
+    "id": "3594610891849767",
+    "key": "",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us.",
+    "pl": "Ludzie są głupi i niewdzięczni, Sępie. Nie daj sobie wmówić, że my jesteśmy źli. Nie kiedy ci wojskowi fetyszyści paradują i gówno robią dla naszej ochrony."
+  },
+  {
+    "id": "3594610891849768",
+    "key": "",
+    "en": "What's this all about?",
+    "pl": "O co w tym wszystkim chodzi?"
+  },
+  {
+    "id": "3594610891849769",
+    "key": "",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk...",
+    "pl": "Palatyni za wygodnie poczuli się przy wieży ciśnień, koło Doli. To nasz teren. Ustrzelili kilka Mutantów, prawili kazania miejscowym..."
+  },
+  {
+    "id": "3594610891849770",
+    "key": "",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense.",
+    "pl": "Uznaliśmy, że sami zaczniemy ekspansję, zamiast tkwić w obronie."
+  },
+  {
+    "id": "3594610891849771",
+    "key": "",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection.",
+    "pl": "Najwyższy czas, żeby ludzie w Trzęsawisku wiedzieli, na kogo <b>naprawdę</b> liczyć w sprawie ochrony."
+  },
+  {
+    "id": "3594610891849772",
+    "key": "",
+    "en": "They don't look too scared.",
+    "pl": "Nie wyglądają na przestraszonych."
+  },
+  {
+    "id": "3594610891849773",
+    "key": "",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune.",
+    "pl": "Są tępi. Myślą, że tylko szczekamy. Kilku kolejnych Palatynów w błocie zmieni ich zdanie."
+  },
+  {
+    "id": "3594610891849774",
+    "key": "",
+    "en": "Are you planning an attack?",
+    "pl": "Planujecie atak?"
+  },
+  {
+    "id": "3594610891849775",
+    "key": "",
+    "en": "Why, you gonna tell on us? Fuckin' rat.",
+    "pl": "Co, doniesiesz na nas? Pieprzony szczur."
+  },
+  {
+    "id": "3594610891849776",
+    "key": "",
+    "en": "Don't care either way – just don't do it while I'm passing by.",
+    "pl": "Wszystko mi jedno. Tylko nie atakujcie, kiedy przechodzę."
+  },
+  {
+    "id": "3594610891849777",
+    "key": "",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture.",
+    "pl": "<b>Ty</b> nie wchodź <b>nam</b> w drogę, Sępie."
+  },
+  {
+    "id": "3594610891849778",
+    "key": "",
+    "en": "Forget it – don't need to know.",
+    "pl": "Nieważne. Nie muszę wiedzieć."
+  },
+  {
+    "id": "3594610891849779",
+    "key": "",
+    "en": "And I'm not telling you shit either way.",
+    "pl": "I tak gówno ci powiem."
+  },
+  {
+    "id": "3594610891849780",
+    "key": "",
+    "en": "What if the Palatines attack again?",
+    "pl": "A jeśli Palatyni znowu zaatakują?"
+  },
+  {
+    "id": "3594610891849781",
+    "key": "",
+    "en": "I <b>hope</b> they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp.",
+    "pl": "<b>Oby</b> spróbowali. Mamy teraz strukturę, jesteśmy zorganizowani. Wyrwiemy im flaki gołymi rękami i rozwiesimy wokół oboziku."
+  },
+  {
+    "id": "3594610891849782",
+    "key": "",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad.",
+    "pl": "Czerwień krwi zmieszana z zielenią i brązem niestrawionego gówna. Mam artystyczne zacięcie, wiesz. Mój oddział też."
+  },
+  {
+    "id": "3594610891849783",
+    "key": "",
+    "en": "You're not worried about losing some men?",
+    "pl": "Nie boisz się stracić ludzi?"
+  },
+  {
+    "id": "3594610891849784",
+    "key": "",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today.",
+    "pl": "Martwić się tym to jak martwić się, czy dziś wdepnę w błoto."
+  },
+  {
+    "id": "3594610891849785",
+    "key": "",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture.",
+    "pl": "Mój oddział jest lojalny. Wiedzą, o co chodzi. A Palatynów, którzy dobrze zawalczą, zawsze możemy zwerbować. <i>Przekonać</i> ich do dołączenia. Jesteśmy rozwijającą się organizacją, Sępie."
+  },
+  {
+    "id": "3594610891849786",
+    "key": "",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "3594610891849787",
+    "key": "",
+    "en": "I really have to go now.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "3594610891849788",
+    "key": "",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?",
+    "pl": "Volodymyr. A ty, kurwa, kto? Wchodzisz tu jak do siebie. Szukasz kłopotów?"
+  },
+  {
+    "id": "3594610891849789",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "3594610891849790",
+    "key": "",
+    "en": "What do you need, scavenger?",
+    "pl": "Czego potrzebujesz, zbieraczu?"
+  },
+  {
+    "id": "3594610891849791",
+    "key": "",
+    "en": "Shit, if it ain't a Vulture.",
+    "pl": "Cholera, czyżby Sęp."
+  },
+  {
+    "id": "3594610891849792",
+    "key": "",
+    "en": "Volodymyr – let's talk.",
+    "pl": "Volodymyr, pogadajmy."
+  },
+  {
+    "id": "3594610891849793",
+    "key": "",
+    "en": "We need to talk.",
+    "pl": "Musimy porozmawiać."
+  },
+  {
+    "id": "3594610891849794",
+    "key": "",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "3594610891849795",
+    "key": "",
+    "en": "I'm looking to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "3594610891849796",
+    "key": "",
+    "en": "Got things that could interest you.",
+    "pl": "Mam rzeczy, które mogą cię zainteresować."
+  },
+  {
+    "id": "3594610891849797",
+    "key": "",
+    "en": "Got anything I can take off your hands?",
+    "pl": "Masz coś, co mógłbym od ciebie wziąć?"
+  },
+  {
+    "id": "3594610891849798",
+    "key": "",
+    "en": "Gunners need to trade, too. Let's do it.",
+    "pl": "Strzelcy też muszą handlować. Zaczynajmy."
+  },
+  {
+    "id": "3594610891849799",
+    "key": "",
+    "en": "What can a Vulture offer other than useless trinkets?",
+    "pl": "Co Sęp może zaoferować poza bezużytecznymi błyskotkami?"
+  },
+  {
+    "id": "3594610891849800",
+    "key": "",
+    "en": "You do good by us, we'll get these prices down.",
+    "pl": "Zasłużysz się u nas, obniżymy ceny."
+  },
+  {
+    "id": "3594610891849801",
+    "key": "",
+    "en": "I think we'll make some good deals today.",
+    "pl": "Chyba dziś zrobimy dobre interesy."
+  },
+  {
+    "id": "3594610891849802",
+    "key": "",
+    "en": "We done wasting time?",
+    "pl": "Koniec marnowania czasu?"
+  },
+  {
+    "id": "3594610891849803",
+    "key": "",
+    "en": "Next time, make it snappy.",
+    "pl": "Następnym razem się streszczaj."
+  },
+  {
+    "id": "3594610891849804",
+    "key": "",
+    "en": "We're watching you, runt.",
+    "pl": "Obserwujemy cię, kurduplu."
+  },
+  {
+    "id": "3594610891849805",
+    "key": "",
+    "en": "We're watching you, Vulture.",
+    "pl": "Obserwujemy cię, Sępie."
+  },
+  {
+    "id": "3594610891849806",
+    "key": "",
+    "en": "Time to kill some Bandits.",
+    "pl": "Pora pozabijać Bandytów."
+  },
+  {
+    "id": "3594610891849807",
+    "key": "",
+    "en": "Glad I'm not the only psycho killer here.",
+    "pl": "Dobrze, że nie tylko ja jestem tu psychopatycznym mordercą."
+  },
+  {
+    "id": "3594610891849808",
+    "key": "",
+    "en": "Gotta think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "3594610891849809",
+    "key": "",
+    "en": "No, you don't. Make up your goddamn mind.",
+    "pl": "Nie musisz. Zdecyduj się, do cholery."
+  },
+  {
+    "id": "3594610891849810",
+    "key": "",
+    "en": "Got anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "3594610891849811",
+    "key": "",
+    "en": "Ok.",
+    "pl": "Okej."
+  },
+  {
+    "id": "3594610891849812",
+    "key": "",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "3594610891849813",
+    "key": "",
+    "en": "I'll get what you want.",
+    "pl": "Zdobędę, czego chcesz."
+  },
+  {
+    "id": "3594610891849814",
+    "key": "",
+    "en": "Of course you will. You know who's boss.",
+    "pl": "Oczywiście, że tak. Wiesz, kto tu rządzi."
+  },
+  {
+    "id": "3594610891849815",
+    "key": "",
+    "en": "Let me think on it.",
+    "pl": "Daj mi pomyśleć."
+  },
+  {
+    "id": "3594610891849816",
+    "key": "",
+    "en": "Stop fucking with me – last warning.",
+    "pl": "Przestań ze mną pogrywać. Ostatnie ostrzeżenie."
+  },
+  {
+    "id": "3594610891849817",
+    "key": "",
+    "en": "Got other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "3594610891849818",
+    "key": "",
+    "en": "Alright.",
+    "pl": "Dobra."
+  },
+  {
+    "id": "3594610891849819",
+    "key": "",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "3598055568867328",
+    "key": "02_Volodymyr_v1_Talk_6Z6K",
+    "en": "Gunners have a base here now?",
+    "pl": "Strzelcy mają tu teraz bazę?"
+  },
+  {
+    "id": "3598055589838848",
+    "key": "02_Volodymyr_v1_Talk_DWB7",
+    "en": "We're expanding – taking territory from those Palatine pussies. So if you had business with them, now your business is with <i>us.</i>",
+    "pl": "Rozrastamy się. Odbieramy teren tym palatyńskim pizdom. Jeśli miałeś z nimi interesy, teraz masz je z <i>nami.</i>"
+  },
+  {
+    "id": "3598055589838849",
+    "key": "02_Volodymyr_v1_Talk_5YW4",
+    "en": "They've been farting around in their bases too long, while Commonfolk get jumped by Mutants every day. We're just showing the people what a real militia looks like.",
+    "pl": "Za długo pierdzieli w swoich bazach, gdy Mutanty codziennie napadały na Zwykłych Ludzi. Pokazujemy, jak wygląda prawdziwa milicja."
+  },
+  {
+    "id": "3598055589838850",
+    "key": "02_Volodymyr_v1_Talk_MQS1",
+    "en": "Why'd you set up camp here?",
+    "pl": "Czemu rozbiliście tu obóz?"
+  },
+  {
+    "id": "3598055589838851",
+    "key": "02_Volodymyr_v1_Talk_1PNC",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>",
+    "pl": "Nie tylko rozbijamy obóz. <i>Rozszerzamy terytorium.</i>"
+  },
+  {
+    "id": "3598055589838852",
+    "key": "02_Volodymyr_v1_Talk_LYRO",
+    "en": "And not a single Palatine has the balls to confront us.",
+    "pl": "A żaden Palatyn nie ma jaj, żeby się nam postawić."
+  },
+  {
+    "id": "3598055589838853",
+    "key": "02_Volodymyr_v1_Talk_XW8W",
+    "en": "Tell me more about this standoff.",
+    "pl": "Opowiedz więcej o tej konfrontacji."
+  },
+  {
+    "id": "3598055589838854",
+    "key": "02_Volodymyr_v1_Talk_RTVZ",
+    "en": "This is not a \"standoff,\" Vulture. Cowards aren't even looking our way. No one in their headquarters – fucking losers call it \"Arcadia\" – is prepared for a fight.",
+    "pl": "To nie „konfrontacja”, Sępie. Tchórze nawet nie patrzą w naszą stronę. W ich sztabie, przegrywy nazywają go „Arcadią”, nikt nie jest gotów do walki."
+  },
+  {
+    "id": "3598055589838855",
+    "key": "02_Volodymyr_v1_Talk_QDH3",
+    "en": "Never talked to a Gunner before.",
+    "pl": "Nigdy nie rozmawiałem ze Strzelcem."
+  },
+  {
+    "id": "3598055589838856",
+    "key": "02_Volodymyr_v1_Talk_QKNS",
+    "en": "Then choose your words wisely.",
+    "pl": "To uważnie dobieraj słowa."
+  },
+  {
+    "id": "3598055589838857",
+    "key": "02_Volodymyr_v1_Talk_LPAN",
+    "en": "Can you tell me about the Gunners?",
+    "pl": "Opowiesz mi o Strzelcach?"
+  },
+  {
+    "id": "3598055589838858",
+    "key": "02_Volodymyr_v1_Talk_00PP",
+    "en": "Time to go. Later.",
+    "pl": "Pora iść. Do potem."
+  },
+  {
+    "id": "3598055589838859",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse1_6MTH",
+    "en": "We don't hire shit-smelling Vultures.",
+    "pl": "Nie zatrudniamy śmierdzących gównem Sępów."
+  },
+  {
+    "id": "3598055589838860",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse2_UH6Z",
+    "en": "You're too curious.",
+    "pl": "Jesteś zbyt ciekawski."
+  },
+  {
+    "id": "3598055589838861",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_IBM7",
+    "en": "What does your group do?",
+    "pl": "Czym zajmuje się wasza grupa?"
+  },
+  {
+    "id": "3598055589838862",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LMVO",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – see to all of it.",
+    "pl": "Załatwiamy sprawy. Inwazje Mutantów, napady Bandytów, bójki Zwykłych Ludzi. Wszystko."
+  },
+  {
+    "id": "3598055589838863",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZV5E",
+    "en": "Isn't that what the Palatines do?",
+    "pl": "Nie robią tego Palatyni?"
+  },
+  {
+    "id": "3598055589838864",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_KOVD",
+    "en": "Those incompetent cunts? They can't be trusted.",
+    "pl": "Te nieudolne pizdy? Nie można im ufać."
+  },
+  {
+    "id": "3598055589838865",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_5PUZ",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up <b>front.</b> Scares some folk away, sure, but everyone knows the deal. We get things <i>done.</i>",
+    "pl": "W przeciwieństwie do świrów z wojskowym fetyszem, <b>my</b> podajemy cenę <b>z góry.</b> Niektórych odstrasza, ale wszyscy znają warunki. My <i>załatwiamy sprawy.</i>"
+  },
+  {
+    "id": "3598055589838866",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_BE8C",
+    "en": "I heard Gunners were... Aggressive.",
+    "pl": "Słyszałem, że Strzelcy są... agresywni."
+  },
+  {
+    "id": "3598055589838867",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_X55Y",
+    "en": "Well, if I thought for just a second you were with the Palatines, I'd have ripped your intestines right off.",
+    "pl": "Gdybym choć przez sekundę pomyślał, że jesteś z Palatynami, wyrwałbym ci jelita."
+  },
+  {
+    "id": "3598055589838868",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_TBP5",
+    "en": "But scavs like you, Commonfolk, even those Church morons; you're all weak, you need protection. And that is our specialty. We have no reason to hurt our <b>clients.</b>",
+    "pl": "Ale zbieracze jak ty, Zwykli Ludzie, nawet kościelni idioci: jesteście słabi i potrzebujecie ochrony. A to nasza specjalność. Nie mamy powodu krzywdzić <b>klientów.</b>"
+  },
+  {
+    "id": "3598055589838869",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZOTE",
+    "en": "Where do you usually operate?",
+    "pl": "Gdzie zwykle działacie?"
+  },
+  {
+    "id": "3598055589838870",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LJCI",
+    "en": "Northwest of here, crossing into the Dola. Helping cover all the holes those idiot Palatines left in the Bastion.",
+    "pl": "Na północny zachód stąd, przy przejściu do Doli. Łatamy dziury, które ci idioci Palatyni zostawili w Bastionie."
+  },
+  {
+    "id": "3598055589838871",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_WB2I",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge of our defenses against those Mutants from the Dola.",
+    "pl": "Popytaj, jak tam będziesz. Ludzie <b>wiedzą,</b> kto odpowiada za obronę przed Mutantami z Doli."
+  },
+  {
+    "id": "3598055589838872",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_NOFZ",
+    "en": "Have you had conflicts with the Palatines before?",
+    "pl": "Walczyliście już wcześniej z Palatynami?"
+  },
+  {
+    "id": "3598055589838873",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZZVL",
+    "en": "We held some parts of the Bastion, years ago. Then they attacked, and drove us off... I was green back then, could have done more.",
+    "pl": "Lata temu trzymaliśmy część Bastionu. Potem zaatakowali i nas wyparli... Byłem wtedy zielony, mogłem zrobić więcej."
+  },
+  {
+    "id": "3598055589838874",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_PP8M",
+    "en": "Next time <i>will</i> be different.",
+    "pl": "Następnym razem <i>będzie</i> inaczej."
+  },
+  {
+    "id": "3598055589838875",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_UI2T",
+    "en": "Let's change the subject.",
+    "pl": "Zmieńmy temat."
+  },
+  {
+    "id": "3598055589838876",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_OW43",
+    "en": "Gotta go. Continue this later.",
+    "pl": "Muszę iść. Dokończymy później."
+  },
+  {
+    "id": "3598055589838877",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_ZKPR",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye...",
+    "pl": "Palatyni mają wielu rekrutów, patrolują całe Zalesye..."
+  },
+  {
+    "id": "3598055589838878",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_1ZHP",
+    "en": "<b>Nearly</b> all of Zalesye.",
+    "pl": "<b>Prawie</b> całe Zalesye."
+  },
+  {
+    "id": "3598055589838879",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_5OMG",
+    "en": "All of it? You're even dumber than you look. We hold the best entrance to the Dola, and a hell of a lot more.",
+    "pl": "Całe? Jesteś jeszcze głupszy, niż wyglądasz. Trzymamy najlepsze wejście do Doli i cholernie dużo więcej."
+  },
+  {
+    "id": "3598055589838880",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_8J52",
+    "en": "Palatines have access to weaponry and supplies from the old military posts...",
+    "pl": "Palatyni mają dostęp do broni i zapasów ze starych posterunków..."
+  },
+  {
+    "id": "3598055589838881",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_VYHF",
+    "en": "That's all old, broken-down garbage. Even Vultures like you have better stuff than that.",
+    "pl": "Stare, zniszczone graty. Nawet Sępy takie jak ty mają lepszy sprzęt."
+  },
+  {
+    "id": "3598055589838882",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_IY00",
+    "en": "We got that <i>Eastern</i> shit. Up-to-date, real soldier shit. Good ol' Grigory's on <b>our</b> side, he makes the connect. So we're unbeatable.",
+    "pl": "My mamy towar ze <i>Wschodu.</i> Nowoczesny, prawdziwy wojskowy sprzęt. Stary dobry Grigory jest po <b>naszej</b> stronie, załatwia kontakty. Jesteśmy nie do pokonania."
+  },
+  {
+    "id": "3598055589838883",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_DK2E",
+    "en": "He gets us that *Eastern* shit.",
+    "pl": "Załatwia nam towar ze *Wschodu*."
+  },
+  {
+    "id": "3598055589838884",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_4K9L",
+    "en": "So how come the Gunners are only expanding now?",
+    "pl": "To czemu Strzelcy rozrastają się dopiero teraz?"
+  },
+  {
+    "id": "3598055589838885",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_WEA2",
+    "en": "It's all propaganda, and dumb scavs like you eat it up. We're not afraid to get our hands dirty, and folks get scared at first.",
+    "pl": "To wszystko propaganda, a głupi zbieracze jak ty ją łykają. Nie boimy się brudzić rąk, a ludzie z początku się boją."
+  },
+  {
+    "id": "3598055589838886",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_1RFI",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first.",
+    "pl": "Mamy umiejętności i siłę, żeby <b>naprawdę</b> przepędzić Mutanty i Bandytów. Ale żądamy zapłaty i stosujemy przemyślaną przemoc. Ludziom z początku się to nie podoba."
+  },
+  {
+    "id": "3598055589838887",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_G1V3",
+    "en": "Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us.",
+    "pl": "Nie daj sobie wmówić, że my jesteśmy źli. Nie kiedy ci wojskowi fetyszyści paradują i gówno robią dla naszej ochrony."
+  },
+  {
+    "id": "3598055589838888",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_WP3W",
+    "en": "What's this all about?",
+    "pl": "O co w tym wszystkim chodzi?"
+  },
+  {
+    "id": "3598055589838889",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_LKZQ",
+    "en": "Palatines got too comfortable around our turf, so we figured we'd start an expansion of our own instead of staying on the defensive.",
+    "pl": "Palatyni za wygodnie poczuli się na naszym terenie, więc zaczęliśmy własną ekspansję zamiast tkwić w obronie."
+  },
+  {
+    "id": "3598055589838890",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DSMX",
+    "en": "It's about time folks in the Mire see who they can <b>really</b> count on for protection.",
+    "pl": "Pora, żeby ludzie w Trzęsawisku zobaczyli, na kogo <b>naprawdę</b> liczyć w sprawie ochrony."
+  },
+  {
+    "id": "3598055589838891",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_GGSK",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection.",
+    "pl": "Najwyższy czas, żeby ludzie w Trzęsawisku wiedzieli, na kogo <b>naprawdę</b> liczyć w sprawie ochrony."
+  },
+  {
+    "id": "3598055589838892",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_P1OY",
+    "en": "They don't look too scared.",
+    "pl": "Nie wyglądają na przestraszonych."
+  },
+  {
+    "id": "3598055589838893",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DYJC",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune.",
+    "pl": "Są tępi. Myślą, że tylko szczekamy. Kilku kolejnych Palatynów w błocie zmieni ich zdanie."
+  },
+  {
+    "id": "3598055589838894",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_KGWC",
+    "en": "Are you planning an attack?",
+    "pl": "Planujecie atak?"
+  },
+  {
+    "id": "3598055589838895",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_CI4S",
+    "en": "Why, you gonna tell on us? Fuckin' rat.",
+    "pl": "Co, doniesiesz na nas? Pieprzony szczur."
+  },
+  {
+    "id": "3598055589838896",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_G9YU",
+    "en": "Don't care either way – but if I'm passing by...",
+    "pl": "Wszystko mi jedno, ale jeśli będę przechodził..."
+  },
+  {
+    "id": "3598055589838897",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_0PCH",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture.",
+    "pl": "<b>Ty</b> nie wchodź <b>nam</b> w drogę, Sępie."
+  },
+  {
+    "id": "3598055589838898",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_644N",
+    "en": "Forget it – don't need to know.",
+    "pl": "Nieważne. Nie muszę wiedzieć."
+  },
+  {
+    "id": "3598055589838899",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Y9I8",
+    "en": "Not telling you shit either way.",
+    "pl": "I tak gówno ci powiem."
+  },
+  {
+    "id": "3598055589838900",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_GJRZ",
+    "en": "What if the Palatines attack again?",
+    "pl": "A jeśli Palatyni znowu zaatakują?"
+  },
+  {
+    "id": "3598055589838901",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_IKYG",
+    "en": "I <b>hope</b> they try. We have structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp.",
+    "pl": "<b>Oby</b> spróbowali. Mamy teraz strukturę, jesteśmy zorganizowani. Wyrwiemy im flaki gołymi rękami i rozwiesimy wokół oboziku."
+  },
+  {
+    "id": "3598055589838902",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Z3H2",
+    "en": "Imagine \"Arcadia\" sprayed with their blood, organs and undigested shit. You'd think my squad was making <i>art.</i>",
+    "pl": "Wyobraź sobie „Arcadię” obryzganą ich krwią, organami i niestrawionym gównem. Pomyślałbyś, że mój oddział tworzy <i>sztukę.</i>"
+  },
+  {
+    "id": "3598055589838903",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_TXO9",
+    "en": "You're not worried about losing some men?",
+    "pl": "Nie boisz się stracić ludzi?"
+  },
+  {
+    "id": "3598055589838904",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_XNEV",
+    "en": "Worrying about that shit is like worrying if today I'll step in some mud.",
+    "pl": "Martwić się tym to jak martwić się, czy dziś wdepnę w błoto."
+  },
+  {
+    "id": "3598055589838905",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_SHZJ",
+    "en": "My squad's loyal. They know what's up. And we always get Palatine replacements – \"asking\" those who put up a decent fight to join. We're a growing organization, Vulture.",
+    "pl": "Mój oddział jest lojalny. Wiedzą, o co chodzi. Zawsze dostajemy też palatyńskie uzupełnienia. „Prosimy” tych, którzy dobrze walczą, żeby dołączyli. Rozwijamy się, Sępie."
+  },
+  {
+    "id": "3598055589838906",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_H81L",
+    "en": "About something else...",
+    "pl": "Pomówmy o czymś innym..."
+  },
+  {
+    "id": "3598055589838907",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_ZKRD",
+    "en": "I really have to go now.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "3598055589838908",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_RS8B\"",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?",
+    "pl": "Volodymyr. A ty, kurwa, kto? Wchodzisz tu jak do siebie. Szukasz kłopotów?"
+  },
+  {
+    "id": "3598055589838909",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_6UAO\"",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "3598055589838910",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9CM6\"",
+    "en": "What do you need, scavenger?",
+    "pl": "Czego potrzebujesz, zbieraczu?"
+  },
+  {
+    "id": "3598055589838911",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9S7F\"",
+    "en": "Shit, if it ain't a Vulture.",
+    "pl": "Cholera, czyżby Sęp."
+  },
+  {
+    "id": "3598055589838912",
+    "key": "02_Volodymyr_v1_GetTalkMessage_DUCS\"",
+    "en": "Volodymyr – let's talk.",
+    "pl": "Volodymyr, pogadajmy."
+  },
+  {
+    "id": "3598055589838913",
+    "key": "02_Volodymyr_v1_GetTalkMessage_V6IL\"",
+    "en": "We need to talk.",
+    "pl": "Musimy porozmawiać."
+  },
+  {
+    "id": "3598055589838914",
+    "key": "02_Volodymyr_v1_GetTalkMessage_JWK1\"",
+    "en": "Got some questions.",
+    "pl": "Mam kilka pytań."
+  },
+  {
+    "id": "3598055589838915",
+    "key": "02_Volodymyr_v1_GetTradeMessage_6GEL\"",
+    "en": "I'm looking to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "3598055589838916",
+    "key": "02_Volodymyr_v1_GetTradeMessage_69MS\"",
+    "en": "Got things that could interest you.",
+    "pl": "Mam rzeczy, które mogą cię zainteresować."
+  },
+  {
+    "id": "3598055589838917",
+    "key": "02_Volodymyr_v1_GetTradeMessage_Q40U\"",
+    "en": "Got anything I can take off your hands?",
+    "pl": "Masz coś, co mógłbym od ciebie wziąć?"
+  },
+  {
+    "id": "3598055589838918",
+    "key": "02_Volodymyr_v1_GetTradeMessage_U9J2\"",
+    "en": "Gunners need to trade, too. Let's do it.",
+    "pl": "Strzelcy też muszą handlować. Zaczynajmy."
+  },
+  {
+    "id": "3598055589838919",
+    "key": "02_Volodymyr_v1_GetTradeResponse_FLNG\"",
+    "en": "What can a Vulture offer other than useless trinkets?",
+    "pl": "Co Sęp może zaoferować poza bezużytecznymi błyskotkami?"
+  },
+  {
+    "id": "3598055589838920",
+    "key": "02_Volodymyr_v1_GetTradeResponse_DBJ7\"",
+    "en": "You do good by us, we'll get these prices down.",
+    "pl": "Zasłużysz się u nas, obniżymy ceny."
+  },
+  {
+    "id": "3598055589838921",
+    "key": "02_Volodymyr_v1_GetTradeResponse_QCQX\"",
+    "en": "I think we'll make some good deals today.",
+    "pl": "Chyba dziś zrobimy dobre interesy."
+  },
+  {
+    "id": "3598055589838922",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_W2JG\"",
+    "en": "We done wasting time?",
+    "pl": "Koniec marnowania czasu?"
+  },
+  {
+    "id": "3598055589838923",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_S450\"",
+    "en": "Next time, make it snappy.",
+    "pl": "Następnym razem się streszczaj."
+  },
+  {
+    "id": "3598055589838924",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_C2UD\"",
+    "en": "We're watching you, runt.",
+    "pl": "Obserwujemy cię, kurduplu."
+  },
+  {
+    "id": "3598055589838925",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_Q0J9\"",
+    "en": "We're watching you, Vulture.",
+    "pl": "Obserwujemy cię, Sępie."
+  },
+  {
+    "id": "3598055589838926",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_BEJ6",
+    "en": "Time to kill some assholes.",
+    "pl": "Pora pozabijać dupków."
+  },
+  {
+    "id": "3598055589838927",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_CHQ4",
+    "en": "Glad I'm not the only psycho killer here.",
+    "pl": "Dobrze, że nie tylko ja jestem tu psychopatycznym mordercą."
+  },
+  {
+    "id": "3598055589838928",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_F6PM",
+    "en": "Gotta think about it.",
+    "pl": "Muszę pomyśleć."
+  },
+  {
+    "id": "3598055589838929",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_866V",
+    "en": "No, you don't. Make up your goddamn mind.",
+    "pl": "Nie musisz. Zdecyduj się, do cholery."
+  },
+  {
+    "id": "3598055589838930",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_QF7G",
+    "en": "Got anything else?",
+    "pl": "Masz coś innego?"
+  },
+  {
+    "id": "3598055589838931",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_BQTR",
+    "en": "Ok.",
+    "pl": "Okej."
+  },
+  {
+    "id": "3598055589838932",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_YG4P",
+    "en": "Glad I could help.",
+    "pl": "Cieszę się, że mogłem pomóc."
+  },
+  {
+    "id": "3598055589838933",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_QCRV",
+    "en": "I'll get what you want.",
+    "pl": "Zdobędę, czego chcesz."
+  },
+  {
+    "id": "3598055589838934",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_08PW",
+    "en": "Of course you will. You know who's boss.",
+    "pl": "Oczywiście, że tak. Wiesz, kto tu rządzi."
+  },
+  {
+    "id": "3598055589838935",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_RGPF",
+    "en": "Let me think on it.",
+    "pl": "Daj mi pomyśleć."
+  },
+  {
+    "id": "3598055589838936",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_KL2B",
+    "en": "Stop fucking with me – last warning.",
+    "pl": "Przestań ze mną pogrywać. Ostatnie ostrzeżenie."
+  },
+  {
+    "id": "3598055589838937",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_K7IF",
+    "en": "Got other requests?",
+    "pl": "Masz inne zlecenia?"
+  },
+  {
+    "id": "3598055589838938",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_AV91",
+    "en": "Alright.",
+    "pl": "Dobra."
+  },
+  {
+    "id": "3598055589838939",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_LMOR",
+    "en": "...",
+    "pl": "..."
+  },
+  {
+    "id": "110489643073871872",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_2MH4",
+    "en": "Got rid of that pest problem.",
+    "pl": "Pozbyłem się szkodników."
+  },
+  {
+    "id": "110489643082260480",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_CX2C",
+    "en": "That little thing is taken care of.",
+    "pl": "Ta drobna sprawa załatwiona."
+  },
+  {
+    "id": "110489643082260481",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_DEIF",
+    "en": "Took care of that thing for you.",
+    "pl": "Załatwiłem to dla ciebie."
+  },
+  {
+    "id": "110489643082260482",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_I4VO",
+    "en": "You guys got a job for me?",
+    "pl": "Macie dla mnie zlecenie?"
+  },
+  {
+    "id": "110489643082260483",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_MGHZ",
+    "en": "Any work I can do for you Gunners?",
+    "pl": "Jakaś robota dla Strzelców?"
+  },
+  {
+    "id": "110489643082260484",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_T1W5",
+    "en": "Anything I can do to get in your good graces?",
+    "pl": "Mogę coś zrobić, żeby wkupić się w wasze łaski?"
+  },
+  {
+    "id": "110489643082260485",
+    "key": "02_Volodymyr_v1_Quest_Completed_8AXM",
+    "en": "Of course. You'll find plenty of recompense if you do good by us, Vulture.",
+    "pl": "Oczywiście. Dobrze ci się odpłacimy, jeśli się zasłużysz, Sępie."
+  },
+  {
+    "id": "110489643082260486",
+    "key": "02_Volodymyr_v1_Quest_Completed_8B0B",
+    "en": "Far as I'm concerned, Vulture, you're more of a Gunner now than those cunts ever were. You keep this up, I'm sure we'll do some very good business together.",
+    "pl": "Jak dla mnie jesteś teraz bardziej Strzelcem, niż te pizdy kiedykolwiek były. Tak trzymaj, a zrobimy razem świetne interesy."
+  },
+  {
+    "id": "110489643082260487",
+    "key": "02_Volodymyr_v1_Quest_Completed_GDYA",
+    "en": "Not interested in buddying up to you.",
+    "pl": "Nie chcę się z wami kumplować."
+  },
+  {
+    "id": "110489643082260488",
+    "key": "02_Volodymyr_v1_Quest_Completed_R29A",
+    "en": "Yeah, I heard there was a bit of a stir. Volk confirmed the first hit to us. That's the other dog tag we'd made, huh? Those assholes sure were crafty, hiding among Palatine squads, cowering deep in the Mist.",
+    "pl": "Tak, słyszałem, że było trochę zamieszania. Volk potwierdził pierwsze trafienie. To drugi nieśmiertelnik, który zrobiliśmy, co? Sprytne dupki. Chowali się w oddziałach Palatynów, kulili głęboko we Mgle."
+  },
+  {
+    "id": "110489643082260489",
+    "key": "02_Volodymyr_v1_Quest_Completed_R5E5",
+    "en": "You say that, but you killed some Palatines for us, didn't ya?",
+    "pl": "Tak mówisz, ale zabiłeś dla nas Palatynów, prawda?"
+  },
+  {
+    "id": "110489643082260490",
+    "key": "02_Volodymyr_v1_Quest_Completed_TX79",
+    "en": "You have to be honest about your morals <i>and</i> your loyalty in Zalesye, Vulture. Can't be friends with <i>everybody.</i>",
+    "pl": "W Zalesye musisz uczciwie określić swoją moralność <i>i</i> lojalność, Sępie. Nie możesz przyjaźnić się ze <i>wszystkimi.</i>"
+  },
+  {
+    "id": "110489643082260491",
+    "key": "02_Volodymyr_v1_Quest_Completed_XZ3K",
+    "en": "Got my reward?",
+    "pl": "Masz moją nagrodę?"
+  },
+  {
+    "id": "110489643082260492",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YCEA",
+    "en": "We even have the Southern Checkpoint on hold now. And Palatines only get to \"guard\" Dubravka because we're murdering Bandits all over the Canyon entrance.",
+    "pl": "Trzymamy teraz nawet południowy posterunek. A Palatyni „pilnują” Dubravki tylko dlatego, że mordujemy Bandytów przy całym wejściu do kanionu."
+  },
+  {
+    "id": "110489643082260493",
+    "key": "02_Volodymyr_v1_WhiteHeat_60I1",
+    "en": "Thought you had a backbone when you showed up. Turns out you're just slow. But hey, if you can't do it, you can't do it.",
+    "pl": "Myślałem, że masz jaja, kiedy się zjawiłeś. Okazuje się, że jesteś tylko tępy. Ale jak nie umiesz, to nie umiesz."
+  },
+  {
+    "id": "110489643082260494",
+    "key": "02_Volodymyr_v1_WhiteHeat_DGAS",
+    "en": "Now it's a matter of time before they try to gain ranks by telling on <i>our business.</i> And even if they don't squeal, we have to <i>set an example.</i> You can help take care of all that, and you'll curry favor with us. Trading, taking other jobs. How 'bout it?",
+    "pl": "To kwestia czasu, zanim spróbują awansować, donosząc o <i>naszych interesach.</i> A nawet jeśli nie pisną, musimy <i>dać przykład.</i> Możesz się tym zająć i zdobyć nasze względy. Handel, kolejne zlecenia. Co ty na to?"
+  },
+  {
+    "id": "110489643082260495",
+    "key": "02_Volodymyr_v1_WhiteHeat_GM8T",
+    "en": "Trying to gain favor with us, huh? Smart. We <i>do</i> have a problem you can help with – something that would stir up too much shit if one of <i>us</i> took care of it.",
+    "pl": "Chcesz wkupić się w nasze łaski? Mądrze. <i>Mamy</i> problem, z którym możesz pomóc. Coś, co narobiłoby za dużo smrodu, gdyby zajął się tym ktoś z <i>nas.</i>"
+  },
+  {
+    "id": "110489643082260496",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_4KKG",
+    "en": "... We're not gonna have a <i>problem,</i> are we?",
+    "pl": "... Nie będziemy mieć <i>problemu,</i> prawda?"
+  },
+  {
+    "id": "110489643082260497",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_8JUE",
+    "en": "Still working on it.",
+    "pl": "Jeszcze nad tym pracuję."
+  },
+  {
+    "id": "110489643082260498",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_FPTP",
+    "en": "Had some questions first.",
+    "pl": "Najpierw miałem kilka pytań."
+  },
+  {
+    "id": "110489643082260499",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_LXIO",
+    "en": "Did you look into that thing we discussed?",
+    "pl": "Sprawdziłeś tę sprawę, o której mówiliśmy?"
+  },
+  {
+    "id": "110489643082260500",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_VGHV",
+    "en": "Make it <i>quick.</i>",
+    "pl": "<i>Szybko.</i>"
+  },
+  {
+    "id": "110489643082260501",
+    "key": "02_Volodymyr_v1_WhiteHeat_KYOD",
+    "en": "Not interested in a manhunt.",
+    "pl": "Nie interesuje mnie polowanie na ludzi."
+  },
+  {
+    "id": "110489643082260502",
+    "key": "02_Volodymyr_v1_WhiteHeat_L2GA",
+    "en": "I understand. On it.",
+    "pl": "Rozumiem. Zajmę się tym."
+  },
+  {
+    "id": "110489643082260503",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_3GZ7",
+    "en": "How do you know those two have turned?",
+    "pl": "Skąd wiesz, że ci dwaj zdradzili?"
+  },
+  {
+    "id": "110489643082260504",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_4FM0",
+    "en": "They went silent for too long. We don't train these guys to miss a task. It was <i>intentional.</i> They have to <i>go.</i>",
+    "pl": "Za długo milczeli. Nie szkolimy ludzi, żeby zawalali zadania. To było <i>celowe.</i> Muszą <i>zniknąć.</i>"
+  },
+  {
+    "id": "110489643082260505",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_8RUS",
+    "en": "You slow? Microrayon. It's on your map. You'll have to find the squad – and the rat – by yourself once you get there, though. Should cause a bit of a ruckus.",
+    "pl": "Wolno łapiesz? Mikrorajon. Masz na mapie. Na miejscu sam znajdziesz oddział i szczura. Pewnie zrobi się trochę zamieszania."
+  },
+  {
+    "id": "110489643082260506",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_G6N4",
+    "en": "I don't have any more questions.",
+    "pl": "Nie mam więcej pytań."
+  },
+  {
+    "id": "110489643082260507",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_HIC9",
+    "en": "'Bout time you get going, then.",
+    "pl": "To najwyższy czas ruszać."
+  },
+  {
+    "id": "110489643082260508",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_K3ZE",
+    "en": "One of us, hangs out at the Southern Checkpoint, handles intel and some <i>logistics.</i> We've been helping Mudlarks create a demand for certain <i>products,</i> as you may have heard.",
+    "pl": "Jeden z naszych. Siedzi przy południowym posterunku, zajmuje się wywiadem i <i>logistyką.</i> Pomagamy Błotniarzom tworzyć popyt na pewne <i>produkty,</i> może słyszałeś."
+  },
+  {
+    "id": "110489643082260509",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_KYHR",
+    "en": "Where do I go first, again?",
+    "pl": "Dokąd mam iść najpierw?"
+  },
+  {
+    "id": "110489643082260510",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_OCSM",
+    "en": "Who's Volk?",
+    "pl": "Kim jest Volk?"
+  },
+  {
+    "id": "110489643082260511",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_RTWW",
+    "en": "He's not as friendly as I am, by the way. Don't make him humor your bullshit.",
+    "pl": "Przy okazji, nie jest tak przyjazny jak ja. Nie zmuszaj go do znoszenia twoich pierdół."
+  },
+  {
+    "id": "110489643082260512",
+    "key": "02_Volodymyr_v1_WhiteHeat_T6QT",
+    "en": "Good. Word is one of them's at the Microrayon. He's part of a squad around the left side of the district. You take care of <i>that,</i> then you meet up with Volk, down South of here – he's working on finding the other guy.",
+    "pl": "Dobrze. Podobno jeden jest w Mikrorajonie. Należy do oddziału po lewej stronie dzielnicy. Załatwisz <i>to,</i> potem spotkasz się z Volkiem na południe stąd. Szuka drugiego."
+  },
+  {
+    "id": "110489643082260513",
+    "key": "02_Volodymyr_v1_WhiteHeat_YG67",
+    "en": "See, there's these two guys who used to run with us. We sent them to spy on the Palatines, and they did that for a while, but <i>then</i> they started to enjoy that cozy lifestyle a bit <i>too much.</i> See what I'm saying?",
+    "pl": "Było takich dwóch, co biegali z nami. Wysłaliśmy ich szpiegować Palatynów. Przez jakiś czas to robili, ale <i>potem</i> to wygodne życie spodobało im się <i>za bardzo.</i> Rozumiesz?"
+  }
+]

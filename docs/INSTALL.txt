@@ -1,0 +1,54 @@
+SCAVLAND — SPOLSZCZENIE {{VERSION}}
+Wydanie testowe. Windows / Steam Build ID 25222006.
+
+MOD ZASTĘPUJE JĘZYK ANGIELSKI
+W grze wybierz English. Teksty będą po polsku.
+Mod nie dodaje osobnej pozycji Polski.
+
+INSTALACJA
+1. Zamknij grę i rozpakuj ZIP do osobnego folderu.
+2. Uruchom Scavland-PL-Instalator.exe.
+3. Wybierz 1 — Zainstaluj / aktualizuj.
+4. Wskaż folder zawierający Scavland.exe. Jeśli podpowiedziany folder
+   jest poprawny, naciśnij Enter.
+5. Poczekaj na komunikat o zakończeniu. W grze wybierz English.
+
+Nie potrzeba Pythona ani osobno instalowanych bibliotek.
+Przy pierwszej instalacji potrzebne są oryginalne pliki zgodnej wersji gry.
+Jeżeli używasz wcześniejszej paczki 1.0 lub 1.1, najpierw przywróć pliki
+przez sprawdzenie spójności w Steam. Od 1.2 instalator obsługuje aktualizacje
+swoich paczek, korzystając z lokalnej kopii oryginałów.
+
+ZAWARTOŚĆ PACZKI
+Instalator z tłumaczeniami, ta instrukcja i licencje bibliotek.
+Paczka nie zawiera data.unity3d, katalogu zasobów, paczek językowych,
+czcionek ani innych gotowych plików gry. Nie pobiera ich z Internetu.
+
+Instalator czyta pliki Twojej gry, dodaje polskie teksty i małą poprawkę
+czcionki, sprawdza wynik, a następnie podmienia trzy pliki lokalnie.
+Lista języków pozostaje oryginalna. Przygotowanie wymaga około 1 GB
+wolnego miejsca i może potrwać kilka minut.
+
+PRZYWRACANIE I SPRAWDZANIE
+Opcja 2 — sprawdzenie plików bez ich zmieniania.
+Opcja 3 — przywrócenie oryginałów z lokalnej kopii.
+Kopia powstaje wyłącznie na Twoim komputerze:
+Scavland_Data/ScavlandPL-backup
+Zachowaj ją, dopóki korzystasz z instalatora. Nie jest częścią pobranego ZIP-a.
+Alternatywnie użyj sprawdzania spójności plików w Steam:
+https://help.steampowered.com/pl/faqs/view/0C48-FCBD-DA71-93EB
+
+ZGODNOŚĆ I ZAKRES
+9980 wpisów w 44 odnalezionych tabelach, w tym powtórzenia.
+Menu, interfejs, sterowanie, zadania, mapa, przedmioty, dialogi i radio.
+Bez dubbingu i przerabiania tekstu na grafikach.
+Nazwy własne i symbole mogą zachować oryginalny zapis.
+
+Zgodność: Steam Build ID 25222006. Aktualizacja gry może wymagać nowej
+wersji moda. Inne mody zmieniające te same pliki mogą być niezgodne.
+Przy zmienionych lub uszkodzonych plikach instalator odmówi podmiany.
+
+Tłumaczenie przygotowano z pomocą AI. Sprawdzono kompletność i pliki,
+ale pełna kontrola wizualna oraz kontekstowa podczas rozgrywki pozostaje
+do wykonania. Zgłaszając błąd, podaj wersję moda i gry, miejsce wystąpienia
+oraz — jeśli to możliwe — dołącz zrzut ekranu.

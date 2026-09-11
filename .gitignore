@@ -1,0 +1,55 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Locally installed Python dependencies
+/tools/python_deps/
+/tools/typetree_deps/
+
+# Python packaging and coverage output
+*.egg-info/
+.eggs/
+.coverage
+.coverage.*
+htmlcov/
+
+# Original game backups
+/backup/
+
+# Generated releases and local diagnostics
+/build/
+/publish/
+/dist/
+/reports/
+/.ci-inputs/
+/local_tools/
+
+# Extraction artifacts and old authoring inputs (kept locally)
+/source/*.font
+/source/*.shared.json
+/translation/*.seed.json
+
+# One-off local tools (public build and installer sources remain versioned)
+/tools/check_fonts.py
+/tools/extract.py
+/tools/inspect_assets.py
+/tools/prepare_translation.py
+/tools/test_installer.py
+/tools/import_seed_batch.py
+/tools/list_pending.py
+/tools/package_nexus.py
+/tools/package_release.py
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.env
+.env.*

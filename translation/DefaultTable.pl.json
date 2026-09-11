@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "385128959344640",
+    "key": "Menu.Continue",
+    "en": "Continue",
+    "pl": "Kontynuuj"
+  },
+  {
+    "id": "385128984510464",
+    "key": "Menu.New_Game",
+    "en": "New Game",
+    "pl": "Nowa gra"
+  },
+  {
+    "id": "385128984510465",
+    "key": "Menu.Load_Game",
+    "en": "Load Game",
+    "pl": "Wczytaj grę"
+  },
+  {
+    "id": "385128988704768",
+    "key": "Menu.Settings",
+    "en": "Settings",
+    "pl": "Ustawienia"
+  },
+  {
+    "id": "385128988704769",
+    "key": "Menu.Exit",
+    "en": "Exit",
+    "pl": "Wyjdź"
+  },
+  {
+    "id": "385128988704770",
+    "key": "Menu.Graphics",
+    "en": "Graphics",
+    "pl": "Grafika"
+  },
+  {
+    "id": "385128988704771",
+    "key": "Menu.Resolution",
+    "en": "Resolution",
+    "pl": "Rozdzielczość"
+  },
+  {
+    "id": "385128988704772",
+    "key": "Menu.Window_Mode",
+    "en": "Window Mode",
+    "pl": "Tryb wyświetlania"
+  },
+  {
+    "id": "385128988704773",
+    "key": "Menu.Advanced_Options",
+    "en": "Advanced Options",
+    "pl": "Opcje zaawansowane"
+  },
+  {
+    "id": "385128988704774",
+    "key": "Menu.Back",
+    "en": "Back",
+    "pl": "Wstecz"
+  },
+  {
+    "id": "385128988704775",
+    "key": "Menu.Audio",
+    "en": "Audio",
+    "pl": "Dźwięk"
+  },
+  {
+    "id": "385128988704776",
+    "key": "Menu.Master_Volume",
+    "en": "Master Volume",
+    "pl": "Głośność ogólna"
+  },
+  {
+    "id": "385128988704777",
+    "key": "Menu.Music_Volume",
+    "en": "Music Volume",
+    "pl": "Głośność muzyki"
+  },
+  {
+    "id": "385128988704778",
+    "key": "Menu.SFX_Volume",
+    "en": "SFX Volume",
+    "pl": "Głośność efektów"
+  },
+  {
+    "id": "385128988704779",
+    "key": "Menu.UI_Volume",
+    "en": "UI Volume",
+    "pl": "Głośność interfejsu"
+  },
+  {
+    "id": "385128988704780",
+    "key": "Menu.Rads_Volume",
+    "en": "Rads Volume",
+    "pl": "Głośność licznika Geigera"
+  },
+  {
+    "id": "385128988704781",
+    "key": "Menu.Controls",
+    "en": "Controls",
+    "pl": "Sterowanie"
+  },
+  {
+    "id": "385128988704782",
+    "key": "Menu.Reset",
+    "en": "Reset",
+    "pl": "Przywróć domyślne"
+  },
+  {
+    "id": "385128988704783",
+    "key": "Menu.Reset_All",
+    "en": "Reset All",
+    "pl": "Przywróć wszystkie"
+  },
+  {
+    "id": "385128988704784",
+    "key": "Menu.Up",
+    "en": "Up",
+    "pl": "W górę"
+  },
+  {
+    "id": "385128988704785",
+    "key": "Menu.Down",
+    "en": "Down",
+    "pl": "W dół"
+  },
+  {
+    "id": "385128988704786",
+    "key": "Menu.Left",
+    "en": "Left",
+    "pl": "W lewo"
+  },
+  {
+    "id": "385128988704787",
+    "key": "Menu.Right",
+    "en": "Right",
+    "pl": "W prawo"
+  },
+  {
+    "id": "385128988704788",
+    "key": "Menu.Run",
+    "en": "Run",
+    "pl": "Bieg"
+  },
+  {
+    "id": "385128988704789",
+    "key": "Menu.Dodge",
+    "en": "Dodge",
+    "pl": "Unik"
+  },
+  {
+    "id": "385128988704790",
+    "key": "Menu.Shoot",
+    "en": "Shoot",
+    "pl": "Strzał"
+  },
+  {
+    "id": "385128988704791",
+    "key": "Menu.Aim",
+    "en": "Aim",
+    "pl": "Celowanie"
+  },
+  {
+    "id": "385128988704792",
+    "key": "Menu.Reload",
+    "en": "Reload",
+    "pl": "Przeładuj"
+  },
+  {
+    "id": "385128988704793",
+    "key": "Menu.Interact_Loot",
+    "en": "Interact / Loot",
+    "pl": "Interakcja / zbieranie"
+  },
+  {
+    "id": "385128988704794",
+    "key": "Menu.Inventory",
+    "en": "Inventory",
+    "pl": "Ekwipunek"
+  },
+  {
+    "id": "385128988704795",
+    "key": "Menu.Split_Item",
+    "en": "Split Item",
+    "pl": "Podziel stos"
+  },
+  {
+    "id": "385128988704796",
+    "key": "Menu.Rotate_Item",
+    "en": "Rotate Item",
+    "pl": "Obróć przedmiot"
+  },
+  {
+    "id": "385128988704797",
+    "key": "Menu.Quick_Drop",
+    "en": "Quick Drop",
+    "pl": "Szybko wyrzuć"
+  },
+  {
+    "id": "385128988704798",
+    "key": "Menu.Quick_Loot",
+    "en": "Quick Loot",
+    "pl": "Szybko zbierz"
+  },
+  {
+    "id": "385128988704799",
+    "key": "Menu.Loot_All",
+    "en": "Loot All",
+    "pl": "Zbierz wszystko"
+  },
+  {
+    "id": "385128988704800",
+    "key": "Menu.Meele",
+    "en": "Melee",
+    "pl": "Walka wręcz"
+  },
+  {
+    "id": "385128988704801",
+    "key": "Menu.Main_Gun",
+    "en": "Main Gun",
+    "pl": "Broń główna"
+  },
+  {
+    "id": "385128988704802",
+    "key": "Menu.Sidearm",
+    "en": "Sidearm",
+    "pl": "Broń boczna"
+  },
+  {
+    "id": "385128988704803",
+    "key": "Menu.Hand_Slot",
+    "en": "Hand Slot",
+    "pl": "Przedmiot w dłoni"
+  },
+  {
+    "id": "385128988704804",
+    "key": "Menu.Unarmed_Attack",
+    "en": "Unarmed Attack",
+    "pl": "Atak bez broni"
+  },
+  {
+    "id": "385128988704805",
+    "key": "Menu.Free_Hands",
+    "en": "Free Hands",
+    "pl": "Schowaj broń"
+  },
+  {
+    "id": "385128988704806",
+    "key": "Menu.Pause",
+    "en": "Pause",
+    "pl": "Pauza"
+  },
+  {
+    "id": "385128988704807",
+    "key": "Menu.Tips",
+    "en": "Tips",
+    "pl": "Wskazówki"
+  },
+  {
+    "id": "385128988704808",
+    "key": "Menu.Map",
+    "en": "Map",
+    "pl": "Mapa"
+  },
+  {
+    "id": "385128988704809",
+    "key": "Menu.Journal",
+    "en": "Journal",
+    "pl": "Dziennik"
+  },
+  {
+    "id": "385128988704810",
+    "key": "Menu.Quick_Save",
+    "en": "Quick Save",
+    "pl": "Szybki zapis"
+  },
+  {
+    "id": "385128988704811",
+    "key": "Menu.Quick_Load",
+    "en": "Quick Load",
+    "pl": "Szybkie wczytanie"
+  },
+  {
+    "id": "385128988704812",
+    "key": "Menu.Quick_Slot_1",
+    "en": "Quick Slot 1",
+    "pl": "Szybki dostęp 1"
+  },
+  {
+    "id": "385128988704813",
+    "key": "Menu.Quick_Slot_2",
+    "en": "Quick Slot 2",
+    "pl": "Szybki dostęp 2"
+  },
+  {
+    "id": "385128988704814",
+    "key": "Menu.Quick_Slot_3",
+    "en": "Quick Slot 3",
+    "pl": "Szybki dostęp 3"
+  },
+  {
+    "id": "385128988704815",
+    "key": "Menu.Quick_Slot_4",
+    "en": "Quick Slot 4",
+    "pl": "Szybki dostęp 4"
+  },
+  {
+    "id": "387605188345856",
+    "key": "Menu.Gameplay",
+    "en": "Gameplay",
+    "pl": "Rozgrywka"
+  },
+  {
+    "id": "404949054816256",
+    "key": "Menu.Apply_Changes",
+    "en": "Apply Changes",
+    "pl": "Zastosuj zmiany"
+  },
+  {
+    "id": "754900658061312",
+    "key": "Menu.Language",
+    "en": "Language",
+    "pl": "Język"
+  },
+  {
+    "id": "754900687421440",
+    "key": "Menu.Language_Name",
+    "en": "English",
+    "pl": "English"
+  },
+  {
+    "id": "761478526304256",
+    "key": "Menu.Inventory_2",
+    "en": "Inventory 2",
+    "pl": "Ekwipunek 2"
+  },
+  {
+    "id": "1029388570230784",
+    "key": "Menu.Name",
+    "en": "Name",
+    "pl": "Nazwa"
+  },
+  {
+    "id": "1029388599590912",
+    "key": "Menu.Player",
+    "en": "Player",
+    "pl": "Gracz"
+  },
+  {
+    "id": "1029388599590913",
+    "key": "Menu.Spawn_Rate",
+    "en": "Spawn Rate",
+    "pl": "Częstotliwość pojawiania się"
+  },
+  {
+    "id": "1029388599590914",
+    "key": "Menu.Player_Status_Decay_Time",
+    "en": "Player Status Decay Time",
+    "pl": "Tempo pogarszania się stanu gracza"
+  },
+  {
+    "id": "1029388599590915",
+    "key": "Menu.Hunger_Per_Second",
+    "en": "Hunger per Second",
+    "pl": "Przyrost głodu na sekundę"
+  },
+  {
+    "id": "1029388599590916",
+    "key": "Menu.Thirst_Per_Second",
+    "en": "Thirst per Second",
+    "pl": "Przyrost pragnienia na sekundę"
+  },
+  {
+    "id": "1029388599590917",
+    "key": "Menu.Run_Cost",
+    "en": "Run Cost",
+    "pl": "Koszt biegu"
+  },
+  {
+    "id": "1029388599590918",
+    "key": "Menu.Roll_Costs_Stamina",
+    "en": "Dodge Costs Stamina",
+    "pl": "Unik zużywa wytrzymałość"
+  },
+  {
+    "id": "1029388599590919",
+    "key": "Menu.Melee_Costs_Stamina",
+    "en": "Melee Costs Stamina",
+    "pl": "Walka wręcz zużywa wytrzymałość"
+  },
+  {
+    "id": "1029388599590920",
+    "key": "Menu.Gun_Can_Jam",
+    "en": "Gun Can Jam",
+    "pl": "Broń może się zacinać"
+  },
+  {
+    "id": "1029388599590921",
+    "key": "Enemy.Rabbit",
+    "en": "Rabbit",
+    "pl": "Królik"
+  },
+  {
+    "id": "1029388599590922",
+    "key": "Enemy.Worm",
+    "en": "Worm",
+    "pl": "Robak"
+  },
+  {
+    "id": "1029388599590923",
+    "key": "Enemy.Small_Rat",
+    "en": "Small Rat",
+    "pl": "Mały szczur"
+  },
+  {
+    "id": "1029388599590924",
+    "key": "Enemy.Hellhound",
+    "en": "Hellhound",
+    "pl": "Piekielny ogar"
+  },
+  {
+    "id": "1029388599590925",
+    "key": "Enemy.Bandit",
+    "en": "Bandit",
+    "pl": "Bandyta"
+  },
+  {
+    "id": "1029388599590926",
+    "key": "Enemy.Bandits",
+    "en": "Bandits",
+    "pl": "Bandyci"
+  },
+  {
+    "id": "1029388599590927",
+    "key": "Enemy.Mother_Rat",
+    "en": "Mother Rat",
+    "pl": "Szczurza matka"
+  },
+  {
+    "id": "1029388599590928",
+    "key": "Enemy.Bear",
+    "en": "Bear",
+    "pl": "Niedźwiedź"
+  },
+  {
+    "id": "1029388599590930",
+    "key": "Enemy.Spiker",
+    "en": "Spiker",
+    "pl": "Kolczak"
+  },
+  {
+    "id": "1029388599590931",
+    "key": "Enemy.King_Spiker",
+    "en": "King Spiker",
+    "pl": "Król kolczaków"
+  },
+  {
+    "id": "1029388599590932",
+    "key": "Menu.Value",
+    "en": "Value",
+    "pl": "Wartość"
+  },
+  {
+    "id": "1029388599590933",
+    "key": "Menu.Buy",
+    "en": "Buy",
+    "pl": "Kup"
+  },
+  {
+    "id": "1029388599590934",
+    "key": "Menu.Buy_Value",
+    "en": "Buy Value",
+    "pl": "Cena zakupu"
+  },
+  {
+    "id": "1029388599590935",
+    "key": "Menu.Sell",
+    "en": "Sell",
+    "pl": "Sprzedaj"
+  },
+  {
+    "id": "1029388599590936",
+    "key": "Menu.Sell_Value",
+    "en": "Sell Value",
+    "pl": "Cena sprzedaży"
+  },
+  {
+    "id": "1029388599590937",
+    "key": "Menu.Guns",
+    "en": "Guns",
+    "pl": "Broń palna"
+  },
+  {
+    "id": "1029388599590938",
+    "key": "Menu.Gear",
+    "en": "Gear",
+    "pl": "Wyposażenie"
+  },
+  {
+    "id": "1029388599590939",
+    "key": "Menu.Repair_Items",
+    "en": "Repair Items",
+    "pl": "Przedmioty naprawcze"
+  },
+  {
+    "id": "1029388599590940",
+    "key": "Menu.Consumables",
+    "en": "Consumables",
+    "pl": "Przedmioty użytkowe"
+  },
+  {
+    "id": "1029388599590941",
+    "key": "Menu.Scrap_Items",
+    "en": "Scrap Items",
+    "pl": "Złom"
+  },
+  {
+    "id": "1029388599590942",
+    "key": "Menu.Mutant_Parts",
+    "en": "Mutant Parts",
+    "pl": "Części mutantów"
+  },
+  {
+    "id": "1029388599590943",
+    "key": "Menu.Item_Spawn_Chance",
+    "en": "Item Spawn Chance",
+    "pl": "Szansa pojawienia się przedmiotów"
+  },
+  {
+    "id": "1029388599590944",
+    "key": "Menu.Item_Spawn_Quantity",
+    "en": "Item Spawn Quantity",
+    "pl": "Liczba generowanych przedmiotów"
+  },
+  {
+    "id": "1033886512480260",
+    "key": "Menu.Ammo",
+    "en": "Ammo",
+    "pl": "Amunicja"
+  },
+  {
+    "id": "1033886512480261",
+    "key": "Menu.Type_Repair_Kit",
+    "en": "{type} Repair Kit",
+    "pl": "Zestaw naprawczy: {type}"
+  },
+  {
+    "id": "1034689226768384",
+    "key": "Menu.Enemies",
+    "en": "Enemies",
+    "pl": "Wrogowie"
+  },
+  {
+    "id": "1034689226768385",
+    "key": "Menu.Traders",
+    "en": "Traders",
+    "pl": "Handlarze"
+  },
+  {
+    "id": "1034689226768386",
+    "key": "Menu.Loot",
+    "en": "Loot",
+    "pl": "Łupy"
+  },
+  {
+    "id": "1823517986291712",
+    "key": "Enemy.Mortar",
+    "en": "Mortar",
+    "pl": "Moździerz"
+  },
+  {
+    "id": "1828331826741248",
+    "key": "Menu.Medical",
+    "en": "Medical",
+    "pl": "Medycyna"
+  },
+  {
+    "id": "1829743059042304",
+    "key": "Menu.Food",
+    "en": "Food",
+    "pl": "Żywność"
+  },
+  {
+    "id": "1845710942142464",
+    "key": "Menu.Start",
+    "en": "Start",
+    "pl": "Rozpocznij"
+  },
+  {
+    "id": "1845710963113984",
+    "key": "Menu.Low",
+    "en": "Low",
+    "pl": "Niski"
+  },
+  {
+    "id": "1845710963113985",
+    "key": "Menu.Mid",
+    "en": "Mid",
+    "pl": "Średni"
+  },
+  {
+    "id": "1845710967308288",
+    "key": "Menu.High",
+    "en": "High",
+    "pl": "Wysoki"
+  },
+  {
+    "id": "1845710967308289",
+    "key": "Menu.High_End",
+    "en": "High-End",
+    "pl": "Najwyższej klasy"
+  },
+  {
+    "id": "1845710967308290",
+    "key": "Menu.Hospital",
+    "en": "Hospital",
+    "pl": "Szpital"
+  },
+  {
+    "id": "1845710967308291",
+    "key": "Menu.Common",
+    "en": "Common",
+    "pl": "Zwykły"
+  },
+  {
+    "id": "1845710967308292",
+    "key": "Menu.Good",
+    "en": "Good",
+    "pl": "Dobry"
+  },
+  {
+    "id": "1845710967308293",
+    "key": "Menu.Tier_Type",
+    "en": "{tier} Tier {type}",
+    "pl": "{type} — poziom: {tier}"
+  },
+  {
+    "id": "2169442713763840",
+    "key": "Menu.Preview",
+    "en": "Preview",
+    "pl": "Podgląd"
+  },
+  {
+    "id": "2169442738929664",
+    "key": "Menu.Player_Light_Intensity",
+    "en": "Player Light Intensity",
+    "pl": "Jasność światła gracza"
+  },
+  {
+    "id": "2169442743123968",
+    "key": "Menu.Toggle_Post_Processing_VFX",
+    "en": "Toggle Post Processing VFX",
+    "pl": "Efekty przetwarzania obrazu"
+  },
+  {
+    "id": "3287795876528128",
+    "key": "Menu.Talk",
+    "en": "Talk",
+    "pl": "Porozmawiaj"
+  },
+  {
+    "id": "3287795897499648",
+    "key": "Menu.Ask_For_Jobs",
+    "en": "Ask for Jobs",
+    "pl": "Zapytaj o zlecenia"
+  },
+  {
+    "id": "3287795897499649",
+    "key": "Menu.Trade",
+    "en": "Trade",
+    "pl": "Handel"
+  },
+  {
+    "id": "3287795897499650",
+    "key": "Menu.Bye",
+    "en": "Bye",
+    "pl": "Do zobaczenia"
+  },
+  {
+    "id": "3287795897499651",
+    "key": "Menu.Job_Completed",
+    "en": "Job Completed",
+    "pl": "Zlecenie wykonane"
+  },
+  {
+    "id": "10443418661584896",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!",
+    "pl": "Cholera! Wykrwawiam się!"
+  },
+  {
+    "id": "10443418686750720",
+    "key": "",
+    "en": "Shit! I'm bleeding!",
+    "pl": "Kurwa! Krwawię!"
+  },
+  {
+    "id": "10443418686750721",
+    "key": "",
+    "en": "Ah, crap! I need to bandage",
+    "pl": "Cholera! Muszę się zabandażować."
+  },
+  {
+    "id": "10443418686750722",
+    "key": "",
+    "en": "My skin's burning, what the hell?!",
+    "pl": "Skóra mnie pali, co jest, do cholery?!"
+  },
+  {
+    "id": "10443418686750723",
+    "key": "",
+    "en": "I'm cooked!",
+    "pl": "Zaraz się usmażę!"
+  },
+  {
+    "id": "10443418686750724",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!",
+    "pl": "Chyba zaczynam świecić! Coś jest nie tak!"
+  },
+  {
+    "id": "10443418686750725",
+    "key": "",
+    "en": "I've been frie! this is bad!",
+    "pl": "Usmażyło mnie! Jest źle!"
+  },
+  {
+    "id": "10443418686750726",
+    "key": "",
+    "en": "My mouth's like sandpaper!",
+    "pl": "Mam w ustach papier ścierny!"
+  },
+  {
+    "id": "10443418686750727",
+    "key": "",
+    "en": "This thirst is killing me!",
+    "pl": "Umieram z pragnienia!"
+  },
+  {
+    "id": "10443418686750728",
+    "key": "",
+    "en": "Water... I need water!",
+    "pl": "Wody... Potrzebuję wody!"
+  },
+  {
+    "id": "10443418686750729",
+    "key": "",
+    "en": "Haven't eaten in forever!",
+    "pl": "Nie jadłem od wieków!"
+  },
+  {
+    "id": "10443418686750730",
+    "key": "",
+    "en": "Shit! I'm starving!",
+    "pl": "Kurwa! Umieram z głodu!"
+  },
+  {
+    "id": "10443418686750731",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!",
+    "pl": "Jeśli zaraz czegoś nie zjem, to po mnie!"
+  },
+  {
+    "id": "10443418686750732",
+    "key": "",
+    "en": "Too tired...",
+    "pl": "Brak mi sił..."
+  },
+  {
+    "id": "10443418686750733",
+    "key": "",
+    "en": "Need a break...",
+    "pl": "Potrzebuję przerwy..."
+  },
+  {
+    "id": "10443418686750734",
+    "key": "",
+    "en": "I need rest...",
+    "pl": "Muszę odpocząć..."
+  },
+  {
+    "id": "10443418686750735",
+    "key": "",
+    "en": "Reload!",
+    "pl": "Przeładuj!"
+  },
+  {
+    "id": "10443418686750736",
+    "key": "",
+    "en": "I should patch myself first.",
+    "pl": "Najpierw powinienem opatrzyć rany."
+  },
+  {
+    "id": "10443418690945024",
+    "key": "",
+    "en": "I can`t leave before healing my wounds",
+    "pl": "Nie mogę wyjść, zanim nie opatrzę ran."
+  },
+  {
+    "id": "10443418690945025",
+    "key": "",
+    "en": "I need to treat my wounds first...",
+    "pl": "Najpierw muszę opatrzyć rany..."
+  },
+  {
+    "id": "10443418690945026",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do.",
+    "pl": "Muszę się połatać. Apteczka powinna wystarczyć."
+  },
+  {
+    "id": "10443418690945027",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this.",
+    "pl": "Powinienem użyć apteczki. Długo tak nie pociągnę."
+  },
+  {
+    "id": "10443418690945028",
+    "key": "",
+    "en": "Time to use a Medkit.",
+    "pl": "Pora użyć apteczki."
+  },
+  {
+    "id": "10443418690945029",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit.",
+    "pl": "Powinienem przestać marnować czas i użyć apteczki."
+  },
+  {
+    "id": "10443418690945030",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that.",
+    "pl": "Czuję się gównianie. Apteczka może coś na to poradzić."
+  },
+  {
+    "id": "10443418690945031",
+    "key": "",
+    "en": "Not Enough Space!",
+    "pl": "Za mało miejsca!"
+  },
+  {
+    "id": "10443418690945032",
+    "key": "",
+    "en": "I am Broke!",
+    "pl": "Jestem spłukany!"
+  },
+  {
+    "id": "10443418690945033",
+    "key": "",
+    "en": "Out Of Space!",
+    "pl": "Brak miejsca!"
+  },
+  {
+    "id": "10443418690945034",
+    "key": "",
+    "en": "Out of Ammo!",
+    "pl": "Brak amunicji!"
+  },
+  {
+    "id": "10443418690945035",
+    "key": "",
+    "en": "Jammed!",
+    "pl": "Zacięcie!"
+  },
+  {
+    "id": "10443418690945036",
+    "key": "",
+    "en": "Shit!",
+    "pl": "Kurwa!"
+  },
+  {
+    "id": "10450652128903168",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!",
+    "pl": "Cholera! Wykrwawiam się!"
+  },
+  {
+    "id": "10450652166651904",
+    "key": "",
+    "en": "Shit! I'm bleeding!",
+    "pl": "Kurwa! Krwawię!"
+  },
+  {
+    "id": "10450652166651905",
+    "key": "",
+    "en": "Ah, crap! I need to bandage",
+    "pl": "Cholera! Muszę się zabandażować."
+  },
+  {
+    "id": "10450652166651906",
+    "key": "",
+    "en": "My skin's burning, what the hell?!",
+    "pl": "Skóra mnie pali, co jest, do cholery?!"
+  },
+  {
+    "id": "10450652166651907",
+    "key": "",
+    "en": "I'm cooked!",
+    "pl": "Zaraz się usmażę!"
+  },
+  {
+    "id": "10450652166651908",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!",
+    "pl": "Chyba zaczynam świecić! Coś jest nie tak!"
+  },
+  {
+    "id": "10450652166651909",
+    "key": "",
+    "en": "I've been frie! this is bad!",
+    "pl": "Usmażyło mnie! Jest źle!"
+  },
+  {
+    "id": "10450652166651910",
+    "key": "",
+    "en": "My mouth's like sandpaper!",
+    "pl": "Mam w ustach papier ścierny!"
+  },
+  {
+    "id": "10450652166651911",
+    "key": "",
+    "en": "This thirst is killing me!",
+    "pl": "Umieram z pragnienia!"
+  },
+  {
+    "id": "10450652166651912",
+    "key": "",
+    "en": "Water... I need water!",
+    "pl": "Wody... Potrzebuję wody!"
+  },
+  {
+    "id": "10450652166651913",
+    "key": "",
+    "en": "Haven't eaten in forever!",
+    "pl": "Nie jadłem od wieków!"
+  },
+  {
+    "id": "10450652166651914",
+    "key": "",
+    "en": "Shit! I'm starving!",
+    "pl": "Kurwa! Umieram z głodu!"
+  },
+  {
+    "id": "10450652166651915",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!",
+    "pl": "Jeśli zaraz czegoś nie zjem, to po mnie!"
+  },
+  {
+    "id": "10450652166651916",
+    "key": "",
+    "en": "Too tired...",
+    "pl": "Brak mi sił..."
+  },
+  {
+    "id": "10450652166651917",
+    "key": "",
+    "en": "Need a break...",
+    "pl": "Potrzebuję przerwy..."
+  },
+  {
+    "id": "10450652166651918",
+    "key": "",
+    "en": "I need rest...",
+    "pl": "Muszę odpocząć..."
+  },
+  {
+    "id": "10450652166651919",
+    "key": "",
+    "en": "Reload!",
+    "pl": "Przeładuj!"
+  },
+  {
+    "id": "10450652166651920",
+    "key": "",
+    "en": "I should patch myself first.",
+    "pl": "Najpierw powinienem opatrzyć rany."
+  },
+  {
+    "id": "10450652166651921",
+    "key": "",
+    "en": "I can`t leave before healing my wounds",
+    "pl": "Nie mogę wyjść, zanim nie opatrzę ran."
+  },
+  {
+    "id": "10450652166651922",
+    "key": "",
+    "en": "I need to treat my wounds first...",
+    "pl": "Najpierw muszę opatrzyć rany..."
+  },
+  {
+    "id": "10450652166651923",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do.",
+    "pl": "Muszę się połatać. Apteczka powinna wystarczyć."
+  },
+  {
+    "id": "10450652166651924",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this.",
+    "pl": "Powinienem użyć apteczki. Długo tak nie pociągnę."
+  },
+  {
+    "id": "10450652166651925",
+    "key": "",
+    "en": "Time to use a Medkit.",
+    "pl": "Pora użyć apteczki."
+  },
+  {
+    "id": "10450652166651926",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit.",
+    "pl": "Powinienem przestać marnować czas i użyć apteczki."
+  },
+  {
+    "id": "10450652166651927",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that.",
+    "pl": "Czuję się gównianie. Apteczka może coś na to poradzić."
+  },
+  {
+    "id": "10450652166651928",
+    "key": "",
+    "en": "Not Enough Space!",
+    "pl": "Za mało miejsca!"
+  },
+  {
+    "id": "10450652166651929",
+    "key": "",
+    "en": "I am Broke!",
+    "pl": "Jestem spłukany!"
+  },
+  {
+    "id": "10450652166651930",
+    "key": "",
+    "en": "Out Of Space!",
+    "pl": "Brak miejsca!"
+  },
+  {
+    "id": "10450652166651931",
+    "key": "",
+    "en": "Out of Ammo!",
+    "pl": "Brak amunicji!"
+  },
+  {
+    "id": "10450652166651932",
+    "key": "",
+    "en": "Jammed!",
+    "pl": "Zacięcie!"
+  },
+  {
+    "id": "10450652166651933",
+    "key": "",
+    "en": "Shit!",
+    "pl": "Kurwa!"
+  },
+  {
+    "id": "10479570521194496",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!",
+    "pl": "Cholera! Wykrwawiam się!"
+  },
+  {
+    "id": "10479570550554624",
+    "key": "",
+    "en": "Shit! I'm bleeding!",
+    "pl": "Kurwa! Krwawię!"
+  },
+  {
+    "id": "10479570550554625",
+    "key": "",
+    "en": "Ah, crap! I need to bandage",
+    "pl": "Cholera! Muszę się zabandażować."
+  },
+  {
+    "id": "10479570550554626",
+    "key": "",
+    "en": "My skin's burning, what the hell?!",
+    "pl": "Skóra mnie pali, co jest, do cholery?!"
+  },
+  {
+    "id": "10479570550554627",
+    "key": "",
+    "en": "I'm cooked!",
+    "pl": "Zaraz się usmażę!"
+  },
+  {
+    "id": "10479570550554628",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!",
+    "pl": "Chyba zaczynam świecić! Coś jest nie tak!"
+  },
+  {
+    "id": "10479570550554629",
+    "key": "",
+    "en": "I've been frie! this is bad!",
+    "pl": "Usmażyło mnie! Jest źle!"
+  },
+  {
+    "id": "10479570550554630",
+    "key": "",
+    "en": "My mouth's like sandpaper!",
+    "pl": "Mam w ustach papier ścierny!"
+  },
+  {
+    "id": "10479570550554631",
+    "key": "",
+    "en": "This thirst is killing me!",
+    "pl": "Umieram z pragnienia!"
+  },
+  {
+    "id": "10479570550554632",
+    "key": "",
+    "en": "Water... I need water!",
+    "pl": "Wody... Potrzebuję wody!"
+  },
+  {
+    "id": "10479570550554633",
+    "key": "",
+    "en": "Haven't eaten in forever!",
+    "pl": "Nie jadłem od wieków!"
+  },
+  {
+    "id": "10479570550554634",
+    "key": "",
+    "en": "Shit! I'm starving!",
+    "pl": "Kurwa! Umieram z głodu!"
+  },
+  {
+    "id": "10479570550554635",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!",
+    "pl": "Jeśli zaraz czegoś nie zjem, to po mnie!"
+  },
+  {
+    "id": "10479570550554636",
+    "key": "",
+    "en": "Too tired...",
+    "pl": "Brak mi sił..."
+  },
+  {
+    "id": "10479570550554637",
+    "key": "",
+    "en": "Need a break...",
+    "pl": "Potrzebuję przerwy..."
+  },
+  {
+    "id": "10479570550554638",
+    "key": "",
+    "en": "I need rest...",
+    "pl": "Muszę odpocząć..."
+  },
+  {
+    "id": "10479570550554639",
+    "key": "",
+    "en": "Reload!",
+    "pl": "Przeładuj!"
+  },
+  {
+    "id": "10479570550554640",
+    "key": "",
+    "en": "I should patch myself first.",
+    "pl": "Najpierw powinienem opatrzyć rany."
+  },
+  {
+    "id": "10479570550554641",
+    "key": "",
+    "en": "I can`t leave before healing my wounds",
+    "pl": "Nie mogę wyjść, zanim nie opatrzę ran."
+  },
+  {
+    "id": "10479570550554642",
+    "key": "",
+    "en": "I need to treat my wounds first...",
+    "pl": "Najpierw muszę opatrzyć rany..."
+  },
+  {
+    "id": "10479570550554643",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do.",
+    "pl": "Muszę się połatać. Apteczka powinna wystarczyć."
+  },
+  {
+    "id": "10479570550554644",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this.",
+    "pl": "Powinienem użyć apteczki. Długo tak nie pociągnę."
+  },
+  {
+    "id": "10479570550554645",
+    "key": "",
+    "en": "Time to use a Medkit.",
+    "pl": "Pora użyć apteczki."
+  },
+  {
+    "id": "10479570550554646",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit.",
+    "pl": "Powinienem przestać marnować czas i użyć apteczki."
+  },
+  {
+    "id": "10479570550554647",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that.",
+    "pl": "Czuję się gównianie. Apteczka może coś na to poradzić."
+  },
+  {
+    "id": "10479570550554648",
+    "key": "",
+    "en": "Not Enough Space!",
+    "pl": "Za mało miejsca!"
+  },
+  {
+    "id": "10479570550554649",
+    "key": "",
+    "en": "I am Broke!",
+    "pl": "Jestem spłukany!"
+  },
+  {
+    "id": "10479570550554650",
+    "key": "",
+    "en": "Out Of Space!",
+    "pl": "Brak miejsca!"
+  },
+  {
+    "id": "10479570550554651",
+    "key": "",
+    "en": "Out of Ammo!",
+    "pl": "Brak amunicji!"
+  },
+  {
+    "id": "10479570550554652",
+    "key": "",
+    "en": "Jammed!",
+    "pl": "Zacięcie!"
+  },
+  {
+    "id": "10479570550554653",
+    "key": "",
+    "en": "Shit!",
+    "pl": "Kurwa!"
+  },
+  {
+    "id": "10483978801807389",
+    "key": "Bark.Gun_Critical_Malfunction_01",
+    "en": "Shit!",
+    "pl": "Kurwa!"
+  },
+  {
+    "id": "10483978801807388",
+    "key": "Bark.Jammed_01",
+    "en": "Jammed!",
+    "pl": "Zacięcie!"
+  },
+  {
+    "id": "10483978801807392",
+    "key": "Bark.No_Magazine_03",
+    "en": "Where's the magazine?",
+    "pl": "Gdzie jest magazynek?"
+  },
+  {
+    "id": "10483978801807391",
+    "key": "Bark.No_Magazine_02",
+    "en": "Damn... no magazine.",
+    "pl": "Cholera... Brak magazynka."
+  },
+  {
+    "id": "10483978801807390",
+    "key": "Bark.No_Magazine_01",
+    "en": "Forgot the damn mag.",
+    "pl": "Zapomniałem cholernego magazynka."
+  },
+  {
+    "id": "10483978801807387",
+    "key": "Bark.No_Ammo_01",
+    "en": "Out of Ammo!",
+    "pl": "Brak amunicji!"
+  },
+  {
+    "id": "10483978801807386",
+    "key": "Bark.Full_Inventory_01",
+    "en": "Out of Space!",
+    "pl": "Brak miejsca!"
+  },
+  {
+    "id": "10483978801807385",
+    "key": "Bark.NotEnoughMoney_01",
+    "en": "Not enough cash!",
+    "pl": "Za mało kasy!"
+  },
+  {
+    "id": "10483978801807384",
+    "key": "Bark.NotEnoughSpace_01",
+    "en": "Not enough space!",
+    "pl": "Za mało miejsca!"
+  },
+  {
+    "id": "10483978801807383",
+    "key": "Bark.Tutorial_Heal_05",
+    "en": "Feeling like shit. Medkit might help.",
+    "pl": "Czuję się gównianie. Apteczka może pomóc."
+  },
+  {
+    "id": "10483978801807382",
+    "key": "Bark.Tutorial_Heal_04",
+    "en": "Should stop wasting time and use a Medkit.",
+    "pl": "Koniec marnowania czasu. Muszę użyć apteczki."
+  },
+  {
+    "id": "10483978801807381",
+    "key": "Bark.Tutorial_Heal_03",
+    "en": "Have to use a Medkit now...",
+    "pl": "Muszę teraz użyć apteczki..."
+  },
+  {
+    "id": "10483978801807380",
+    "key": "Bark.Tutorial_Heal_02",
+    "en": "I should use a Medkit, won't last long like this.",
+    "pl": "Powinienem użyć apteczki. Długo tak nie pociągnę."
+  },
+  {
+    "id": "10483978801807379",
+    "key": "Bark.Tutorial_Heal_01",
+    "en": "Need to patch up, a Medkit should do.",
+    "pl": "Muszę się połatać. Apteczka powinna wystarczyć."
+  },
+  {
+    "id": "10483978801807378",
+    "key": "Bark.Barrier_03",
+    "en": "I need to treat my wounds first...",
+    "pl": "Najpierw muszę opatrzyć rany..."
+  },
+  {
+    "id": "10483978801807377",
+    "key": "Bark.Barrier_02",
+    "en": "Can't leave before healing my wounds.",
+    "pl": "Nie mogę wyjść, zanim nie opatrzę ran."
+  },
+  {
+    "id": "10483978801807376",
+    "key": "Bark.Barrier_01",
+    "en": "Should patch myself up first.",
+    "pl": "Najpierw powinienem się połatać."
+  },
+  {
+    "id": "10483978801807375",
+    "key": "Bark.Reload_01",
+    "en": "Reloading!",
+    "pl": "Przeładowuję!"
+  },
+  {
+    "id": "10483978801807374",
+    "key": "Bark.Stamina_03",
+    "en": "I need rest...",
+    "pl": "Muszę odpocząć..."
+  },
+  {
+    "id": "10483978801807373",
+    "key": "Bark.Stamina_02",
+    "en": "Need a break...",
+    "pl": "Potrzebuję przerwy..."
+  },
+  {
+    "id": "10483978801807372",
+    "key": "Bark.Stamina_01",
+    "en": "Too tired...",
+    "pl": "Brak mi sił..."
+  },
+  {
+    "id": "10483978801807371",
+    "key": "Bark.Hunger_03",
+    "en": "I'm done for if I don't eat soon...",
+    "pl": "Jeśli zaraz czegoś nie zjem, to po mnie..."
+  },
+  {
+    "id": "10483978801807370",
+    "key": "Bark.Hunger_02",
+    "en": "Shit, I'm starving...",
+    "pl": "Kurwa, umieram z głodu..."
+  },
+  {
+    "id": "10483978801807369",
+    "key": "Bark.Hunger_01",
+    "en": "Haven't eaten in forever!",
+    "pl": "Nie jadłem od wieków!"
+  },
+  {
+    "id": "10483978801807368",
+    "key": "Bark.Thirst_03",
+    "en": "Water... I need water!",
+    "pl": "Wody... Potrzebuję wody!"
+  },
+  {
+    "id": "10483978801807367",
+    "key": "Bark.Thirst_02",
+    "en": "This thirst is killing me!",
+    "pl": "Umieram z pragnienia!"
+  },
+  {
+    "id": "10483978801807366",
+    "key": "Bark.Thirst_01",
+    "en": "Mouth feels like sandpaper...",
+    "pl": "W ustach mam papier ścierny..."
+  },
+  {
+    "id": "10483978801807365",
+    "key": "Bark.Radiation_04",
+    "en": "Radiation's frying me!",
+    "pl": "Promieniowanie mnie smaży!"
+  },
+  {
+    "id": "10483978801807364",
+    "key": "Bark.Radiation_03",
+    "en": "Too much radiation...",
+    "pl": "Za duże promieniowanie..."
+  },
+  {
+    "id": "10483978801807363",
+    "key": "Bark.Radiation_02",
+    "en": "I'm getting cooked here!",
+    "pl": "Zaraz się tu usmażę!"
+  },
+  {
+    "id": "10483978801807362",
+    "key": "Bark.Radiation_01",
+    "en": "My skin's burning...",
+    "pl": "Skóra mnie pali..."
+  },
+  {
+    "id": "10483978801807361",
+    "key": "Bark.Bleeding_03",
+    "en": "Damn, need a bandage...",
+    "pl": "Cholera, potrzebuję bandaża..."
+  },
+  {
+    "id": "10483978801807360",
+    "key": "Bark.Bleeding_02",
+    "en": "Shit! I'm bleeding!",
+    "pl": "Kurwa! Krwawię!"
+  },
+  {
+    "id": "10483978772447232",
+    "key": "Bark.Bleeding_01",
+    "en": "Crap, bleeding out...",
+    "pl": "Cholera, wykrwawiam się..."
+  },
+  {
+    "id": "10853350145818624",
+    "key": "Notification.Press",
+    "en": "Press",
+    "pl": "Naciśnij"
+  },
+  {
+    "id": "10853350183567360",
+    "key": "Notification.QuestStarted",
+    "en": "{questName} started",
+    "pl": "Rozpoczęto: {questName}"
+  },
+  {
+    "id": "10853350183567361",
+    "key": "Notification.OpenSketchBook",
+    "en": "to open your Journal",
+    "pl": "aby otworzyć dziennik"
+  },
+  {
+    "id": "10878498500542464",
+    "key": "Notification.QuestCompleted",
+    "en": "{questName} completed",
+    "pl": "Ukończono: {questName}"
+  },
+  {
+    "id": "10878498525708288",
+    "key": "Notification.QuestBeingTracked",
+    "en": "{questName} is now being tracked",
+    "pl": "Śledzisz teraz: {questName}"
+  },
+  {
+    "id": "10878498525708289",
+    "key": "Notification.OpenMap",
+    "en": "to open your map",
+    "pl": "aby otworzyć mapę"
+  },
+  {
+    "id": "10878498525708290",
+    "key": "Notification.InventoryFullRewardsDropped",
+    "en": "My backpack's full. Have to leave the rewards on the ground.",
+    "pl": "Plecak jest pełny. Muszę zostawić nagrody na ziemi."
+  },
+  {
+    "id": "10878498525708291",
+    "key": "Notification.AllTasksDone",
+    "en": "all tasks done",
+    "pl": "wszystkie cele wykonane"
+  },
+  {
+    "id": "10878498525708292",
+    "key": "Notification.ReturnToCompleteJob",
+    "en": "Return to {characterName} to complete the job",
+    "pl": "Wróć po rozliczenie zlecenia. Zleceniodawca: {characterName}"
+  },
+  {
+    "id": "10878498525708293",
+    "key": "Notification.QuestLostProgress",
+    "en": "{questName} Lost Progress",
+    "pl": "Utracono postęp: {questName}"
+  },
+  {
+    "id": "10878498525708294",
+    "key": "Notification.QuestUpdated",
+    "en": "{questName} Updated",
+    "pl": "Zaktualizowano: {questName}"
+  },
+  {
+    "id": "10878498525708295",
+    "key": "Notification.SeeMoreDetail",
+    "en": "to see more details",
+    "pl": "aby zobaczyć szczegóły"
+  },
+  {
+    "id": "13051999793741824",
+    "key": "Menu.ShortGear",
+    "en": "Gear",
+    "pl": "Wyposażenie"
+  },
+  {
+    "id": "13059220250329088",
+    "key": "Menu.Save_Game",
+    "en": "Save Game",
+    "pl": "Zapisz grę"
+  },
+  {
+    "id": "13065856033521664",
+    "key": "Menu.Empty",
+    "en": "Empty",
+    "pl": "Puste"
+  },
+  {
+    "id": "13073683905019904",
+    "key": "Menu.Yes",
+    "en": "Yes",
+    "pl": "Tak"
+  },
+  {
+    "id": "13073683934380032",
+    "key": "Menu.No",
+    "en": "No",
+    "pl": "Nie"
+  },
+  {
+    "id": "13073683934380033",
+    "key": "Notification.WannaPlayTutorial",
+    "en": "Do you want to play the tutorial?",
+    "pl": "Czy chcesz przejść samouczek?"
+  },
+  {
+    "id": "13073683934380034",
+    "key": "Notification.OverrideSaveFile",
+    "en": "Do you want to override this save file?",
+    "pl": "Czy chcesz nadpisać ten zapis?"
+  },
+  {
+    "id": "13073683934380035",
+    "key": "Notification.PermanentDeleteInfo",
+    "en": "The info of this save file will be deleted permanently.",
+    "pl": "Dane tego zapisu zostaną trwale usunięte."
+  },
+  {
+    "id": "13073683934380036",
+    "key": "Notification.Warning",
+    "en": "Warning",
+    "pl": "Uwaga"
+  },
+  {
+    "id": "13073683934380037",
+    "key": "Notification.DifferentGameVersion",
+    "en": "This save file is from a different game version",
+    "pl": "Ten zapis pochodzi z innej wersji gry"
+  },
+  {
+    "id": "13073683934380038",
+    "key": "Notification.StillWantToLoad",
+    "en": "Do you still want to load it?",
+    "pl": "Czy mimo to chcesz go wczytać?"
+  },
+  {
+    "id": "13081051392933888",
+    "key": "Notification.ToOpenInventory",
+    "en": "to open the Inventory!",
+    "pl": "aby otworzyć ekwipunek!"
+  },
+  {
+    "id": "13081051397128192",
+    "key": "Notification.ToMelee",
+    "en": "to melee!",
+    "pl": "aby zaatakować wręcz!"
+  },
+  {
+    "id": "13404762469859328",
+    "key": "Menu.Resume",
+    "en": "Resume",
+    "pl": "Wznów"
+  },
+  {
+    "id": "13404762495025152",
+    "key": "Menu.Main_Menu",
+    "en": "Main Menu",
+    "pl": "Menu główne"
+  },
+  {
+    "id": "22841544206745600",
+    "key": "Action.Eliminate",
+    "en": "Eliminate",
+    "pl": "Wyeliminuj"
+  },
+  {
+    "id": "22843401471778816",
+    "key": "Action.Loot",
+    "en": "Loot",
+    "pl": "Zbierz"
+  },
+  {
+    "id": "27901038949294080",
+    "key": "Notification.RelationWithFactionWorsened",
+    "en": "Relation with <color=#cb6f0c>{faction}</color> has worsened",
+    "pl": "Relacje z frakcją <color=#cb6f0c>{faction}</color> pogorszyły się"
+  },
+  {
+    "id": "27901038978654208",
+    "key": "Notification.RelationWithFactionImproved",
+    "en": "Relation with <color=#cb6f0c>{faction}</color> has improved",
+    "pl": "Relacje z frakcją <color=#cb6f0c>{faction}</color> poprawiły się"
+  },
+  {
+    "id": "32252547751247872",
+    "key": "Notification.ToUnjam",
+    "en": "to unjam",
+    "pl": "aby usunąć zacięcie"
+  },
+  {
+    "id": "49562341048573952",
+    "key": "Action.Talk",
+    "en": "Talk",
+    "pl": "Porozmawiaj"
+  },
+  {
+    "id": "49562766632017920",
+    "key": "Action.Close",
+    "en": "Close",
+    "pl": "Zamknij"
+  },
+  {
+    "id": "49562766665572352",
+    "key": "Action.Open",
+    "en": "Open",
+    "pl": "Otwórz"
+  },
+  {
+    "id": "56072078820892672",
+    "key": "Continue",
+    "en": "Continue",
+    "pl": "Kontynuuj"
+  },
+  {
+    "id": "56072078862835712",
+    "key": "NewGame",
+    "en": "New Game",
+    "pl": "Nowa gra"
+  },
+  {
+    "id": "56072078862835713",
+    "key": "LoadGame",
+    "en": "Load Game",
+    "pl": "Wczytaj grę"
+  },
+  {
+    "id": "56072078862835714",
+    "key": "Settings",
+    "en": "Settings",
+    "pl": "Ustawienia"
+  },
+  {
+    "id": "56072078862835715",
+    "key": "Exit",
+    "en": "Exit",
+    "pl": "Wyjdź"
+  },
+  {
+    "id": "56072078862835716",
+    "key": "Gameplay",
+    "en": "Gameplay",
+    "pl": "Rozgrywka"
+  },
+  {
+    "id": "56072078862835717",
+    "key": "Graphics",
+    "en": "Graphics",
+    "pl": "Grafika"
+  },
+  {
+    "id": "56072078862835718",
+    "key": "Audio",
+    "en": "Audio",
+    "pl": "Dźwięk"
+  },
+  {
+    "id": "56072078862835719",
+    "key": "Controls",
+    "en": "Controls",
+    "pl": "Sterowanie"
+  },
+  {
+    "id": "56072078862835720",
+    "key": "Language",
+    "en": "LANGUAGE",
+    "pl": "JĘZYK"
+  },
+  {
+    "id": "56072078862835721",
+    "key": "Resolution",
+    "en": "RESOLUTION",
+    "pl": "ROZDZIELCZOŚĆ"
+  },
+  {
+    "id": "56072078862835722",
+    "key": "WindowMode",
+    "en": "WINDOW MODE",
+    "pl": "TRYB WYŚWIETLANIA"
+  },
+  {
+    "id": "56072078862835723",
+    "key": "ExclusiveFullscreenNotRecommended",
+    "en": "Exclusive Fullscreen (Not recommended)",
+    "pl": "Pełny ekran na wyłączność (niezalecany)"
+  },
+  {
+    "id": "56072078862835724",
+    "key": "BorderlessFullscreen",
+    "en": "Borderless Fullscreen",
+    "pl": "Pełny ekran bez ramek"
+  },
+  {
+    "id": "56072078862835725",
+    "key": "Windowed",
+    "en": "Windowed",
+    "pl": "W oknie"
+  },
+  {
+    "id": "56072078862835726",
+    "key": "Back",
+    "en": "Back",
+    "pl": "Wstecz"
+  },
+  {
+    "id": "56072078862835727",
+    "key": "ApplyChanges",
+    "en": "Apply Changes",
+    "pl": "Zastosuj zmiany"
+  },
+  {
+    "id": "56072078862835728",
+    "key": "MasterVolume",
+    "en": "Master Volume",
+    "pl": "Głośność ogólna"
+  },
+  {
+    "id": "56072078862835729",
+    "key": "MusicVolume",
+    "en": "Music Volume",
+    "pl": "Głośność muzyki"
+  },
+  {
+    "id": "56072078862835730",
+    "key": "EffectsVolume",
+    "en": "Effects Volume",
+    "pl": "Głośność efektów"
+  },
+  {
+    "id": "56072078862835731",
+    "key": "UIVolume",
+    "en": "UI Volume",
+    "pl": "Głośność interfejsu"
+  },
+  {
+    "id": "56072078862835732",
+    "key": "RadiationVolume",
+    "en": "Radiation Volume",
+    "pl": "Głośność licznika Geigera"
+  },
+  {
+    "id": "56072078862835733",
+    "key": "Controls.Action",
+    "en": "ACTION",
+    "pl": "CZYNNOŚĆ"
+  },
+  {
+    "id": "56072078862835734",
+    "key": "Controls.Keybind",
+    "en": "KEYBIND",
+    "pl": "PRZYPISANIE"
+  },
+  {
+    "id": "56072078862835735",
+    "key": "Reset",
+    "en": "Reset",
+    "pl": "Przywróć domyślne"
+  },
+  {
+    "id": "56072078862835736",
+    "key": "ResetAll",
+    "en": "Reset All",
+    "pl": "Przywróć wszystkie"
+  },
+  {
+    "id": "56072078862835737",
+    "key": "Delete",
+    "en": "Delete ",
+    "pl": "Usuń "
+  },
+  {
+    "id": "56072078862835738",
+    "key": "Play",
+    "en": "Play",
+    "pl": "Graj"
+  },
+  {
+    "id": "56072078862835739",
+    "key": "LoadSave.OverwriteSave",
+    "en": "OVERWRITE SAVE",
+    "pl": "NADPISZ ZAPIS"
+  },
+  {
+    "id": "56072078862835740",
+    "key": "Save",
+    "en": "Save",
+    "pl": "Zapisz"
+  },
+  {
+    "id": "56072078862835741",
+    "key": "Resume",
+    "en": "Resume",
+    "pl": "Wznów"
+  },
+  {
+    "id": "56072078862835742",
+    "key": "ExitToMainMenu",
+    "en": "Exit to main menu",
+    "pl": "Wyjdź do menu głównego"
+  },
+  {
+    "id": "56072078862835743",
+    "key": "NewSave",
+    "en": "NEW SAVE",
+    "pl": "NOWY ZAPIS"
+  },
+  {
+    "id": "56072078862835744",
+    "key": "NewGame.Returner",
+    "en": "RETURNER",
+    "pl": "POWRACAJĄCY"
+  },
+  {
+    "id": "56072078862835745",
+    "key": "NewGame.Ironman",
+    "en": "IRONMAN",
+    "pl": "JEDNO ŻYCIE"
+  },
+  {
+    "id": "56072078862835746",
+    "key": "NewGame.Returner.GameModeText1",
+    "en": "Death isn't the end, but it will cost you.",
+    "pl": "Śmierć nie oznacza końca, ale ma swoją cenę."
+  },
+  {
+    "id": "56072078862835747",
+    "key": "NewGame.Returner.GameModeText2",
+    "en": "Return to where you fell and reclaim your loot.",
+    "pl": "Wróć w miejsce swojej śmierci i odzyskaj łupy."
+  },
+  {
+    "id": "56072078862835748",
+    "key": "NewGame.Ironman.GameModeText1",
+    "en": "Death means starting over.<br>One life per run.",
+    "pl": "Śmierć oznacza powrót do początku.<br>Jedno życie na rozgrywkę."
+  },
+  {
+    "id": "56072078862835749",
+    "key": "NewGame.Ironman.GameModeText2",
+    "en": "Permanently!",
+    "pl": "Bez drugiej szansy!"
+  },
+  {
+    "id": "56072078862835750",
+    "key": "NewGame.DoYouWantToPlayTheTutorial",
+    "en": "Do you want to play the tutorial?",
+    "pl": "Czy chcesz przejść samouczek?"
+  },
+  {
+    "id": "56072078862835751",
+    "key": "Yes",
+    "en": "Yes",
+    "pl": "Tak"
+  },
+  {
+    "id": "56072078862835752",
+    "key": "No",
+    "en": "No",
+    "pl": "Nie"
+  },
+  {
+    "id": "56072078862835753",
+    "key": "LoadGame.DeleteSave.Warning",
+    "en": "You're about to delete this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?",
+    "pl": "Zamierzasz usunąć ten zapis gry. Tej czynności nie można cofnąć.<br><br>Czy chcesz kontynuować?"
+  },
+  {
+    "id": "56072078862835754",
+    "key": "Cancel",
+    "en": "Cancel",
+    "pl": "Anuluj"
+  },
+  {
+    "id": "56072078862835755",
+    "key": "LoadGame.DeleteSave",
+    "en": "DELETE SAVE",
+    "pl": "USUŃ ZAPIS"
+  },
+  {
+    "id": "56072078862835756",
+    "key": "VoiceVolume",
+    "en": "Voice Volume",
+    "pl": "Głośność głosów"
+  },
+  {
+    "id": "56072078862835757",
+    "key": "Load",
+    "en": "Load",
+    "pl": "Wczytaj"
+  },
+  {
+    "id": "56072078862835758",
+    "key": "LoadGame.OverwriteSave.Warning",
+    "en": "You're about to overwrite this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?",
+    "pl": "Zamierzasz nadpisać ten zapis gry. Tej czynności nie można cofnąć.<br><br>Czy chcesz kontynuować?"
+  },
+  {
+    "id": "56072078862835759",
+    "key": "LoadGame.OverwriteSave.Overwrite",
+    "en": "OVERWRITE",
+    "pl": "NADPISZ"
+  },
+  {
+    "id": "56072078862835760",
+    "key": "LoadGame.DeleteSave.Delete",
+    "en": "DELETE",
+    "pl": "USUŃ"
+  },
+  {
+    "id": "56072078862835761",
+    "key": "LoadGame.RenameSave.Confirm",
+    "en": "CONFIRM",
+    "pl": "POTWIERDŹ"
+  },
+  {
+    "id": "56072078862835762",
+    "key": "LoadGame.RenameSave",
+    "en": "RENAME",
+    "pl": "ZMIEŃ NAZWĘ"
+  },
+  {
+    "id": "56072078862835763",
+    "key": "Gameplay.AimAssist",
+    "en": "AIM ASSIST",
+    "pl": "WSPOMAGANIE CELOWANIA"
+  },
+  {
+    "id": "56072078862835764",
+    "key": "InventoryItemAction.Disassamble",
+    "en": "Disassemble",
+    "pl": "Rozmontuj"
+  },
+  {
+    "id": "56072078862835765",
+    "key": "InventoryItemAction.Drop",
+    "en": "Drop",
+    "pl": "Wyrzuć"
+  },
+  {
+    "id": "56072078862835766",
+    "key": "InventoryItemAction.Equip",
+    "en": "Equip",
+    "pl": "Załóż"
+  },
+  {
+    "id": "56072078862835767",
+    "key": "InventoryItemAction.Inspect",
+    "en": "Inspect",
+    "pl": "Obejrzyj"
+  },
+  {
+    "id": "56072078862835768",
+    "key": "InventoryItemAction.Learn",
+    "en": "Learn",
+    "pl": "Naucz się"
+  },
+  {
+    "id": "56072078862835769",
+    "key": "InventoryItemAction.RemoveMagazine",
+    "en": "Remove magazine",
+    "pl": "Wyjmij magazynek"
+  },
+  {
+    "id": "56072078862835770",
+    "key": "InventoryItemAction.RemoveMuzzle",
+    "en": "Remove muzzle",
+    "pl": "Zdejmij nasadkę wylotową"
+  },
+  {
+    "id": "56072078862835771",
+    "key": "InventoryItemAction.RemoveSight",
+    "en": "Remove optic",
+    "pl": "Zdejmij celownik"
+  },
+  {
+    "id": "56072078862835772",
+    "key": "InventoryItemAction.Repair",
+    "en": "Repair",
+    "pl": "Napraw"
+  },
+  {
+    "id": "56072078862835773",
+    "key": "InventoryItemAction.Unload",
+    "en": "Unload",
+    "pl": "Rozładuj"
+  },
+  {
+    "id": "56072078862835774",
+    "key": "InventoryItemAction.Use",
+    "en": "Use",
+    "pl": "Użyj"
+  },
+  {
+    "id": "60861834851246080",
+    "key": "GunModdingWorkbench.YouDontHaveAGun",
+    "en": "You don't have a gun",
+    "pl": "Nie masz broni palnej"
+  },
+  {
+    "id": "65873368597913600",
+    "key": "Action.Interact",
+    "en": "Interact",
+    "pl": "Użyj"
+  },
+  {
+    "id": "65873368639856640",
+    "key": "InventoryItemAction.UnEquip",
+    "en": "Unequip",
+    "pl": "Zdejmij"
+  },
+  {
+    "id": "65873368639856641",
+    "key": "InventoryItemAction.EquipPrimaryGun",
+    "en": "Equip primary gun",
+    "pl": "Wyposaż jako broń główną"
+  },
+  {
+    "id": "65873368639856642",
+    "key": "InventoryItemAction.EquipSecondaryGun",
+    "en": "Equip secondary gun",
+    "pl": "Wyposaż jako broń dodatkową"
+  },
+  {
+    "id": "65874132292591616",
+    "key": "InventoryItemAction.LoadMagazine",
+    "en": "Load",
+    "pl": "Załaduj"
+  },
+  {
+    "id": "73236007592370176",
+    "key": "Menu.Leave",
+    "en": "Leave",
+    "pl": "Odejdź"
+  },
+  {
+    "id": "117409802777935872",
+    "key": "Quest.OptionalObjectiveSuffix",
+    "en": "(optional)",
+    "pl": "(opcjonalnie)"
+  },
+  {
+    "id": "119186986660151296",
+    "key": "Notification.PoweredDoor.NoPower",
+    "en": "No power",
+    "pl": "Brak zasilania"
+  },
+  {
+    "id": "119186986748231680",
+    "key": "Notification.CrowsAreSinging.MissingCompounds",
+    "en": "I haven't found the drug compounds yet.",
+    "pl": "Jeszcze nie znalazłem składników narkotyku."
+  },
+  {
+    "id": "119204911253176320",
+    "key": "Action.PowerOn",
+    "en": "Power on",
+    "pl": "Włącz zasilanie"
+  },
+  {
+    "id": "119204911324479488",
+    "key": "Action.PowerOff",
+    "en": "Power off",
+    "pl": "Wyłącz zasilanie"
+  },
+  {
+    "id": "119310000000000000",
+    "key": "Notification.BunkerDoor.MissingKey",
+    "en": "Need a key.",
+    "pl": "Potrzebny klucz."
+  },
+  {
+    "id": "119310000000000001",
+    "key": "Notification.BunkerDoor.EntryBlocked",
+    "en": "The entrance is sealed.",
+    "pl": "Wejście jest zapieczętowane."
+  },
+  {
+    "id": "119320000000000000",
+    "key": "Menu.AutoSave",
+    "en": "Auto Save",
+    "pl": "Autozapis"
+  },
+  {
+    "id": "119330000000000000",
+    "key": "Action.ExitThroughVent",
+    "en": "Exit through vent",
+    "pl": "Wyjdź przez wentylację"
+  },
+  {
+    "id": "121736574201225216",
+    "key": "Tutorial.OpenBackpack",
+    "en": "to open your Backpack.",
+    "pl": "aby otworzyć plecak."
+  },
+  {
+    "id": "121736574259945472",
+    "key": "Tutorial.BackpackActions.Pc",
+    "en": "Or assign it to the hotbar for a quick use",
+    "pl": "Możesz też przypisać przedmiot do paska skrótów, aby szybko go użyć"
+  },
+  {
+    "id": "121736574259945473",
+    "key": "Tutorial.BackpackActions.Gamepad",
+    "en": "Or assign it to the hotbar for a quick use",
+    "pl": "Możesz też przypisać przedmiot do paska skrótów, aby szybko go użyć"
+  },
+  {
+    "id": "121736574259945474",
+    "key": "Tutorial.BackpackActions.RadialContinuation",
+    "en": " to open Radial Menu for quick use.",
+    "pl": " aby otworzyć menu kołowe i szybko użyć przedmiotu."
+  },
+  {
+    "id": "121736574259945475",
+    "key": "Tutorial.Dodge",
+    "en": "to evade enemy attacks.",
+    "pl": "aby unikać ataków wroga."
+  },
+  {
+    "id": "121736574259945476",
+    "key": "Tutorial.IrradiatedWater",
+    "en": "Contaminated water increases Radiation over time.",
+    "pl": "Skażona woda z czasem zwiększa napromieniowanie."
+  },
+  {
+    "id": "121736574259945477",
+    "key": "Tutorial.IrradiatedWater.Bark",
+    "en": "This water is irradiated...",
+    "pl": "Ta woda jest napromieniowana..."
+  },
+  {
+    "id": "121743049099304960",
+    "key": "Tutorial.BackpackActions.AssignHotbar",
+    "en": "Assign a compatible item to your Hotbar for quick access.",
+    "pl": "Przypisz odpowiedni przedmiot do paska skrótów, aby mieć go pod ręką."
+  },
+  {
+    "id": "121743049153830912",
+    "key": "Tutorial.BackpackActions.Press",
+    "en": "Press",
+    "pl": "Naciśnij"
+  },
+  {
+    "id": "122005175416119296",
+    "key": "Tutorial.Melee",
+    "en": "to Melee",
+    "pl": "aby zaatakować wręcz"
+  },
+  {
+    "id": "122005175416119297",
+    "key": "Tutorial.OpenBackpack.Press",
+    "en": "You are hungry, press",
+    "pl": "Jesteś głodny, naciśnij"
+  },
+  {
+    "id": "122005175416119298",
+    "key": "Tutorial.Aim",
+    "en": "to improve your accuracy.",
+    "pl": "aby zwiększyć celność."
+  },
+  {
+    "id": "122005175416119299",
+    "key": "Tutorial.MeleeDestroyObjects",
+    "en": "to Melee",
+    "pl": "aby zaatakować wręcz"
+  },
+  {
+    "id": "123884845078142976",
+    "key": "Notification.JobNoLongerAvailable",
+    "en": "That job is no longer available",
+    "pl": "To zlecenie nie jest już dostępne"
+  },
+  {
+    "id": "124100000000000005",
+    "key": "ItemInfo.RepairKit.NotUsableBelow",
+    "en": "Not usable below item condition:",
+    "pl": "Minimalny stan przedmiotu wymagany do użycia:"
+  },
+  {
+    "id": "124100000000000006",
+    "key": "ItemInfo.RepairKit.UsableAnyCondition",
+    "en": "Usable in any item condition.",
+    "pl": "Można użyć niezależnie od stanu przedmiotu."
+  },
+  {
+    "id": "124100000000000007",
+    "key": "ItemInfo.RepairClass",
+    "en": "Repair Class:",
+    "pl": "Klasa naprawy:"
+  },
+  {
+    "id": "124100000000000008",
+    "key": "ItemInfo.RepairAmount",
+    "en": "Repair:",
+    "pl": "Naprawa:"
+  },
+  {
+    "id": "124100000000000009",
+    "key": "ItemInfo.AmmoDamage",
+    "en": "Damage:",
+    "pl": "Obrażenia:"
+  },
+  {
+    "id": "124100000000000010",
+    "key": "ItemInfo.ArmorPenetration",
+    "en": "Penetration:",
+    "pl": "Przebijalność:"
+  },
+  {
+    "id": "124100000000000040",
+    "key": "ItemInfo.ProjectileCaliber",
+    "en": "Caliber:",
+    "pl": "Kaliber:"
+  },
+  {
+    "id": "124100000000000041",
+    "key": "ItemInfo.ProjectileCaliber.Small",
+    "en": "Pistol Ammo",
+    "pl": "Amunicja pistoletowa"
+  },
+  {
+    "id": "124100000000000042",
+    "key": "ItemInfo.ProjectileCaliber.Medium",
+    "en": "Rifle Ammo",
+    "pl": "Amunicja karabinowa"
+  },
+  {
+    "id": "124100000000000043",
+    "key": "ItemInfo.ProjectileCaliber.Shootgun",
+    "en": "Shotgun Ammo",
+    "pl": "Amunicja do strzelb"
+  },
+  {
+    "id": "124100000000000044",
+    "key": "ItemInfo.ProjectileCaliber.HighCaliberRifle",
+    "en": "High Caliber Rifle Ammo",
+    "pl": "Amunicja wielkokalibrowa"
+  },
+  {
+    "id": "124100000000000045",
+    "key": "ItemInfo.ProjectileCaliber.Special",
+    "en": "Special Ammo",
+    "pl": "Amunicja specjalna"
+  },
+  {
+    "id": "124100000000000011",
+    "key": "ItemInfo.Repair.GunClass.Scrap",
+    "en": "Scrap",
+    "pl": "Ze złomu"
+  },
+  {
+    "id": "124100000000000012",
+    "key": "ItemInfo.Repair.GunClass.Basic",
+    "en": "Basic",
+    "pl": "Podstawowa"
+  },
+  {
+    "id": "124100000000000013",
+    "key": "ItemInfo.Repair.GunClass.Advanced",
+    "en": "Advanced",
+    "pl": "Zaawansowana"
+  },
+  {
+    "id": "124100000000000014",
+    "key": "ItemInfo.Repair.GunClass.Expert",
+    "en": "Expert",
+    "pl": "Ekspercka"
+  },
+  {
+    "id": "124100000000000015",
+    "key": "ItemInfo.Repair.GunClass.Global",
+    "en": "Global",
+    "pl": "Uniwersalna"
+  },
+  {
+    "id": "124100000000000021",
+    "key": "ItemInfo.Repair.EquipmentClass.Tattered",
+    "en": "Tattered",
+    "pl": "Łachmany"
+  },
+  {
+    "id": "124100000000000022",
+    "key": "ItemInfo.Repair.EquipmentClass.Scavenger",
+    "en": "Scavenger",
+    "pl": "Zbieracza"
+  },
+  {
+    "id": "124100000000000023",
+    "key": "ItemInfo.Repair.EquipmentClass.Medium",
+    "en": "Medium",
+    "pl": "Średnia"
+  },
+  {
+    "id": "124100000000000024",
+    "key": "ItemInfo.Repair.EquipmentClass.Heavy",
+    "en": "Heavy",
+    "pl": "Ciężka"
+  },
+  {
+    "id": "124100000000000025",
+    "key": "ItemInfo.Repair.EquipmentClass.Global",
+    "en": "Global",
+    "pl": "Uniwersalna"
+  },
+  {
+    "id": "124100000000000030",
+    "key": "Notification.SaveCorrupt",
+    "en": "This save is corrupt.",
+    "pl": "Ten zapis gry jest uszkodzony."
+  },
+  {
+    "id": "124100000000000031",
+    "key": "Notification.ReportToDevs",
+    "en": "Please report this to the developers.",
+    "pl": "Zgłoś ten problem twórcom gry."
+  },
+  {
+    "id": "124100000000000032",
+    "key": "Menu.Ok",
+    "en": "OK",
+    "pl": "OK"
+  },
+  {
+    "id": "124100000000000033",
+    "key": "Notification.GameSaved",
+    "en": "Game saved.",
+    "pl": "Gra zapisana."
+  },
+  {
+    "id": "126913402395856896",
+    "key": "Action.OpenGunmodding",
+    "en": "Gun Modding",
+    "pl": "Modyfikacja broni"
+  },
+  {
+    "id": "126913402441994240",
+    "key": "",
+    "en": "Gun Crafting",
+    "pl": "Wytwarzanie broni"
+  },
+  {
+    "id": "126913402441994241",
+    "key": "Notification.NotEnoughInventorySpace",
+    "en": "Not enough inventory space.",
+    "pl": "Za mało miejsca w ekwipunku."
+  },
+  {
+    "id": "128014970398609408",
+    "key": "Action.OpenGuncrafting",
+    "en": "Gun Crafting",
+    "pl": "Wytwarzanie broni"
+  },
+  {
+    "id": "128014970398609501",
+    "key": "Notification.CantCompleteJobGunEquipped",
+    "en": "Can't complete the job with the gun equipped.",
+    "pl": "Nie można rozliczyć zlecenia, gdy wymagana broń jest wyposażona."
+  },
+  {
+    "id": "129349091540279296",
+    "key": "Tutorial.AmmoSwitchPressMessage",
+    "en": "Hold",
+    "pl": "Przytrzymaj"
+  },
+  {
+    "id": "129349197517758464",
+    "key": "Tutorial.AmmoSwitchMessage",
+    "en": "to switch ammo type",
+    "pl": "aby zmienić rodzaj amunicji"
+  },
+  {
+    "id": "128014970398609502",
+    "key": "InventoryItemAction.AttachToPrimaryGun",
+    "en": "Attach to primary gun",
+    "pl": "Zamontuj na broni głównej"
+  },
+  {
+    "id": "128014970398609503",
+    "key": "InventoryItemAction.AttachToSecondaryGun",
+    "en": "Attach to secondary gun",
+    "pl": "Zamontuj na broni dodatkowej"
+  },
+  {
+    "id": "129351000000000000",
+    "key": "Tutorial.BackpackActions.EatAfterKey",
+    "en": "on the Bread and Use to eat it.",
+    "pl": "na chlebie i wybierz „Użyj”, aby go zjeść."
+  },
+  {
+    "id": "130021708180815872",
+    "key": "Menu.Detector",
+    "en": "Detector",
+    "pl": "Detektor"
+  },
+  {
+    "id": "130449569276264448",
+    "key": "Action.LootAll",
+    "en": "Loot All",
+    "pl": "Zbierz wszystko"
+  },
+  {
+    "id": "130449569376927744",
+    "key": "Action.Sort",
+    "en": "Sort",
+    "pl": "Sortuj"
+  },
+  {
+    "id": "130449569376927745",
+    "key": "Action.AdvancedSort",
+    "en": "Advanced Sort",
+    "pl": "Sortowanie zaawansowane"
+  },
+  {
+    "id": "131575391684952064",
+    "key": "Menu.Paused",
+    "en": "Paused",
+    "pl": "Pauza"
+  },
+  {
+    "id": "131583539187580928",
+    "key": "Notification.MapUpdated",
+    "en": "Map Updated!",
+    "pl": "Zaktualizowano mapę!"
+  },
+  {
+    "id": "131597947221606400",
+    "key": "Menu.Cart",
+    "en": "Cart",
+    "pl": "Koszyk"
+  },
+  {
+    "id": "131597947267743744",
+    "key": "Menu.Total",
+    "en": "Total",
+    "pl": "Razem"
+  },
+  {
+    "id": "131597947267743745",
+    "key": "Menu.Wallet",
+    "en": "Wallet",
+    "pl": "Portfel"
+  },
+  {
+    "id": "132943393219182592",
+    "key": "Notification.CantCompleteJobItemEquipped",
+    "en": "Can't complete the job with the required item equipped.",
+    "pl": "Nie można rozliczyć zlecenia, gdy wymagany przedmiot jest wyposażony."
+  },
+  {
+    "id": "140512384729088000",
+    "key": "Action.Harvest",
+    "en": "Harvest",
+    "pl": "Zbierz surowce"
+  },
+  {
+    "id": "133353494480453632",
+    "key": "Notification.TrackedSetFull",
+    "en": "Journal tracker is full. Untrack a job first.",
+    "pl": "Osiągnięto limit śledzonych zleceń. Najpierw przestań śledzić jedno z nich."
+  },
+  {
+    "id": "133353494597894144",
+    "key": "Notification.LineTurnIn",
+    "en": "Turned in {deliveredCount} for {taskName}. {remainingCount} remaining.",
+    "pl": "Przekazano: {deliveredCount}. Cel: {taskName}. Pozostało: {remainingCount}."
+  },
+  {
+    "id": "133353494597894145",
+    "key": "Journal.CancelJob",
+    "en": "Cancel job",
+    "pl": "Anuluj zlecenie"
+  },
+  {
+    "id": "133353494597894146",
+    "key": "Journal.CancelJobConfirm",
+    "en": "Cancel {taskName}? You will lose {amount} reputation with {questGiver}.",
+    "pl": "Anulować zlecenie {taskName}? Stracisz {amount} pkt. reputacji u: {questGiver}."
+  },
+  {
+    "id": "133402176558407680",
+    "key": "Menu.Deliver_Items",
+    "en": "Deliver Items",
+    "pl": "Przekaż przedmioty"
+  },
+  {
+    "id": "133511118591090688",
+    "key": "Action.Sleep",
+    "en": "Sleep",
+    "pl": "Śpij"
+  },
+  {
+    "id": "133689024275578880",
+    "key": "Notification.QuantityTurnIn",
+    "en": "Handed in some of {taskName}.",
+    "pl": "Przekazano część przedmiotów na cel: {taskName}."
+  },
+  {
+    "id": "134156585704349696",
+    "key": "Inventory.LeaveQuestItemConfirm",
+    "en": "Leave {itemName} here? If it is required for a quest, you will not be able to complete that quest without it. Are you sure?",
+    "pl": "Zostawić tutaj {itemName}? Jeśli ten przedmiot jest potrzebny do zadania, bez niego nie zdołasz go ukończyć. Na pewno?"
+  },
+  {
+    "id": "134156585729515520",
+    "key": "Inventory.LeaveJobItemConfirm",
+    "en": "Leave {itemName} here? If it is required for a job, you will not be able to complete that job without it. The item may disappear. Are you sure?",
+    "pl": "Zostawić tutaj {itemName}? Jeśli ten przedmiot jest potrzebny do zlecenia, bez niego nie zdołasz go ukończyć. Przedmiot może zniknąć. Na pewno?"
+  }
+]

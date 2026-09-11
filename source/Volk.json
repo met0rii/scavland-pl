@@ -1,0 +1,492 @@
+[
+  {
+    "id": "377370386432",
+    "key": "31_Volk_v1_GetWelcomingMessage_K98W",
+    "en": "You lost?"
+  },
+  {
+    "id": "377382969344",
+    "key": "31_Volk_v1_GetWelcomingMessage_4OQO",
+    "en": "Keep it short."
+  },
+  {
+    "id": "377382969345",
+    "key": "31_Volk_v1_GetWelcomingMessage_8SYB",
+    "en": "What?"
+  },
+  {
+    "id": "377382969346",
+    "key": "31_Volk_v1_GetWelcomingMessage_9RLA",
+    "en": "Speak."
+  },
+  {
+    "id": "377382969347",
+    "key": "31_Volk_v1_GetRandomTalkStart_93F8",
+    "en": "Can we talk?"
+  },
+  {
+    "id": "377382969348",
+    "key": "31_Volk_v1_GetRandomTalkStart_4A61",
+    "en": "Need to talk to you."
+  },
+  {
+    "id": "377382969349",
+    "key": "31_Volk_v1_GetRandomTalkStart_HTF6",
+    "en": "Let me ask you something."
+  },
+  {
+    "id": "377382969350",
+    "key": "31_Volk_v1_GetRandomTradeStart_58SE",
+    "en": "Got anything to trade?"
+  },
+  {
+    "id": "377382969351",
+    "key": "31_Volk_v1_GetRandomTradeStart_92OO",
+    "en": "Anything you want to trade?"
+  },
+  {
+    "id": "377382969352",
+    "key": "31_Volk_v1_GetRandomTradeStart_JUXJ",
+    "en": "Let's trade."
+  },
+  {
+    "id": "377382969353",
+    "key": "31_Volk_v1_GetRandomTradeMessage_FVLL",
+    "en": "Sure."
+  },
+  {
+    "id": "377382969354",
+    "key": "31_Volk_v1_GetRandomTradeMessage_I690",
+    "en": "No haggling."
+  },
+  {
+    "id": "377382969355",
+    "key": "31_Volk_v1_GetRandomTradeMessage_YBNN",
+    "en": "Yeah."
+  },
+  {
+    "id": "377382969356",
+    "key": "31_Volk_v1_GetRandomLeaveMessage_SEL7",
+    "en": "Yeah."
+  },
+  {
+    "id": "377382969357",
+    "key": "31_Volk_v1_GetRandomLeaveMessage_UONJ",
+    "en": "Right."
+  },
+  {
+    "id": "377382969358",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_I85X",
+    "en": "Volodymyr sent me."
+  },
+  {
+    "id": "377382969359",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_M91U",
+    "en": "Looking into something for your boss."
+  },
+  {
+    "id": "377382969360",
+    "key": "31_Volk_v1_GetRandomWhiteHeatStart_UFIS",
+    "en": "Taking care of some pests."
+  },
+  {
+    "id": "377382969361",
+    "key": "31_Volk_v1_Talk_6ELN",
+    "en": "Gunners took over this spot, too?"
+  },
+  {
+    "id": "377382969362",
+    "key": "31_Volk_v1_Talk_QHBK",
+    "en": "That a complaint or a challenge?"
+  },
+  {
+    "id": "377382969363",
+    "key": "31_Volk_v1_Talk_XSLU",
+    "en": "It's a complaint. Need to go South."
+  },
+  {
+    "id": "377382969364",
+    "key": "31_Volk_v1_Talk_VKIC",
+    "en": "No. Things are bad over there. We're not guarding. We're blocking."
+  },
+  {
+    "id": "377382969365",
+    "key": "31_Volk_v1_Talk_QS7D",
+    "en": "Sparing you and your kind from some shit. Don't be ungrateful."
+  },
+  {
+    "id": "377382969366",
+    "key": "31_Volk_v1_Talk_H6C8",
+    "en": "What if it's a challenge?"
+  },
+  {
+    "id": "377382969367",
+    "key": "31_Volk_v1_Talk_YQA3",
+    "en": "I'll cut off your eyes and tongue. If I fail, someone else will do it for me. There will be many in line."
+  },
+  {
+    "id": "377382969368",
+    "key": "31_Volk_v1_Talk_2ATQ",
+    "en": "Then we'll put you in chains and take you West. You'll have a very bad life."
+  },
+  {
+    "id": "377382969369",
+    "key": "31_Volk_v1_Talk_9YQV",
+    "en": "You survived the Villa. Don't just throw that away."
+  },
+  {
+    "id": "377382969370",
+    "key": "31_Volk_v1_Talk_OAGC",
+    "en": "Neither."
+  },
+  {
+    "id": "377382969371",
+    "key": "31_Volk_v1_Talk_RZ6P",
+    "en": "I don't do small talk."
+  },
+  {
+    "id": "377382969372",
+    "key": "31_Volk_v1_Talk_3VNA",
+    "en": "You always been a Gunner? Worth it?"
+  },
+  {
+    "id": "377382969373",
+    "key": "31_Volk_v1_Talk_LQTJ",
+    "en": "Yes. Consistent group, clear rules. Can use my skills."
+  },
+  {
+    "id": "377382969374",
+    "key": "31_Volk_v1_Talk_NI4A",
+    "en": "No time wasted on god, corpses, trains, mantras, collectivism. We just solve basic problems. Treat people as they deserve."
+  },
+  {
+    "id": "377382969375",
+    "key": "31_Volk_v1_Talk_FZH4",
+    "en": "Got disagreements, solve them then and there. That's the way. And I'm good at winning arguments."
+  },
+  {
+    "id": "377382969376",
+    "key": "31_Volk_v1_Talk_YFAN",
+    "en": "Who gave you that scar, then?"
+  },
+  {
+    "id": "377382969377",
+    "key": "31_Volk_v1_Talk_Q7RL",
+    "en": "Why? Want your own?"
+  },
+  {
+    "id": "377382969378",
+    "key": "31_Volk_v1_Talk_WREQ",
+    "en": "Sounds like the Palatines."
+  },
+  {
+    "id": "377382969379",
+    "key": "31_Volk_v1_Talk_12KR",
+    "en": "No. They waste all their time on the past."
+  },
+  {
+    "id": "377382969380",
+    "key": "31_Volk_v1_Talk_QV4H",
+    "en": "Dressing up like pre-War soldiers. Drinking, lazing around."
+  },
+  {
+    "id": "377382969381",
+    "key": "31_Volk_v1_Talk_LD57",
+    "en": "Like the world's the same as it was. When the Continent was strong."
+  },
+  {
+    "id": "377382969382",
+    "key": "31_Volk_v1_Talk_B3BO",
+    "en": "You distribute drugs and alcohol?"
+  },
+  {
+    "id": "377382969383",
+    "key": "31_Volk_v1_Talk_F82E",
+    "en": "Part of my job. Business is good."
+  },
+  {
+    "id": "377382969384",
+    "key": "31_Volk_v1_Talk_BR7F",
+    "en": "Have other skills too. But you won't ask about those."
+  },
+  {
+    "id": "377382969385",
+    "key": "31_Volk_v1_Talk_KGWI",
+    "en": "Sounds like you don't have any beliefs."
+  },
+  {
+    "id": "377382969386",
+    "key": "31_Volk_v1_Talk_N47F",
+    "en": "Make decisions based on tangible things."
+  },
+  {
+    "id": "377382969387",
+    "key": "31_Volk_v1_Talk_UOUI",
+    "en": "Morality doesn't matter, being big and strong does. God is a dream, Mist is right here killing us."
+  },
+  {
+    "id": "377382969388",
+    "key": "31_Volk_v1_Talk_AQDW",
+    "en": "A second spent believing stupid shit is a second not spent on food, shelter, strength."
+  },
+  {
+    "id": "377382969389",
+    "key": "31_Volk_v1_Talk_CW8P",
+    "en": "About the substances you sell..."
+  },
+  {
+    "id": "377382969390",
+    "key": "31_Volk_v1_Talk_F691",
+    "en": "You're looking?"
+  },
+  {
+    "id": "377382969391",
+    "key": "31_Volk_v1_Talk_6764",
+    "en": "I'll get going."
+  },
+  {
+    "id": "377382969392",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_M0VY",
+    "en": "Business is good, then?"
+  },
+  {
+    "id": "377382969393",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_YMA5",
+    "en": "Yes. People come to us easily. Word spreads. We barely have to move."
+  },
+  {
+    "id": "377382969394",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_WX72",
+    "en": "Hunger, pain, misery. That's what makes good customers."
+  },
+  {
+    "id": "377382969395",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_YLS5",
+    "en": "Genetics, too."
+  },
+  {
+    "id": "377382969396",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_KQYU",
+    "en": "How do Commonfolk afford this?"
+  },
+  {
+    "id": "377382969397",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_7KOM",
+    "en": "We're flexible. We take food, work, or favors. We let them come to owe us."
+  },
+  {
+    "id": "377382969398",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_2AA6",
+    "en": "Same thing with Rada, Acolytes."
+  },
+  {
+    "id": "377382969399",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_45MG",
+    "en": "Even <i>Acolytes</i> buy drugs and alcohol?"
+  },
+  {
+    "id": "377382969400",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_H65Y",
+    "en": "In secret. Religious types are freaks when they break the chains."
+  },
+  {
+    "id": "377382969401",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_GPGO",
+    "en": "Everyone needs an escape. It's why we're expanding."
+  },
+  {
+    "id": "377382969402",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_1CWU",
+    "en": "Favors...? How are those <i>paid?</i>"
+  },
+  {
+    "id": "377382969403",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_6OPZ",
+    "en": "Depends. Best if you don't know the details."
+  },
+  {
+    "id": "377382969404",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_7DYO",
+    "en": "I'll share this. Sometimes we need a fool to hold a gun and run at the Palatines. Well, not \"need\", it's amusing. Good for morale."
+  },
+  {
+    "id": "377382969405",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_ZNPA",
+    "en": "But you might fit that description too."
+  },
+  {
+    "id": "377382969406",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_2V8S",
+    "en": "Changing the subject."
+  },
+  {
+    "id": "377382969407",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_214Q",
+    "en": "..."
+  },
+  {
+    "id": "377382969408",
+    "key": "31_Volk_v1_Talk_About_DrugTrade_XMG7",
+    "en": "On second thought, I have to go."
+  },
+  {
+    "id": "377382969409",
+    "key": "31_Volk_v1_WhiteHeat_LFRW",
+    "en": "Vulture. They told me to expect you."
+  },
+  {
+    "id": "377382969410",
+    "key": "31_Volk_v1_WhiteHeat_7R2E",
+    "en": "You went to the Microrayon?"
+  },
+  {
+    "id": "377382969411",
+    "key": "31_Volk_v1_WhiteHeat_YOYO",
+    "en": "Yeah, got proof right here. (Give Fake Dog Tag)"
+  },
+  {
+    "id": "377382969412",
+    "key": "31_Volk_v1_WhiteHeat_NPB9",
+    "en": "Yeah, had to take out a whole squad..."
+  },
+  {
+    "id": "377382969413",
+    "key": "31_Volk_v1_WhiteHeat_9ECE",
+    "en": "Not interested in details. Got proof or not?"
+  },
+  {
+    "id": "377382969414",
+    "key": "31_Volk_v1_WhiteHeat_COVW",
+    "en": "Yeah, right here. (Give Fake Dog Tag)"
+  },
+  {
+    "id": "377382969415",
+    "key": "31_Volk_v1_WhiteHeat_ESSM",
+    "en": "Okay, good. One down, one left."
+  },
+  {
+    "id": "377382969416",
+    "key": "31_Volk_v1_WhiteHeat_2KDR",
+    "en": "Your guy decided to load up and hide within the thick of the Mist. At the Lumber Fissure to the North. Thinks he's safe there."
+  },
+  {
+    "id": "377382969417",
+    "key": "31_Volk_v1_WhiteHeat_OA3D",
+    "en": "He'll be waiting for you. Get yourself ready too."
+  },
+  {
+    "id": "377382969418",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_QWML",
+    "en": "Where is my target again?"
+  },
+  {
+    "id": "377382969419",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_SX9N",
+    "en": "Lumber Fissure. North of here. Lots of Mist and Mutants."
+  },
+  {
+    "id": "377382969420",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_01Q4",
+    "en": "Don't just rush in. Be prepared."
+  },
+  {
+    "id": "377382969421",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_UB5Y",
+    "en": "Who's the guy I'm going for?"
+  },
+  {
+    "id": "377382969422",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_F5DI",
+    "en": "Same as last. Went to spy on Palatines, joined them instead. A piece of shit. Kill him slow."
+  },
+  {
+    "id": "377382969423",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_OE79",
+    "en": "He'll be geared up for sure. Intel says he stole from Palatine colleagues before holing up in there."
+  },
+  {
+    "id": "377382969424",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_1UWQ",
+    "en": "Good news is, he'll be scared. Scared people are easier to kill."
+  },
+  {
+    "id": "377382969425",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_73MB",
+    "en": "No reward for getting the first guy?"
+  },
+  {
+    "id": "377382969426",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_7YFN",
+    "en": "You think I'm dumb. Spells danger for you."
+  },
+  {
+    "id": "377382969427",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_UDP5",
+    "en": "I know the deal. Don't play me. Nobody would miss you."
+  },
+  {
+    "id": "377382969428",
+    "key": "31_Volk_v1_WhiteHeat_Quest_Questions_PETU",
+    "en": "No more questions, I'll get going."
+  },
+  {
+    "id": "377382969429",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_P1RV",
+    "en": "You came here empty-handed?"
+  },
+  {
+    "id": "377382969430",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_HPNA",
+    "en": "I'll get around to the job soon."
+  },
+  {
+    "id": "377382969431",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_B3YF",
+    "en": "Don't lower your guard around me, Vulture."
+  },
+  {
+    "id": "377382969432",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_HX1Q",
+    "en": "Had some questions first."
+  },
+  {
+    "id": "377382969433",
+    "key": "31_Volk_v1_WhiteHeat_Inform_Quest_KCP9",
+    "en": "Forgot to ask before. Like child."
+  },
+  {
+    "id": "377382969434",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_3T7K",
+    "en": "Got him? Hm. Did better than expected."
+  },
+  {
+    "id": "377382969435",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_1CIV",
+    "en": "Thought you'd only wear him down, make him move. Misjudged you."
+  },
+  {
+    "id": "377382969436",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_GWXK",
+    "en": "You should see the boss up at the camp."
+  },
+  {
+    "id": "377382969437",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_0C3W",
+    "en": "You're staying here?"
+  },
+  {
+    "id": "377382969438",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_WIKT",
+    "en": "I'm needed here."
+  },
+  {
+    "id": "377382969439",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_VV01",
+    "en": "Got any more turncoats to handle?"
+  },
+  {
+    "id": "377382969440",
+    "key": "31_Volk_v1_WhiteHeat_Deliver_DogTag_AQF4",
+    "en": "That's need-to-know."
+  }
+]

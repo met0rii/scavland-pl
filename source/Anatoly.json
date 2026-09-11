@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "201751298048",
+    "key": "05_Anatoly_v1_Talk_72P8",
+    "en": "Are you a Mechanist?"
+  },
+  {
+    "id": "201768075264",
+    "key": "05_Anatoly_v1_Talk_41NT",
+    "en": "Yes, though I don't like the term. Not much ties me together with other \"Mechanists\" apart from some basic interests."
+  },
+  {
+    "id": "201768075265",
+    "key": "05_Anatoly_v1_Talk_M9OY",
+    "en": "I've worked here many years, and seen few men as learned as I."
+  },
+  {
+    "id": "201768075266",
+    "key": "05_Anatoly_v1_Talk_EKF0",
+    "en": "Tell me more about the Mechanists."
+  },
+  {
+    "id": "201768075267",
+    "key": "05_Anatoly_v1_Talk_2FQM",
+    "en": "How do you make a living?"
+  },
+  {
+    "id": "201768075268",
+    "key": "05_Anatoly_v1_Talk_44WO",
+    "en": "I make tools and accessories which are indispensable for life in this impoverished region."
+  },
+  {
+    "id": "201768075269",
+    "key": "05_Anatoly_v1_Talk_ROVV",
+    "en": "Water and radiation filters, farming tools, weapon accessories. People like <i>you</i> trade with me often."
+  },
+  {
+    "id": "201768075270",
+    "key": "05_Anatoly_v1_Talk_JPKW",
+    "en": "Tell me about the arms dealer."
+  },
+  {
+    "id": "201768075271",
+    "key": "05_Anatoly_v1_Talk_7NUC",
+    "en": "Ah, <i>that</i> brute? Why not."
+  },
+  {
+    "id": "201768075272",
+    "key": "05_Anatoly_v1_Talk_LRFV",
+    "en": "Never mind; I have to go."
+  },
+  {
+    "id": "201768075273",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_3VJU",
+    "en": "Are there any other Mechanists around here?"
+  },
+  {
+    "id": "201768075274",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_3C32",
+    "en": "Yes; Sontse Station is a \"home base\" of sorts for scientific minds."
+  },
+  {
+    "id": "201768075275",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_QOH2",
+    "en": "Not exactly tightly-knit – all learned men cherish individual freedoms, after all – but we do have common interests."
+  },
+  {
+    "id": "201768075276",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_WA65",
+    "en": "Who are their typical clients?"
+  },
+  {
+    "id": "201768075277",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_A6DD",
+    "en": "Most Mechanists provide services for Acolytes, Rada members and Commonfolk. But I have plenty of clients like you, who enjoy their little suicide trips into the Oblast."
+  },
+  {
+    "id": "201768075278",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_B8UR",
+    "en": "But I have plenty of clients like you, who enjoy their little suicide trips into the Dola."
+  },
+  {
+    "id": "201768075279",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_TNXT",
+    "en": "I make sure their makeshift weaponry has some use outside of exploding in their hands."
+  },
+  {
+    "id": "201768075280",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_OL44",
+    "en": "Not many Mechanists around who know how to work a weapon."
+  },
+  {
+    "id": "201768075281",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_QV84",
+    "en": "That’s on them – it’s simple work. Even <i>you</i> could learn, given time."
+  },
+  {
+    "id": "201768075282",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_4VZ4",
+    "en": "Although, from recent experience, I have a feeling your sort isn't very disciplined."
+  },
+  {
+    "id": "201768075283",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_75D5",
+    "en": "That's all I wanted to ask."
+  },
+  {
+    "id": "201768075284",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_SBBM",
+    "en": "Hmm... I see."
+  },
+  {
+    "id": "201768075285",
+    "key": "05_Anatoly_v1_Talk_About_Mechanists_KSMO",
+    "en": "On second thought, I have to go."
+  },
+  {
+    "id": "201768075286",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_31N1",
+    "en": "What's he like?"
+  },
+  {
+    "id": "201768075287",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_ZNEU",
+    "en": "Fat and overbearing... Always underdressed... An unpleasant man. Fits right in with his surroundings."
+  },
+  {
+    "id": "201768075288",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_7C9E",
+    "en": "Still, he <i>is</i> a skilled trader. And being his customer comes with a few <i>privileges</i>."
+  },
+  {
+    "id": "201768075289",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_MSBX",
+    "en": "Let's just say he's well connected, from the Dola to the East beyond the Highway..."
+  },
+  {
+    "id": "201768075290",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_GWVD",
+    "en": "Where does he stay?"
+  },
+  {
+    "id": "201768075291",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_9JEG",
+    "en": "Not far from the Hospital. How could you have missed him?"
+  },
+  {
+    "id": "201768075292",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_JWU8",
+    "en": "You can't possibly miss his really big van and nauseating figure."
+  },
+  {
+    "id": "201768075293",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_7WXQ",
+    "en": "Let's talk about something else."
+  },
+  {
+    "id": "201768075294",
+    "key": "05_Anatoly_v1_Talk_About_Grigory_QGI6",
+    "en": "I've got to get going."
+  },
+  {
+    "id": "201768075295",
+    "key": "05_Anatoly_v1_TrespassingSvarog_KRRE",
+    "en": "Hmm. I see there's not much integrity within your kind."
+  },
+  {
+    "id": "201768075296",
+    "key": "05_Anatoly_v1_TrespassingSvarog_470W",
+    "en": "Listen: I'm out of patience. You have taken on not just the job but his <i>debt.</i> I'm sure your mantras have some mention of how debts must always be paid. One little attack and he's too scared to pay <i>his...</i>"
+  },
+  {
+    "id": "201768075297",
+    "key": "05_Anatoly_v1_TrespassingSvarog_V4U0",
+    "en": "What kind of work is it?"
+  },
+  {
+    "id": "201768075298",
+    "key": "05_Anatoly_v1_TrespassingSvarog_V77V",
+    "en": "A trip to the Svarog Factories, up North, in search of a special Lyada-brand toolbox."
+  },
+  {
+    "id": "201768075299",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Q0KS",
+    "en": "It's contested territory, but I'm working on a special device which needs parts only to be found up there. It doesn't matter if you're scared."
+  },
+  {
+    "id": "201768075300",
+    "key": "05_Anatoly_v1_TrespassingSvarog_OTR4",
+    "en": "I'll do it if it pays good."
+  },
+  {
+    "id": "201768075301",
+    "key": "05_Anatoly_v1_TrespassingSvarog_MMEJ",
+    "en": "If it pays <i>well,</i> you mean. I can provide adequate pay, sure."
+  },
+  {
+    "id": "201768075302",
+    "key": "05_Anatoly_v1_TrespassingSvarog_6R6J",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "201768075303",
+    "key": "05_Anatoly_v1_TrespassingSvarog_DUIN",
+    "en": "Seems I've failed to impart on you that I am not a patient man."
+  },
+  {
+    "id": "201768075304",
+    "key": "05_Anatoly_v1_TrespassingSvarog_OIMC",
+    "en": "Not interested."
+  },
+  {
+    "id": "201768075305",
+    "key": "05_Anatoly_v1_TrespassingSvarog_E928",
+    "en": "... Typical, brutish curtness. That's what I get for trusting your ilk..."
+  },
+  {
+    "id": "201768075306",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_5CET",
+    "en": "Where exactly are those Factories?"
+  },
+  {
+    "id": "201768075307",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_0UKY",
+    "en": "Write this down, if you know how. The Svarog Factories are up the road, Northeast of here. Big entrance, impossible to miss."
+  },
+  {
+    "id": "201768075308",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_HCUP",
+    "en": "That place is a war zone right now – Gunners against Bandits."
+  },
+  {
+    "id": "201768075309",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_3XVV",
+    "en": "Well, I'm sure it's nothing a scavenger can't handle. Let them kill each other, and slip in afterwards, or something."
+  },
+  {
+    "id": "201768075310",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_FGTA",
+    "en": "If you need better weapons, there is always Grigory, the arms dealer. He's set up shop in the Mire. Tell him I sent you."
+  },
+  {
+    "id": "201768075311",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_URJZ",
+    "en": "What exactly are the tools you need?"
+  },
+  {
+    "id": "201768075312",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_QC1I",
+    "en": "You wouldn't know them by sight; easier to get an entire toolbox. A Lyada Kit, preferably sealed."
+  },
+  {
+    "id": "201768075313",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_YJTT",
+    "en": "The device I'm working on has specialized parts, which... Well, there's no need to explain further."
+  },
+  {
+    "id": "201768075314",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_PWLS",
+    "en": "I don't have any more questions."
+  },
+  {
+    "id": "201768075315",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Quest_Questions_DAPM",
+    "en": "That's what the other scavenger said, before wasting my precious time."
+  },
+  {
+    "id": "201768075316",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Inform_Quest_L3GG",
+    "en": "Yes, Vulture? Have you procured the toolbox?"
+  },
+  {
+    "id": "201768075317",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Inform_Quest_3XSN",
+    "en": "Not yet."
+  },
+  {
+    "id": "201768075318",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Inform_Quest_FNHW",
+    "en": "I had some questions first..."
+  },
+  {
+    "id": "201768075319",
+    "key": "05_Anatoly_v1_Quest_Completed_DH62",
+    "en": "Let me check... Yes, exactly what I needed! I stand corrected on my harsh judgment of you. Now I can complete the Detector... "
+  },
+  {
+    "id": "201768075320",
+    "key": "05_Anatoly_v1_Quest_Completed_2BV1",
+    "en": "Now I can complete the Detector... I shall move my workstation immediately..."
+  },
+  {
+    "id": "201768075321",
+    "key": "05_Anatoly_v1_Quest_Completed_XUB6",
+    "en": "What about my reward?"
+  },
+  {
+    "id": "201768075322",
+    "key": "05_Anatoly_v1_Quest_Completed_ILFE",
+    "en": "Of course, of course. I believe this is suitable compensation?"
+  },
+  {
+    "id": "201768075323",
+    "key": "05_Anatoly_v1_Quest_Completed_IFRG",
+    "en": "I may need your help again soon, scavenger."
+  },
+  {
+    "id": "201768075324",
+    "key": "05_Anatoly_v1_Quest_Completed_HURV",
+    "en": "Quit rambling – your end of the deal. Now."
+  },
+  {
+    "id": "201768075325",
+    "key": "05_Anatoly_v1_Quest_Completed_CKH5",
+    "en": "Worry not – I’m a man of my word, and I have what I promised."
+  },
+  {
+    "id": "201768075326",
+    "key": "05_Anatoly_v1_Quest_Completed_T4N8",
+    "en": "Besides, I'll need your help again. Tell me if you want more work."
+  },
+  {
+    "id": "201768075327",
+    "key": "05_Anatoly_v1_CatchingCurrent_SMJ2",
+    "en": "There's much, <i>much</i> work to be done. I've finally begun to study the anomalous flux down the way, full-time, no distractions – and armed with a new invention: my \"Detector\". You shall help me test it!"
+  },
+  {
+    "id": "201768075328",
+    "key": "05_Anatoly_v1_CatchingCurrent_515M",
+    "en": "Hm. What are we \"detecting\"?"
+  },
+  {
+    "id": "201768075329",
+    "key": "05_Anatoly_v1_CatchingCurrent_Y0TL",
+    "en": "You see that ball of energy over there, don't you? I suspect it has a \"Core\" of sorts; a concentrated swirling of Mist..."
+  },
+  {
+    "id": "201768075330",
+    "key": "05_Anatoly_v1_CatchingCurrent_G57D",
+    "en": "This Detector will help you know where it is so you can fetch it for me. You'll need to get close to the energy flux before it can discern the Core's location."
+  },
+  {
+    "id": "201768075331",
+    "key": "05_Anatoly_v1_CatchingCurrent_BBWK",
+    "en": "Show me how to survive that and I'm in."
+  },
+  {
+    "id": "201768075332",
+    "key": "05_Anatoly_v1_CatchingCurrent_51MX",
+    "en": "I'll answer any questions you have. After all, I'll need the Detector back if something goes wrong with it."
+  },
+  {
+    "id": "201768075333",
+    "key": "05_Anatoly_v1_CatchingCurrent_HL7C",
+    "en": "Not going near that thing."
+  },
+  {
+    "id": "201768075334",
+    "key": "05_Anatoly_v1_CatchingCurrent_ZI77",
+    "en": "You were gung-ho when infiltrating Svarog, but a tiny ball of light makes you quiver? It will probably go away once you fetch the Core, you know."
+  },
+  {
+    "id": "201768075335",
+    "key": "05_Anatoly_v1_CatchingCurrent_VJWV",
+    "en": "Not interested right now."
+  },
+  {
+    "id": "201768075336",
+    "key": "05_Anatoly_v1_CatchingCurrent_6F55",
+    "en": "I'm not out here sweating the day away just for the <i>exercise.</i> I need to get work <i>done.</i> Don't <i>you?</i>"
+  },
+  {
+    "id": "201768075337",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_Z97D",
+    "en": "What is that \"ball of energy\", exactly?"
+  },
+  {
+    "id": "201768075338",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_VOYC",
+    "en": "I call it an Aspect: an anomalous manifestation of whatever the Mist is made of. You've seen and felt these before, I'm sure: sudden gusts of wind, waves of strange sounds, even out-of-body experiences! – all Aspects. This one I call the \"Flux\" variety."
+  },
+  {
+    "id": "201768075339",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_5KDO",
+    "en": "The Mist itself could be an Aspect, <i>oozing out</i> of something we could <i>find</i> one day. Wouldn't that be interesting, Vulture? To locate the <i>beating heart</i> of our <i>tyrant?</i>"
+  },
+  {
+    "id": "201768075340",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_G15A",
+    "en": "Been studying these Aspects long?"
+  },
+  {
+    "id": "201768075341",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_JNX8",
+    "en": "Yes, but this is the only one which yielded a proper look. I call it Flux because of its visible energy currents; yet such shallow comparisons are no better than a toddler's, hence the Detector."
+  },
+  {
+    "id": "201768075342",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_S45I",
+    "en": "And how do I use the Detector, then?"
+  },
+  {
+    "id": "201768075343",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_IIQ4",
+    "en": "Simply go near the Flux Aspect and the Detector will gradually work out the location of its Core, beeping louder the closer you get. Let it lead you."
+  },
+  {
+    "id": "201768075344",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_840T",
+    "en": "Being close to that thing hurts. How would I survive?"
+  },
+  {
+    "id": "201768075345",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_2NM0",
+    "en": "Cores float around their Aspects, but not always <i>too</i> close. With some patience, you <i>should</i> be able to catch one without getting blasted by the Flux's energy waves."
+  },
+  {
+    "id": "201768075346",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_LIV0",
+    "en": "How do I use the Detector?"
+  },
+  {
+    "id": "201768075347",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_HW8D",
+    "en": "Simply go near the Flux Aspect and the Detector will gradually work out the location of the Aspect's Core, beeping louder and louder to indicate your proximity. Let it lead you."
+  },
+  {
+    "id": "201768075348",
+    "key": "05_Anatoly_v1_CatchingCurrent_Inform_Quest_CQVU",
+    "en": "Yes? Why are you standing around there?"
+  },
+  {
+    "id": "201768075349",
+    "key": "05_Anatoly_v1_CatchingCurrent_Inform_Quest_17BF",
+    "en": "Working up the courage."
+  },
+  {
+    "id": "201768075350",
+    "key": "05_Anatoly_v1_CatchingCurrent_Inform_Quest_8RLH",
+    "en": "Oh, please. Don't think about it so hard."
+  },
+  {
+    "id": "201768075351",
+    "key": "05_Anatoly_v1_CatchingCurrent_Inform_Quest_GEGT",
+    "en": "I have a few questions, actually."
+  },
+  {
+    "id": "201768075352",
+    "key": "05_Anatoly_v1_CatchingCurrent_Inform_Quest_WALW",
+    "en": "A curious mind..."
+  },
+  {
+    "id": "201768075353",
+    "key": "05_Anatoly_v1_GetWelcomingMessage_5PYV",
+    "en": "Oh good, another scavenger... I am Anatoly; a man with no time for idle chatter."
+  },
+  {
+    "id": "201768075354",
+    "key": "05_Anatoly_v1_GetWelcomingMessage_0LL5",
+    "en": "Ah... Always this distinctive, muddy smell."
+  },
+  {
+    "id": "201768075355",
+    "key": "05_Anatoly_v1_GetWelcomingMessage_BX9O",
+    "en": "Here to sell some scavenged trinkets, I suppose."
+  },
+  {
+    "id": "201768075356",
+    "key": "05_Anatoly_v1_GetWelcomingMessage_EYE9",
+    "en": "Lovely time to be interrupted – please, go on."
+  },
+  {
+    "id": "201768075357",
+    "key": "05_Anatoly_v1_GetWelcomingMessage_7UIS",
+    "en": "Here to ask for some work?"
+  },
+  {
+    "id": "201768075358",
+    "key": "05_Anatoly_v1_GetTalkMessage_VBT1",
+    "en": "I need to talk about something."
+  },
+  {
+    "id": "201768075359",
+    "key": "05_Anatoly_v1_GetTalkMessage_BMQH",
+    "en": "Let me have a minute."
+  },
+  {
+    "id": "201768075360",
+    "key": "05_Anatoly_v1_GetTalkMessage_9RSN",
+    "en": "Want to talk a bit."
+  },
+  {
+    "id": "201768075361",
+    "key": "05_Anatoly_v1_GetTradeMessage_GSUQ",
+    "en": "Surely Mechanists are interested in trading?"
+  },
+  {
+    "id": "201768075362",
+    "key": "05_Anatoly_v1_GetTradeMessage_CT37",
+    "en": "Let me see what you're trading for."
+  },
+  {
+    "id": "201768075363",
+    "key": "05_Anatoly_v1_GetTradeMessage_3VW0",
+    "en": "I have some things to trade."
+  },
+  {
+    "id": "201776463872",
+    "key": "05_Anatoly_v1_Talk_5EC5",
+    "en": "*sigh* Fine."
+  },
+  {
+    "id": "201776463873",
+    "key": "05_Anatoly_v1_Talk_FAIP",
+    "en": "Do I really have to?"
+  },
+  {
+    "id": "201776463874",
+    "key": "05_Anatoly_v1_Talk_7R72",
+    "en": "Yes, yes..."
+  },
+  {
+    "id": "201776463875",
+    "key": "05_Anatoly_v1_TrespassingSvarog_7985",
+    "en": "... (Give Zhivan's Amulet)"
+  },
+  {
+    "id": "201776463876",
+    "key": "05_Anatoly_v1_TrespassingSvarog_1BSI",
+    "en": "Hired a Vulture recently? [give Zhivan's Amulet]"
+  },
+  {
+    "id": "201776463877",
+    "key": "05_Anatoly_v1_TrespassingSvarog_O6QX",
+    "en": "Take a look. [give Zhivan's Amulet]"
+  },
+  {
+    "id": "201776463878",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Incomplete_Quest_SA28",
+    "en": "Oh, I should've known... Scavengers like you move at your own damn pace."
+  },
+  {
+    "id": "201776463879",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Incomplete_Quest_D17O",
+    "en": "I am a busy man and can procure tools some other way. Hurry up or you won't be paid."
+  },
+  {
+    "id": "201776463880",
+    "key": "05_Anatoly_v1_TrespassingSvarog_Incomplete_Quest_QMF5",
+    "en": "What are you still doing here, then? Time is of the essence. <i>Go.</i>"
+  },
+  {
+    "id": "201776463881",
+    "key": "05_Anatoly_v1_Quest_Completed_O6TV",
+    "en": "I've found the toolbox."
+  },
+  {
+    "id": "201776463882",
+    "key": "05_Anatoly_v1_Quest_Completed_Y3K5",
+    "en": "Got the toolbox you needed."
+  },
+  {
+    "id": "201776463883",
+    "key": "05_Anatoly_v1_Quest_Completed_QTM3",
+    "en": "Got that junk you wanted."
+  },
+  {
+    "id": "201776463884",
+    "key": "05_Anatoly_v1_CatchingCurrent_ZFMY",
+    "en": "You said there's extra work?"
+  },
+  {
+    "id": "201776463885",
+    "key": "05_Anatoly_v1_CatchingCurrent_U75E",
+    "en": "What do you need next?"
+  },
+  {
+    "id": "201776463886",
+    "key": "05_Anatoly_v1_CatchingCurrent_0CDP",
+    "en": "Need help doing research?"
+  },
+  {
+    "id": "201776463887",
+    "key": "05_Anatoly_v1_CatchingCurrent_Incomplete_Quest_3IFE",
+    "en": "And here I thought you'd get this done quickly."
+  },
+  {
+    "id": "201776463888",
+    "key": "05_Anatoly_v1_CatchingCurrent_Incomplete_Quest_P7SL",
+    "en": "I wish other, better scavengers would come up to me sometimes."
+  },
+  {
+    "id": "201776463889",
+    "key": "05_Anatoly_v1_CatchingCurrent_Incomplete_Quest_DPHS",
+    "en": "The Aspect could disappear any second, and here you are wasting time."
+  },
+  {
+    "id": "201776463890",
+    "key": "05_Anatoly_v1_Trade_IKH7",
+    "en": "I might have some use for your muddied scraps."
+  },
+  {
+    "id": "201776463891",
+    "key": "05_Anatoly_v1_Trade_G0HF",
+    "en": "Let's work something out."
+  },
+  {
+    "id": "201776463892",
+    "key": "05_Anatoly_v1_Trade_Q961",
+    "en": "Make it worth my while, Vulture."
+  },
+  {
+    "id": "201776463893",
+    "key": "05_Anatoly_v1_Trade_WDY8",
+    "en": "Anything better than cheap trinkets?"
+  },
+  {
+    "id": "201776463894",
+    "key": "05_Anatoly_v1_Leave_RXQ9",
+    "en": "We've had a lovely chat; now scram."
+  },
+  {
+    "id": "201776463895",
+    "key": "05_Anatoly_v1_Leave_Z3ON",
+    "en": "Please leave me to my work, now."
+  },
+  {
+    "id": "201776463896",
+    "key": "05_Anatoly_v1_Leave_1E5A",
+    "en": "Go on, now. Return to me if you want to trade."
+  },
+  {
+    "id": "201776463897",
+    "key": "05_Anatoly_v1_Leave_AYSW",
+    "en": "Leave me be, now."
+  },
+  {
+    "id": "201776463898",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_YCLG",
+    "en": "Simple enough. I'll do it."
+  },
+  {
+    "id": "201776463899",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_ZF4O",
+    "en": "Glad we're speaking the same language."
+  },
+  {
+    "id": "201776463900",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_5XLL",
+    "en": "I'll think about it first."
+  },
+  {
+    "id": "201776463901",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_VE45",
+    "en": "Seems it wasn't a simple enough prompt? Must you <i>really</i> waste time mulling it over?"
+  },
+  {
+    "id": "201776463902",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_5447",
+    "en": "Got any other simple requests?"
+  },
+  {
+    "id": "201776463903",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Complete_1YBP",
+    "en": "See you."
+  },
+  {
+    "id": "201776463904",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Complete_2J6K",
+    "en": "Let me know if I'm needed again."
+  },
+  {
+    "id": "201776463905",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_HW4H",
+    "en": "I'll make that place safe."
+  },
+  {
+    "id": "201776463906",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_LAM9",
+    "en": "I like the confidence... But can you really pull it off?"
+  },
+  {
+    "id": "201776463907",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_UPCR",
+    "en": "I need some time to think."
+  },
+  {
+    "id": "201776463908",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_R5LG",
+    "en": "Lucky you. Time is the one thing a Vulture seems to have in abundance."
+  },
+  {
+    "id": "201776463909",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_RQI5",
+    "en": "Wanna know about a different request."
+  },
+  {
+    "id": "201776463910",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Complete_J4ZR",
+    "en": "Thank you."
+  },
+  {
+    "id": "201776463911",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Complete_G2B5",
+    "en": "Until next time."
+  },
+  {
+    "id": "201776463912",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_5UW8",
+    "en": "I can get you those items."
+  },
+  {
+    "id": "201776463913",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_1NMW",
+    "en": "Good. Hurry along, now."
+  },
+  {
+    "id": "201776463914",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_8LYX",
+    "en": "Don't know about this – will think on it."
+  },
+  {
+    "id": "201776463915",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_X015",
+    "en": "What could possibly be holding you back? Don't tell me it's some misguided feeling of allegiance..."
+  },
+  {
+    "id": "201776463916",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_5S62",
+    "en": "Do you have other requests?"
+  },
+  {
+    "id": "201776463917",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Complete_7Q2R",
+    "en": "Tell me if you need more."
+  },
+  {
+    "id": "201776463918",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Complete_52AL",
+    "en": "Good – long as it helps people."
+  },
+  {
+    "id": "201776463919",
+    "key": "05_Anatoly_Jobs_v1_GetJobsMessage_05LH",
+    "en": "Mechanists need anything from a Vulture?"
+  },
+  {
+    "id": "201776463920",
+    "key": "05_Anatoly_Jobs_v1_GetJobsMessage_9WMJ",
+    "en": "Need to hire a scavenger?"
+  },
+  {
+    "id": "201776463921",
+    "key": "05_Anatoly_Jobs_v1_GetJobsMessage_NSPP",
+    "en": "Got some sort of errand for me?"
+  },
+  {
+    "id": "201776463922",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_F4UY",
+    "en": "There are certain items I need. I will reward you for them. There, I kept it simple for you; I need not be questioned."
+  },
+  {
+    "id": "201776463923",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Show_E6XD",
+    "en": "To do my work, I often need some of the gross parts you Vultures come across in your... Work. A happy alignment of distinct lifestyles. Would you procure them for me?"
+  },
+  {
+    "id": "201776463924",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Complete_ILSR",
+    "en": "Efficient. I didn't expect that. Here – as I promised."
+  },
+  {
+    "id": "201776463925",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Complete_8EMT",
+    "en": "I wasn't wrong to trust you – despite my instincts."
+  },
+  {
+    "id": "201780658176",
+    "key": "05_Anatoly_Jobs_v1_SupplyRun_Complete_UVAK",
+    "en": "Alright, good job, good job. Now take this, and leave me to my work."
+  },
+  {
+    "id": "201780658177",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_9QKR",
+    "en": "There are entire areas around here which are full of materials, but impossible to get into. I need them cleared of danger so Vultures like yourself can get me their goods."
+  },
+  {
+    "id": "201780658178",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Show_JWKN",
+    "en": "My other suppliers have proven too cowardly to scour an area where I <i>know</i> good materials lie untouched. Go do what they couldn't."
+  },
+  {
+    "id": "201780658179",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Complete_D31V",
+    "en": "Area's all clear, then? Good, good. Here you go."
+  },
+  {
+    "id": "201780658180",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Complete_57I9",
+    "en": "I will reward you for your work – a surprising display of competence."
+  },
+  {
+    "id": "201780658181",
+    "key": "05_Anatoly_Jobs_v1_Scouting_Complete_KOYJ",
+    "en": "You did good – I'll give you that. Here's what we agreed on."
+  },
+  {
+    "id": "201780658182",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_GEAJ",
+    "en": "The lazy rabble is thriving through the Church’s charity, while men of science toil away with little reward. I grow sick of it. Bring me a few medical items to even the odds."
+  },
+  {
+    "id": "201780658183",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Show_SV6Z",
+    "en": "Men of science are much more important than men of faith. Don’t let ignorant Acolytes monopolize our resources; bring me their items."
+  },
+  {
+    "id": "201780658184",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Complete_LGZS",
+    "en": "Yes, this will even the odds. Us Mechanists will do with this what no Acolyte could."
+  },
+  {
+    "id": "201780658185",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Complete_EW5P",
+    "en": "Finally – decent medical products, in the hands of those who can study them."
+  },
+  {
+    "id": "201780658186",
+    "key": "05_Anatoly_Jobs_v1_MedicalEmergency_Complete_TTQQ",
+    "en": "You've done good for us Mechanists, Vulture. Here is your recompense."
+  },
+  {
+    "id": "201780658187",
+    "key": "05_Anatoly_Jobs_v1_NoQuestsAvailable_U7I3",
+    "en": "Got no more work for you – and no time to chit-chat."
+  },
+  {
+    "id": "201780658188",
+    "key": "05_Anatoly_Jobs_v1_NoQuestsAvailable_F6FJ",
+    "en": "I have no more requests for now. Leave me be."
+  },
+  {
+    "id": "201780658189",
+    "key": "05_Anatoly_Jobs_v1_NoQuestsAvailable_EOTL",
+    "en": "Got nothing else. Try me later – and <i>without</i> interrupting."
+  },
+  {
+    "id": "64865693149929472",
+    "key": "05_Anatoly_v1_GetRandomCropsAndRobbersStart_HZKF",
+    "en": "Do you have something for Bogdan?"
+  },
+  {
+    "id": "64865693191872512",
+    "key": "05_Anatoly_v1_GetRandomCropsAndRobbersStart_QH8J",
+    "en": "I'm supposed to pick something up."
+  },
+  {
+    "id": "64865693191872513",
+    "key": "05_Anatoly_v1_GetRandomCropsAndRobbersStart_TLLQ",
+    "en": "Bogdan told me to get some... Lime?"
+  },
+  {
+    "id": "64865693191872514",
+    "key": "05_Anatoly_v1_CropsAndRobbers_RMPK",
+    "en": "Hm, so he's got Vultures running around for him? Despite how \"organized\" they are? Seems hypocritical."
+  },
+  {
+    "id": "64865693191872515",
+    "key": "05_Anatoly_v1_CropsAndRobbers_B41F",
+    "en": "Just give me the lime."
+  },
+  {
+    "id": "64865693191872516",
+    "key": "05_Anatoly_v1_CropsAndRobbers_BP1C",
+    "en": "Of course. It's the bucket over there. Don't suppose you even know what it's for?"
+  },
+  {
+    "id": "114116129876934656",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_5MOY",
+    "en": "Oh, how tragic that I had to hire such a brute to be my lab rat. Cores are \"uncharted territory\"; this <i>alone</i> makes them valuable."
+  },
+  {
+    "id": "114116129923072000",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_6KJQ",
+    "en": "Advertise this new skill as you desire; surely another Mechanist around here will want for your Core-catching services. Nadezhda, for one. Although no one else can <i>analyze</i> them like <i>I.</i>"
+  },
+  {
+    "id": "114116129923072001",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_BY8Y",
+    "en": "If word gets out that you've managed to catch a Core, any learned man shall want to hire you... Nadezhda, who works right around the corner, might understand the significance of this..."
+  },
+  {
+    "id": "114116129923072002",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_HYI8",
+    "en": "Why is this a big deal, again?"
+  },
+  {
+    "id": "114116129923072003",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_JV5H",
+    "en": "You don't mind if I keep using the Detector?"
+  },
+  {
+    "id": "114116129923072004",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_NK4A",
+    "en": "Why not? Test it out some more; I'll make my own Mark II soon enough."
+  },
+  {
+    "id": "114116129923072005",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_R6EX",
+    "en": "It's here! A Flux Core... So radiant, so <i>bright!</i> Thank you, Vulture. Not many of your kind would be this reliable."
+  },
+  {
+    "id": "114116129923072006",
+    "key": "05_Anatoly_v1_CatchingCurrent_Complete_UMS4",
+    "en": "Now, I have no further need of you. You may take the Detector prototype as part of your reward. I have new designs in mind, but first – I shall study this Core for a while..."
+  },
+  {
+    "id": "114116129923072007",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentCompletedStart_BFR9",
+    "en": "Your invention worked."
+  },
+  {
+    "id": "114116129923072008",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentCompletedStart_S642",
+    "en": "This what you were looking for?"
+  },
+  {
+    "id": "114116129923072009",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentCompletedStart_U9HD",
+    "en": "The Core... Just like you said."
+  },
+  {
+    "id": "114116129923072010",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentStart_0CDP",
+    "en": "Need help doing research?"
+  },
+  {
+    "id": "114116129923072011",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentStart_U75E",
+    "en": "What do you need next?"
+  },
+  {
+    "id": "114116129923072012",
+    "key": "05_Anatoly_v1_GetRandomCatchingCurrentStart_ZFMY",
+    "en": "You said there's extra work?"
+  },
+  {
+    "id": "114116129923072013",
+    "key": "05_Anatoly_v1_GetRandomLeaveMessage_1E5A",
+    "en": "Go on, now. Return to me if you want to trade."
+  },
+  {
+    "id": "114116129923072014",
+    "key": "05_Anatoly_v1_GetRandomLeaveMessage_AYSW",
+    "en": "Leave me be, now."
+  },
+  {
+    "id": "114116129923072015",
+    "key": "05_Anatoly_v1_GetRandomLeaveMessage_RXQ9",
+    "en": "We've had a lovely chat; now scram."
+  },
+  {
+    "id": "114116129923072016",
+    "key": "05_Anatoly_v1_GetRandomLeaveMessage_Z3ON",
+    "en": "Please leave me to my work, now."
+  },
+  {
+    "id": "114116129923072017",
+    "key": "05_Anatoly_v1_GetRandomTalkStart_9RSN",
+    "en": "Want to talk a bit."
+  },
+  {
+    "id": "114116129923072018",
+    "key": "05_Anatoly_v1_GetRandomTalkStart_BMQH",
+    "en": "Let me have a minute."
+  },
+  {
+    "id": "114116129923072019",
+    "key": "05_Anatoly_v1_GetRandomTalkStart_VBT1",
+    "en": "I need to talk about something."
+  },
+  {
+    "id": "114116129923072020",
+    "key": "05_Anatoly_v1_GetRandomTradeMessage_G0HF",
+    "en": "Let's work something out."
+  },
+  {
+    "id": "114116129923072021",
+    "key": "05_Anatoly_v1_GetRandomTradeMessage_IKH7",
+    "en": "I might have some use for your muddied scraps."
+  },
+  {
+    "id": "114116129923072022",
+    "key": "05_Anatoly_v1_GetRandomTradeMessage_Q961",
+    "en": "Make it worth my while, Vulture."
+  },
+  {
+    "id": "114116129923072023",
+    "key": "05_Anatoly_v1_GetRandomTradeMessage_WDY8",
+    "en": "Anything better than cheap trinkets?"
+  },
+  {
+    "id": "114116129923072024",
+    "key": "05_Anatoly_v1_GetRandomTradeStart_3VW0",
+    "en": "I have some things to trade."
+  },
+  {
+    "id": "114116129923072025",
+    "key": "05_Anatoly_v1_GetRandomTradeStart_CT37",
+    "en": "Let me see what you're trading for."
+  },
+  {
+    "id": "114116129923072026",
+    "key": "05_Anatoly_v1_GetRandomTradeStart_GSUQ",
+    "en": "Surely Mechanists are interested in trading?"
+  },
+  {
+    "id": "114116129923072027",
+    "key": "05_Anatoly_v1_GetRandomTrespassingSvarogStart_1BSI",
+    "en": "Hired a Vulture recently? I'm taking over."
+  },
+  {
+    "id": "114116129923072028",
+    "key": "05_Anatoly_v1_GetRandomTrespassingSvarogStart_7985",
+    "en": "I'm taking over Zhivan's job."
+  },
+  {
+    "id": "114116129923072029",
+    "key": "05_Anatoly_v1_GetRandomTrespassingSvarogStart_O6QX",
+    "en": "Zhivan, the Vulture, is letting me take a job in his stead."
+  },
+  {
+    "id": "114796297608036352",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_11SO",
+    "en": "Gotta leave."
+  },
+  {
+    "id": "114796297629007872",
+    "key": "05_Anatoly_v1_CatchingCurrent_Quest_Questions_FLY2",
+    "en": "Be careful; you're holding a one-of-a-kind invention."
+  },
+  {
+    "id": "120661453114245120",
+    "key": "05_Anatoly_Jobs_v1_GetRandomMutantExterminationStart_I5R3",
+    "en": "Killing Mutants is all you Vulture brutes are good for, so why don't you take care of a few pests around Sontse?"
+  },
+  {
+    "id": "120661453151993856",
+    "key": "05_Anatoly_Jobs_v1_GetRandomMutantExterminationStart_2J3O",
+    "en": "I need you to step in for those incompetent Palatines and make this area more secure. Kill a few Mutants around here and I'll pay."
+  },
+  {
+    "id": "120661453151993857",
+    "key": "05_Anatoly_Jobs_v1_GetRandomMutantExterminationComplete_YSPR",
+    "en": "You're done with the extermination? Good. Not a moment too soon."
+  },
+  {
+    "id": "120661453151993858",
+    "key": "05_Anatoly_Jobs_v1_GetRandomMutantExterminationComplete_5IAX",
+    "en": "I see you have good news. You're more reliable than I assumed."
+  },
+  {
+    "id": "120661453151993859",
+    "key": "05_Anatoly_Jobs_v1_GetRandomKillBanditsStart_4XE6",
+    "en": "I've been having some trouble with Bandits lately. They're disrupting our routine here at Sontse. Make yourself useful and kill some of them off for us."
+  },
+  {
+    "id": "120661453151993860",
+    "key": "05_Anatoly_Jobs_v1_GetRandomKillBanditsStart_7RQR",
+    "en": "You're good at killing Bandits, I presume? I need a squad that's been operating around here to <i>go.</i> They've been getting to close to our trade routes."
+  },
+  {
+    "id": "120661453151993861",
+    "key": "05_Anatoly_Jobs_v1_GetRandomKillBanditsComplete_5V5M",
+    "en": "You've dealt with the problem, then? As expected – here is your reward."
+  },
+  {
+    "id": "120661453151993862",
+    "key": "05_Anatoly_Jobs_v1_GetRandomKillBanditsComplete_4B4K",
+    "en": "Took you long enough. But at least we've sent a message to those scum."
+  },
+  {
+    "id": "120661453151993863",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_GDVH",
+    "en": "I'll do it."
+  },
+  {
+    "id": "120661453151993864",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_OXXY",
+    "en": "Good to know."
+  },
+  {
+    "id": "120661453151993865",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_R407",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "120661453151993866",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_QW2O",
+    "en": "Right: you are fond of wasting everyone's time."
+  },
+  {
+    "id": "120661453151993867",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_D2JC",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "120661453151993868",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_GCCB",
+    "en": "Next time won't be so cheap."
+  },
+  {
+    "id": "120661453151993869",
+    "key": "05_Anatoly_Jobs_v1_MutantExtermination_WETY",
+    "en": "Until next time."
+  },
+  {
+    "id": "120661453151993870",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_V54V",
+    "en": "I'll kill them all. "
+  },
+  {
+    "id": "120661453151993871",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_EO2I",
+    "en": "I appreciate the confidence, but will await the results."
+  },
+  {
+    "id": "120661453151993872",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_2EJ3",
+    "en": "I'll think about it."
+  },
+  {
+    "id": "120661453151993873",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_1K51",
+    "en": "Agh. Typical..."
+  },
+  {
+    "id": "120661453151993874",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_UJJX",
+    "en": "Any other requests?"
+  },
+  {
+    "id": "120661453151993875",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_KOK7",
+    "en": "That was risky. Next time'll cost you."
+  },
+  {
+    "id": "120661453151993876",
+    "key": "05_Anatoly_Jobs_v1_KillBandits_LS01",
+    "en": "I'll be back for more jobs."
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "id": "290804146176",
+    "key": "26_Ropeburn_v1_GetWelcomingMessage_PSRI",
+    "en": "<i>Easy</i> there, friend. Name's Ropeburn; I'm not like other Bandits. C'mon, let's have a chat.",
+    "pl": "<i>Spokojnie,</i> przyjacielu. Mówią mi Ropeburn. Nie jestem jak inni Bandyci. Chodź, pogadajmy."
+  },
+  {
+    "id": "290812534784",
+    "key": "26_Ropeburn_v1_GetWelcomingMessage_F3TJ",
+    "en": "Heya, Vulture. Holding strong?",
+    "pl": "Hej, Sępie. Trzymasz się?"
+  },
+  {
+    "id": "290812534785",
+    "key": "26_Ropeburn_v1_GetWelcomingMessage_PKOQ",
+    "en": "What's new, scav?",
+    "pl": "Co nowego, zbieraczu?"
+  },
+  {
+    "id": "290812534786",
+    "key": "26_Ropeburn_v1_GetWelcomingMessage_RXU2",
+    "en": "Look who it is.",
+    "pl": "No proszę, kogo my tu mamy."
+  },
+  {
+    "id": "290812534787",
+    "key": "26_Ropeburn_v1_GetWelcomingMessage_UCV7",
+    "en": "Oh, what a pleasure.",
+    "pl": "Och, co za przyjemność."
+  },
+  {
+    "id": "290812534788",
+    "key": "26_Ropeburn_v1_GetRandomTalkStart_EQR4",
+    "en": "Guess I'll <i>talk</i> with the Bandit...",
+    "pl": "Chyba sobie <i>pogadam</i> z Bandytą..."
+  },
+  {
+    "id": "290812534789",
+    "key": "26_Ropeburn_v1_GetRandomTalkStart_EJ84",
+    "en": "Need to talk to you.",
+    "pl": "Muszę z tobą porozmawiać."
+  },
+  {
+    "id": "290812534790",
+    "key": "26_Ropeburn_v1_GetRandomTalkStart_4OD5",
+    "en": "We should talk.",
+    "pl": "Powinniśmy pogadać."
+  },
+  {
+    "id": "290812534791",
+    "key": "26_Ropeburn_v1_GetRandomTradeStart_633Z",
+    "en": "Bandits know how to trade?",
+    "pl": "Bandyci umieją handlować?"
+  },
+  {
+    "id": "290812534792",
+    "key": "26_Ropeburn_v1_GetRandomTradeStart_Z9SD",
+    "en": "Looking to trade.",
+    "pl": "Chcę pohandlować."
+  },
+  {
+    "id": "290812534793",
+    "key": "26_Ropeburn_v1_GetRandomTradeStart_UT4Y",
+    "en": "Anything worth trading?",
+    "pl": "Masz coś wartego wymiany?"
+  },
+  {
+    "id": "290812534794",
+    "key": "26_Ropeburn_v1_GetRandomTradeMessage_LQBS",
+    "en": "Sure, why not.",
+    "pl": "Jasne, czemu nie."
+  },
+  {
+    "id": "290812534795",
+    "key": "26_Ropeburn_v1_GetRandomTradeMessage_H90F",
+    "en": "Not usually my thing, but let's.",
+    "pl": "Zwykle się tym nie zajmuję, ale niech będzie."
+  },
+  {
+    "id": "290812534796",
+    "key": "26_Ropeburn_v1_GetRandomTradeMessage_HWE9",
+    "en": "Can't hurt to try.",
+    "pl": "Nie zaszkodzi spróbować."
+  },
+  {
+    "id": "290812534797",
+    "key": "26_Ropeburn_v1_GetRandomTradeMessage_XN06",
+    "en": "Been a while since I've done this.",
+    "pl": "Dawno tego nie robiłem."
+  },
+  {
+    "id": "290812534798",
+    "key": "26_Ropeburn_v1_GetRandomLeaveMessage_354H",
+    "en": "Later, hotshot.",
+    "pl": "Do potem, kozak."
+  },
+  {
+    "id": "290812534799",
+    "key": "26_Ropeburn_v1_GetRandomLeaveMessage_YOID",
+    "en": "Don't sneak up on me next time.",
+    "pl": "Następnym razem się nie skradaj."
+  },
+  {
+    "id": "290812534800",
+    "key": "26_Ropeburn_v1_GetRandomLeaveMessage_LFEP",
+    "en": "I'll be around.",
+    "pl": "Będę w pobliżu."
+  },
+  {
+    "id": "290812534801",
+    "key": "26_Ropeburn_v1_GetRandomLeaveMessage_T3JX",
+    "en": "Go get your scraps, hustler.",
+    "pl": "Leć po swoje graty, kombinatorze."
+  },
+  {
+    "id": "290812534802",
+    "key": "26_Ropeburn_v1_GetRandomLeaveMessage_YXHE",
+    "en": "Hope you find some extra shiny junk today.",
+    "pl": "Obyś znalazł dziś wyjątkowo błyszczący złom."
+  },
+  {
+    "id": "290812534803",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesStart_R88U",
+    "en": "You got a <i>reason</i> to be here?",
+    "pl": "Masz jakiś <i>powód,</i> żeby tu być?"
+  },
+  {
+    "id": "290812534804",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesStart_FK9Y",
+    "en": "You're staring too hard. Suspicious.",
+    "pl": "Za bardzo się gapisz. Podejrzane."
+  },
+  {
+    "id": "290812534805",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesStart_PNWN",
+    "en": "You're staring. We have a problem?",
+    "pl": "Gapisz się. Mamy jakiś problem?"
+  },
+  {
+    "id": "290812534806",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesCompletedStart_1S3P",
+    "en": "Picked up both transmissions.",
+    "pl": "Odebrałem obie transmisje."
+  },
+  {
+    "id": "290812534807",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesCompletedStart_S5FX",
+    "en": "I'm done spying around.",
+    "pl": "Skończyłem szpiegowanie."
+  },
+  {
+    "id": "290812534808",
+    "key": "26_Ropeburn_v1_GetRandomOutsideInfluencesCompletedStart_3DQT",
+    "en": "All done playing spy.",
+    "pl": "Koniec zabawy w szpiega."
+  },
+  {
+    "id": "290812534809",
+    "key": "26_Ropeburn_v1_GetRandomScavengersStart_B8LY",
+    "en": "What was that...?",
+    "pl": "Co to było...?"
+  },
+  {
+    "id": "290812534810",
+    "key": "26_Ropeburn_v1_GetRandomScavengersStart_CTJQ",
+    "en": "Did you hear that, Ropeburn?",
+    "pl": "Słyszałeś to, Ropeburn?"
+  },
+  {
+    "id": "290812534811",
+    "key": "26_Ropeburn_v1_GetRandomScavengersStart_FCPH",
+    "en": "That sudden transmission... How?",
+    "pl": "Ta nagła transmisja... Jak?"
+  },
+  {
+    "id": "290812534812",
+    "key": "26_Ropeburn_v1_Talk_HNW2",
+    "en": "... How do you know my name?",
+    "pl": "... Skąd znasz moje imię?"
+  },
+  {
+    "id": "290812534813",
+    "key": "26_Ropeburn_v1_Talk_FL8L",
+    "en": "Oh, hmm. We must've met at some point, done a job together or something, your name just slipped right out. I kinda tried a bunch of factions before deciding on the highwayman's life, after all.",
+    "pl": "Och, hmm. Musieliśmy się kiedyś spotkać, robić razem jakieś zlecenie czy coś. Samo mi się wymsknęło. Przewinąłem się przez sporo frakcji, zanim wybrałem życie rozbójnika."
+  },
+  {
+    "id": "290812534814",
+    "key": "26_Ropeburn_v1_Talk_Z850",
+    "en": "I've been around, can't you tell? Look at the wrinkles! Ha. It's not a big deal either way, right, Vulture?",
+    "pl": "Trochę już pożyłem, nie widać? Spójrz na zmarszczki! Ha. Zresztą to bez znaczenia, prawda, Sępie?"
+  },
+  {
+    "id": "290812534815",
+    "key": "26_Ropeburn_v1_Talk_22LY",
+    "en": "You're... A friendly Bandit, then?",
+    "pl": "Czyli jesteś... przyjaznym Bandytą?"
+  },
+  {
+    "id": "290812534816",
+    "key": "26_Ropeburn_v1_Talk_DZNT",
+    "en": "I'm one-of-a-kind, what can I say. Though it's less like \"friendly\" and more like \"neutral\", so don't get ahead of yourself.",
+    "pl": "Jedyny w swoim rodzaju, co poradzę. Choć bardziej „neutralny” niż „przyjazny”, więc nie zapędzaj się."
+  },
+  {
+    "id": "290812534817",
+    "key": "26_Ropeburn_v1_Talk_9HC3",
+    "en": "Only <i>neutral</i> Bandit I've ever seen.",
+    "pl": "Jedyny <i>neutralny</i> Bandyta, jakiego widziałem."
+  },
+  {
+    "id": "290812534818",
+    "key": "26_Ropeburn_v1_Talk_0DPO",
+    "en": "Well, I tried different groups, meandered a lil' bit in life. Saw how folks operate to survive 'round here. Decided being a Bandit was easier – more simple.",
+    "pl": "Próbowałem różnych grup, trochę błądziłem w życiu. Widziałem, jak ludzie kombinują, żeby tu przetrwać. Uznałem, że bycie Bandytą jest łatwiejsze. Prostsze."
+  },
+  {
+    "id": "290812534819",
+    "key": "26_Ropeburn_v1_Talk_VX6D",
+    "en": "Never was as much of a misanthrope as my colleagues, so you don't have to be on edge, Vulture. I got <i>food,</i> I got <i>shelter.</i> No reason to make trouble.",
+    "pl": "Nigdy nie byłem takim mizantropem jak moi koledzy, więc nie musisz się spinać, Sępie. Mam <i>jedzenie,</i> mam <i>schronienie.</i> Po co robić kłopoty?"
+  },
+  {
+    "id": "290812534820",
+    "key": "26_Ropeburn_v1_Talk_IGUS",
+    "en": "Not really winning me over.",
+    "pl": "Niezbyt mnie przekonujesz."
+  },
+  {
+    "id": "290812534821",
+    "key": "26_Ropeburn_v1_Talk_SUAP",
+    "en": "Hey, it's actions that count, not words. And I could've started shooting soon as I saw you stumbling over here.",
+    "pl": "Hej, liczą się czyny, nie słowa. Mogłem zacząć strzelać, gdy tylko zobaczyłem, jak się tu wleczesz."
+  },
+  {
+    "id": "290812534822",
+    "key": "26_Ropeburn_v1_Talk_FIPF",
+    "en": "Wouldn't be your first time being shot by Bandits, would it? Ha, just a hunch.",
+    "pl": "Pewnie nie pierwszy raz strzelaliby do ciebie Bandyci, co? Ha, takie przeczucie."
+  },
+  {
+    "id": "290812534823",
+    "key": "26_Ropeburn_v1_Talk_92L5",
+    "en": "What are you doing here?",
+    "pl": "Co tu robisz?"
+  },
+  {
+    "id": "290812534824",
+    "key": "26_Ropeburn_v1_Talk_DY9A",
+    "en": "Gettin' away from that hellscape at the Factories, for one. Svarog's a nice home base, we should've known some bastards woulda come knocking before long.",
+    "pl": "Na początek: uciekam z piekła przy fabrykach. Svarog to niezła baza, mogliśmy przewidzieć, że w końcu jacyś dranie zapukają do drzwi."
+  },
+  {
+    "id": "290812534825",
+    "key": "26_Ropeburn_v1_Talk_SKNQ",
+    "en": "Could've been Palatines, but it's Gunners instead. They're even <i>tougher.</i> Spent five days holed up in a corner, fending off those gangsters, before I saw an opening to come here. Not eager to get back there.",
+    "pl": "Mogli to być Palatyni, ale trafili się Strzelcy. Jeszcze <i>twardsi.</i> Pięć dni siedziałem zaszyty w kącie, odpierając tych gangsterów, zanim trafiła się okazja, żeby tu uciec. Nie spieszę się z powrotem."
+  },
+  {
+    "id": "290812534826",
+    "key": "26_Ropeburn_v1_Talk_6BN8",
+    "en": "What's Kharon?",
+    "pl": "Co to Kharon?"
+  },
+  {
+    "id": "290812534827",
+    "key": "26_Ropeburn_v1_Talk_TZC6",
+    "en": "Soldiers from the West. That's all we know, based on their looks, their gear. They've been rampaging through Zalesye... Soon as they got here from the Highway, they burned your Villa down.",
+    "pl": "Żołnierze z Zachodu. Tyle wiemy z ich wyglądu i wyposażenia. Sieją spustoszenie w Zalesye... Gdy tylko przybyli autostradą, spalili wam Willę."
+  },
+  {
+    "id": "290812534828",
+    "key": "26_Ropeburn_v1_Talk_FIOI",
+    "en": "Now they're movin' further and further West, into the Dola Oblast, but... What is it they came here to <i>do,</i> why the sudden show of violence? We got no clue, zilch.",
+    "pl": "Teraz idą coraz dalej na zachód, w głąb obwodu Dola, ale... Po co tu w ogóle <i>przyszli,</i> skąd ta nagła przemoc? Nie mamy pojęcia. Ani trochę."
+  },
+  {
+    "id": "290812534829",
+    "key": "26_Ropeburn_v1_Talk_YLWQ",
+    "en": "What's with all the Mudlarks here?",
+    "pl": "Skąd tu tylu Błotniarzy?"
+  },
+  {
+    "id": "290812534830",
+    "key": "26_Ropeburn_v1_Talk_CAEE",
+    "en": "C'mon, don't act like you don't know. Probably looking for the same thing they are... <i>Everyone's</i> tryin' to get to that bunker you just came out of. Find ourselves some... <i>Compounds.</i>",
+    "pl": "Daj spokój, nie udawaj, że nie wiesz. Pewnie szukasz tego samego co oni... <i>Wszyscy</i> próbują dostać się do bunkra, z którego właśnie wyszedłeś. Znaleźć trochę... <i>Substancji.</i>"
+  },
+  {
+    "id": "290812534831",
+    "key": "26_Ropeburn_v1_Talk_PYCZ",
+    "en": "Thanks for openin' up a path for us, I guess. Although it's opened for those Gunners too... They might be coming this way now...",
+    "pl": "Chyba powinienem podziękować za otwarcie drogi. Choć otworzyłeś ją też Strzelcom... Może już tu idą..."
+  },
+  {
+    "id": "290812534832",
+    "key": "26_Ropeburn_v1_Talk_KA70",
+    "en": "About this Kharon group...",
+    "pl": "Co do tej grupy Kharon..."
+  },
+  {
+    "id": "290812534833",
+    "key": "26_Ropeburn_v1_Talk_NUOX",
+    "en": "Never mind; I have to go.",
+    "pl": "Nieważne, muszę iść."
+  },
+  {
+    "id": "290812534834",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_K084",
+    "en": "You've seen them up close?",
+    "pl": "Widziałeś ich z bliska?"
+  },
+  {
+    "id": "290812534835",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_GC22",
+    "en": "Nah, just spied from afar, don't got a death wish. No getting up close to those guys without being spotted, they all got tools that see you comin' from a mile away.",
+    "pl": "Nie, obserwowałem z daleka, nie szukam śmierci. Nie podejdziesz do nich niezauważony. Wszyscy mają sprzęt, który wypatrzy cię z kilometra."
+  },
+  {
+    "id": "290812534836",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_ERY5",
+    "en": "Those soldiers come from a world that hasn't stopped in time like ours did. They're bound to have better <i>toys.</i> It's why we don't see <i>their</i> corpses lying around.",
+    "pl": "Ci żołnierze przybyli ze świata, który nie zatrzymał się w czasie jak nasz. Muszą mieć lepsze <i>zabawki.</i> Dlatego nie widujemy <i>ich</i> trupów."
+  },
+  {
+    "id": "290812534837",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_QPAQ",
+    "en": "How come they've gone quiet?",
+    "pl": "Czemu zrobiło się o nich cicho?"
+  },
+  {
+    "id": "290812534838",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_IEZR",
+    "en": "After burnin' down your whole ghetto, I thought they'd be more... Active 'round here, too. But they just went straight to the Dola, and did their best to block the way over too...",
+    "pl": "Po spaleniu całego waszego getta myślałem, że będą tu bardziej... Aktywni. Ale poszli prosto do Doli i postarali się zablokować przejście..."
+  },
+  {
+    "id": "290812534839",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_5KHB",
+    "en": "Something wild's about to go down in the Oblast, scav. I'd stay away from there... Unless you want some revenge on the bastards or something.",
+    "pl": "W obwodzie szykuje się coś grubego, zbieraczu. Trzymałbym się z dala... Chyba że chcesz się jakoś zemścić na draniach."
+  },
+  {
+    "id": "290812534840",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_WX47",
+    "en": "Wonder if they're taking new recruits.",
+    "pl": "Ciekawe, czy przyjmują rekrutów."
+  },
+  {
+    "id": "290812534841",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_CPGM",
+    "en": "Ha! Good joke. One little peep of beefed-up infantry and we all get our career hopes up. No no no...",
+    "pl": "Ha! Dobry żart. Wystarczy raz zobaczyć przypakowaną piechotę i już marzy się nam kariera. Nie, nie, nie..."
+  },
+  {
+    "id": "290812534842",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_D7V5",
+    "en": "No, that group of soldiers is the world telling our Continent that we've <i>lost the war.</i> They couldn't possibly <i>recruit</i> us for anything other than <i>slave labor.</i> To the victor go the spoils.",
+    "pl": "Nie, przez tych żołnierzy świat mówi naszemu Kontynentowi, że <i>przegraliśmy wojnę.</i> Mogą nas co najwyżej <i>zwerbować</i> do <i>niewolniczej pracy.</i> Łupy należą do zwycięzcy."
+  },
+  {
+    "id": "290812534843",
+    "key": "26_Ropeburn_v1_Talk_About_Kharon_XG97",
+    "en": "Let's talk about something else.",
+    "pl": "Porozmawiajmy o czymś innym."
+  },
+  {
+    "id": "290812534844",
+    "key": "26_Ropeburn_v1_OutsideInfluences_OYGS",
+    "en": "There's no need for aggression, Vulture. Not all Bandits are shoot-on-sight, y'know? And you're drawing a lot of attention to yourself, so it's not like I didn't have a shot there.",
+    "pl": "Nie trzeba agresji, Sępie. Nie wszyscy Bandyci strzelają od razu, wiesz? A rzucasz się w oczy, więc okazję miałem."
+  },
+  {
+    "id": "290812534845",
+    "key": "26_Ropeburn_v1_OutsideInfluences_DZNV",
+    "en": "We been trying to open that bunker door there for a while, and you just pop out like nothin'. Lemme guess – you were looking for Herb ingredients? Tryin' to have a trip?",
+    "pl": "Od jakiegoś czasu próbujemy otworzyć ten bunkier, a ty wychodzisz, jak gdyby nigdy nic. Niech zgadnę: szukałeś składników ziela? Chcesz odlecieć?"
+  },
+  {
+    "id": "290812534846",
+    "key": "26_Ropeburn_v1_OutsideInfluences_0IER",
+    "en": "... There's things I want to see again.",
+    "pl": "... Są rzeczy, które chcę znów zobaczyć."
+  },
+  {
+    "id": "290812534847",
+    "key": "26_Ropeburn_v1_OutsideInfluences_JNUO",
+    "en": "Hmm, had a taste of the afterlife or something? If I were the guessin' type, I'd say you look like you've seen one of them red floating Cores. Those will give you some <i>wild</i> visions.",
+    "pl": "Hmm, posmakowałeś zaświatów czy co? Gdybym miał zgadywać, wyglądasz na kogoś, kto widział jeden z tych czerwonych, unoszących się Rdzeni. Dają naprawdę <i>dzikie</i> wizje."
+  },
+  {
+    "id": "290812534848",
+    "key": "26_Ropeburn_v1_OutsideInfluences_DTU5",
+    "en": "Not your concern.",
+    "pl": "Nie twoja sprawa."
+  },
+  {
+    "id": "290812534849",
+    "key": "26_Ropeburn_v1_OutsideInfluences_FEAC",
+    "en": "I get it, I don't judge. Had myself a trip recently, staring at this red, floating orb thing. Looked like one of them Cores, but even more powerful. Was thinking maybe you'd seen the same thing.",
+    "pl": "Rozumiem, nie oceniam. Sam ostatnio odleciałem, patrząc na taką czerwoną, lewitującą kulę. Wyglądała jak Rdzeń, tylko potężniejsza. Pomyślałem, że może widziałeś to samo."
+  },
+  {
+    "id": "290812534850",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_TNO8",
+    "en": "Yeah... Saw something just like that. A Core... But...",
+    "pl": "Tak... Widziałem coś takiego. Rdzeń... Ale..."
+  },
+  {
+    "id": "290812534851",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_S42T",
+    "en": "Haha, I <i>knew</i> it! Why else would a scav be so desperate to get their hands on them Herbs, like an old drunkard? It was probably after they burned your Villa down, no? The trick to see that type of Core is to go where dozens of folk are <i>dying.</i>",
+    "pl": "Haha, <i>wiedziałem!</i> Inaczej czemu zbieracz tak rozpaczliwie szukałby ziela jak stary pijaczyna? Pewnie po spaleniu waszej Willi, co? Żeby zobaczyć taki Rdzeń, trzeba iść tam, gdzie <i>giną</i> dziesiątki ludzi."
+  },
+  {
+    "id": "290812534852",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_XKDB",
+    "en": "No... Why do you think that?",
+    "pl": "Nie... Czemu tak myślisz?"
+  },
+  {
+    "id": "290812534853",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_5J8Y",
+    "en": "Oh, just a guess. Thought maybe one of them appeared after those soldiers from the West burned your Villa down. That's what causes that particular Core to show up, y'know? Concentrated murder. And then it disappears <i>real</i> fast.",
+    "pl": "Och, zgaduję. Pomyślałem, że może jeden się pojawił, gdy ci żołnierze z Zachodu spalili waszą Willę. Wiesz, właśnie to je wywołuje. Skoncentrowany mord. A potem znikają <i>bardzo</i> szybko."
+  },
+  {
+    "id": "290812534854",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_NBRQ",
+    "en": "But let's switch gears a bit. I think you're just the man I needed. Resourceful... Motivated. I know Vultures are all about doin' odd jobs to scrape by. Welp, I got a gig for you.",
+    "pl": "Ale zmieńmy trochę temat. Chyba jesteś człowiekiem, którego potrzebowałem. Zaradny... Zmotywowany. Wiem, że Sępy biorą dorywcze roboty, żeby się utrzymać. No i mam dla ciebie fuchę."
+  },
+  {
+    "id": "290812534855",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_PCD0",
+    "en": "I don't wanna hear it.",
+    "pl": "Nie chcę o tym słyszeć."
+  },
+  {
+    "id": "290812534856",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_TO58",
+    "en": "You'll find it difficult to get out of here without some help, y'know.",
+    "pl": "Bez pomocy trudno ci będzie się stąd wydostać, wiesz."
+  },
+  {
+    "id": "290812534857",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Core_Reveal_AXU6",
+    "en": "... Let's hear it.",
+    "pl": "... Słucham."
+  },
+  {
+    "id": "290812534858",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Explanation_1IQL",
+    "en": "This thing back here, you know what it is? Radio gear. You know those soldiers who invaded Zalesye, right? <i>Kharon.</i> This is a pretty modern radio one of them \"dropped\".",
+    "pl": "Wiesz, co to za mną? Sprzęt radiowy. Kojarzysz żołnierzy, którzy najechali Zalesye? <i>Kharon.</i> To całkiem nowoczesne radio, które jeden z nich „zgubił”."
+  },
+  {
+    "id": "290812534859",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Explanation_8GZQ",
+    "en": "It's in our interest to know what those fuckers are up to. Already massacred you Vultures – could be coming for <i>us</i> next. Problem is, they've been moving further West – into the Dola – and out of this thing's <i>range.</i>",
+    "pl": "W naszym interesie leży wiedzieć, co te skurwiele knują. Was, Sępy, już wyrżnęli. Następni możemy być <i>my.</i> Problem w tym, że idą coraz dalej na zachód, do Doli, poza <i>zasięg</i> tego urządzenia."
+  },
+  {
+    "id": "290812534860",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Explanation_L8OY",
+    "en": "I've set up a couple of signal repeaters around town. Could take the radio for a spin, pick up some transmissions, relay back the info. Then rendezvous somewhere safe... The Burned Villa, maybe... To stash the radio and split up. You down?",
+    "pl": "Rozstawiłem w okolicy parę przekaźników sygnału. Możesz zabrać radio na spacer, przechwycić transmisje i przekazać informacje. Potem spotkamy się w bezpiecznym miejscu... Może przy spalonej Willi... Schowamy radio i się rozdzielimy. Wchodzisz w to?"
+  },
+  {
+    "id": "290812534861",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_R127",
+    "en": "Spying on those who burned my shack? I'm in.",
+    "pl": "Szpiegować tych, co spalili mi dom? Wchodzę."
+  },
+  {
+    "id": "290812534862",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_45JA",
+    "en": "Atta boy. Ask me any deets you need to know.",
+    "pl": "Tak trzymać. Pytaj o szczegóły, które chcesz znać."
+  },
+  {
+    "id": "290812534863",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_AAMU",
+    "en": "I want nothing to do with any of that.",
+    "pl": "Nie chcę mieć z tym nic wspólnego."
+  },
+  {
+    "id": "290812534864",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_0ETY",
+    "en": "Of course. I mean, you'd be gettin' back at them a lil' bit, but... Feel free to strut around a little before you change your mind.",
+    "pl": "Oczywiście. Trochę byś im się odgryzł, ale... Śmiało, pospaceruj sobie, zanim zmienisz zdanie."
+  },
+  {
+    "id": "290812534865",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_GJAU",
+    "en": "I have some questions first.",
+    "pl": "Najpierw mam kilka pytań."
+  },
+  {
+    "id": "290812534866",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Decision_J3YI",
+    "en": "Well if you weren't curious you wouldn't be the man for the job, so shoot.",
+    "pl": "Gdybyś nie był ciekawy, nie nadawałbyś się do tej roboty. Strzelaj."
+  },
+  {
+    "id": "290812534867",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_HG4Z",
+    "en": "If it's a simple job...",
+    "pl": "Skoro to prosta robota..."
+  },
+  {
+    "id": "290812534868",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_FY8N",
+    "en": "Why don't <i>I</i> go, right? Don't know if you've noticed, but there's a bit of an ongoing conflict 'tween Bandits and Gunners over at Svarog, right around the corner there.",
+    "pl": "To czemu <i>sam</i> nie pójdę, tak? Nie wiem, czy zauważyłeś, ale za rogiem, w Svarogu, trwa mały konflikt między Bandytami a Strzelcami."
+  },
+  {
+    "id": "290812534869",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_BW5M",
+    "en": "I finally got away from it. Here at the Highway, no one bothers to look for me. But if I leave, and start wavin' a radio around... Too much attention, man. I'd rather <i>you</i> do it.",
+    "pl": "Wreszcie się stamtąd wyrwałem. Tu przy autostradzie nikt mnie nie szuka. Ale jeśli wyjdę i zacznę machać radiem... Za bardzo będę się rzucał w oczy. Wolę, żebyś <i>ty</i> to zrobił."
+  },
+  {
+    "id": "290812534870",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_QFRX",
+    "en": "What's in it for me?",
+    "pl": "Co z tego będę miał?"
+  },
+  {
+    "id": "290812534871",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_P51H",
+    "en": "Well, you're tryin' to get your hands on some Mudlark herbs, no? That'll cost ya. What if I covered those? We're talkin' a nice, juicy reward for a pretty standard gig, here.",
+    "pl": "Chcesz dostać trochę ziela Błotniarzy, prawda? To kosztuje. A gdybym pokrył te koszty? Mówimy o porządnej nagrodzie za dość zwyczajną fuchę."
+  },
+  {
+    "id": "290812534872",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_BJHU",
+    "en": "Hmm...",
+    "pl": "Hmm..."
+  },
+  {
+    "id": "290812534873",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_XD2O",
+    "en": "Come on now, don't try to bluff with me. You scavs are always taking gigs for like, a lump of old bread and a bandage. I'm offerin' something nicer.",
+    "pl": "Daj spokój, nie blefuj. Zbieracze wiecznie biorą roboty za kawał starego chleba i bandaż. Oferuję coś lepszego."
+  },
+  {
+    "id": "290812534874",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_GJMR",
+    "en": "Already got the money.",
+    "pl": "Mam już pieniądze."
+  },
+  {
+    "id": "290812534875",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_D5A3",
+    "en": "Well then, get the money to get some other stuff <i>after</i> you score some psychedelics. C'mon, where's your sense of <i>adventure,</i> man?",
+    "pl": "To zarób na coś innego, <i>oprócz</i> psychodelików. No dalej, gdzie twój duch <i>przygody,</i> człowieku?"
+  },
+  {
+    "id": "290812534876",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_UBS0",
+    "en": "How do I use the radio?",
+    "pl": "Jak używać radia?"
+  },
+  {
+    "id": "290812534877",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_5942",
+    "en": "Just turn it on and keep it close to you when you think you're getting near my repeater.",
+    "pl": "Włącz je i trzymaj przy sobie, kiedy uznasz, że zbliżasz się do mojego przekaźnika."
+  },
+  {
+    "id": "290812534878",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_9C9H",
+    "en": "You'll only hear white noise at first – radio static. But you <i>should</i> be able to sort of gradually tune into a discernible transmission eventually.",
+    "pl": "Z początku usłyszysz tylko biały szum, zakłócenia. Ale stopniowo <i>powinieneś</i> dostroić się do zrozumiałej transmisji."
+  },
+  {
+    "id": "290812534879",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_1TF1",
+    "en": "Where do you need me to go?",
+    "pl": "Dokąd mam iść?"
+  },
+  {
+    "id": "290812534880",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_CBEL",
+    "en": "I've placed two signal repeaters for you to find, both on checkpoints way West of here... One of them you can find at the opposite end of these train tracks. The other one's further Southwest from there.",
+    "pl": "Rozstawiłem dwa przekaźniki sygnału na posterunkach daleko na zachód stąd... Jeden znajdziesz na drugim końcu tych torów. Drugi leży dalej na południowy zachód od niego."
+  },
+  {
+    "id": "290812534881",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_7B5D",
+    "en": "I can monitor some of the radio's activity from here, so I'll know when the repeaters have activated. Then we can rendezvous at the Burned Villa... I'll pick some random tent there to hide in, just find me.",
+    "pl": "Mogę stąd śledzić część aktywności radia, więc będę wiedział, kiedy przekaźniki zadziałają. Potem spotkamy się przy spalonej Willi... Schowam się w którymś namiocie. Po prostu mnie znajdź."
+  },
+  {
+    "id": "290812534882",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_9XN0",
+    "en": "I don't have any more questions.",
+    "pl": "Nie mam więcej pytań."
+  },
+  {
+    "id": "290812534883",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_KEUB",
+    "en": "Then on you go, please!",
+    "pl": "To ruszaj, proszę!"
+  },
+  {
+    "id": "290812534884",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Quest_Questions_0JNN",
+    "en": "My decision...",
+    "pl": "Zdecydowałem..."
+  },
+  {
+    "id": "290812534885",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Inform_Quest_I6ZR",
+    "en": "Howdy, Vulture, how's the investigation going? Pick up anything good?",
+    "pl": "Cześć, Sępie, jak idzie śledztwo? Przechwyciłeś coś ciekawego?"
+  },
+  {
+    "id": "290812534886",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Inform_Quest_M27U",
+    "en": "Still working on it.",
+    "pl": "Jeszcze nad tym pracuję."
+  },
+  {
+    "id": "290812534887",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Inform_Quest_JX5T",
+    "en": "C'mon, I didn't make those repeaters <i>that</i> hard to find. Time is of the essence, man. Those soldiers are moving further and further West everyday.",
+    "pl": "No dalej, nie ukryłem tych przekaźników <i>aż tak</i> dobrze. Czas nagli. Ci żołnierze z każdym dniem idą dalej na zachód."
+  },
+  {
+    "id": "290812534888",
+    "key": "26_Ropeburn_v1_OutsideInfluences_Inform_Quest_U4HA",
+    "en": "Had some questions first.",
+    "pl": "Najpierw miałem kilka pytań."
+  },
+  {
+    "id": "290812534889",
+    "key": "26_Ropeburn_v1_Quest_Completed_D8H3",
+    "en": "Good job, Vulture. Before you stash the radio, tell me – what did you overhear? Spill it and I'll give you your reward.",
+    "pl": "Dobra robota, Sępie. Zanim schowasz radio, powiedz: co podsłuchałeś? Wyśpiewaj wszystko, a dostaniesz nagrodę."
+  },
+  {
+    "id": "290812534890",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_AFO5",
+    "en": "(Something about the \"mines\"...)",
+    "pl": "(Coś o „kopalniach”...)"
+  },
+  {
+    "id": "290812534891",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_IIID",
+    "en": "I see. <b>Respat Mines</b> out West, that's their goal? That doesn't mean much to me, but I guess it's good news. Means he's moving <i>away</i> from us Bandits, and probably won't bother us.",
+    "pl": "Rozumiem. Ich celem są <b>kopalnie Respat</b> na zachodzie? Niewiele mi to mówi, ale chyba dobra wiadomość. To znaczy, że <i>oddala</i> się od nas, Bandytów, i raczej da nam spokój."
+  },
+  {
+    "id": "290812534892",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_BGV1",
+    "en": "(Something about gathering Cores...)",
+    "pl": "(Coś o zbieraniu Rdzeni...)"
+  },
+  {
+    "id": "290812534893",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_U46P",
+    "en": "They're gathering up Cores? \"Blood Cores\", they said? Shit, I think this has to be about those special ones that you and I've both seen. The vision-inducing ones...",
+    "pl": "Zbierają Rdzenie? Mówili o „Rdzeniach Krwi”? Cholera, chyba chodzi o te szczególne, które obaj widzieliśmy. Te wywołujące wizje..."
+  },
+  {
+    "id": "290812534894",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_6YY9",
+    "en": "Good for you, maybe – if having a repeat of those visions is what you want. You could try tailing those Kharon guys. Though I doubt their objective is as simple as \"trippin' out after some mass-murder\".",
+    "pl": "Może to dla ciebie dobrze, jeśli chcesz powtórzyć te wizje. Mógłbyś spróbować iść śladem Kharona. Choć wątpię, żeby chodziło im tylko o „odlot po masowym mordzie”."
+  },
+  {
+    "id": "290812534895",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_XAFX",
+    "en": "(They're blocking the checkpoints...)",
+    "pl": "(Blokują posterunki...)"
+  },
+  {
+    "id": "290812534896",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_GTE3",
+    "en": "Ah, but of <i>course</i> they are. Can't let pesky folks like you and I hinder their plans, even if just by accident.",
+    "pl": "Ależ <i>oczywiście.</i> Nie mogą pozwolić, żeby tacy natręci jak my pokrzyżowali im plany, choćby przypadkiem."
+  },
+  {
+    "id": "290812534897",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_L8ID",
+    "en": "That might be good for us, too. Keeps the trouble at the Dola instead of <i>here.</i> Wouldn't want more Vultures <i>burning,</i> would we?",
+    "pl": "To też może nam wyjść na dobre. Kłopoty zostaną w Doli zamiast <i>tutaj.</i> Nie chcemy przecież, żeby kolejne Sępy <i>płonęły,</i> prawda?"
+  },
+  {
+    "id": "290812534898",
+    "key": "26_Ropeburn_v1_Quest_Completed_About_Transmissions_3VK5",
+    "en": "Anyway, you did good. Here's your reward. Now go – stash that thing already, and we'll split up pronto.",
+    "pl": "W każdym razie dobrze się spisałeś. Oto nagroda. Teraz idź, schowaj to już i szybko się rozdzielmy."
+  },
+  {
+    "id": "290812534899",
+    "key": "26_Ropeburn_v1_Scavengers_NIAJ",
+    "en": "A message directly from their leader, huh... He knew we've been snooping around; you were careless, scav. He's <i>gotta</i> be nearby... Maybe at the Swamps, from the sounds I heard.",
+    "pl": "Wiadomość prosto od ich przywódcy, co... Wiedział, że węszymy. Byłeś nieostrożny, zbieraczu. <i>Musi</i> być blisko... Sądząc po odgłosach, może na bagnach."
+  },
+  {
+    "id": "290812534900",
+    "key": "26_Ropeburn_v1_Scavengers_575Q",
+    "en": "Listen, Vulture. Seems to me you've got yourself a shot at the king, here. If I were you, I'd prepare myself to finish him off. Get a little revenge, break out of the rut you've been in, y'know? But that's just me.",
+    "pl": "Słuchaj, Sępie. Wygląda na to, że możesz ustrzelić samego króla. Na twoim miejscu przygotowałbym się i go wykończył. Zemścił się trochę, wyrwał z tej rutyny, rozumiesz? Ale to tylko moje zdanie."
+  },
+  {
+    "id": "290812534901",
+    "key": "26_Ropeburn_v1_Scavengers_LKFK",
+    "en": "No way I'll chase trouble. Going for the Herb.",
+    "pl": "Nie będę szukał kłopotów. Idę po ziele."
+  },
+  {
+    "id": "290812534902",
+    "key": "26_Ropeburn_v1_Scavengers_KEV5",
+    "en": "Back to Plan A, huh? Those visions won't get you anywhere, but hey, I got no skin in the game. Either way, make sure that radio's hidden well. We'll part ways for now, but...",
+    "pl": "Powrót do planu A, co? Te wizje cię donikąd nie zaprowadzą, ale nic mi do tego. Tak czy inaczej dobrze ukryj radio. Na razie się rozstaniemy, ale..."
+  },
+  {
+    "id": "290812534903",
+    "key": "26_Ropeburn_v1_Scavengers_JGIF",
+    "en": "What would that get me? He's just one man.",
+    "pl": "Co mi to da? To tylko jeden człowiek."
+  },
+  {
+    "id": "290812534904",
+    "key": "26_Ropeburn_v1_Scavengers_7S2U",
+    "en": "I guess you'd rather go back to the old cycle of looting random scraps while hoping for a one-way ticket to Wyraj... Like every other Vulture, huh. Well, I still have high hopes for you.",
+    "pl": "Chyba wolisz wrócić do starego schematu: zbierać przypadkowe graty i liczyć na bilet w jedną stronę do Wyraju... Jak każdy Sęp, co? Cóż, nadal dużo po tobie oczekuję."
+  },
+  {
+    "id": "290812534905",
+    "key": "26_Ropeburn_v1_Scavengers_HKVF",
+    "en": "I'm willing to bet we'll meet again, sooner or later. Unless you get yourself killed, we can be partners-in-crime some other time. See you around... Rodion.",
+    "pl": "Założę się, że prędzej czy później znów się spotkamy. Jeśli nie dasz się zabić, jeszcze razem coś zmalujemy. Do zobaczenia... Rodion."
+  }
+]

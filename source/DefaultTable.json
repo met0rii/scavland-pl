@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "385128959344640",
+    "key": "Menu.Continue",
+    "en": "Continue"
+  },
+  {
+    "id": "385128984510464",
+    "key": "Menu.New_Game",
+    "en": "New Game"
+  },
+  {
+    "id": "385128984510465",
+    "key": "Menu.Load_Game",
+    "en": "Load Game"
+  },
+  {
+    "id": "385128988704768",
+    "key": "Menu.Settings",
+    "en": "Settings"
+  },
+  {
+    "id": "385128988704769",
+    "key": "Menu.Exit",
+    "en": "Exit"
+  },
+  {
+    "id": "385128988704770",
+    "key": "Menu.Graphics",
+    "en": "Graphics"
+  },
+  {
+    "id": "385128988704771",
+    "key": "Menu.Resolution",
+    "en": "Resolution"
+  },
+  {
+    "id": "385128988704772",
+    "key": "Menu.Window_Mode",
+    "en": "Window Mode"
+  },
+  {
+    "id": "385128988704773",
+    "key": "Menu.Advanced_Options",
+    "en": "Advanced Options"
+  },
+  {
+    "id": "385128988704774",
+    "key": "Menu.Back",
+    "en": "Back"
+  },
+  {
+    "id": "385128988704775",
+    "key": "Menu.Audio",
+    "en": "Audio"
+  },
+  {
+    "id": "385128988704776",
+    "key": "Menu.Master_Volume",
+    "en": "Master Volume"
+  },
+  {
+    "id": "385128988704777",
+    "key": "Menu.Music_Volume",
+    "en": "Music Volume"
+  },
+  {
+    "id": "385128988704778",
+    "key": "Menu.SFX_Volume",
+    "en": "SFX Volume"
+  },
+  {
+    "id": "385128988704779",
+    "key": "Menu.UI_Volume",
+    "en": "UI Volume"
+  },
+  {
+    "id": "385128988704780",
+    "key": "Menu.Rads_Volume",
+    "en": "Rads Volume"
+  },
+  {
+    "id": "385128988704781",
+    "key": "Menu.Controls",
+    "en": "Controls"
+  },
+  {
+    "id": "385128988704782",
+    "key": "Menu.Reset",
+    "en": "Reset"
+  },
+  {
+    "id": "385128988704783",
+    "key": "Menu.Reset_All",
+    "en": "Reset All"
+  },
+  {
+    "id": "385128988704784",
+    "key": "Menu.Up",
+    "en": "Up"
+  },
+  {
+    "id": "385128988704785",
+    "key": "Menu.Down",
+    "en": "Down"
+  },
+  {
+    "id": "385128988704786",
+    "key": "Menu.Left",
+    "en": "Left"
+  },
+  {
+    "id": "385128988704787",
+    "key": "Menu.Right",
+    "en": "Right"
+  },
+  {
+    "id": "385128988704788",
+    "key": "Menu.Run",
+    "en": "Run"
+  },
+  {
+    "id": "385128988704789",
+    "key": "Menu.Dodge",
+    "en": "Dodge"
+  },
+  {
+    "id": "385128988704790",
+    "key": "Menu.Shoot",
+    "en": "Shoot"
+  },
+  {
+    "id": "385128988704791",
+    "key": "Menu.Aim",
+    "en": "Aim"
+  },
+  {
+    "id": "385128988704792",
+    "key": "Menu.Reload",
+    "en": "Reload"
+  },
+  {
+    "id": "385128988704793",
+    "key": "Menu.Interact_Loot",
+    "en": "Interact / Loot"
+  },
+  {
+    "id": "385128988704794",
+    "key": "Menu.Inventory",
+    "en": "Inventory"
+  },
+  {
+    "id": "385128988704795",
+    "key": "Menu.Split_Item",
+    "en": "Split Item"
+  },
+  {
+    "id": "385128988704796",
+    "key": "Menu.Rotate_Item",
+    "en": "Rotate Item"
+  },
+  {
+    "id": "385128988704797",
+    "key": "Menu.Quick_Drop",
+    "en": "Quick Drop"
+  },
+  {
+    "id": "385128988704798",
+    "key": "Menu.Quick_Loot",
+    "en": "Quick Loot"
+  },
+  {
+    "id": "385128988704799",
+    "key": "Menu.Loot_All",
+    "en": "Loot All"
+  },
+  {
+    "id": "385128988704800",
+    "key": "Menu.Meele",
+    "en": "Melee"
+  },
+  {
+    "id": "385128988704801",
+    "key": "Menu.Main_Gun",
+    "en": "Main Gun"
+  },
+  {
+    "id": "385128988704802",
+    "key": "Menu.Sidearm",
+    "en": "Sidearm"
+  },
+  {
+    "id": "385128988704803",
+    "key": "Menu.Hand_Slot",
+    "en": "Hand Slot"
+  },
+  {
+    "id": "385128988704804",
+    "key": "Menu.Unarmed_Attack",
+    "en": "Unarmed Attack"
+  },
+  {
+    "id": "385128988704805",
+    "key": "Menu.Free_Hands",
+    "en": "Free Hands"
+  },
+  {
+    "id": "385128988704806",
+    "key": "Menu.Pause",
+    "en": "Pause"
+  },
+  {
+    "id": "385128988704807",
+    "key": "Menu.Tips",
+    "en": "Tips"
+  },
+  {
+    "id": "385128988704808",
+    "key": "Menu.Map",
+    "en": "Map"
+  },
+  {
+    "id": "385128988704809",
+    "key": "Menu.Journal",
+    "en": "Journal"
+  },
+  {
+    "id": "385128988704810",
+    "key": "Menu.Quick_Save",
+    "en": "Quick Save"
+  },
+  {
+    "id": "385128988704811",
+    "key": "Menu.Quick_Load",
+    "en": "Quick Load"
+  },
+  {
+    "id": "385128988704812",
+    "key": "Menu.Quick_Slot_1",
+    "en": "Quick Slot 1"
+  },
+  {
+    "id": "385128988704813",
+    "key": "Menu.Quick_Slot_2",
+    "en": "Quick Slot 2"
+  },
+  {
+    "id": "385128988704814",
+    "key": "Menu.Quick_Slot_3",
+    "en": "Quick Slot 3"
+  },
+  {
+    "id": "385128988704815",
+    "key": "Menu.Quick_Slot_4",
+    "en": "Quick Slot 4"
+  },
+  {
+    "id": "387605188345856",
+    "key": "Menu.Gameplay",
+    "en": "Gameplay"
+  },
+  {
+    "id": "404949054816256",
+    "key": "Menu.Apply_Changes",
+    "en": "Apply Changes"
+  },
+  {
+    "id": "754900658061312",
+    "key": "Menu.Language",
+    "en": "Language"
+  },
+  {
+    "id": "754900687421440",
+    "key": "Menu.Language_Name",
+    "en": "English"
+  },
+  {
+    "id": "761478526304256",
+    "key": "Menu.Inventory_2",
+    "en": "Inventory 2"
+  },
+  {
+    "id": "1029388570230784",
+    "key": "Menu.Name",
+    "en": "Name"
+  },
+  {
+    "id": "1029388599590912",
+    "key": "Menu.Player",
+    "en": "Player"
+  },
+  {
+    "id": "1029388599590913",
+    "key": "Menu.Spawn_Rate",
+    "en": "Spawn Rate"
+  },
+  {
+    "id": "1029388599590914",
+    "key": "Menu.Player_Status_Decay_Time",
+    "en": "Player Status Decay Time"
+  },
+  {
+    "id": "1029388599590915",
+    "key": "Menu.Hunger_Per_Second",
+    "en": "Hunger per Second"
+  },
+  {
+    "id": "1029388599590916",
+    "key": "Menu.Thirst_Per_Second",
+    "en": "Thirst per Second"
+  },
+  {
+    "id": "1029388599590917",
+    "key": "Menu.Run_Cost",
+    "en": "Run Cost"
+  },
+  {
+    "id": "1029388599590918",
+    "key": "Menu.Roll_Costs_Stamina",
+    "en": "Dodge Costs Stamina"
+  },
+  {
+    "id": "1029388599590919",
+    "key": "Menu.Melee_Costs_Stamina",
+    "en": "Melee Costs Stamina"
+  },
+  {
+    "id": "1029388599590920",
+    "key": "Menu.Gun_Can_Jam",
+    "en": "Gun Can Jam"
+  },
+  {
+    "id": "1029388599590921",
+    "key": "Enemy.Rabbit",
+    "en": "Rabbit"
+  },
+  {
+    "id": "1029388599590922",
+    "key": "Enemy.Worm",
+    "en": "Worm"
+  },
+  {
+    "id": "1029388599590923",
+    "key": "Enemy.Small_Rat",
+    "en": "Small Rat"
+  },
+  {
+    "id": "1029388599590924",
+    "key": "Enemy.Hellhound",
+    "en": "Hellhound"
+  },
+  {
+    "id": "1029388599590925",
+    "key": "Enemy.Bandit",
+    "en": "Bandit"
+  },
+  {
+    "id": "1029388599590926",
+    "key": "Enemy.Bandits",
+    "en": "Bandits"
+  },
+  {
+    "id": "1029388599590927",
+    "key": "Enemy.Mother_Rat",
+    "en": "Mother Rat"
+  },
+  {
+    "id": "1029388599590928",
+    "key": "Enemy.Bear",
+    "en": "Bear"
+  },
+  {
+    "id": "1029388599590930",
+    "key": "Enemy.Spiker",
+    "en": "Spiker"
+  },
+  {
+    "id": "1029388599590931",
+    "key": "Enemy.King_Spiker",
+    "en": "King Spiker"
+  },
+  {
+    "id": "1029388599590932",
+    "key": "Menu.Value",
+    "en": "Value"
+  },
+  {
+    "id": "1029388599590933",
+    "key": "Menu.Buy",
+    "en": "Buy"
+  },
+  {
+    "id": "1029388599590934",
+    "key": "Menu.Buy_Value",
+    "en": "Buy Value"
+  },
+  {
+    "id": "1029388599590935",
+    "key": "Menu.Sell",
+    "en": "Sell"
+  },
+  {
+    "id": "1029388599590936",
+    "key": "Menu.Sell_Value",
+    "en": "Sell Value"
+  },
+  {
+    "id": "1029388599590937",
+    "key": "Menu.Guns",
+    "en": "Guns"
+  },
+  {
+    "id": "1029388599590938",
+    "key": "Menu.Gear",
+    "en": "Gear"
+  },
+  {
+    "id": "1029388599590939",
+    "key": "Menu.Repair_Items",
+    "en": "Repair Items"
+  },
+  {
+    "id": "1029388599590940",
+    "key": "Menu.Consumables",
+    "en": "Consumables"
+  },
+  {
+    "id": "1029388599590941",
+    "key": "Menu.Scrap_Items",
+    "en": "Scrap Items"
+  },
+  {
+    "id": "1029388599590942",
+    "key": "Menu.Mutant_Parts",
+    "en": "Mutant Parts"
+  },
+  {
+    "id": "1029388599590943",
+    "key": "Menu.Item_Spawn_Chance",
+    "en": "Item Spawn Chance"
+  },
+  {
+    "id": "1029388599590944",
+    "key": "Menu.Item_Spawn_Quantity",
+    "en": "Item Spawn Quantity"
+  },
+  {
+    "id": "1033886512480260",
+    "key": "Menu.Ammo",
+    "en": "Ammo"
+  },
+  {
+    "id": "1033886512480261",
+    "key": "Menu.Type_Repair_Kit",
+    "en": "{type} Repair Kit"
+  },
+  {
+    "id": "1034689226768384",
+    "key": "Menu.Enemies",
+    "en": "Enemies"
+  },
+  {
+    "id": "1034689226768385",
+    "key": "Menu.Traders",
+    "en": "Traders"
+  },
+  {
+    "id": "1034689226768386",
+    "key": "Menu.Loot",
+    "en": "Loot"
+  },
+  {
+    "id": "1823517986291712",
+    "key": "Enemy.Mortar",
+    "en": "Mortar"
+  },
+  {
+    "id": "1828331826741248",
+    "key": "Menu.Medical",
+    "en": "Medical"
+  },
+  {
+    "id": "1829743059042304",
+    "key": "Menu.Food",
+    "en": "Food"
+  },
+  {
+    "id": "1845710942142464",
+    "key": "Menu.Start",
+    "en": "Start"
+  },
+  {
+    "id": "1845710963113984",
+    "key": "Menu.Low",
+    "en": "Low"
+  },
+  {
+    "id": "1845710963113985",
+    "key": "Menu.Mid",
+    "en": "Mid"
+  },
+  {
+    "id": "1845710967308288",
+    "key": "Menu.High",
+    "en": "High"
+  },
+  {
+    "id": "1845710967308289",
+    "key": "Menu.High_End",
+    "en": "High-End"
+  },
+  {
+    "id": "1845710967308290",
+    "key": "Menu.Hospital",
+    "en": "Hospital"
+  },
+  {
+    "id": "1845710967308291",
+    "key": "Menu.Common",
+    "en": "Common"
+  },
+  {
+    "id": "1845710967308292",
+    "key": "Menu.Good",
+    "en": "Good"
+  },
+  {
+    "id": "1845710967308293",
+    "key": "Menu.Tier_Type",
+    "en": "{tier} Tier {type}"
+  },
+  {
+    "id": "2169442713763840",
+    "key": "Menu.Preview",
+    "en": "Preview"
+  },
+  {
+    "id": "2169442738929664",
+    "key": "Menu.Player_Light_Intensity",
+    "en": "Player Light Intensity"
+  },
+  {
+    "id": "2169442743123968",
+    "key": "Menu.Toggle_Post_Processing_VFX",
+    "en": "Toggle Post Processing VFX"
+  },
+  {
+    "id": "3287795876528128",
+    "key": "Menu.Talk",
+    "en": "Talk"
+  },
+  {
+    "id": "3287795897499648",
+    "key": "Menu.Ask_For_Jobs",
+    "en": "Ask for Jobs"
+  },
+  {
+    "id": "3287795897499649",
+    "key": "Menu.Trade",
+    "en": "Trade"
+  },
+  {
+    "id": "3287795897499650",
+    "key": "Menu.Bye",
+    "en": "Bye"
+  },
+  {
+    "id": "3287795897499651",
+    "key": "Menu.Job_Completed",
+    "en": "Job Completed"
+  },
+  {
+    "id": "10443418661584896",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!"
+  },
+  {
+    "id": "10443418686750720",
+    "key": "",
+    "en": "Shit! I'm bleeding!"
+  },
+  {
+    "id": "10443418686750721",
+    "key": "",
+    "en": "Ah, crap! I need to bandage"
+  },
+  {
+    "id": "10443418686750722",
+    "key": "",
+    "en": "My skin's burning, what the hell?!"
+  },
+  {
+    "id": "10443418686750723",
+    "key": "",
+    "en": "I'm cooked!"
+  },
+  {
+    "id": "10443418686750724",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!"
+  },
+  {
+    "id": "10443418686750725",
+    "key": "",
+    "en": "I've been frie! this is bad!"
+  },
+  {
+    "id": "10443418686750726",
+    "key": "",
+    "en": "My mouth's like sandpaper!"
+  },
+  {
+    "id": "10443418686750727",
+    "key": "",
+    "en": "This thirst is killing me!"
+  },
+  {
+    "id": "10443418686750728",
+    "key": "",
+    "en": "Water... I need water!"
+  },
+  {
+    "id": "10443418686750729",
+    "key": "",
+    "en": "Haven't eaten in forever!"
+  },
+  {
+    "id": "10443418686750730",
+    "key": "",
+    "en": "Shit! I'm starving!"
+  },
+  {
+    "id": "10443418686750731",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!"
+  },
+  {
+    "id": "10443418686750732",
+    "key": "",
+    "en": "Too tired..."
+  },
+  {
+    "id": "10443418686750733",
+    "key": "",
+    "en": "Need a break..."
+  },
+  {
+    "id": "10443418686750734",
+    "key": "",
+    "en": "I need rest..."
+  },
+  {
+    "id": "10443418686750735",
+    "key": "",
+    "en": "Reload!"
+  },
+  {
+    "id": "10443418686750736",
+    "key": "",
+    "en": "I should patch myself first."
+  },
+  {
+    "id": "10443418690945024",
+    "key": "",
+    "en": "I can`t leave before healing my wounds"
+  },
+  {
+    "id": "10443418690945025",
+    "key": "",
+    "en": "I need to treat my wounds first..."
+  },
+  {
+    "id": "10443418690945026",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do."
+  },
+  {
+    "id": "10443418690945027",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this."
+  },
+  {
+    "id": "10443418690945028",
+    "key": "",
+    "en": "Time to use a Medkit."
+  },
+  {
+    "id": "10443418690945029",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit."
+  },
+  {
+    "id": "10443418690945030",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that."
+  },
+  {
+    "id": "10443418690945031",
+    "key": "",
+    "en": "Not Enough Space!"
+  },
+  {
+    "id": "10443418690945032",
+    "key": "",
+    "en": "I am Broke!"
+  },
+  {
+    "id": "10443418690945033",
+    "key": "",
+    "en": "Out Of Space!"
+  },
+  {
+    "id": "10443418690945034",
+    "key": "",
+    "en": "Out of Ammo!"
+  },
+  {
+    "id": "10443418690945035",
+    "key": "",
+    "en": "Jammed!"
+  },
+  {
+    "id": "10443418690945036",
+    "key": "",
+    "en": "Shit!"
+  },
+  {
+    "id": "10450652128903168",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!"
+  },
+  {
+    "id": "10450652166651904",
+    "key": "",
+    "en": "Shit! I'm bleeding!"
+  },
+  {
+    "id": "10450652166651905",
+    "key": "",
+    "en": "Ah, crap! I need to bandage"
+  },
+  {
+    "id": "10450652166651906",
+    "key": "",
+    "en": "My skin's burning, what the hell?!"
+  },
+  {
+    "id": "10450652166651907",
+    "key": "",
+    "en": "I'm cooked!"
+  },
+  {
+    "id": "10450652166651908",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!"
+  },
+  {
+    "id": "10450652166651909",
+    "key": "",
+    "en": "I've been frie! this is bad!"
+  },
+  {
+    "id": "10450652166651910",
+    "key": "",
+    "en": "My mouth's like sandpaper!"
+  },
+  {
+    "id": "10450652166651911",
+    "key": "",
+    "en": "This thirst is killing me!"
+  },
+  {
+    "id": "10450652166651912",
+    "key": "",
+    "en": "Water... I need water!"
+  },
+  {
+    "id": "10450652166651913",
+    "key": "",
+    "en": "Haven't eaten in forever!"
+  },
+  {
+    "id": "10450652166651914",
+    "key": "",
+    "en": "Shit! I'm starving!"
+  },
+  {
+    "id": "10450652166651915",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!"
+  },
+  {
+    "id": "10450652166651916",
+    "key": "",
+    "en": "Too tired..."
+  },
+  {
+    "id": "10450652166651917",
+    "key": "",
+    "en": "Need a break..."
+  },
+  {
+    "id": "10450652166651918",
+    "key": "",
+    "en": "I need rest..."
+  },
+  {
+    "id": "10450652166651919",
+    "key": "",
+    "en": "Reload!"
+  },
+  {
+    "id": "10450652166651920",
+    "key": "",
+    "en": "I should patch myself first."
+  },
+  {
+    "id": "10450652166651921",
+    "key": "",
+    "en": "I can`t leave before healing my wounds"
+  },
+  {
+    "id": "10450652166651922",
+    "key": "",
+    "en": "I need to treat my wounds first..."
+  },
+  {
+    "id": "10450652166651923",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do."
+  },
+  {
+    "id": "10450652166651924",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this."
+  },
+  {
+    "id": "10450652166651925",
+    "key": "",
+    "en": "Time to use a Medkit."
+  },
+  {
+    "id": "10450652166651926",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit."
+  },
+  {
+    "id": "10450652166651927",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that."
+  },
+  {
+    "id": "10450652166651928",
+    "key": "",
+    "en": "Not Enough Space!"
+  },
+  {
+    "id": "10450652166651929",
+    "key": "",
+    "en": "I am Broke!"
+  },
+  {
+    "id": "10450652166651930",
+    "key": "",
+    "en": "Out Of Space!"
+  },
+  {
+    "id": "10450652166651931",
+    "key": "",
+    "en": "Out of Ammo!"
+  },
+  {
+    "id": "10450652166651932",
+    "key": "",
+    "en": "Jammed!"
+  },
+  {
+    "id": "10450652166651933",
+    "key": "",
+    "en": "Shit!"
+  },
+  {
+    "id": "10479570521194496",
+    "key": "",
+    "en": "Ah, crap! I'm bleeding out!"
+  },
+  {
+    "id": "10479570550554624",
+    "key": "",
+    "en": "Shit! I'm bleeding!"
+  },
+  {
+    "id": "10479570550554625",
+    "key": "",
+    "en": "Ah, crap! I need to bandage"
+  },
+  {
+    "id": "10479570550554626",
+    "key": "",
+    "en": "My skin's burning, what the hell?!"
+  },
+  {
+    "id": "10479570550554627",
+    "key": "",
+    "en": "I'm cooked!"
+  },
+  {
+    "id": "10479570550554628",
+    "key": "",
+    "en": "I feel like I'm glowing! this ain't right!"
+  },
+  {
+    "id": "10479570550554629",
+    "key": "",
+    "en": "I've been frie! this is bad!"
+  },
+  {
+    "id": "10479570550554630",
+    "key": "",
+    "en": "My mouth's like sandpaper!"
+  },
+  {
+    "id": "10479570550554631",
+    "key": "",
+    "en": "This thirst is killing me!"
+  },
+  {
+    "id": "10479570550554632",
+    "key": "",
+    "en": "Water... I need water!"
+  },
+  {
+    "id": "10479570550554633",
+    "key": "",
+    "en": "Haven't eaten in forever!"
+  },
+  {
+    "id": "10479570550554634",
+    "key": "",
+    "en": "Shit! I'm starving!"
+  },
+  {
+    "id": "10479570550554635",
+    "key": "",
+    "en": "If I don't eat soon, I'm done for!"
+  },
+  {
+    "id": "10479570550554636",
+    "key": "",
+    "en": "Too tired..."
+  },
+  {
+    "id": "10479570550554637",
+    "key": "",
+    "en": "Need a break..."
+  },
+  {
+    "id": "10479570550554638",
+    "key": "",
+    "en": "I need rest..."
+  },
+  {
+    "id": "10479570550554639",
+    "key": "",
+    "en": "Reload!"
+  },
+  {
+    "id": "10479570550554640",
+    "key": "",
+    "en": "I should patch myself first."
+  },
+  {
+    "id": "10479570550554641",
+    "key": "",
+    "en": "I can`t leave before healing my wounds"
+  },
+  {
+    "id": "10479570550554642",
+    "key": "",
+    "en": "I need to treat my wounds first..."
+  },
+  {
+    "id": "10479570550554643",
+    "key": "",
+    "en": "Need to patch up, a Medkit should do."
+  },
+  {
+    "id": "10479570550554644",
+    "key": "",
+    "en": "I should use a Medkit, won't last long like this."
+  },
+  {
+    "id": "10479570550554645",
+    "key": "",
+    "en": "Time to use a Medkit."
+  },
+  {
+    "id": "10479570550554646",
+    "key": "",
+    "en": "I should stop wasting time and use a Medkit."
+  },
+  {
+    "id": "10479570550554647",
+    "key": "",
+    "en": "I feel like shit. A Medkit might change that."
+  },
+  {
+    "id": "10479570550554648",
+    "key": "",
+    "en": "Not Enough Space!"
+  },
+  {
+    "id": "10479570550554649",
+    "key": "",
+    "en": "I am Broke!"
+  },
+  {
+    "id": "10479570550554650",
+    "key": "",
+    "en": "Out Of Space!"
+  },
+  {
+    "id": "10479570550554651",
+    "key": "",
+    "en": "Out of Ammo!"
+  },
+  {
+    "id": "10479570550554652",
+    "key": "",
+    "en": "Jammed!"
+  },
+  {
+    "id": "10479570550554653",
+    "key": "",
+    "en": "Shit!"
+  },
+  {
+    "id": "10483978801807389",
+    "key": "Bark.Gun_Critical_Malfunction_01",
+    "en": "Shit!"
+  },
+  {
+    "id": "10483978801807388",
+    "key": "Bark.Jammed_01",
+    "en": "Jammed!"
+  },
+  {
+    "id": "10483978801807392",
+    "key": "Bark.No_Magazine_03",
+    "en": "Where's the magazine?"
+  },
+  {
+    "id": "10483978801807391",
+    "key": "Bark.No_Magazine_02",
+    "en": "Damn... no magazine."
+  },
+  {
+    "id": "10483978801807390",
+    "key": "Bark.No_Magazine_01",
+    "en": "Forgot the damn mag."
+  },
+  {
+    "id": "10483978801807387",
+    "key": "Bark.No_Ammo_01",
+    "en": "Out of Ammo!"
+  },
+  {
+    "id": "10483978801807386",
+    "key": "Bark.Full_Inventory_01",
+    "en": "Out of Space!"
+  },
+  {
+    "id": "10483978801807385",
+    "key": "Bark.NotEnoughMoney_01",
+    "en": "Not enough cash!"
+  },
+  {
+    "id": "10483978801807384",
+    "key": "Bark.NotEnoughSpace_01",
+    "en": "Not enough space!"
+  },
+  {
+    "id": "10483978801807383",
+    "key": "Bark.Tutorial_Heal_05",
+    "en": "Feeling like shit. Medkit might help."
+  },
+  {
+    "id": "10483978801807382",
+    "key": "Bark.Tutorial_Heal_04",
+    "en": "Should stop wasting time and use a Medkit."
+  },
+  {
+    "id": "10483978801807381",
+    "key": "Bark.Tutorial_Heal_03",
+    "en": "Have to use a Medkit now..."
+  },
+  {
+    "id": "10483978801807380",
+    "key": "Bark.Tutorial_Heal_02",
+    "en": "I should use a Medkit, won't last long like this."
+  },
+  {
+    "id": "10483978801807379",
+    "key": "Bark.Tutorial_Heal_01",
+    "en": "Need to patch up, a Medkit should do."
+  },
+  {
+    "id": "10483978801807378",
+    "key": "Bark.Barrier_03",
+    "en": "I need to treat my wounds first..."
+  },
+  {
+    "id": "10483978801807377",
+    "key": "Bark.Barrier_02",
+    "en": "Can't leave before healing my wounds."
+  },
+  {
+    "id": "10483978801807376",
+    "key": "Bark.Barrier_01",
+    "en": "Should patch myself up first."
+  },
+  {
+    "id": "10483978801807375",
+    "key": "Bark.Reload_01",
+    "en": "Reloading!"
+  },
+  {
+    "id": "10483978801807374",
+    "key": "Bark.Stamina_03",
+    "en": "I need rest..."
+  },
+  {
+    "id": "10483978801807373",
+    "key": "Bark.Stamina_02",
+    "en": "Need a break..."
+  },
+  {
+    "id": "10483978801807372",
+    "key": "Bark.Stamina_01",
+    "en": "Too tired..."
+  },
+  {
+    "id": "10483978801807371",
+    "key": "Bark.Hunger_03",
+    "en": "I'm done for if I don't eat soon..."
+  },
+  {
+    "id": "10483978801807370",
+    "key": "Bark.Hunger_02",
+    "en": "Shit, I'm starving..."
+  },
+  {
+    "id": "10483978801807369",
+    "key": "Bark.Hunger_01",
+    "en": "Haven't eaten in forever!"
+  },
+  {
+    "id": "10483978801807368",
+    "key": "Bark.Thirst_03",
+    "en": "Water... I need water!"
+  },
+  {
+    "id": "10483978801807367",
+    "key": "Bark.Thirst_02",
+    "en": "This thirst is killing me!"
+  },
+  {
+    "id": "10483978801807366",
+    "key": "Bark.Thirst_01",
+    "en": "Mouth feels like sandpaper..."
+  },
+  {
+    "id": "10483978801807365",
+    "key": "Bark.Radiation_04",
+    "en": "Radiation's frying me!"
+  },
+  {
+    "id": "10483978801807364",
+    "key": "Bark.Radiation_03",
+    "en": "Too much radiation..."
+  },
+  {
+    "id": "10483978801807363",
+    "key": "Bark.Radiation_02",
+    "en": "I'm getting cooked here!"
+  },
+  {
+    "id": "10483978801807362",
+    "key": "Bark.Radiation_01",
+    "en": "My skin's burning..."
+  },
+  {
+    "id": "10483978801807361",
+    "key": "Bark.Bleeding_03",
+    "en": "Damn, need a bandage..."
+  },
+  {
+    "id": "10483978801807360",
+    "key": "Bark.Bleeding_02",
+    "en": "Shit! I'm bleeding!"
+  },
+  {
+    "id": "10483978772447232",
+    "key": "Bark.Bleeding_01",
+    "en": "Crap, bleeding out..."
+  },
+  {
+    "id": "10853350145818624",
+    "key": "Notification.Press",
+    "en": "Press"
+  },
+  {
+    "id": "10853350183567360",
+    "key": "Notification.QuestStarted",
+    "en": "{questName} started"
+  },
+  {
+    "id": "10853350183567361",
+    "key": "Notification.OpenSketchBook",
+    "en": "to open your Journal"
+  },
+  {
+    "id": "10878498500542464",
+    "key": "Notification.QuestCompleted",
+    "en": "{questName} completed"
+  },
+  {
+    "id": "10878498525708288",
+    "key": "Notification.QuestBeingTracked",
+    "en": "{questName} is now being tracked"
+  },
+  {
+    "id": "10878498525708289",
+    "key": "Notification.OpenMap",
+    "en": "to open your map"
+  },
+  {
+    "id": "10878498525708290",
+    "key": "Notification.InventoryFullRewardsDropped",
+    "en": "My backpack's full. Have to leave the rewards on the ground."
+  },
+  {
+    "id": "10878498525708291",
+    "key": "Notification.AllTasksDone",
+    "en": "all tasks done"
+  },
+  {
+    "id": "10878498525708292",
+    "key": "Notification.ReturnToCompleteJob",
+    "en": "Return to {characterName} to complete the job"
+  },
+  {
+    "id": "10878498525708293",
+    "key": "Notification.QuestLostProgress",
+    "en": "{questName} Lost Progress"
+  },
+  {
+    "id": "10878498525708294",
+    "key": "Notification.QuestUpdated",
+    "en": "{questName} Updated"
+  },
+  {
+    "id": "10878498525708295",
+    "key": "Notification.SeeMoreDetail",
+    "en": "to see more details"
+  },
+  {
+    "id": "13051999793741824",
+    "key": "Menu.ShortGear",
+    "en": "Gear"
+  },
+  {
+    "id": "13059220250329088",
+    "key": "Menu.Save_Game",
+    "en": "Save Game"
+  },
+  {
+    "id": "13065856033521664",
+    "key": "Menu.Empty",
+    "en": "Empty"
+  },
+  {
+    "id": "13073683905019904",
+    "key": "Menu.Yes",
+    "en": "Yes"
+  },
+  {
+    "id": "13073683934380032",
+    "key": "Menu.No",
+    "en": "No"
+  },
+  {
+    "id": "13073683934380033",
+    "key": "Notification.WannaPlayTutorial",
+    "en": "Do you want to play the tutorial?"
+  },
+  {
+    "id": "13073683934380034",
+    "key": "Notification.OverrideSaveFile",
+    "en": "Do you want to override this save file?"
+  },
+  {
+    "id": "13073683934380035",
+    "key": "Notification.PermanentDeleteInfo",
+    "en": "The info of this save file will be deleted permanently."
+  },
+  {
+    "id": "13073683934380036",
+    "key": "Notification.Warning",
+    "en": "Warning"
+  },
+  {
+    "id": "13073683934380037",
+    "key": "Notification.DifferentGameVersion",
+    "en": "This save file is from a different game version"
+  },
+  {
+    "id": "13073683934380038",
+    "key": "Notification.StillWantToLoad",
+    "en": "Do you still want to load it?"
+  },
+  {
+    "id": "13081051392933888",
+    "key": "Notification.ToOpenInventory",
+    "en": "to open the Inventory!"
+  },
+  {
+    "id": "13081051397128192",
+    "key": "Notification.ToMelee",
+    "en": "to melee!"
+  },
+  {
+    "id": "13404762469859328",
+    "key": "Menu.Resume",
+    "en": "Resume"
+  },
+  {
+    "id": "13404762495025152",
+    "key": "Menu.Main_Menu",
+    "en": "Main Menu"
+  },
+  {
+    "id": "22841544206745600",
+    "key": "Action.Eliminate",
+    "en": "Eliminate"
+  },
+  {
+    "id": "22843401471778816",
+    "key": "Action.Loot",
+    "en": "Loot"
+  },
+  {
+    "id": "27901038949294080",
+    "key": "Notification.RelationWithFactionWorsened",
+    "en": "Relation with <color=#cb6f0c>{faction}</color> has worsened"
+  },
+  {
+    "id": "27901038978654208",
+    "key": "Notification.RelationWithFactionImproved",
+    "en": "Relation with <color=#cb6f0c>{faction}</color> has improved"
+  },
+  {
+    "id": "32252547751247872",
+    "key": "Notification.ToUnjam",
+    "en": "to unjam"
+  },
+  {
+    "id": "49562341048573952",
+    "key": "Action.Talk",
+    "en": "Talk"
+  },
+  {
+    "id": "49562766632017920",
+    "key": "Action.Close",
+    "en": "Close"
+  },
+  {
+    "id": "49562766665572352",
+    "key": "Action.Open",
+    "en": "Open"
+  },
+  {
+    "id": "56072078820892672",
+    "key": "Continue",
+    "en": "Continue"
+  },
+  {
+    "id": "56072078862835712",
+    "key": "NewGame",
+    "en": "New Game"
+  },
+  {
+    "id": "56072078862835713",
+    "key": "LoadGame",
+    "en": "Load Game"
+  },
+  {
+    "id": "56072078862835714",
+    "key": "Settings",
+    "en": "Settings"
+  },
+  {
+    "id": "56072078862835715",
+    "key": "Exit",
+    "en": "Exit"
+  },
+  {
+    "id": "56072078862835716",
+    "key": "Gameplay",
+    "en": "Gameplay"
+  },
+  {
+    "id": "56072078862835717",
+    "key": "Graphics",
+    "en": "Graphics"
+  },
+  {
+    "id": "56072078862835718",
+    "key": "Audio",
+    "en": "Audio"
+  },
+  {
+    "id": "56072078862835719",
+    "key": "Controls",
+    "en": "Controls"
+  },
+  {
+    "id": "56072078862835720",
+    "key": "Language",
+    "en": "LANGUAGE"
+  },
+  {
+    "id": "56072078862835721",
+    "key": "Resolution",
+    "en": "RESOLUTION"
+  },
+  {
+    "id": "56072078862835722",
+    "key": "WindowMode",
+    "en": "WINDOW MODE"
+  },
+  {
+    "id": "56072078862835723",
+    "key": "ExclusiveFullscreenNotRecommended",
+    "en": "Exclusive Fullscreen (Not recommended)"
+  },
+  {
+    "id": "56072078862835724",
+    "key": "BorderlessFullscreen",
+    "en": "Borderless Fullscreen"
+  },
+  {
+    "id": "56072078862835725",
+    "key": "Windowed",
+    "en": "Windowed"
+  },
+  {
+    "id": "56072078862835726",
+    "key": "Back",
+    "en": "Back"
+  },
+  {
+    "id": "56072078862835727",
+    "key": "ApplyChanges",
+    "en": "Apply Changes"
+  },
+  {
+    "id": "56072078862835728",
+    "key": "MasterVolume",
+    "en": "Master Volume"
+  },
+  {
+    "id": "56072078862835729",
+    "key": "MusicVolume",
+    "en": "Music Volume"
+  },
+  {
+    "id": "56072078862835730",
+    "key": "EffectsVolume",
+    "en": "Effects Volume"
+  },
+  {
+    "id": "56072078862835731",
+    "key": "UIVolume",
+    "en": "UI Volume"
+  },
+  {
+    "id": "56072078862835732",
+    "key": "RadiationVolume",
+    "en": "Radiation Volume"
+  },
+  {
+    "id": "56072078862835733",
+    "key": "Controls.Action",
+    "en": "ACTION"
+  },
+  {
+    "id": "56072078862835734",
+    "key": "Controls.Keybind",
+    "en": "KEYBIND"
+  },
+  {
+    "id": "56072078862835735",
+    "key": "Reset",
+    "en": "Reset"
+  },
+  {
+    "id": "56072078862835736",
+    "key": "ResetAll",
+    "en": "Reset All"
+  },
+  {
+    "id": "56072078862835737",
+    "key": "Delete",
+    "en": "Delete "
+  },
+  {
+    "id": "56072078862835738",
+    "key": "Play",
+    "en": "Play"
+  },
+  {
+    "id": "56072078862835739",
+    "key": "LoadSave.OverwriteSave",
+    "en": "OVERWRITE SAVE"
+  },
+  {
+    "id": "56072078862835740",
+    "key": "Save",
+    "en": "Save"
+  },
+  {
+    "id": "56072078862835741",
+    "key": "Resume",
+    "en": "Resume"
+  },
+  {
+    "id": "56072078862835742",
+    "key": "ExitToMainMenu",
+    "en": "Exit to main menu"
+  },
+  {
+    "id": "56072078862835743",
+    "key": "NewSave",
+    "en": "NEW SAVE"
+  },
+  {
+    "id": "56072078862835744",
+    "key": "NewGame.Returner",
+    "en": "RETURNER"
+  },
+  {
+    "id": "56072078862835745",
+    "key": "NewGame.Ironman",
+    "en": "IRONMAN"
+  },
+  {
+    "id": "56072078862835746",
+    "key": "NewGame.Returner.GameModeText1",
+    "en": "Death isn't the end, but it will cost you."
+  },
+  {
+    "id": "56072078862835747",
+    "key": "NewGame.Returner.GameModeText2",
+    "en": "Return to where you fell and reclaim your loot."
+  },
+  {
+    "id": "56072078862835748",
+    "key": "NewGame.Ironman.GameModeText1",
+    "en": "Death means starting over.<br>One life per run."
+  },
+  {
+    "id": "56072078862835749",
+    "key": "NewGame.Ironman.GameModeText2",
+    "en": "Permanently!"
+  },
+  {
+    "id": "56072078862835750",
+    "key": "NewGame.DoYouWantToPlayTheTutorial",
+    "en": "Do you want to play the tutorial?"
+  },
+  {
+    "id": "56072078862835751",
+    "key": "Yes",
+    "en": "Yes"
+  },
+  {
+    "id": "56072078862835752",
+    "key": "No",
+    "en": "No"
+  },
+  {
+    "id": "56072078862835753",
+    "key": "LoadGame.DeleteSave.Warning",
+    "en": "You're about to delete this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?"
+  },
+  {
+    "id": "56072078862835754",
+    "key": "Cancel",
+    "en": "Cancel"
+  },
+  {
+    "id": "56072078862835755",
+    "key": "LoadGame.DeleteSave",
+    "en": "DELETE SAVE"
+  },
+  {
+    "id": "56072078862835756",
+    "key": "VoiceVolume",
+    "en": "Voice Volume"
+  },
+  {
+    "id": "56072078862835757",
+    "key": "Load",
+    "en": "Load"
+  },
+  {
+    "id": "56072078862835758",
+    "key": "LoadGame.OverwriteSave.Warning",
+    "en": "You're about to overwrite this save file. This action is permanent and cannot be undone.<br><br>Do you want to continue?"
+  },
+  {
+    "id": "56072078862835759",
+    "key": "LoadGame.OverwriteSave.Overwrite",
+    "en": "OVERWRITE"
+  },
+  {
+    "id": "56072078862835760",
+    "key": "LoadGame.DeleteSave.Delete",
+    "en": "DELETE"
+  },
+  {
+    "id": "56072078862835761",
+    "key": "LoadGame.RenameSave.Confirm",
+    "en": "CONFIRM"
+  },
+  {
+    "id": "56072078862835762",
+    "key": "LoadGame.RenameSave",
+    "en": "RENAME"
+  },
+  {
+    "id": "56072078862835763",
+    "key": "Gameplay.AimAssist",
+    "en": "AIM ASSIST"
+  },
+  {
+    "id": "56072078862835764",
+    "key": "InventoryItemAction.Disassamble",
+    "en": "Disassemble"
+  },
+  {
+    "id": "56072078862835765",
+    "key": "InventoryItemAction.Drop",
+    "en": "Drop"
+  },
+  {
+    "id": "56072078862835766",
+    "key": "InventoryItemAction.Equip",
+    "en": "Equip"
+  },
+  {
+    "id": "56072078862835767",
+    "key": "InventoryItemAction.Inspect",
+    "en": "Inspect"
+  },
+  {
+    "id": "56072078862835768",
+    "key": "InventoryItemAction.Learn",
+    "en": "Learn"
+  },
+  {
+    "id": "56072078862835769",
+    "key": "InventoryItemAction.RemoveMagazine",
+    "en": "Remove magazine"
+  },
+  {
+    "id": "56072078862835770",
+    "key": "InventoryItemAction.RemoveMuzzle",
+    "en": "Remove muzzle"
+  },
+  {
+    "id": "56072078862835771",
+    "key": "InventoryItemAction.RemoveSight",
+    "en": "Remove optic"
+  },
+  {
+    "id": "56072078862835772",
+    "key": "InventoryItemAction.Repair",
+    "en": "Repair"
+  },
+  {
+    "id": "56072078862835773",
+    "key": "InventoryItemAction.Unload",
+    "en": "Unload"
+  },
+  {
+    "id": "56072078862835774",
+    "key": "InventoryItemAction.Use",
+    "en": "Use"
+  },
+  {
+    "id": "60861834851246080",
+    "key": "GunModdingWorkbench.YouDontHaveAGun",
+    "en": "You don't have a gun"
+  },
+  {
+    "id": "65873368597913600",
+    "key": "Action.Interact",
+    "en": "Interact"
+  },
+  {
+    "id": "65873368639856640",
+    "key": "InventoryItemAction.UnEquip",
+    "en": "Unequip"
+  },
+  {
+    "id": "65873368639856641",
+    "key": "InventoryItemAction.EquipPrimaryGun",
+    "en": "Equip primary gun"
+  },
+  {
+    "id": "65873368639856642",
+    "key": "InventoryItemAction.EquipSecondaryGun",
+    "en": "Equip secondary gun"
+  },
+  {
+    "id": "65874132292591616",
+    "key": "InventoryItemAction.LoadMagazine",
+    "en": "Load"
+  },
+  {
+    "id": "73236007592370176",
+    "key": "Menu.Leave",
+    "en": "Leave"
+  },
+  {
+    "id": "117409802777935872",
+    "key": "Quest.OptionalObjectiveSuffix",
+    "en": "(optional)"
+  },
+  {
+    "id": "119186986660151296",
+    "key": "Notification.PoweredDoor.NoPower",
+    "en": "No power"
+  },
+  {
+    "id": "119186986748231680",
+    "key": "Notification.CrowsAreSinging.MissingCompounds",
+    "en": "I haven't found the drug compounds yet."
+  },
+  {
+    "id": "119204911253176320",
+    "key": "Action.PowerOn",
+    "en": "Power on"
+  },
+  {
+    "id": "119204911324479488",
+    "key": "Action.PowerOff",
+    "en": "Power off"
+  },
+  {
+    "id": "119310000000000000",
+    "key": "Notification.BunkerDoor.MissingKey",
+    "en": "Need a key."
+  },
+  {
+    "id": "119310000000000001",
+    "key": "Notification.BunkerDoor.EntryBlocked",
+    "en": "The entrance is sealed."
+  },
+  {
+    "id": "119320000000000000",
+    "key": "Menu.AutoSave",
+    "en": "Auto Save"
+  },
+  {
+    "id": "119330000000000000",
+    "key": "Action.ExitThroughVent",
+    "en": "Exit through vent"
+  },
+  {
+    "id": "121736574201225216",
+    "key": "Tutorial.OpenBackpack",
+    "en": "to open your Backpack."
+  },
+  {
+    "id": "121736574259945472",
+    "key": "Tutorial.BackpackActions.Pc",
+    "en": "Or assign it to the hotbar for a quick use"
+  },
+  {
+    "id": "121736574259945473",
+    "key": "Tutorial.BackpackActions.Gamepad",
+    "en": "Or assign it to the hotbar for a quick use"
+  },
+  {
+    "id": "121736574259945474",
+    "key": "Tutorial.BackpackActions.RadialContinuation",
+    "en": " to open Radial Menu for quick use."
+  },
+  {
+    "id": "121736574259945475",
+    "key": "Tutorial.Dodge",
+    "en": "to evade enemy attacks."
+  },
+  {
+    "id": "121736574259945476",
+    "key": "Tutorial.IrradiatedWater",
+    "en": "Contaminated water increases Radiation over time."
+  },
+  {
+    "id": "121736574259945477",
+    "key": "Tutorial.IrradiatedWater.Bark",
+    "en": "This water is irradiated..."
+  },
+  {
+    "id": "121743049099304960",
+    "key": "Tutorial.BackpackActions.AssignHotbar",
+    "en": "Assign a compatible item to your Hotbar for quick access."
+  },
+  {
+    "id": "121743049153830912",
+    "key": "Tutorial.BackpackActions.Press",
+    "en": "Press"
+  },
+  {
+    "id": "122005175416119296",
+    "key": "Tutorial.Melee",
+    "en": "to Melee"
+  },
+  {
+    "id": "122005175416119297",
+    "key": "Tutorial.OpenBackpack.Press",
+    "en": "You are hungry, press"
+  },
+  {
+    "id": "122005175416119298",
+    "key": "Tutorial.Aim",
+    "en": "to improve your accuracy."
+  },
+  {
+    "id": "122005175416119299",
+    "key": "Tutorial.MeleeDestroyObjects",
+    "en": "to Melee"
+  },
+  {
+    "id": "123884845078142976",
+    "key": "Notification.JobNoLongerAvailable",
+    "en": "That job is no longer available"
+  },
+  {
+    "id": "124100000000000005",
+    "key": "ItemInfo.RepairKit.NotUsableBelow",
+    "en": "Not usable below item condition:"
+  },
+  {
+    "id": "124100000000000006",
+    "key": "ItemInfo.RepairKit.UsableAnyCondition",
+    "en": "Usable in any item condition."
+  },
+  {
+    "id": "124100000000000007",
+    "key": "ItemInfo.RepairClass",
+    "en": "Repair Class:"
+  },
+  {
+    "id": "124100000000000008",
+    "key": "ItemInfo.RepairAmount",
+    "en": "Repair:"
+  },
+  {
+    "id": "124100000000000009",
+    "key": "ItemInfo.AmmoDamage",
+    "en": "Damage:"
+  },
+  {
+    "id": "124100000000000010",
+    "key": "ItemInfo.ArmorPenetration",
+    "en": "Penetration:"
+  },
+  {
+    "id": "124100000000000040",
+    "key": "ItemInfo.ProjectileCaliber",
+    "en": "Caliber:"
+  },
+  {
+    "id": "124100000000000041",
+    "key": "ItemInfo.ProjectileCaliber.Small",
+    "en": "Pistol Ammo"
+  },
+  {
+    "id": "124100000000000042",
+    "key": "ItemInfo.ProjectileCaliber.Medium",
+    "en": "Rifle Ammo"
+  },
+  {
+    "id": "124100000000000043",
+    "key": "ItemInfo.ProjectileCaliber.Shootgun",
+    "en": "Shotgun Ammo"
+  },
+  {
+    "id": "124100000000000044",
+    "key": "ItemInfo.ProjectileCaliber.HighCaliberRifle",
+    "en": "High Caliber Rifle Ammo"
+  },
+  {
+    "id": "124100000000000045",
+    "key": "ItemInfo.ProjectileCaliber.Special",
+    "en": "Special Ammo"
+  },
+  {
+    "id": "124100000000000011",
+    "key": "ItemInfo.Repair.GunClass.Scrap",
+    "en": "Scrap"
+  },
+  {
+    "id": "124100000000000012",
+    "key": "ItemInfo.Repair.GunClass.Basic",
+    "en": "Basic"
+  },
+  {
+    "id": "124100000000000013",
+    "key": "ItemInfo.Repair.GunClass.Advanced",
+    "en": "Advanced"
+  },
+  {
+    "id": "124100000000000014",
+    "key": "ItemInfo.Repair.GunClass.Expert",
+    "en": "Expert"
+  },
+  {
+    "id": "124100000000000015",
+    "key": "ItemInfo.Repair.GunClass.Global",
+    "en": "Global"
+  },
+  {
+    "id": "124100000000000021",
+    "key": "ItemInfo.Repair.EquipmentClass.Tattered",
+    "en": "Tattered"
+  },
+  {
+    "id": "124100000000000022",
+    "key": "ItemInfo.Repair.EquipmentClass.Scavenger",
+    "en": "Scavenger"
+  },
+  {
+    "id": "124100000000000023",
+    "key": "ItemInfo.Repair.EquipmentClass.Medium",
+    "en": "Medium"
+  },
+  {
+    "id": "124100000000000024",
+    "key": "ItemInfo.Repair.EquipmentClass.Heavy",
+    "en": "Heavy"
+  },
+  {
+    "id": "124100000000000025",
+    "key": "ItemInfo.Repair.EquipmentClass.Global",
+    "en": "Global"
+  },
+  {
+    "id": "124100000000000030",
+    "key": "Notification.SaveCorrupt",
+    "en": "This save is corrupt."
+  },
+  {
+    "id": "124100000000000031",
+    "key": "Notification.ReportToDevs",
+    "en": "Please report this to the developers."
+  },
+  {
+    "id": "124100000000000032",
+    "key": "Menu.Ok",
+    "en": "OK"
+  },
+  {
+    "id": "124100000000000033",
+    "key": "Notification.GameSaved",
+    "en": "Game saved."
+  },
+  {
+    "id": "126913402395856896",
+    "key": "Action.OpenGunmodding",
+    "en": "Gun Modding"
+  },
+  {
+    "id": "126913402441994240",
+    "key": "",
+    "en": "Gun Crafting"
+  },
+  {
+    "id": "126913402441994241",
+    "key": "Notification.NotEnoughInventorySpace",
+    "en": "Not enough inventory space."
+  },
+  {
+    "id": "128014970398609408",
+    "key": "Action.OpenGuncrafting",
+    "en": "Gun Crafting"
+  },
+  {
+    "id": "128014970398609501",
+    "key": "Notification.CantCompleteJobGunEquipped",
+    "en": "Can't complete the job with the gun equipped."
+  },
+  {
+    "id": "129349091540279296",
+    "key": "Tutorial.AmmoSwitchPressMessage",
+    "en": "Hold"
+  },
+  {
+    "id": "129349197517758464",
+    "key": "Tutorial.AmmoSwitchMessage",
+    "en": "to switch ammo type"
+  },
+  {
+    "id": "128014970398609502",
+    "key": "InventoryItemAction.AttachToPrimaryGun",
+    "en": "Attach to primary gun"
+  },
+  {
+    "id": "128014970398609503",
+    "key": "InventoryItemAction.AttachToSecondaryGun",
+    "en": "Attach to secondary gun"
+  },
+  {
+    "id": "129351000000000000",
+    "key": "Tutorial.BackpackActions.EatAfterKey",
+    "en": "on the Bread and Use to eat it."
+  },
+  {
+    "id": "130021708180815872",
+    "key": "Menu.Detector",
+    "en": "Detector"
+  },
+  {
+    "id": "130449569276264448",
+    "key": "Action.LootAll",
+    "en": "Loot All"
+  },
+  {
+    "id": "130449569376927744",
+    "key": "Action.Sort",
+    "en": "Sort"
+  },
+  {
+    "id": "130449569376927745",
+    "key": "Action.AdvancedSort",
+    "en": "Advanced Sort"
+  },
+  {
+    "id": "131575391684952064",
+    "key": "Menu.Paused",
+    "en": "Paused"
+  },
+  {
+    "id": "131583539187580928",
+    "key": "Notification.MapUpdated",
+    "en": "Map Updated!"
+  },
+  {
+    "id": "131597947221606400",
+    "key": "Menu.Cart",
+    "en": "Cart"
+  },
+  {
+    "id": "131597947267743744",
+    "key": "Menu.Total",
+    "en": "Total"
+  },
+  {
+    "id": "131597947267743745",
+    "key": "Menu.Wallet",
+    "en": "Wallet"
+  },
+  {
+    "id": "132943393219182592",
+    "key": "Notification.CantCompleteJobItemEquipped",
+    "en": "Can't complete the job with the required item equipped."
+  },
+  {
+    "id": "140512384729088000",
+    "key": "Action.Harvest",
+    "en": "Harvest"
+  },
+  {
+    "id": "133353494480453632",
+    "key": "Notification.TrackedSetFull",
+    "en": "Journal tracker is full. Untrack a job first."
+  },
+  {
+    "id": "133353494597894144",
+    "key": "Notification.LineTurnIn",
+    "en": "Turned in {deliveredCount} for {taskName}. {remainingCount} remaining."
+  },
+  {
+    "id": "133353494597894145",
+    "key": "Journal.CancelJob",
+    "en": "Cancel job"
+  },
+  {
+    "id": "133353494597894146",
+    "key": "Journal.CancelJobConfirm",
+    "en": "Cancel {taskName}? You will lose {amount} reputation with {questGiver}."
+  },
+  {
+    "id": "133402176558407680",
+    "key": "Menu.Deliver_Items",
+    "en": "Deliver Items"
+  },
+  {
+    "id": "133511118591090688",
+    "key": "Action.Sleep",
+    "en": "Sleep"
+  },
+  {
+    "id": "133689024275578880",
+    "key": "Notification.QuantityTurnIn",
+    "en": "Handed in some of {taskName}."
+  },
+  {
+    "id": "134156585704349696",
+    "key": "Inventory.LeaveQuestItemConfirm",
+    "en": "Leave {itemName} here? If it is required for a quest, you will not be able to complete that quest without it. Are you sure?"
+  },
+  {
+    "id": "134156585729515520",
+    "key": "Inventory.LeaveJobItemConfirm",
+    "en": "Leave {itemName} here? If it is required for a job, you will not be able to complete that job without it. The item may disappear. Are you sure?"
+  }
+]

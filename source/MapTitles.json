@@ -1,0 +1,647 @@
+[
+  {
+    "id": "153395167232",
+    "key": "Map.Abandoned_House",
+    "en": "Abandoned House"
+  },
+  {
+    "id": "153424527360",
+    "key": "Map.Active_Squatters",
+    "en": "Active Squatters"
+  },
+  {
+    "id": "153428721664",
+    "key": "Map.Anastasia_Hospital",
+    "en": "Anastasia Hospital"
+  },
+  {
+    "id": "153428721665",
+    "key": "Map.Anglers_Camp",
+    "en": "Anglers Camp"
+  },
+  {
+    "id": "153428721666",
+    "key": "Map.Arcadia",
+    "en": "Arcadia"
+  },
+  {
+    "id": "153428721667",
+    "key": "Map.Arcadia_Squatters",
+    "en": "Arcadia Squatters"
+  },
+  {
+    "id": "153428721668",
+    "key": "Map.Armorer",
+    "en": "Armor Trader"
+  },
+  {
+    "id": "153428721669",
+    "key": "Map.Blasted_Camp",
+    "en": "Blasted Camp"
+  },
+  {
+    "id": "153428721670",
+    "key": "Map.Bratja_Hamlet",
+    "en": "Bratja Hamlet"
+  },
+  {
+    "id": "153428721671",
+    "key": "Map.Butcher",
+    "en": "Butcher"
+  },
+  {
+    "id": "153428721672",
+    "key": "Map.Calamitous_Camp",
+    "en": "Calamitous Camp"
+  },
+  {
+    "id": "153428721673",
+    "key": "Map.Carblocked_Camp",
+    "en": "Carblocked Camp"
+  },
+  {
+    "id": "153428721674",
+    "key": "Map.Central_Crossing",
+    "en": "Central Crossing"
+  },
+  {
+    "id": "153428721675",
+    "key": "Map.Chef",
+    "en": "Chef"
+  },
+  {
+    "id": "153428721676",
+    "key": "Map.Chopper_Camp",
+    "en": "Chopper Camp"
+  },
+  {
+    "id": "153428721677",
+    "key": "Map.Church_of_St._Dmitri",
+    "en": "Church of St. Dmitri"
+  },
+  {
+    "id": "153428721678",
+    "key": "Map.Churchside_Tents",
+    "en": "Churchside Tents"
+  },
+  {
+    "id": "153428721679",
+    "key": "Map.Cozy_Camp",
+    "en": "Cozy Camp"
+  },
+  {
+    "id": "153428721680",
+    "key": "Map.Crash_Camp",
+    "en": "Crash Camp"
+  },
+  {
+    "id": "153428721681",
+    "key": "Map.Crash_Site",
+    "en": "Crash Site"
+  },
+  {
+    "id": "153428721682",
+    "key": "Map.Dazbog_Hollow",
+    "en": "Dazbog Hollow"
+  },
+  {
+    "id": "153428721683",
+    "key": "Map.Dazbog_Lake",
+    "en": "Dazbog Lake"
+  },
+  {
+    "id": "153428721684",
+    "key": "Map.Dead_Zone_Checkpoint",
+    "en": "Dead Zone Checkpoint"
+  },
+  {
+    "id": "153428721685",
+    "key": "Map.Dead_Zone_Shack",
+    "en": "Dead Zone Shack"
+  },
+  {
+    "id": "153428721686",
+    "key": "Map.Derelict_Harbor",
+    "en": "Derelict Harbor"
+  },
+  {
+    "id": "153428721687",
+    "key": "Map.Devout's_Shack",
+    "en": "Devout's Shack"
+  },
+  {
+    "id": "153428721688",
+    "key": "Map.Distant_Squatter_North",
+    "en": "Distant Squatter North"
+  },
+  {
+    "id": "153428721689",
+    "key": "Map.Distant_Squatter_South",
+    "en": "Distant Squatter South"
+  },
+  {
+    "id": "153428721690",
+    "key": "Map.Distribution_Base",
+    "en": "Distribution Base"
+  },
+  {
+    "id": "153428721691",
+    "key": "Map.Dola_Village",
+    "en": "Dola Village"
+  },
+  {
+    "id": "153428721692",
+    "key": "Map.Dumping_Grounds",
+    "en": "Dumping Grounds"
+  },
+  {
+    "id": "153428721693",
+    "key": "Map.Eastern_Farms",
+    "en": "Eastern Farms"
+  },
+  {
+    "id": "153428721694",
+    "key": "Map.Farmer",
+    "en": "Farmer"
+  },
+  {
+    "id": "153428721695",
+    "key": "Map.Fenced_Shack",
+    "en": "Fenced Shack"
+  },
+  {
+    "id": "153428721696",
+    "key": "Map.Firing_Range",
+    "en": "Firing Range"
+  },
+  {
+    "id": "153428721697",
+    "key": "Map.Fyodor_Farm",
+    "en": "Fyodor Farm"
+  },
+  {
+    "id": "153428721698",
+    "key": "Map.Fyodor_Fish_Ponds",
+    "en": "Fish Ponds"
+  },
+  {
+    "id": "153428721699",
+    "key": "Map.Gunners_Camp",
+    "en": "Gunners Camp"
+  },
+  {
+    "id": "153428721700",
+    "key": "Map.Gunsmith",
+    "en": "Gunsmith"
+  },
+  {
+    "id": "153428721701",
+    "key": "Map.Harbor_Camp",
+    "en": "Harbor Camp"
+  },
+  {
+    "id": "153428721702",
+    "key": "Map.Intersection_Shack",
+    "en": "Intersection Shack"
+  },
+  {
+    "id": "153428721703",
+    "key": "Map.Inventory",
+    "en": "Inventory"
+  },
+  {
+    "id": "153428721704",
+    "key": "Map.Junkyard_Camp",
+    "en": "Junkyard Camp"
+  },
+  {
+    "id": "153428721705",
+    "key": "Map.Lake_Sentry",
+    "en": "Lake Sentry"
+  },
+  {
+    "id": "153428721706",
+    "key": "Map.Lakeside_Camp",
+    "en": "Lakeside Camp"
+  },
+  {
+    "id": "153428721707",
+    "key": "Map.Layman's_Tent",
+    "en": "Layman's Tent"
+  },
+  {
+    "id": "153428721708",
+    "key": "Map.Lookout_Shack",
+    "en": "Lookout Shack"
+  },
+  {
+    "id": "153428721709",
+    "key": "Map.Mechanist",
+    "en": "Mechanist"
+  },
+  {
+    "id": "153428721710",
+    "key": "Map.Minivan_Sentry",
+    "en": "Minivan Sentry"
+  },
+  {
+    "id": "153428721711",
+    "key": "Map.Mire_Anomaly",
+    "en": "Mire Aspect"
+  },
+  {
+    "id": "153428721712",
+    "key": "Map.Mire_Squatters",
+    "en": "Mire Squatters"
+  },
+  {
+    "id": "153428721713",
+    "key": "Map.Mist-Swallowed_Tent",
+    "en": "Mist-Swallowed Tent"
+  },
+  {
+    "id": "153428721714",
+    "key": "Map.North_Arcadia_Camp",
+    "en": "North Arcadia Camp"
+  },
+  {
+    "id": "153428721715",
+    "key": "Map.North_Church_Squatters",
+    "en": "North Church Squatters"
+  },
+  {
+    "id": "153428721716",
+    "key": "Map.Northpoint_Crossing",
+    "en": "Northpoint Crossing"
+  },
+  {
+    "id": "153428721717",
+    "key": "Map.Offroad_Tent",
+    "en": "Offroad Tent"
+  },
+  {
+    "id": "153428721718",
+    "key": "Map.Overrun_Sentry",
+    "en": "Overrun Sentry"
+  },
+  {
+    "id": "153428721719",
+    "key": "Map.Pavlie_Fences",
+    "en": "Pavlie Fences"
+  },
+  {
+    "id": "153428721720",
+    "key": "Map.Pavlie_Point",
+    "en": "Pavlie Point"
+  },
+  {
+    "id": "153428721721",
+    "key": "Map.Pavlie_Wetlands",
+    "en": "Pavlie Wetlands"
+  },
+  {
+    "id": "153428721722",
+    "key": "Map.Pavlie_Woods_Camp",
+    "en": "Pavlie Woods Camp"
+  },
+  {
+    "id": "153428721723",
+    "key": "Map.Pilgrim_Marshes",
+    "en": "Pilgrim Marshes"
+  },
+  {
+    "id": "153428721724",
+    "key": "Map.Pilgrim_Plains_Barrier",
+    "en": "Pilgrim Plains Barrier"
+  },
+  {
+    "id": "153428721725",
+    "key": "Map.Pilgrim's_Graveyard",
+    "en": "Pilgrim's Graveyard"
+  },
+  {
+    "id": "153428721726",
+    "key": "Map.Racer_Camp",
+    "en": "Racer Camp"
+  },
+  {
+    "id": "153428721727",
+    "key": "Map.Radioactive_Camp",
+    "en": "Radioactive Camp"
+  },
+  {
+    "id": "153428721728",
+    "key": "Map.Raided_Stronghold",
+    "en": "Raided Stronghold"
+  },
+  {
+    "id": "153428721729",
+    "key": "Map.RO-29_Entrance",
+    "en": "RO-29 Entrance"
+  },
+  {
+    "id": "153428721730",
+    "key": "Map.Roadblocked_Camp",
+    "en": "Roadblocked Camp"
+  },
+  {
+    "id": "153428721731",
+    "key": "Map.Sanctuary",
+    "en": "Sanctuary"
+  },
+  {
+    "id": "153428721732",
+    "key": "Map.Seamster",
+    "en": "Seamster"
+  },
+  {
+    "id": "153428721733",
+    "key": "Map.Sinner's_Camp",
+    "en": "Sinner's Camp"
+  },
+  {
+    "id": "153428721734",
+    "key": "Map.Small_Farm",
+    "en": "Small Farm"
+  },
+  {
+    "id": "153428721735",
+    "key": "Map.Smuggler's_Fort",
+    "en": "Smuggler's Fort"
+  },
+  {
+    "id": "153428721736",
+    "key": "Map.Sontse_Camp",
+    "en": "Sontse Camp"
+  },
+  {
+    "id": "153428721737",
+    "key": "Map.Sontse_Shack",
+    "en": "Sontse Shack"
+  },
+  {
+    "id": "153428721738",
+    "key": "Map.Sontse_Station",
+    "en": "Sontse Station"
+  },
+  {
+    "id": "153428721739",
+    "key": "Map.South_Church_Squatters",
+    "en": "South Church Squatters"
+  },
+  {
+    "id": "153428721740",
+    "key": "Map.Southeast_Anglers",
+    "en": "Southeast Anglers"
+  },
+  {
+    "id": "153428721741",
+    "key": "Map.Southpoint_Crossing",
+    "en": "Southpoint Crossing"
+  },
+  {
+    "id": "153428721742",
+    "key": "Map.Southside_Crops",
+    "en": "Southside Crops"
+  },
+  {
+    "id": "153428721743",
+    "key": "Map.Storage_Spot",
+    "en": "Storage Spot"
+  },
+  {
+    "id": "153428721744",
+    "key": "Map.Storage_Yard",
+    "en": "Storage Yard"
+  },
+  {
+    "id": "153428721745",
+    "key": "Map.Svarog_Approach_Camp",
+    "en": "Svarog Approach Camp"
+  },
+  {
+    "id": "153428721746",
+    "key": "Map.Svarog_Camp",
+    "en": "Svarog Camp"
+  },
+  {
+    "id": "153428721747",
+    "key": "Map.Svarog_Crossing",
+    "en": "Svarog Crossing"
+  },
+  {
+    "id": "153428721748",
+    "key": "Map.Svarog_Factories",
+    "en": "Svarog Factories"
+  },
+  {
+    "id": "153428721749",
+    "key": "Map.Svarog_Junkyard",
+    "en": "Svarog Junkyard"
+  },
+  {
+    "id": "153428721750",
+    "key": "Map.Swamp_Shack",
+    "en": "Swamp Shack"
+  },
+  {
+    "id": "153428721751",
+    "key": "Map.The_Mire",
+    "en": "The Mire"
+  },
+  {
+    "id": "153428721752",
+    "key": "Map.Wagon_City",
+    "en": "Wagon City"
+  },
+  {
+    "id": "153428721753",
+    "key": "Map.Wartime_Pileup",
+    "en": "Wartime Pileup"
+  },
+  {
+    "id": "153428721754",
+    "key": "Map.Waste_Disposal_Site",
+    "en": "Waste Disposal Site"
+  },
+  {
+    "id": "153428721755",
+    "key": "Map.West_Checkpoint",
+    "en": "West Checkpoint"
+  },
+  {
+    "id": "153428721756",
+    "key": "Map.West_Pavlie_Shack",
+    "en": "West Pavlie Shack"
+  },
+  {
+    "id": "153428721757",
+    "key": "Map.West_Zakrajev_Crossing",
+    "en": "West Zakrajev Crossing"
+  },
+  {
+    "id": "153428721758",
+    "key": "Map.West_Zakrajev_Gates",
+    "en": "West Zakrajev Gates"
+  },
+  {
+    "id": "153428721759",
+    "key": "Map.Yarovit_Barn",
+    "en": "Yarovit Barn"
+  },
+  {
+    "id": "153428721760",
+    "key": "Map.Yarovit_Checkpoint",
+    "en": "Yarovit Checkpoint"
+  },
+  {
+    "id": "153428721761",
+    "key": "Map.Yarovit_Farms",
+    "en": "Yarovit Farms"
+  },
+  {
+    "id": "153428721762",
+    "key": "Map.Zakrajev_Camp",
+    "en": "Zakrajev Camp"
+  },
+  {
+    "id": "153428721763",
+    "key": "Map.Zakrajev_Line",
+    "en": "Zakrajev Line"
+  },
+  {
+    "id": "153428721764",
+    "key": "Map.Zalesski_Cemetery",
+    "en": "Zalesski Cemetery"
+  },
+  {
+    "id": "66575964509822976",
+    "key": "Region.ZakrajevLine",
+    "en": "Zakrajev Line"
+  },
+  {
+    "id": "66575964539183104",
+    "key": "Region.BratjaHamlet",
+    "en": "Bratja Hamlet"
+  },
+  {
+    "id": "66575964539183105",
+    "key": "Region.DryLand",
+    "en": "Dry Land"
+  },
+  {
+    "id": "66575964539183106",
+    "key": "Region.Interstate",
+    "en": "Interstate"
+  },
+  {
+    "id": "66575964539183107",
+    "key": "Region.FyodorWoods",
+    "en": "Fyodor Woods"
+  },
+  {
+    "id": "66575964547571712",
+    "key": "Region.AnastasiaWoods",
+    "en": "Anastasia Woods"
+  },
+  {
+    "id": "66575964547571713",
+    "key": "Region.SontsePlains",
+    "en": "Sontse Plains"
+  },
+  {
+    "id": "66575964547571714",
+    "key": "Region.PilgrimPlains",
+    "en": "Pilgrim Plains"
+  },
+  {
+    "id": "66575964547571715",
+    "key": "Region.YarovitMountains",
+    "en": "Yarovit Mountains"
+  },
+  {
+    "id": "66575964547571716",
+    "key": "Region.AnastasiaPonds",
+    "en": "Anastasia Ponds"
+  },
+  {
+    "id": "66575964547571717",
+    "key": "Region.CharredForest",
+    "en": "Charred Forest"
+  },
+  {
+    "id": "66575964547571718",
+    "key": "Region.DinepryQuarry",
+    "en": "Dinepry Quarry"
+  },
+  {
+    "id": "66575964547571719",
+    "key": "Region.SvarogQuarry",
+    "en": "Svarog Quarry"
+  },
+  {
+    "id": "66575964547571720",
+    "key": "Region.DubravkaLake",
+    "en": "Dubravka Lake"
+  },
+  {
+    "id": "66575964547571721",
+    "key": "Region.StDmitriRift",
+    "en": "St. Dmitri Rift"
+  },
+  {
+    "id": "66575964547571722",
+    "key": "Region.LakePavlie",
+    "en": "Lake Pavlie"
+  },
+  {
+    "id": "66575964547571723",
+    "key": "Region.IndustrialDistrict",
+    "en": "Industrial District"
+  },
+  {
+    "id": "66575964547571724",
+    "key": "Region.PavlieSwamps",
+    "en": "Pavlie Swamps"
+  },
+  {
+    "id": "66575964547571725",
+    "key": "Region.DubravkaFarms",
+    "en": "Dubravka Farms"
+  },
+  {
+    "id": "66601867168178176",
+    "key": "Poi.Microrayon",
+    "en": "Microrayon"
+  },
+  {
+    "id": "66601867205926912",
+    "key": "Poi.QuarrySettlement",
+    "en": "Quarry Settlement"
+  },
+  {
+    "id": "66601867205926913",
+    "key": "Poi.LumberFissure",
+    "en": "Lumber Fissure"
+  },
+  {
+    "id": "66601867205926914",
+    "key": "Poi.SouthernCheckpoint",
+    "en": "Southern Checkpoint"
+  },
+  {
+    "id": "66601867205926915",
+    "key": "Poi.DubravkaCamp",
+    "en": "Dubravka Camp"
+  },
+  {
+    "id": "66601867205926916",
+    "key": "Poi.GunnersBase",
+    "en": "Gunners Base"
+  },
+  {
+    "id": "66601867205926917",
+    "key": "Poi.ContestedCheckpoint",
+    "en": "Contested Checkpoint"
+  }
+]

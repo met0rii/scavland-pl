@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2086239401738240",
+    "key": "20_DestroyedShack_WelcomingMessage_H73V",
+    "en": "[ It's all gone. They took it while you slept. ]"
+  },
+  {
+    "id": "2086239489818624",
+    "key": "20_DestroyedShack_WelcomingMessage_IY83",
+    "en": "[ Years of work trapped in an unsalvageable pile of rubble. ]"
+  },
+  {
+    "id": "2086239489818625",
+    "key": "20_DestroyedShack_ScorchedEarthStart_2YSJ",
+    "en": "... This is the one."
+  },
+  {
+    "id": "2086239489818626",
+    "key": "20_DestroyedShack_ScorchedEarthStart_2H1H",
+    "en": "This... My spot..."
+  },
+  {
+    "id": "2086239494012928",
+    "key": "20_DestroyedShack_ScorchedEarth_8R3V",
+    "en": "[ It's been too long, Returner. I hope my smell doesn't offend; it's the burnt corpses all around us, see? The whole Villa is gone. Did you know this would happen? ]"
+  },
+  {
+    "id": "2086239494012929",
+    "key": "20_DestroyedShack_ScorchedEarth_WWWM",
+    "en": "[ Did you come here to comfort me? Or are you looking for something? Like all that stuff you kept stashed here? ]"
+  },
+  {
+    "id": "2086239494012930",
+    "key": "20_DestroyedShack_ScorchedEarth_HPB3",
+    "en": "Anything, please... (Dig into the rubble.)"
+  },
+  {
+    "id": "2086239494012931",
+    "key": "20_DestroyedShack_ScorchedEarth_3Z18",
+    "en": "[ Sorry, Returner. It's not my fault I'm dead. I see the rubble is burning your hands; I want to help... Do I have anything to salvage? ]"
+  },
+  {
+    "id": "2086239494012932",
+    "key": "20_DestroyedShack_ScorchedEarth_6BHC",
+    "en": "[ Oh. An old <u>military ration.</u> You brought this to me a few days ago; it smelled like dead Bandits. And something else: a small <u>wooden box</u> where you used to keep some ammo... That is the best I can do. ]"
+  },
+  {
+    "id": "2086239494012933",
+    "key": "20_DestroyedShack_ScorchedEarth_1OJR",
+    "en": "How...? (Take a look around.)"
+  },
+  {
+    "id": "2086239494012934",
+    "key": "20_DestroyedShack_ScorchedEarth_KH88",
+    "en": "[ They destroyed me, Returner. Lobbed explosives to collapse me and my friends, then rushed in to execute your trapped fellows-in-scavenge. See their <u>limbs?</u> Then they set fire to us all. ]"
+  },
+  {
+    "id": "2086239494012935",
+    "key": "20_DestroyedShack_ScorchedEarth_N0IB",
+    "en": "[ We are no longer a place where life happens. So I've been sitting here, in a <u>pool of blood,</u> resisting the rain. What about you? Were you sleeping? Is that why you abandoned me? ]"
+  },
+  {
+    "id": "2086239494012936",
+    "key": "20_DestroyedShack_ScorchedEarth_XJGK",
+    "en": "(Prepare to leave.)"
+  },
+  {
+    "id": "2086239494012937",
+    "key": "20_DestroyedShack_ScorchedEarth_EGJ2",
+    "en": "(Open the wooden box.)"
+  },
+  {
+    "id": "2086239494012938",
+    "key": "20_DestroyedShack_ScorchedEarth_QS7K",
+    "en": "[ Isn't this great? The box avoided the fire somehow... However, seems like the cartridges are bust. Unusable, even if you had a proper gun. ]"
+  },
+  {
+    "id": "2086239494012939",
+    "key": "20_DestroyedShack_ScorchedEarth_70ST",
+    "en": "[ I will count this as a win, Returner. You still have the box. Don't you want it? You're putting my gift back. ]"
+  },
+  {
+    "id": "2086239494012940",
+    "key": "20_DestroyedShack_ScorchedEarth_HGI1",
+    "en": "(Pick up the ration.)"
+  },
+  {
+    "id": "2086239494012941",
+    "key": "20_DestroyedShack_ScorchedEarth_HL00",
+    "en": "[ Ah, the package has melted at the corner... Must have been directly exposed to fire. You shouldn't try to eat this. ]"
+  },
+  {
+    "id": "2086239494012942",
+    "key": "20_DestroyedShack_ScorchedEarth_FFKS",
+    "en": "[ Looks like all those small, hard-won comforts you used to enjoy within me are gone, dissolved under the embers. But don't be too sad, Returner – everyone loses to Zalesye, not just you. ] "
+  },
+  {
+    "id": "2086239494012943",
+    "key": "20_DestroyedShack_ScorchedEarth_HM1U",
+    "en": "(Squint at a body part.) Vultures..."
+  },
+  {
+    "id": "2086239494012944",
+    "key": "20_DestroyedShack_ScorchedEarth_GHG8",
+    "en": "[ Yes. There are also foreign limbs among the destruction: two, for each two-dozen of ours. A massacre. And <i>they'll</i> be hunting you down, see. No one gets to survive <i>them.</i> ]"
+  },
+  {
+    "id": "2086239494012945",
+    "key": "20_DestroyedShack_ScorchedEarth_HFPT",
+    "en": "[ All those warmongers know is cruel violence, unrelated to survival. I do not blame you for hiding. ]"
+  },
+  {
+    "id": "2086239494012946",
+    "key": "20_DestroyedShack_ScorchedEarth_8T2B",
+    "en": "(Check the blood under your boots.) Why...?"
+  },
+  {
+    "id": "2086239494012947",
+    "key": "20_DestroyedShack_ScorchedEarth_COKW",
+    "en": "[ Dried, red clumps corroded by acidic rain. Are we sure your own blood doesn't look like this, Returner? You have <i>been</i> here so long. ]"
+  },
+  {
+    "id": "2086239494012948",
+    "key": "20_DestroyedShack_ScorchedEarth_0TAV",
+    "en": "[ I don't know why this happened. I'm just an ex-shack with no notion of politics. Why, I don't even know what's on the North side of Lake Pavlie... Do you? ]"
+  },
+  {
+    "id": "2086239494012949",
+    "key": "20_DestroyedShack_ScorchedEarth_S82X",
+    "en": "[ You know you can't stand being here anymore. ]"
+  },
+  {
+    "id": "2086239494012950",
+    "key": "20_DestroyedShack_ScorchedEarth_Z3U4",
+    "en": "... Nothing I can do here."
+  },
+  {
+    "id": "2086239494012951",
+    "key": "20_DestroyedShack_ScorchedEarth_T8Y0",
+    "en": "[ I will still be here after you leave. So will my friends. ]"
+  },
+  {
+    "id": "2086239494012952",
+    "key": "20_DestroyedShack_ScorchedEarth_2SDS",
+    "en": "... Can't be wasting time..."
+  },
+  {
+    "id": "2086239494012953",
+    "key": "20_DestroyedShack_ScorchedEarth_CAJX",
+    "en": "[ Are you thinking about \"rebuilding?\" They will just take everything away again. ]"
+  }
+]

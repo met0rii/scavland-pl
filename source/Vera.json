@@ -1,0 +1,537 @@
+[
+  {
+    "id": "52051779584",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_4UTM",
+    "en": "A dark pit, full of oil fires..."
+  },
+  {
+    "id": "52068556800",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_997G",
+    "en": "A giant industrial building near the Lake..."
+  },
+  {
+    "id": "52068556801",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_XIDC",
+    "en": "A mass of flesh... Beneath the Earth..."
+  },
+  {
+    "id": "52068556802",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_RTPP",
+    "en": "About something else..."
+  },
+  {
+    "id": "52068556803",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_VF2R",
+    "en": "About something else..."
+  },
+  {
+    "id": "52068556804",
+    "key": "09_Vera-Zoran_v1_Talk_BURY",
+    "en": "About those visions..."
+  },
+  {
+    "id": "52068556805",
+    "key": "09_Vera-Zoran_v1_Talk_1XEC",
+    "en": "About your illness..."
+  },
+  {
+    "id": "52068556806",
+    "key": "09_Vera-Zoran_v1_Talk_GMFS",
+    "en": "And if you just went out? Won't tell."
+  },
+  {
+    "id": "52068556807",
+    "key": "09_Vera-Zoran_v1_Talk_7REO",
+    "en": "Call me something else."
+  },
+  {
+    "id": "52068556808",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_PGXP",
+    "en": "Can I bother you a bit?"
+  },
+  {
+    "id": "52068556809",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_LK3A",
+    "en": "Can we talk a bit?"
+  },
+  {
+    "id": "52068556810",
+    "key": "09_Vera-Zoran_v1_Talk_T1AW",
+    "en": "Did you see who brought me here?"
+  },
+  {
+    "id": "52068556811",
+    "key": "09_Vera-Zoran_v1_Talk_CWNK",
+    "en": "Don't care what you call me."
+  },
+  {
+    "id": "52068556812",
+    "key": "09_Vera-Zoran_v1_Talk_BN04",
+    "en": "Don't think I've seen you before."
+  },
+  {
+    "id": "52068556813",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_M3D5",
+    "en": "How did it start?"
+  },
+  {
+    "id": "52068556814",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_XEU5",
+    "en": "How do I see all that again? I need those answers."
+  },
+  {
+    "id": "52068556815",
+    "key": "09_Vera-Zoran_v1_GetTalkMessage_MC1W",
+    "en": "How's it going?"
+  },
+  {
+    "id": "52068556816",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_OF7T",
+    "en": "I had a vision. Something with Mist. And... You two."
+  },
+  {
+    "id": "52068556817",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_FW5H",
+    "en": "I need to go, now."
+  },
+  {
+    "id": "52068556818",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_ETVE",
+    "en": "I should get going."
+  },
+  {
+    "id": "52068556819",
+    "key": "09_Vera-Zoran_v1_Talk_H6WU",
+    "en": "I should get going."
+  },
+  {
+    "id": "52068556820",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_1J0Y",
+    "en": "I think I saw you in a vision..."
+  },
+  {
+    "id": "52068556821",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_6I5X",
+    "en": "I'll try and find them both. Thank you."
+  },
+  {
+    "id": "52068556822",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_VUS0",
+    "en": "Isn't there a cure?"
+  },
+  {
+    "id": "52068556823",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_UC4B",
+    "en": "Lots of drunks around here. Who was he?"
+  },
+  {
+    "id": "52068556824",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_K2X6",
+    "en": "Saw things I want to see again. To know if they're real."
+  },
+  {
+    "id": "52068556825",
+    "key": "09_Vera-Zoran_v1_Talk_4FEK",
+    "en": "Sounds tough."
+  },
+  {
+    "id": "52068556826",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_4ZJT",
+    "en": "The Great Trains... Taking us to Wyraj..."
+  },
+  {
+    "id": "52068556827",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_XBXG",
+    "en": "Think I saw flashes of my... <i>Our</i> future."
+  },
+  {
+    "id": "52068556828",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_WWGH",
+    "en": "This was a waste of time."
+  },
+  {
+    "id": "52068556829",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_BX36",
+    "en": "What are the symptoms?"
+  },
+  {
+    "id": "52068556830",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_NOCC",
+    "en": "What are those visions, exactly?"
+  },
+  {
+    "id": "52068556831",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_TBIL",
+    "en": "What do you mean, gross bits?"
+  },
+  {
+    "id": "52068556832",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_LUPQ",
+    "en": "Who pays for your treatment, though?"
+  },
+  {
+    "id": "52068556833",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_66FQ",
+    "en": "Who takes care of you?"
+  },
+  {
+    "id": "52068556834",
+    "key": "09_Vera-Zoran_v1_Talk_WL37",
+    "en": "Why are you here?"
+  },
+  {
+    "id": "52068556835",
+    "key": "09_Vera-Zoran_v1_Talk_B0D9",
+    "en": "You know me?"
+  },
+  {
+    "id": "52068556836",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_N9B2",
+    "en": "You mentioned visions?"
+  },
+  {
+    "id": "52068556837",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_MA8B",
+    "en": "You think the Mudlarks would know?"
+  },
+  {
+    "id": "52068556838",
+    "key": "09_Vera-Zoran_v1_GetRandomTheDeadZoneStart_F3SK",
+    "en": "You two were in a vision I had..."
+  },
+  {
+    "id": "52068556839",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_A0AD",
+    "en": "(\"Symp-toms\", Zo-zo. It means how we feel, if it hurts and all that.) It hurts, doesn't it, Zo?"
+  },
+  {
+    "id": "52068556840",
+    "key": "09_Vera-Zoran_v1_Talk_MA7F",
+    "en": "(What's that, Zo? Oh honey... Sorry I was being scary.) I'm sorry, mister. I'm fine."
+  },
+  {
+    "id": "52068556841",
+    "key": "09_Vera-Zoran_v1_Talk_5FXG",
+    "en": "(What's that, Zo? Oh yeah.) We also feel tired all the time... Can't play around much. These past two years, we've been mostly... Y'know... Here. In this bed."
+  },
+  {
+    "id": "52068556842",
+    "key": "09_Vera-Zoran_v1_Talk_Y3M2",
+    "en": "(What's that, Zoran? Oh, right...) Sorry, maybe you don't like being called that?"
+  },
+  {
+    "id": "52068556843",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_FJK4",
+    "en": "(Zo, what can you say? About the drunk man. Hmm. Hm-hmm.) Oh, I think he's that guy who keeps inviting people to parties... He actually invited <i>me</i> and even <i>Zoran,</i> can you imagine?!"
+  },
+  {
+    "id": "52068556844",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_NWO4",
+    "en": "(Zo, you wanna ask him something?) Was it like the ones we have, like a bird looking down on everything?"
+  },
+  {
+    "id": "52068556845",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_4IWZ",
+    "en": "(Zoran: H-hi...)"
+  },
+  {
+    "id": "52068556846",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_T8RO",
+    "en": "A bunch of dead people rising from the black water...?"
+  },
+  {
+    "id": "52068556847",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_FLNX",
+    "en": "A scary monster... With a big loud heartbeat... Right? (Calm down, Zo-zo. That one's <i>not real.</i>)"
+  },
+  {
+    "id": "52068556848",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_QDNC",
+    "en": "Alexei is doing his best. But we don't have a lot of hope. Zo thinks the only cure is more Mist, but what does he know? He just saw that in some dream."
+  },
+  {
+    "id": "52068556849",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_0ZV9",
+    "en": "Alexei. He wipes our bruises with water and a tiny bit of... Uhmm... What's it called? <i>Something</i>-alcohol... (Yes, Zo, that one you <i>can't</i> drink.)"
+  },
+  {
+    "id": "52068556850",
+    "key": "09_Vera-Zoran_v1_GetTalkWhoBrought_LI6H",
+    "en": "Anyway, Mr. Vulture. She's a Palatine. She dragged you in here with some other guy... But I don't think he made it."
+  },
+  {
+    "id": "52068556851",
+    "key": "09_Vera-Zoran_v1_GetTalkWhoBrought_K5O1",
+    "en": "Anyway, Returner. She's a Palatine. She dragged you in here with some other guy... But I don't think he made it."
+  },
+  {
+    "id": "52068556852",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutIllness_S7KJ",
+    "en": "Anyway... You seem nice, Mr. Vulture. Thanks for listening... Please let us rest a bit, now."
+  },
+  {
+    "id": "52068556853",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutIllness_9FDH",
+    "en": "Anyway... You seem nice, Returner. Thanks for listening... Please let us rest a bit, now."
+  },
+  {
+    "id": "52068556854",
+    "key": "09_Vera-Zoran_v1_Talk_VQJQ",
+    "en": "Are you sure? We're here quite a lot... And you've been here a lot, too!"
+  },
+  {
+    "id": "52068556855",
+    "key": "09_Vera-Zoran_v1_Leave_L9I7",
+    "en": "Be back sometime..."
+  },
+  {
+    "id": "52068556856",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_QNBQ",
+    "en": "Because of the bodies in the Villa and all. (Zo, don't ask me about that, sweetie.)"
+  },
+  {
+    "id": "52068556857",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_7Q00",
+    "en": "But sometimes I feel a tingling. Like I'm <i>supposed</i> to touch the Mist somehow. I don't know... Maybe someday, if I <i>know</i> it won't hurt Zo-zo..."
+  },
+  {
+    "id": "52068556858",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_NFVZ",
+    "en": "But the pain and the bruises... Being tired all the freaking time... That's just in the last two years. Don't know why..."
+  },
+  {
+    "id": "52068556859",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_SADZ",
+    "en": "But what did you see, mister?"
+  },
+  {
+    "id": "52068556860",
+    "key": "09_Vera-Zoran_v1_Leave_TW49",
+    "en": "Bye, mister..."
+  },
+  {
+    "id": "52068556861",
+    "key": "09_Vera-Zoran_v1_Talk_GVSU",
+    "en": "Hehe, forget it. Guess we'll just call you Mr. Vulture!"
+  },
+  {
+    "id": "52068556862",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_IU7C",
+    "en": "Hello, friend!"
+  },
+  {
+    "id": "52068556863",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_T2TV",
+    "en": "Hey Zoran, look who's come to talk. Say hi."
+  },
+  {
+    "id": "52068556864",
+    "key": "09_Vera-Zoran_v1_GetWelcomingMessage_VTHK",
+    "en": "Hey, Returner. Remember us? I'm Vera. This is my lil' brother, Zoran. He's shy. I'm not."
+  },
+  {
+    "id": "52068556865",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_NDU1",
+    "en": "Hi! So you've finally had a vision, mister Vulture?"
+  },
+  {
+    "id": "52068556866",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_37N0",
+    "en": "Hmmm... The Mudlarks maybe know... They know Mist stuff so much... But no one lets us talk to them..."
+  },
+  {
+    "id": "52068556867",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_Q2BQ",
+    "en": "Hmmm... The visions, we've had since we were <i>very</i> little. Mist! Fog! Scary monsters..."
+  },
+  {
+    "id": "52068556868",
+    "key": "09_Vera-Zoran_v1_Talk_RGBZ",
+    "en": "Honestly... Somedays I feel like I'd rather get shot dead by Bandits or ripped into pieces by a nasty Mutant, than lie in this bed a <i>second</i> longer..."
+  },
+  {
+    "id": "52068556869",
+    "key": "09_Vera-Zoran_v1_Talk_Y6VC",
+    "en": "How about... (Zoran, do you know his name? No? And he's too scary to ask?)"
+  },
+  {
+    "id": "52068556870",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutVision_I5UC",
+    "en": "I'm not sure... We <i>do</i> see Mr. Returner a lot, don't we, Zo-zo? Walking around. Getting... Uhm... Getting shot. (Sorry.)"
+  },
+  {
+    "id": "52068556871",
+    "key": "09_Vera-Zoran_v1_GetTalkAboutVision_C7MR",
+    "en": "I'm not sure... We <i>do</i> see Mr. Vulture a lot, don't we, Zo-zo? Walking around. Getting... Uhm... Getting shot. (Sorry.)"
+  },
+  {
+    "id": "52068556872",
+    "key": "09_Vera-Zoran_v1_Talk_GKI8",
+    "en": "It is! We just wanna get out there to play. I'm sure Zo-zo wants to roll around in the mud like a proper kid."
+  },
+  {
+    "id": "52068556873",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_GG76",
+    "en": "It's like we see the Earth, but the <i>insides</i> of it. It's hard to explain... (Hehe, Zo-zo, that's a good way to put it. We see the \"gross bits\" of everything!)"
+  },
+  {
+    "id": "52068556874",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_8K6C",
+    "en": "It's like... (How did you describe it, Zo-zo?) Like a bird. We see things <i>like a bird,</i> looking down. But not just people and the ground, it's like..."
+  },
+  {
+    "id": "52068556875",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_U351",
+    "en": "Jasna does! Do you know her? She's an Acolyte, too! (No, don't say she's mean, Zo.)"
+  },
+  {
+    "id": "52068556876",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_JPPZ",
+    "en": "Like a big factory, with a bunch of Mist rising to the sky, eating all the clouds?"
+  },
+  {
+    "id": "52068556877",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_L88N",
+    "en": "Me and Zo always feel like the visions are like not even past or future, but, uhh... It's <i>everything</i> at the same time..."
+  },
+  {
+    "id": "52068556878",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_ET6N",
+    "en": "No problems mister... I hope you can find a way to have the visions again... I also hope they don't make you sick... (Zo-zo, say bye-bye to the nice Vulture.)"
+  },
+  {
+    "id": "52068556879",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_XFQB",
+    "en": "Oh yeah, there was a drunk man who spent some time here, Alexei said he was shaking and having visions... That he took some drugs or something... Said it was bad for his soul."
+  },
+  {
+    "id": "52068556880",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_8UAP",
+    "en": "Okay... Sorry, mister. Me and Zoran just sit here all day, so we don't know much... I can talk about visions more if you want... (Say bye-bye, Zo.)"
+  },
+  {
+    "id": "52068556881",
+    "key": "09_Vera-Zoran_v1_Talk_W5N7",
+    "en": "Okey-doke then."
+  },
+  {
+    "id": "52068556882",
+    "key": "09_Vera-Zoran_v1_Talk_VDQS",
+    "en": "Plus we're tired... And I'm too worried about Zo-zo... I'd just regret it in like two seconds flat."
+  },
+  {
+    "id": "52068556883",
+    "key": "09_Vera-Zoran_v1_Talk_QAUZ",
+    "en": "See these marks? We're pretty much always sick. Sometimes a new thing shows up on my arms, on his legs. And it hurts..."
+  },
+  {
+    "id": "52068556884",
+    "key": "09_Vera-Zoran_v1_Leave_JHRB",
+    "en": "See you... Come back if you want!"
+  },
+  {
+    "id": "52068556885",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_RGWR",
+    "en": "She just... Worries too much. Says we should stay here... Says the disease is contagious or something."
+  },
+  {
+    "id": "52068556886",
+    "key": "09_Vera-Zoran_v1_Talk_XOQ8",
+    "en": "Sure! Everyone knows you're the Returner. 'Least around here. Right?"
+  },
+  {
+    "id": "52068556887",
+    "key": "09_Vera-Zoran_v1_Leave_E9S9",
+    "en": "Talk to us later if you wanna play... Zo-zo needs company."
+  },
+  {
+    "id": "52068556888",
+    "key": "09_Vera-Zoran_v1_Leave_VFBT",
+    "en": "Thanks for talking to us! It was fun..."
+  },
+  {
+    "id": "52068556889",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_B8CJ",
+    "en": "There's the visions, too. And the fatigue... That's what Alexei tells us, that we're always \"fatigued\". Even when we really want to play..."
+  },
+  {
+    "id": "52068556890",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Questions_754T",
+    "en": "They can maybe help you have visions again... Since... They're so crazy about Mist! And... Maybe there are some of them around here?"
+  },
+  {
+    "id": "52068556891",
+    "key": "09_Vera-Zoran_v1_Talk_F6Y2",
+    "en": "This place is like a dusty, shitty prison sometimes."
+  },
+  {
+    "id": "52068556892",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_CUEB",
+    "en": "We think they're real... But we see them all the time. I don't know how you can see them as much as we do."
+  },
+  {
+    "id": "52068556893",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_IW11",
+    "en": "We've seen people shot, here, you know. Their inside bits hanging out."
+  },
+  {
+    "id": "52068556894",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_295S",
+    "en": "We've seen that one before too, mister."
+  },
+  {
+    "id": "52068556895",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_71TU",
+    "en": "Well I think we saw many of the same things... Which must mean they're real... Right? Not just our imagination? Or because we're sick?"
+  },
+  {
+    "id": "52068556896",
+    "key": "09_Vera-Zoran_v1_Talk_YD8O",
+    "en": "What about them?"
+  },
+  {
+    "id": "52068556897",
+    "key": "09_Vera-Zoran_v1_GetTalkWhatIsIt_0AP5",
+    "en": "What is it, Mr. Vulture?"
+  },
+  {
+    "id": "52068556898",
+    "key": "09_Vera-Zoran_v1_GetTalkWhatIsIt_QF5T",
+    "en": "What is it, Returner?"
+  },
+  {
+    "id": "52068556899",
+    "key": "09_Vera-Zoran_v1_Talk_YQJ0",
+    "en": "Wish we could... But everyone except Alexei and Jasna keep their distance."
+  },
+  {
+    "id": "52068556900",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_7D2F",
+    "en": "Yeah..."
+  },
+  {
+    "id": "52068556901",
+    "key": "09_Vera-Zoran_v1_TheDeadZone_Describing_Visions_29UU",
+    "en": "Yes! And the sun... Warming up our legs when we sit at the edge of the cart, looking at the grass going by so fast, zoom! Zoom! Visions can be warm sometimes..."
+  },
+  {
+    "id": "52068556902",
+    "key": "09_Vera-Zoran_v1_Talk_About_Illness_TJPC",
+    "en": "Zo-zo, he <i>loves</i> Alexei. Him and Jasna treat us so well."
+  },
+  {
+    "id": "52068556903",
+    "key": "09_Vera-Zoran_v1_Talk_CBVZ",
+    "en": "Zoran calls her \"big strong lady\"! Ring any bells? It was Yelena. (Say it with me, Zo-zo. Ye-le-na. She played with us once, remember?)"
+  },
+  {
+    "id": "52068556904",
+    "key": "09_Vera-Zoran_v1_Talk_9JOJ",
+    "en": "..."
+  },
+  {
+    "id": "52068556905",
+    "key": "09_Vera-Zoran_v1_Talk_About_Visions_JQGN",
+    "en": "Imagine something like that, but for... Everything. Beneath the ground. There's something moving down there. But I know that's like, crazy talk..."
+  }
+]

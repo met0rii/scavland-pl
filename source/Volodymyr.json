@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "29298294784",
+    "key": "02_Volodymyr_v1_Talk_7633",
+    "en": "What's going on here?"
+  },
+  {
+    "id": "29327654912",
+    "key": "02_Volodymyr_v1_Talk_5CX6",
+    "en": "Palatines been bothering us too much. We're showing who they messed with."
+  },
+  {
+    "id": "29327654913",
+    "key": "02_Volodymyr_v1_Talk_EV59",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols."
+  },
+  {
+    "id": "29327654914",
+    "key": "02_Volodymyr_v1_Talk_SVGY",
+    "en": "Why'd you set up camp here?"
+  },
+  {
+    "id": "29327654915",
+    "key": "02_Volodymyr_v1_Talk_Z249",
+    "en": "We're not just setting up camp. We're *expanding*."
+  },
+  {
+    "id": "29327654916",
+    "key": "02_Volodymyr_v1_Talk_QY2U",
+    "en": "And not a single Palatine has the balls to confront us."
+  },
+  {
+    "id": "29327654917",
+    "key": "02_Volodymyr_v1_Talk_6EWQ",
+    "en": "Tell me more about this standoff."
+  },
+  {
+    "id": "29327654918",
+    "key": "02_Volodymyr_v1_Talk_4D9V",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way."
+  },
+  {
+    "id": "29327654919",
+    "key": "02_Volodymyr_v1_Talk_H8Z7",
+    "en": "Never talked to a Gunner before."
+  },
+  {
+    "id": "29327654920",
+    "key": "02_Volodymyr_v1_Talk_544H",
+    "en": "Then choose your words wisely."
+  },
+  {
+    "id": "29327654921",
+    "key": "02_Volodymyr_v1_Talk_M5IS",
+    "en": "Can you tell me about the Gunners?"
+  },
+  {
+    "id": "29327654922",
+    "key": "02_Volodymyr_v1_Talk_6ROX",
+    "en": "Time to go. Later."
+  },
+  {
+    "id": "29327654923",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse1_XSFG",
+    "en": "We don't hire shit-smelling Vultures."
+  },
+  {
+    "id": "29327654924",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse2_CVML",
+    "en": "Careful now. You're too curious."
+  },
+  {
+    "id": "29327654925",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_2168",
+    "en": "What does your group do?"
+  },
+  {
+    "id": "29327654926",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_FRBO",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it."
+  },
+  {
+    "id": "29327654927",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_QGU1",
+    "en": "Isn't that what the Palatines do?"
+  },
+  {
+    "id": "29327654928",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_7H9W",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding."
+  },
+  {
+    "id": "29327654929",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_Q5DV",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal."
+  },
+  {
+    "id": "29331849216",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_5G59",
+    "en": "I heard Gunners were... Aggressive."
+  },
+  {
+    "id": "29331849217",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LBFO",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off."
+  },
+  {
+    "id": "29331849218",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_8DBH",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>"
+  },
+  {
+    "id": "29331849219",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_4LNW",
+    "en": "Where do you usually operate?"
+  },
+  {
+    "id": "29331849220",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_XPWH",
+    "en": "Down Southwest, around the Water Tower; near Dinepry Fortress and the entrance to the Dola."
+  },
+  {
+    "id": "29331849221",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_CL8D",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge."
+  },
+  {
+    "id": "29331849222",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_VEXD",
+    "en": "Have you had conflicts with the Palatines before?"
+  },
+  {
+    "id": "29331849223",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_1SN0",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more."
+  },
+  {
+    "id": "29331849224",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_FYCJ",
+    "en": "Next time will be different."
+  },
+  {
+    "id": "29331849225",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_DI3W",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "29331849226",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_WP1F",
+    "en": "Gotta go. Continue this later."
+  },
+  {
+    "id": "29331849227",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_52WB",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye..."
+  },
+  {
+    "id": "29331849228",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_IKI5",
+    "en": "<b>Nearly</b> all of Zalesye."
+  },
+  {
+    "id": "29445095424",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_24F7",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us."
+  },
+  {
+    "id": "29445095425",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_3QZZ",
+    "en": "Palatines have access to weaponry and supplies from the old military posts..."
+  },
+  {
+    "id": "29445095426",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_0C2E",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that."
+  },
+  {
+    "id": "29445095427",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YFTR",
+    "en": "Besides -- not to flaunt my hand -- but good ol' Grigory's on <b>our</b> side."
+  },
+  {
+    "id": "29445095428",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YL3A",
+    "en": "He gets us that *Eastern* shit."
+  },
+  {
+    "id": "29445095429",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_OAV9",
+    "en": "So how come the Gunners are only expanding now?"
+  },
+  {
+    "id": "29445095430",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_WANE",
+    "en": "Simple. Folks haven't fully realized our value yet."
+  },
+  {
+    "id": "29445095431",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_P55G",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first."
+  },
+  {
+    "id": "29445095432",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_Y56K",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us."
+  },
+  {
+    "id": "29445095433",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_7W27",
+    "en": "What's this all about?"
+  },
+  {
+    "id": "29445095434",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_FN9J",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk..."
+  },
+  {
+    "id": "29445095435",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_FGWR",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense."
+  },
+  {
+    "id": "29445095436",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_QPD9",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection."
+  },
+  {
+    "id": "29445095437",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_I1BY",
+    "en": "They don't look too scared."
+  },
+  {
+    "id": "29445095438",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_RSVK",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune."
+  },
+  {
+    "id": "29445095439",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_R9XZ",
+    "en": "Are you planning an attack?"
+  },
+  {
+    "id": "29445095440",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_W91B",
+    "en": "Why, you gonna tell on us? Fuckin' rat."
+  },
+  {
+    "id": "29445095441",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_HDCI",
+    "en": "Don't care either way – just don't do it while I'm passing by."
+  },
+  {
+    "id": "29445095442",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_OHF7",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture."
+  },
+  {
+    "id": "29445095443",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_O5CG",
+    "en": "Forget it – don't need to know."
+  },
+  {
+    "id": "29445095444",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_8IKI",
+    "en": "And I'm not telling you shit either way."
+  },
+  {
+    "id": "29445095445",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Q59M",
+    "en": "What if the Palatines attack again?"
+  },
+  {
+    "id": "29445095446",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_ONO5",
+    "en": "I *hope* they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp."
+  },
+  {
+    "id": "29445095447",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_D3ZZ",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad."
+  },
+  {
+    "id": "29445095448",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DBQL",
+    "en": "You're not worried about losing some men?"
+  },
+  {
+    "id": "29445095449",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_O5XU",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today."
+  },
+  {
+    "id": "29445095450",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_XSVN",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture."
+  },
+  {
+    "id": "29445095451",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_BJ1R",
+    "en": "About something else..."
+  },
+  {
+    "id": "29445095452",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_KR67",
+    "en": "I really have to go now."
+  },
+  {
+    "id": "29445095453",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_RS8B",
+    "en": "Volodymyr. I run things here. My boys let you pass because I might have business for you."
+  },
+  {
+    "id": "29445095454",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_6UAO",
+    "en": "Hm?"
+  },
+  {
+    "id": "29445095455",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9CM6",
+    "en": "What do you need, scavenger?"
+  },
+  {
+    "id": "29445095456",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9S7F",
+    "en": "Shit, if it ain't a Vulture."
+  },
+  {
+    "id": "29445095457",
+    "key": "02_Volodymyr_v1_GetTalkMessage_DUCS",
+    "en": "Volodymyr – let's talk."
+  },
+  {
+    "id": "29445095458",
+    "key": "02_Volodymyr_v1_GetTalkMessage_V6IL",
+    "en": "We need to talk."
+  },
+  {
+    "id": "29445095459",
+    "key": "02_Volodymyr_v1_GetTalkMessage_JWK1",
+    "en": "Got some questions."
+  },
+  {
+    "id": "29445095460",
+    "key": "02_Volodymyr_v1_GetTradeMessage_6GEL",
+    "en": "I'm looking to trade."
+  },
+  {
+    "id": "29445095461",
+    "key": "02_Volodymyr_v1_GetTradeMessage_69MS",
+    "en": "Got things that could interest you."
+  },
+  {
+    "id": "29445095462",
+    "key": "02_Volodymyr_v1_GetTradeMessage_Q40U",
+    "en": "Got anything I can trade for?"
+  },
+  {
+    "id": "29445095463",
+    "key": "02_Volodymyr_v1_GetTradeMessage_U9J2",
+    "en": "Gunners need to trade, too. Let's do it."
+  },
+  {
+    "id": "29445095464",
+    "key": "02_Volodymyr_v1_GetTradeResponse_FLNG",
+    "en": "What can a Vulture offer other than useless trinkets?"
+  },
+  {
+    "id": "29445095465",
+    "key": "02_Volodymyr_v1_GetTradeResponse_DBJ7",
+    "en": "You do good by us, we'll get these prices down."
+  },
+  {
+    "id": "29445095466",
+    "key": "02_Volodymyr_v1_GetTradeResponse_QCQX",
+    "en": "I think we'll make some good deals today."
+  },
+  {
+    "id": "29445095467",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_W2JG",
+    "en": "We done wasting time?"
+  },
+  {
+    "id": "29445095468",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_S450",
+    "en": "Next time, make it snappy."
+  },
+  {
+    "id": "29445095469",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_C2UD",
+    "en": "We're watching you, runt."
+  },
+  {
+    "id": "29445095470",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_Q0J9",
+    "en": "We're watching you, Vulture."
+  },
+  {
+    "id": "29445095471",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_JG5W",
+    "en": "Time to kill some Bandits."
+  },
+  {
+    "id": "29445095472",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_B3RW",
+    "en": "Glad I'm not the only psycho killer here."
+  },
+  {
+    "id": "29445095473",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_WB2Y",
+    "en": "Gotta think about it."
+  },
+  {
+    "id": "29445095474",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_BIJ6",
+    "en": "No, you don't. Make up your goddamn mind."
+  },
+  {
+    "id": "29445095475",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_GHMV",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "29445095476",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_1QDH",
+    "en": "Ok."
+  },
+  {
+    "id": "29445095477",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_QQNH",
+    "en": "Glad I could help."
+  },
+  {
+    "id": "29445095478",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_2426",
+    "en": "I'll get what you want."
+  },
+  {
+    "id": "29445095479",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_7ICT",
+    "en": "Of course you will. You know who's boss."
+  },
+  {
+    "id": "29445095480",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_SFN8",
+    "en": "Let me think on it."
+  },
+  {
+    "id": "29445095481",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_FE98",
+    "en": "Stop fucking with me – last warning."
+  },
+  {
+    "id": "29445095482",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_63ZE",
+    "en": "Got other requests?"
+  },
+  {
+    "id": "29445095483",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_YN4X",
+    "en": "Alright."
+  },
+  {
+    "id": "29445095484",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_RYSP",
+    "en": "..."
+  },
+  {
+    "id": "29445095485",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_7I4G",
+    "en": "Got any jobs for me?"
+  },
+  {
+    "id": "29445095486",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_YA65",
+    "en": "Need work. Got anything?"
+  },
+  {
+    "id": "29445095487",
+    "key": "02_Volodymyr_Jobs_v1_GetJobsMessage_ENA3",
+    "en": "Need the services of a Vulture?"
+  },
+  {
+    "id": "29445095488",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntStart_BMVA",
+    "en": "You don't need to know the details, but we're past the point of <i>collecting</i> with some people. Kill 'em for us."
+  },
+  {
+    "id": "29445095489",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntStart_OYR9",
+    "en": "It's a shame, Vulture, but some folks just don't take our threats seriously. Let's see if you can help change that."
+  },
+  {
+    "id": "29445095490",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_QOMA",
+    "en": "Might be good enough for the Gunners some day, huh. Hehe... Fat fuckin' chance."
+  },
+  {
+    "id": "29445095491",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_G2GC",
+    "en": "Well well, not totally useless, are ya."
+  },
+  {
+    "id": "29445095492",
+    "key": "02_Volodymyr_Jobs_v1_ManhuntComplete_CZZK",
+    "en": "Took you long enough, scavenger."
+  },
+  {
+    "id": "29445095493",
+    "key": "02_Volodymyr_Jobs_v1_CollectionStart_JUKN",
+    "en": "There’s a specific type of gun that I want to try out. See if you can find one for me – I’ll make it worth it, long as you hurry the fuck up."
+  },
+  {
+    "id": "29445095494",
+    "key": "02_Volodymyr_Jobs_v1_CollectionStart_RZ2K",
+    "en": "We’re short on some equipment for our patrols – from having extended to this camp. Here’s some stuff we’re gonna need. Get to it."
+  },
+  {
+    "id": "29445095495",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_8KM8",
+    "en": "Not a moment too soon. Here, take this."
+  },
+  {
+    "id": "29445095496",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_YC4T",
+    "en": "Fuckin' finally. Any Gunner woulda been done much quicker."
+  },
+  {
+    "id": "29445095497",
+    "key": "02_Volodymyr_Jobs_v1_CollectionComplete_4BPH",
+    "en": "Good. I get some new toys and you get these scraps. Here ya go, small-time."
+  },
+  {
+    "id": "29445095498",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_BWLV",
+    "en": "Got nothin'. Sit still, cunt."
+  },
+  {
+    "id": "29445095499",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_7PNV",
+    "en": "Think you're a Gunner or something? Got nothing for ya now."
+  },
+  {
+    "id": "29445095500",
+    "key": "02_Volodymyr_Jobs_v1_GetNoQuestsAvailable_WT0Z",
+    "en": "Got nothing else right now – go wallow in the mud or whatever you Vultures like to do."
+  },
+  {
+    "id": "3231040983302144",
+    "key": "",
+    "en": "What's going on here?"
+  },
+  {
+    "id": "3231041004273664",
+    "key": "",
+    "en": "Palatines been bothering us too much. We're showing who they messed with."
+  },
+  {
+    "id": "3231041004273665",
+    "key": "",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols."
+  },
+  {
+    "id": "3231041004273666",
+    "key": "",
+    "en": "Why'd you set up camp here?"
+  },
+  {
+    "id": "3231041004273667",
+    "key": "",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>"
+  },
+  {
+    "id": "3231041004273668",
+    "key": "",
+    "en": "And not a single Palatine has the balls to confront us."
+  },
+  {
+    "id": "3231041004273669",
+    "key": "",
+    "en": "Tell me more about this standoff."
+  },
+  {
+    "id": "3231041004273670",
+    "key": "",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way."
+  },
+  {
+    "id": "3231041004273671",
+    "key": "",
+    "en": "Never talked to a Gunner before."
+  },
+  {
+    "id": "3231041004273672",
+    "key": "",
+    "en": "Then choose your words wisely."
+  },
+  {
+    "id": "3231041004273673",
+    "key": "",
+    "en": "Can you tell me about the Gunners?"
+  },
+  {
+    "id": "3231041004273674",
+    "key": "",
+    "en": "Time to go. Later."
+  },
+  {
+    "id": "3231041004273675",
+    "key": "",
+    "en": "We don't hire shit-smelling Vultures."
+  },
+  {
+    "id": "3231041004273676",
+    "key": "",
+    "en": "Careful now. You're too curious."
+  },
+  {
+    "id": "3231041004273677",
+    "key": "",
+    "en": "What does your group do?"
+  },
+  {
+    "id": "3231041004273678",
+    "key": "",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it."
+  },
+  {
+    "id": "3231041004273679",
+    "key": "",
+    "en": "Isn't that what the Palatines do?"
+  },
+  {
+    "id": "3231041004273680",
+    "key": "",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding."
+  },
+  {
+    "id": "3231041004273681",
+    "key": "",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal."
+  },
+  {
+    "id": "3231041004273682",
+    "key": "",
+    "en": "I heard Gunners were... Aggressive."
+  },
+  {
+    "id": "3231041004273683",
+    "key": "",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off."
+  },
+  {
+    "id": "3231041004273684",
+    "key": "",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>"
+  },
+  {
+    "id": "3231041004273685",
+    "key": "",
+    "en": "Where do you usually operate?"
+  },
+  {
+    "id": "3231041004273686",
+    "key": "",
+    "en": "Vodnik. To the West, near the Canyon. I don't think you'd make it there."
+  },
+  {
+    "id": "3231041004273687",
+    "key": "",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge."
+  },
+  {
+    "id": "3231041004273688",
+    "key": "",
+    "en": "Have you had conflicts with the Palatines before?"
+  },
+  {
+    "id": "3231041004273689",
+    "key": "",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more."
+  },
+  {
+    "id": "3231041004273690",
+    "key": "",
+    "en": "Next time will be different."
+  },
+  {
+    "id": "3231041004273691",
+    "key": "",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "3231041004273692",
+    "key": "",
+    "en": "Gotta go. Continue this later."
+  },
+  {
+    "id": "3231041004273693",
+    "key": "",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye..."
+  },
+  {
+    "id": "3231041004273694",
+    "key": "",
+    "en": "<b>Nearly</b> all of Zalesye."
+  },
+  {
+    "id": "3231041004273695",
+    "key": "",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us."
+  },
+  {
+    "id": "3231041004273696",
+    "key": "",
+    "en": "Palatines have access to weaponry and supplies from the old military posts..."
+  },
+  {
+    "id": "3231041004273697",
+    "key": "",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that."
+  },
+  {
+    "id": "3231041004273698",
+    "key": "",
+    "en": "Besides – not to flaunt my hand – but good ol' Grigory's on <b>our</b> side."
+  },
+  {
+    "id": "3231041004273699",
+    "key": "",
+    "en": "He gets us that *Eastern* shit."
+  },
+  {
+    "id": "3231041004273700",
+    "key": "",
+    "en": "So how come the Gunners are only expanding now?"
+  },
+  {
+    "id": "3231041004273701",
+    "key": "",
+    "en": "Simple. Folks haven't fully realized our value yet."
+  },
+  {
+    "id": "3231041004273702",
+    "key": "",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first."
+  },
+  {
+    "id": "3231041004273703",
+    "key": "",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us."
+  },
+  {
+    "id": "3231041004273704",
+    "key": "",
+    "en": "What's this all about?"
+  },
+  {
+    "id": "3231041004273705",
+    "key": "",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk..."
+  },
+  {
+    "id": "3231041004273706",
+    "key": "",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense."
+  },
+  {
+    "id": "3231041004273707",
+    "key": "",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection."
+  },
+  {
+    "id": "3231041004273708",
+    "key": "",
+    "en": "They don't look too scared."
+  },
+  {
+    "id": "3231041004273709",
+    "key": "",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune."
+  },
+  {
+    "id": "3231041004273710",
+    "key": "",
+    "en": "Are you planning an attack?"
+  },
+  {
+    "id": "3231041004273711",
+    "key": "",
+    "en": "Why, you gonna tell on us? Fuckin' rat."
+  },
+  {
+    "id": "3231041004273712",
+    "key": "",
+    "en": "Don't care either way – just don't do it while I'm passing by."
+  },
+  {
+    "id": "3231041004273713",
+    "key": "",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture."
+  },
+  {
+    "id": "3231041004273714",
+    "key": "",
+    "en": "Forget it – don't need to know."
+  },
+  {
+    "id": "3231041004273715",
+    "key": "",
+    "en": "And I'm not telling you shit either way."
+  },
+  {
+    "id": "3231041004273716",
+    "key": "",
+    "en": "What if the Palatines attack again?"
+  },
+  {
+    "id": "3231041004273717",
+    "key": "",
+    "en": "I <b>hope</b> they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp."
+  },
+  {
+    "id": "3231041004273718",
+    "key": "",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad."
+  },
+  {
+    "id": "3231041004273719",
+    "key": "",
+    "en": "You're not worried about losing some men?"
+  },
+  {
+    "id": "3231041004273720",
+    "key": "",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today."
+  },
+  {
+    "id": "3231041004273721",
+    "key": "",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture."
+  },
+  {
+    "id": "3231041004273722",
+    "key": "",
+    "en": "About something else..."
+  },
+  {
+    "id": "3231041004273723",
+    "key": "",
+    "en": "I really have to go now."
+  },
+  {
+    "id": "3231041004273724",
+    "key": "",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?"
+  },
+  {
+    "id": "3231041004273725",
+    "key": "",
+    "en": "..."
+  },
+  {
+    "id": "3231041004273726",
+    "key": "",
+    "en": "What do you need, scavenger?"
+  },
+  {
+    "id": "3231041004273727",
+    "key": "",
+    "en": "Shit, if it ain't a Vulture."
+  },
+  {
+    "id": "3231041004273728",
+    "key": "",
+    "en": "Volodymyr – let's talk."
+  },
+  {
+    "id": "3231041004273729",
+    "key": "",
+    "en": "We need to talk."
+  },
+  {
+    "id": "3231041004273730",
+    "key": "",
+    "en": "Got some questions."
+  },
+  {
+    "id": "3231041004273731",
+    "key": "",
+    "en": "I'm looking to trade."
+  },
+  {
+    "id": "3231041004273732",
+    "key": "",
+    "en": "Got things that could interest you."
+  },
+  {
+    "id": "3231041004273733",
+    "key": "",
+    "en": "Got anything I can take off your hands?"
+  },
+  {
+    "id": "3231041004273734",
+    "key": "",
+    "en": "Gunners need to trade, too. Let's do it."
+  },
+  {
+    "id": "3231041004273735",
+    "key": "",
+    "en": "What can a Vulture offer other than useless trinkets?"
+  },
+  {
+    "id": "3231041004273736",
+    "key": "",
+    "en": "You do good by us, we'll get these prices down."
+  },
+  {
+    "id": "3231041004273737",
+    "key": "",
+    "en": "I think we'll make some good deals today."
+  },
+  {
+    "id": "3231041004273738",
+    "key": "",
+    "en": "We done wasting time?"
+  },
+  {
+    "id": "3231041004273739",
+    "key": "",
+    "en": "Next time, make it snappy."
+  },
+  {
+    "id": "3231041004273740",
+    "key": "",
+    "en": "We're watching you, runt."
+  },
+  {
+    "id": "3231041004273741",
+    "key": "",
+    "en": "We're watching you, Vulture."
+  },
+  {
+    "id": "3231041004273742",
+    "key": "",
+    "en": "Time to kill some Bandits."
+  },
+  {
+    "id": "3231041004273743",
+    "key": "",
+    "en": "Glad I'm not the only psycho killer here."
+  },
+  {
+    "id": "3231041004273744",
+    "key": "",
+    "en": "Gotta think about it."
+  },
+  {
+    "id": "3231041004273745",
+    "key": "",
+    "en": "No, you don't. Make up your goddamn mind."
+  },
+  {
+    "id": "3231041004273746",
+    "key": "",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "3231041004273747",
+    "key": "",
+    "en": "Ok."
+  },
+  {
+    "id": "3231041004273748",
+    "key": "",
+    "en": "Glad I could help."
+  },
+  {
+    "id": "3231041004273749",
+    "key": "",
+    "en": "I'll get what you want."
+  },
+  {
+    "id": "3231041004273750",
+    "key": "",
+    "en": "Of course you will. You know who's boss."
+  },
+  {
+    "id": "3231041004273751",
+    "key": "",
+    "en": "Let me think on it."
+  },
+  {
+    "id": "3231041004273752",
+    "key": "",
+    "en": "Stop fucking with me – last warning."
+  },
+  {
+    "id": "3231041004273753",
+    "key": "",
+    "en": "Got other requests?"
+  },
+  {
+    "id": "3231041004273754",
+    "key": "",
+    "en": "Alright."
+  },
+  {
+    "id": "3231041004273755",
+    "key": "",
+    "en": "..."
+  },
+  {
+    "id": "3594610875072512",
+    "key": "",
+    "en": "What's going on here?"
+  },
+  {
+    "id": "3594610891849728",
+    "key": "",
+    "en": "Palatines been bothering us too much. We're showing who they messed with."
+  },
+  {
+    "id": "3594610891849729",
+    "key": "",
+    "en": "Got real close to their headquarters – fucking losers call it \"Arcadia\" – and now they're too scared to send out patrols."
+  },
+  {
+    "id": "3594610891849730",
+    "key": "",
+    "en": "Why'd you set up camp here?"
+  },
+  {
+    "id": "3594610891849731",
+    "key": "",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>"
+  },
+  {
+    "id": "3594610891849732",
+    "key": "",
+    "en": "And not a single Palatine has the balls to confront us."
+  },
+  {
+    "id": "3594610891849733",
+    "key": "",
+    "en": "Tell me more about this standoff."
+  },
+  {
+    "id": "3594610891849734",
+    "key": "",
+    "en": "This is not a \"standoff\", Vulture. Cowards aren't even looking our way."
+  },
+  {
+    "id": "3594610891849735",
+    "key": "",
+    "en": "Never talked to a Gunner before."
+  },
+  {
+    "id": "3594610891849736",
+    "key": "",
+    "en": "Then choose your words wisely."
+  },
+  {
+    "id": "3594610891849737",
+    "key": "",
+    "en": "Can you tell me about the Gunners?"
+  },
+  {
+    "id": "3594610891849738",
+    "key": "",
+    "en": "Time to go. Later."
+  },
+  {
+    "id": "3594610891849739",
+    "key": "",
+    "en": "We don't hire shit-smelling Vultures."
+  },
+  {
+    "id": "3594610891849740",
+    "key": "",
+    "en": "Careful now. You're too curious."
+  },
+  {
+    "id": "3594610891849741",
+    "key": "",
+    "en": "What does your group do?"
+  },
+  {
+    "id": "3594610891849742",
+    "key": "",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – we see to all of it."
+  },
+  {
+    "id": "3594610891849743",
+    "key": "",
+    "en": "Isn't that what the Palatines do?"
+  },
+  {
+    "id": "3594610891849744",
+    "key": "",
+    "en": "Fuck that – those cunts cannot be trusted with this region, so we're expanding."
+  },
+  {
+    "id": "3594610891849745",
+    "key": "",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up front. Sure it scares some folks away, but everyone knows the deal."
+  },
+  {
+    "id": "3594610891849746",
+    "key": "",
+    "en": "I heard Gunners were... Aggressive."
+  },
+  {
+    "id": "3594610891849747",
+    "key": "",
+    "en": "If I thought for just a second you were with the Palatines, I'd have ripped your intestines right off."
+  },
+  {
+    "id": "3594610891849748",
+    "key": "",
+    "en": "But scavengers like you, the Commonfolk, even those Church morons; you're all weak and in need of protection. And it so happens that protection is our service. No reason to hurt our <b>clients.</b>"
+  },
+  {
+    "id": "3594610891849749",
+    "key": "",
+    "en": "Where do you usually operate?"
+  },
+  {
+    "id": "3594610891849750",
+    "key": "",
+    "en": "Vodnik. To the West, near the Canyon. I don't think you'd make it there."
+  },
+  {
+    "id": "3594610891849751",
+    "key": "",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge."
+  },
+  {
+    "id": "3594610891849752",
+    "key": "",
+    "en": "Have you had conflicts with the Palatines before?"
+  },
+  {
+    "id": "3594610891849753",
+    "key": "",
+    "en": "They attacked us at the Water Tower once. That was years ago; we lost that fight. I was still green, could have done more."
+  },
+  {
+    "id": "3594610891849754",
+    "key": "",
+    "en": "Next time will be different."
+  },
+  {
+    "id": "3594610891849755",
+    "key": "",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "3594610891849756",
+    "key": "",
+    "en": "Gotta go. Continue this later."
+  },
+  {
+    "id": "3594610891849757",
+    "key": "",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye..."
+  },
+  {
+    "id": "3594610891849758",
+    "key": "",
+    "en": "<b>Nearly</b> all of Zalesye."
+  },
+  {
+    "id": "3594610891849759",
+    "key": "",
+    "en": "The most important bits – access to the Canyon, the Water Tower, the best entrance to the Dola – that's all us."
+  },
+  {
+    "id": "3594610891849760",
+    "key": "",
+    "en": "Palatines have access to weaponry and supplies from the old military posts..."
+  },
+  {
+    "id": "3594610891849761",
+    "key": "",
+    "en": "Don't give a shit. That's all old, broken-down garbage. Even Vultures like you have better stuff than that."
+  },
+  {
+    "id": "3594610891849762",
+    "key": "",
+    "en": "Besides – not to flaunt my hand – but good ol' Grigory's on <b>our</b> side."
+  },
+  {
+    "id": "3594610891849763",
+    "key": "",
+    "en": "He gets us that *Eastern* shit."
+  },
+  {
+    "id": "3594610891849764",
+    "key": "",
+    "en": "So how come the Gunners are only expanding now?"
+  },
+  {
+    "id": "3594610891849765",
+    "key": "",
+    "en": "Simple. Folks haven't fully realized our value yet."
+  },
+  {
+    "id": "3594610891849766",
+    "key": "",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first."
+  },
+  {
+    "id": "3594610891849767",
+    "key": "",
+    "en": "People are dumb and ungrateful like that, Vulture. Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us."
+  },
+  {
+    "id": "3594610891849768",
+    "key": "",
+    "en": "What's this all about?"
+  },
+  {
+    "id": "3594610891849769",
+    "key": "",
+    "en": "Palatines got too comfortable around the Water Tower, near the Dola. That's our turf. Clipped a few Mutants, preached to local folk..."
+  },
+  {
+    "id": "3594610891849770",
+    "key": "",
+    "en": "We figured we'd start an expansion of our own instead of staying on defense."
+  },
+  {
+    "id": "3594610891849771",
+    "key": "",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection."
+  },
+  {
+    "id": "3594610891849772",
+    "key": "",
+    "en": "They don't look too scared."
+  },
+  {
+    "id": "3594610891849773",
+    "key": "",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune."
+  },
+  {
+    "id": "3594610891849774",
+    "key": "",
+    "en": "Are you planning an attack?"
+  },
+  {
+    "id": "3594610891849775",
+    "key": "",
+    "en": "Why, you gonna tell on us? Fuckin' rat."
+  },
+  {
+    "id": "3594610891849776",
+    "key": "",
+    "en": "Don't care either way – just don't do it while I'm passing by."
+  },
+  {
+    "id": "3594610891849777",
+    "key": "",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture."
+  },
+  {
+    "id": "3594610891849778",
+    "key": "",
+    "en": "Forget it – don't need to know."
+  },
+  {
+    "id": "3594610891849779",
+    "key": "",
+    "en": "And I'm not telling you shit either way."
+  },
+  {
+    "id": "3594610891849780",
+    "key": "",
+    "en": "What if the Palatines attack again?"
+  },
+  {
+    "id": "3594610891849781",
+    "key": "",
+    "en": "I <b>hope</b> they try. We have a structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp."
+  },
+  {
+    "id": "3594610891849782",
+    "key": "",
+    "en": "It'd be all blood-red mixed with green and brown from their undigested shit. I'm quite artistically inclined, you see. So is my squad."
+  },
+  {
+    "id": "3594610891849783",
+    "key": "",
+    "en": "You're not worried about losing some men?"
+  },
+  {
+    "id": "3594610891849784",
+    "key": "",
+    "en": "Worrying about that shit is like worrying if I'll step in mud today."
+  },
+  {
+    "id": "3594610891849785",
+    "key": "",
+    "en": "My squad is loyal. They know what's up. And we can always recruit whatever Palatines actually put up a decent fight, <i>convince</i> them to join our ranks. We're a growing organization, Vulture."
+  },
+  {
+    "id": "3594610891849786",
+    "key": "",
+    "en": "About something else..."
+  },
+  {
+    "id": "3594610891849787",
+    "key": "",
+    "en": "I really have to go now."
+  },
+  {
+    "id": "3594610891849788",
+    "key": "",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?"
+  },
+  {
+    "id": "3594610891849789",
+    "key": "",
+    "en": "..."
+  },
+  {
+    "id": "3594610891849790",
+    "key": "",
+    "en": "What do you need, scavenger?"
+  },
+  {
+    "id": "3594610891849791",
+    "key": "",
+    "en": "Shit, if it ain't a Vulture."
+  },
+  {
+    "id": "3594610891849792",
+    "key": "",
+    "en": "Volodymyr – let's talk."
+  },
+  {
+    "id": "3594610891849793",
+    "key": "",
+    "en": "We need to talk."
+  },
+  {
+    "id": "3594610891849794",
+    "key": "",
+    "en": "Got some questions."
+  },
+  {
+    "id": "3594610891849795",
+    "key": "",
+    "en": "I'm looking to trade."
+  },
+  {
+    "id": "3594610891849796",
+    "key": "",
+    "en": "Got things that could interest you."
+  },
+  {
+    "id": "3594610891849797",
+    "key": "",
+    "en": "Got anything I can take off your hands?"
+  },
+  {
+    "id": "3594610891849798",
+    "key": "",
+    "en": "Gunners need to trade, too. Let's do it."
+  },
+  {
+    "id": "3594610891849799",
+    "key": "",
+    "en": "What can a Vulture offer other than useless trinkets?"
+  },
+  {
+    "id": "3594610891849800",
+    "key": "",
+    "en": "You do good by us, we'll get these prices down."
+  },
+  {
+    "id": "3594610891849801",
+    "key": "",
+    "en": "I think we'll make some good deals today."
+  },
+  {
+    "id": "3594610891849802",
+    "key": "",
+    "en": "We done wasting time?"
+  },
+  {
+    "id": "3594610891849803",
+    "key": "",
+    "en": "Next time, make it snappy."
+  },
+  {
+    "id": "3594610891849804",
+    "key": "",
+    "en": "We're watching you, runt."
+  },
+  {
+    "id": "3594610891849805",
+    "key": "",
+    "en": "We're watching you, Vulture."
+  },
+  {
+    "id": "3594610891849806",
+    "key": "",
+    "en": "Time to kill some Bandits."
+  },
+  {
+    "id": "3594610891849807",
+    "key": "",
+    "en": "Glad I'm not the only psycho killer here."
+  },
+  {
+    "id": "3594610891849808",
+    "key": "",
+    "en": "Gotta think about it."
+  },
+  {
+    "id": "3594610891849809",
+    "key": "",
+    "en": "No, you don't. Make up your goddamn mind."
+  },
+  {
+    "id": "3594610891849810",
+    "key": "",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "3594610891849811",
+    "key": "",
+    "en": "Ok."
+  },
+  {
+    "id": "3594610891849812",
+    "key": "",
+    "en": "Glad I could help."
+  },
+  {
+    "id": "3594610891849813",
+    "key": "",
+    "en": "I'll get what you want."
+  },
+  {
+    "id": "3594610891849814",
+    "key": "",
+    "en": "Of course you will. You know who's boss."
+  },
+  {
+    "id": "3594610891849815",
+    "key": "",
+    "en": "Let me think on it."
+  },
+  {
+    "id": "3594610891849816",
+    "key": "",
+    "en": "Stop fucking with me – last warning."
+  },
+  {
+    "id": "3594610891849817",
+    "key": "",
+    "en": "Got other requests?"
+  },
+  {
+    "id": "3594610891849818",
+    "key": "",
+    "en": "Alright."
+  },
+  {
+    "id": "3594610891849819",
+    "key": "",
+    "en": "..."
+  },
+  {
+    "id": "3598055568867328",
+    "key": "02_Volodymyr_v1_Talk_6Z6K",
+    "en": "Gunners have a base here now?"
+  },
+  {
+    "id": "3598055589838848",
+    "key": "02_Volodymyr_v1_Talk_DWB7",
+    "en": "We're expanding – taking territory from those Palatine pussies. So if you had business with them, now your business is with <i>us.</i>"
+  },
+  {
+    "id": "3598055589838849",
+    "key": "02_Volodymyr_v1_Talk_5YW4",
+    "en": "They've been farting around in their bases too long, while Commonfolk get jumped by Mutants every day. We're just showing the people what a real militia looks like."
+  },
+  {
+    "id": "3598055589838850",
+    "key": "02_Volodymyr_v1_Talk_MQS1",
+    "en": "Why'd you set up camp here?"
+  },
+  {
+    "id": "3598055589838851",
+    "key": "02_Volodymyr_v1_Talk_1PNC",
+    "en": "We're not just setting up camp. We're <i>expanding.</i>"
+  },
+  {
+    "id": "3598055589838852",
+    "key": "02_Volodymyr_v1_Talk_LYRO",
+    "en": "And not a single Palatine has the balls to confront us."
+  },
+  {
+    "id": "3598055589838853",
+    "key": "02_Volodymyr_v1_Talk_XW8W",
+    "en": "Tell me more about this standoff."
+  },
+  {
+    "id": "3598055589838854",
+    "key": "02_Volodymyr_v1_Talk_RTVZ",
+    "en": "This is not a \"standoff,\" Vulture. Cowards aren't even looking our way. No one in their headquarters – fucking losers call it \"Arcadia\" – is prepared for a fight."
+  },
+  {
+    "id": "3598055589838855",
+    "key": "02_Volodymyr_v1_Talk_QDH3",
+    "en": "Never talked to a Gunner before."
+  },
+  {
+    "id": "3598055589838856",
+    "key": "02_Volodymyr_v1_Talk_QKNS",
+    "en": "Then choose your words wisely."
+  },
+  {
+    "id": "3598055589838857",
+    "key": "02_Volodymyr_v1_Talk_LPAN",
+    "en": "Can you tell me about the Gunners?"
+  },
+  {
+    "id": "3598055589838858",
+    "key": "02_Volodymyr_v1_Talk_00PP",
+    "en": "Time to go. Later."
+  },
+  {
+    "id": "3598055589838859",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse1_6MTH",
+    "en": "We don't hire shit-smelling Vultures."
+  },
+  {
+    "id": "3598055589838860",
+    "key": "02_Volodymyr_v1_Talk_AskAboutGunners_RandomResponse2_UH6Z",
+    "en": "You're too curious."
+  },
+  {
+    "id": "3598055589838861",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_IBM7",
+    "en": "What does your group do?"
+  },
+  {
+    "id": "3598055589838862",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LMVO",
+    "en": "We take care of shit. Mutant invasions, Bandit raids, infighting among Commonfolk – see to all of it."
+  },
+  {
+    "id": "3598055589838863",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZV5E",
+    "en": "Isn't that what the Palatines do?"
+  },
+  {
+    "id": "3598055589838864",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_KOVD",
+    "en": "Those incompetent cunts? They can't be trusted."
+  },
+  {
+    "id": "3598055589838865",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_5PUZ",
+    "en": "Unlike those freaks with the army fetish, <b>we</b> name our price up <b>front.</b> Scares some folk away, sure, but everyone knows the deal. We get things <i>done.</i>"
+  },
+  {
+    "id": "3598055589838866",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_BE8C",
+    "en": "I heard Gunners were... Aggressive."
+  },
+  {
+    "id": "3598055589838867",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_X55Y",
+    "en": "Well, if I thought for just a second you were with the Palatines, I'd have ripped your intestines right off."
+  },
+  {
+    "id": "3598055589838868",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_TBP5",
+    "en": "But scavs like you, Commonfolk, even those Church morons; you're all weak, you need protection. And that is our specialty. We have no reason to hurt our <b>clients.</b>"
+  },
+  {
+    "id": "3598055589838869",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZOTE",
+    "en": "Where do you usually operate?"
+  },
+  {
+    "id": "3598055589838870",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_LJCI",
+    "en": "Northwest of here, crossing into the Dola. Helping cover all the holes those idiot Palatines left in the Bastion."
+  },
+  {
+    "id": "3598055589838871",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_WB2I",
+    "en": "Ask around next time you're there; folks <b>know</b> who's in charge of our defenses against those Mutants from the Dola."
+  },
+  {
+    "id": "3598055589838872",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_NOFZ",
+    "en": "Have you had conflicts with the Palatines before?"
+  },
+  {
+    "id": "3598055589838873",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_ZZVL",
+    "en": "We held some parts of the Bastion, years ago. Then they attacked, and drove us off... I was green back then, could have done more."
+  },
+  {
+    "id": "3598055589838874",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_PP8M",
+    "en": "Next time <i>will</i> be different."
+  },
+  {
+    "id": "3598055589838875",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_UI2T",
+    "en": "Let's change the subject."
+  },
+  {
+    "id": "3598055589838876",
+    "key": "02_Volodymyr_v1_Talk_About_Gunners_OW43",
+    "en": "Gotta go. Continue this later."
+  },
+  {
+    "id": "3598055589838877",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_ZKPR",
+    "en": "Palatines have a lot of recruits, their patrols cover all of Zalesye..."
+  },
+  {
+    "id": "3598055589838878",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_1ZHP",
+    "en": "<b>Nearly</b> all of Zalesye."
+  },
+  {
+    "id": "3598055589838879",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_5OMG",
+    "en": "All of it? You're even dumber than you look. We hold the best entrance to the Dola, and a hell of a lot more."
+  },
+  {
+    "id": "3598055589838880",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_8J52",
+    "en": "Palatines have access to weaponry and supplies from the old military posts..."
+  },
+  {
+    "id": "3598055589838881",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_VYHF",
+    "en": "That's all old, broken-down garbage. Even Vultures like you have better stuff than that."
+  },
+  {
+    "id": "3598055589838882",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_IY00",
+    "en": "We got that <i>Eastern</i> shit. Up-to-date, real soldier shit. Good ol' Grigory's on <b>our</b> side, he makes the connect. So we're unbeatable."
+  },
+  {
+    "id": "3598055589838883",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_DK2E",
+    "en": "He gets us that *Eastern* shit."
+  },
+  {
+    "id": "3598055589838884",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_4K9L",
+    "en": "So how come the Gunners are only expanding now?"
+  },
+  {
+    "id": "3598055589838885",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_WEA2",
+    "en": "It's all propaganda, and dumb scavs like you eat it up. We're not afraid to get our hands dirty, and folks get scared at first."
+  },
+  {
+    "id": "3598055589838886",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_1RFI",
+    "en": "We have the skill and the muscle to drive away Mutants and Bandits <b>for real.</b> But we ask for compensation, and we use strategical violence. Folks don't like that at first."
+  },
+  {
+    "id": "3598055589838887",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_G1V3",
+    "en": "Don't let them convince you we're the villains here. Not when those army fetishists are prancing around, doing fuck all to protect us."
+  },
+  {
+    "id": "3598055589838888",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_WP3W",
+    "en": "What's this all about?"
+  },
+  {
+    "id": "3598055589838889",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_LKZQ",
+    "en": "Palatines got too comfortable around our turf, so we figured we'd start an expansion of our own instead of staying on the defensive."
+  },
+  {
+    "id": "3598055589838890",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DSMX",
+    "en": "It's about time folks in the Mire see who they can <b>really</b> count on for protection."
+  },
+  {
+    "id": "3598055589838891",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_GGSK",
+    "en": "It's high time folks in the Mire know who to <b>really</b> count on for protection."
+  },
+  {
+    "id": "3598055589838892",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_P1OY",
+    "en": "They don't look too scared."
+  },
+  {
+    "id": "3598055589838893",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_DYJC",
+    "en": "They're dense. They think we're all bark and no bite. A few more Palatines in the mud'll change their tune."
+  },
+  {
+    "id": "3598055589838894",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_KGWC",
+    "en": "Are you planning an attack?"
+  },
+  {
+    "id": "3598055589838895",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_CI4S",
+    "en": "Why, you gonna tell on us? Fuckin' rat."
+  },
+  {
+    "id": "3598055589838896",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_G9YU",
+    "en": "Don't care either way – but if I'm passing by..."
+  },
+  {
+    "id": "3598055589838897",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_0PCH",
+    "en": "<b>You</b> stay out of <b>our</b> way, Vulture."
+  },
+  {
+    "id": "3598055589838898",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_644N",
+    "en": "Forget it – don't need to know."
+  },
+  {
+    "id": "3598055589838899",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Y9I8",
+    "en": "Not telling you shit either way."
+  },
+  {
+    "id": "3598055589838900",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_GJRZ",
+    "en": "What if the Palatines attack again?"
+  },
+  {
+    "id": "3598055589838901",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_IKYG",
+    "en": "I <b>hope</b> they try. We have structure now – we're organized. We'd rip out their guts with our bare hands and string them around their little camp."
+  },
+  {
+    "id": "3598055589838902",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_Z3H2",
+    "en": "Imagine \"Arcadia\" sprayed with their blood, organs and undigested shit. You'd think my squad was making <i>art.</i>"
+  },
+  {
+    "id": "3598055589838903",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_TXO9",
+    "en": "You're not worried about losing some men?"
+  },
+  {
+    "id": "3598055589838904",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_XNEV",
+    "en": "Worrying about that shit is like worrying if today I'll step in some mud."
+  },
+  {
+    "id": "3598055589838905",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_SHZJ",
+    "en": "My squad's loyal. They know what's up. And we always get Palatine replacements – \"asking\" those who put up a decent fight to join. We're a growing organization, Vulture."
+  },
+  {
+    "id": "3598055589838906",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_H81L",
+    "en": "About something else..."
+  },
+  {
+    "id": "3598055589838907",
+    "key": "02_Volodymyr_v1_Talk_About_Standoff_ZKRD",
+    "en": "I really have to go now."
+  },
+  {
+    "id": "3598055589838908",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_RS8B\"",
+    "en": "Name's Volodymyr. Who the fuck are you? Waltzing up here like it's no big deal. You wanna start something?"
+  },
+  {
+    "id": "3598055589838909",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_6UAO\"",
+    "en": "..."
+  },
+  {
+    "id": "3598055589838910",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9CM6\"",
+    "en": "What do you need, scavenger?"
+  },
+  {
+    "id": "3598055589838911",
+    "key": "02_Volodymyr_v1_GetWelcomingMessage_9S7F\"",
+    "en": "Shit, if it ain't a Vulture."
+  },
+  {
+    "id": "3598055589838912",
+    "key": "02_Volodymyr_v1_GetTalkMessage_DUCS\"",
+    "en": "Volodymyr – let's talk."
+  },
+  {
+    "id": "3598055589838913",
+    "key": "02_Volodymyr_v1_GetTalkMessage_V6IL\"",
+    "en": "We need to talk."
+  },
+  {
+    "id": "3598055589838914",
+    "key": "02_Volodymyr_v1_GetTalkMessage_JWK1\"",
+    "en": "Got some questions."
+  },
+  {
+    "id": "3598055589838915",
+    "key": "02_Volodymyr_v1_GetTradeMessage_6GEL\"",
+    "en": "I'm looking to trade."
+  },
+  {
+    "id": "3598055589838916",
+    "key": "02_Volodymyr_v1_GetTradeMessage_69MS\"",
+    "en": "Got things that could interest you."
+  },
+  {
+    "id": "3598055589838917",
+    "key": "02_Volodymyr_v1_GetTradeMessage_Q40U\"",
+    "en": "Got anything I can take off your hands?"
+  },
+  {
+    "id": "3598055589838918",
+    "key": "02_Volodymyr_v1_GetTradeMessage_U9J2\"",
+    "en": "Gunners need to trade, too. Let's do it."
+  },
+  {
+    "id": "3598055589838919",
+    "key": "02_Volodymyr_v1_GetTradeResponse_FLNG\"",
+    "en": "What can a Vulture offer other than useless trinkets?"
+  },
+  {
+    "id": "3598055589838920",
+    "key": "02_Volodymyr_v1_GetTradeResponse_DBJ7\"",
+    "en": "You do good by us, we'll get these prices down."
+  },
+  {
+    "id": "3598055589838921",
+    "key": "02_Volodymyr_v1_GetTradeResponse_QCQX\"",
+    "en": "I think we'll make some good deals today."
+  },
+  {
+    "id": "3598055589838922",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_W2JG\"",
+    "en": "We done wasting time?"
+  },
+  {
+    "id": "3598055589838923",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_S450\"",
+    "en": "Next time, make it snappy."
+  },
+  {
+    "id": "3598055589838924",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_C2UD\"",
+    "en": "We're watching you, runt."
+  },
+  {
+    "id": "3598055589838925",
+    "key": "02_Volodymyr_v1_GetLeaveResponse_Q0J9\"",
+    "en": "We're watching you, Vulture."
+  },
+  {
+    "id": "3598055589838926",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_BEJ6",
+    "en": "Time to kill some assholes."
+  },
+  {
+    "id": "3598055589838927",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_CHQ4",
+    "en": "Glad I'm not the only psycho killer here."
+  },
+  {
+    "id": "3598055589838928",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_F6PM",
+    "en": "Gotta think about it."
+  },
+  {
+    "id": "3598055589838929",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_866V",
+    "en": "No, you don't. Make up your goddamn mind."
+  },
+  {
+    "id": "3598055589838930",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Show_QF7G",
+    "en": "Got anything else?"
+  },
+  {
+    "id": "3598055589838931",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_BQTR",
+    "en": "Ok."
+  },
+  {
+    "id": "3598055589838932",
+    "key": "02_Volodymyr_Jobs_v1_Manhunt_Complete_YG4P",
+    "en": "Glad I could help."
+  },
+  {
+    "id": "3598055589838933",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_QCRV",
+    "en": "I'll get what you want."
+  },
+  {
+    "id": "3598055589838934",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_08PW",
+    "en": "Of course you will. You know who's boss."
+  },
+  {
+    "id": "3598055589838935",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_RGPF",
+    "en": "Let me think on it."
+  },
+  {
+    "id": "3598055589838936",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_KL2B",
+    "en": "Stop fucking with me – last warning."
+  },
+  {
+    "id": "3598055589838937",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Show_K7IF",
+    "en": "Got other requests?"
+  },
+  {
+    "id": "3598055589838938",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_AV91",
+    "en": "Alright."
+  },
+  {
+    "id": "3598055589838939",
+    "key": "02_Volodymyr_Jobs_v1_Collection_Complete_LMOR",
+    "en": "..."
+  },
+  {
+    "id": "110489643073871872",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_2MH4",
+    "en": "Got rid of that pest problem."
+  },
+  {
+    "id": "110489643082260480",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_CX2C",
+    "en": "That little thing is taken care of."
+  },
+  {
+    "id": "110489643082260481",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatCompletedStart_DEIF",
+    "en": "Took care of that thing for you."
+  },
+  {
+    "id": "110489643082260482",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_I4VO",
+    "en": "You guys got a job for me?"
+  },
+  {
+    "id": "110489643082260483",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_MGHZ",
+    "en": "Any work I can do for you Gunners?"
+  },
+  {
+    "id": "110489643082260484",
+    "key": "02_Volodymyr_v1_GetRandomWhiteHeatStart_T1W5",
+    "en": "Anything I can do to get in your good graces?"
+  },
+  {
+    "id": "110489643082260485",
+    "key": "02_Volodymyr_v1_Quest_Completed_8AXM",
+    "en": "Of course. You'll find plenty of recompense if you do good by us, Vulture."
+  },
+  {
+    "id": "110489643082260486",
+    "key": "02_Volodymyr_v1_Quest_Completed_8B0B",
+    "en": "Far as I'm concerned, Vulture, you're more of a Gunner now than those cunts ever were. You keep this up, I'm sure we'll do some very good business together."
+  },
+  {
+    "id": "110489643082260487",
+    "key": "02_Volodymyr_v1_Quest_Completed_GDYA",
+    "en": "Not interested in buddying up to you."
+  },
+  {
+    "id": "110489643082260488",
+    "key": "02_Volodymyr_v1_Quest_Completed_R29A",
+    "en": "Yeah, I heard there was a bit of a stir. Volk confirmed the first hit to us. That's the other dog tag we'd made, huh? Those assholes sure were crafty, hiding among Palatine squads, cowering deep in the Mist."
+  },
+  {
+    "id": "110489643082260489",
+    "key": "02_Volodymyr_v1_Quest_Completed_R5E5",
+    "en": "You say that, but you killed some Palatines for us, didn't ya?"
+  },
+  {
+    "id": "110489643082260490",
+    "key": "02_Volodymyr_v1_Quest_Completed_TX79",
+    "en": "You have to be honest about your morals <i>and</i> your loyalty in Zalesye, Vulture. Can't be friends with <i>everybody.</i>"
+  },
+  {
+    "id": "110489643082260491",
+    "key": "02_Volodymyr_v1_Quest_Completed_XZ3K",
+    "en": "Got my reward?"
+  },
+  {
+    "id": "110489643082260492",
+    "key": "02_Volodymyr_v1_Talk_About_Palatines_YCEA",
+    "en": "We even have the Southern Checkpoint on hold now. And Palatines only get to \"guard\" Dubravka because we're murdering Bandits all over the Canyon entrance."
+  },
+  {
+    "id": "110489643082260493",
+    "key": "02_Volodymyr_v1_WhiteHeat_60I1",
+    "en": "Thought you had a backbone when you showed up. Turns out you're just slow. But hey, if you can't do it, you can't do it."
+  },
+  {
+    "id": "110489643082260494",
+    "key": "02_Volodymyr_v1_WhiteHeat_DGAS",
+    "en": "Now it's a matter of time before they try to gain ranks by telling on <i>our business.</i> And even if they don't squeal, we have to <i>set an example.</i> You can help take care of all that, and you'll curry favor with us. Trading, taking other jobs. How 'bout it?"
+  },
+  {
+    "id": "110489643082260495",
+    "key": "02_Volodymyr_v1_WhiteHeat_GM8T",
+    "en": "Trying to gain favor with us, huh? Smart. We <i>do</i> have a problem you can help with – something that would stir up too much shit if one of <i>us</i> took care of it."
+  },
+  {
+    "id": "110489643082260496",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_4KKG",
+    "en": "... We're not gonna have a <i>problem,</i> are we?"
+  },
+  {
+    "id": "110489643082260497",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_8JUE",
+    "en": "Still working on it."
+  },
+  {
+    "id": "110489643082260498",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_FPTP",
+    "en": "Had some questions first."
+  },
+  {
+    "id": "110489643082260499",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_LXIO",
+    "en": "Did you look into that thing we discussed?"
+  },
+  {
+    "id": "110489643082260500",
+    "key": "02_Volodymyr_v1_WhiteHeat_Inform_Quest_VGHV",
+    "en": "Make it <i>quick.</i>"
+  },
+  {
+    "id": "110489643082260501",
+    "key": "02_Volodymyr_v1_WhiteHeat_KYOD",
+    "en": "Not interested in a manhunt."
+  },
+  {
+    "id": "110489643082260502",
+    "key": "02_Volodymyr_v1_WhiteHeat_L2GA",
+    "en": "I understand. On it."
+  },
+  {
+    "id": "110489643082260503",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_3GZ7",
+    "en": "How do you know those two have turned?"
+  },
+  {
+    "id": "110489643082260504",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_4FM0",
+    "en": "They went silent for too long. We don't train these guys to miss a task. It was <i>intentional.</i> They have to <i>go.</i>"
+  },
+  {
+    "id": "110489643082260505",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_8RUS",
+    "en": "You slow? Microrayon. It's on your map. You'll have to find the squad – and the rat – by yourself once you get there, though. Should cause a bit of a ruckus."
+  },
+  {
+    "id": "110489643082260506",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_G6N4",
+    "en": "I don't have any more questions."
+  },
+  {
+    "id": "110489643082260507",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_HIC9",
+    "en": "'Bout time you get going, then."
+  },
+  {
+    "id": "110489643082260508",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_K3ZE",
+    "en": "One of us, hangs out at the Southern Checkpoint, handles intel and some <i>logistics.</i> We've been helping Mudlarks create a demand for certain <i>products,</i> as you may have heard."
+  },
+  {
+    "id": "110489643082260509",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_KYHR",
+    "en": "Where do I go first, again?"
+  },
+  {
+    "id": "110489643082260510",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_OCSM",
+    "en": "Who's Volk?"
+  },
+  {
+    "id": "110489643082260511",
+    "key": "02_Volodymyr_v1_WhiteHeat_Quest_Questions_RTWW",
+    "en": "He's not as friendly as I am, by the way. Don't make him humor your bullshit."
+  },
+  {
+    "id": "110489643082260512",
+    "key": "02_Volodymyr_v1_WhiteHeat_T6QT",
+    "en": "Good. Word is one of them's at the Microrayon. He's part of a squad around the left side of the district. You take care of <i>that,</i> then you meet up with Volk, down South of here – he's working on finding the other guy."
+  },
+  {
+    "id": "110489643082260513",
+    "key": "02_Volodymyr_v1_WhiteHeat_YG67",
+    "en": "See, there's these two guys who used to run with us. We sent them to spy on the Palatines, and they did that for a while, but <i>then</i> they started to enjoy that cozy lifestyle a bit <i>too much.</i> See what I'm saying?"
+  }
+]

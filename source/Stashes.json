@@ -1,0 +1,202 @@
+[
+  {
+    "id": "55747575808",
+    "key": "Acolyte",
+    "en": "Acolyte"
+  },
+  {
+    "id": "55806296064",
+    "key": "AcolytesCorpse",
+    "en": "Acolyte's Corpse"
+  },
+  {
+    "id": "55806296065",
+    "key": "Bandit",
+    "en": "Bandit"
+  },
+  {
+    "id": "55806296066",
+    "key": "BigMilitaryContainer",
+    "en": "Big Military Container"
+  },
+  {
+    "id": "55806296067",
+    "key": "CampingTent",
+    "en": "Camping Tent"
+  },
+  {
+    "id": "55806296068",
+    "key": "ClosedSafe",
+    "en": "Closed Safe"
+  },
+  {
+    "id": "55806296069",
+    "key": "Desk",
+    "en": "Desk"
+  },
+  {
+    "id": "55806296070",
+    "key": "Drawer",
+    "en": "Drawer"
+  },
+  {
+    "id": "55806296071",
+    "key": "DuffleBag",
+    "en": "Duffle Bag"
+  },
+  {
+    "id": "55806296072",
+    "key": "Fridge",
+    "en": "Fridge"
+  },
+  {
+    "id": "55806296073",
+    "key": "GunCrate",
+    "en": "Gun Crate"
+  },
+  {
+    "id": "55806296074",
+    "key": "GunCrateStack",
+    "en": "Gun Crate Stack"
+  },
+  {
+    "id": "55806296075",
+    "key": "Gunner",
+    "en": "Gunner"
+  },
+  {
+    "id": "55806296076",
+    "key": "Hellhound",
+    "en": "Hellhound"
+  },
+  {
+    "id": "55806296077",
+    "key": "HospitalDrawer",
+    "en": "Hospital Drawer"
+  },
+  {
+    "id": "55806296078",
+    "key": "IllichsCorpse",
+    "en": "Illich's Corpse"
+  },
+  {
+    "id": "55806296079",
+    "key": "KingTormentil",
+    "en": "King Tormentil"
+  },
+  {
+    "id": "55806296080",
+    "key": "LargeGunCrate",
+    "en": "Large Gun Crate"
+  },
+  {
+    "id": "55806296081",
+    "key": "LargeMedicalBox",
+    "en": "Large Medical Box"
+  },
+  {
+    "id": "55806296082",
+    "key": "Mechanist",
+    "en": "Mechanist"
+  },
+  {
+    "id": "55806296083",
+    "key": "MotherMora",
+    "en": "Mother Mora"
+  },
+  {
+    "id": "55806296084",
+    "key": "Mudlark",
+    "en": "Mudlark"
+  },
+  {
+    "id": "55806296085",
+    "key": "Neurogeist",
+    "en": "Neurogeist"
+  },
+  {
+    "id": "55806296086",
+    "key": "OpenSafe",
+    "en": "Open Safe"
+  },
+  {
+    "id": "55806296087",
+    "key": "PlayerStash",
+    "en": "Player stash"
+  },
+  {
+    "id": "55806296088",
+    "key": "Rabbit",
+    "en": "Rabbit"
+  },
+  {
+    "id": "55806296089",
+    "key": "Rada",
+    "en": "Rada"
+  },
+  {
+    "id": "55806296090",
+    "key": "SmallMedicalBox",
+    "en": "Small Medical Box"
+  },
+  {
+    "id": "55806296091",
+    "key": "SmallMilitaryBox",
+    "en": "Small Military Box"
+  },
+  {
+    "id": "55806296092",
+    "key": "SmallRat",
+    "en": "Small Rat"
+  },
+  {
+    "id": "55806296093",
+    "key": "Stove",
+    "en": "Stove"
+  },
+  {
+    "id": "55806296094",
+    "key": "Sucker",
+    "en": "Sucker"
+  },
+  {
+    "id": "55806296095",
+    "key": "Toolbox",
+    "en": "Toolbox"
+  },
+  {
+    "id": "55806296096",
+    "key": "Veles",
+    "en": "Veles"
+  },
+  {
+    "id": "55806296097",
+    "key": "Vulture",
+    "en": "Vulture"
+  },
+  {
+    "id": "55806296098",
+    "key": "Wardrobe",
+    "en": "Wardrobe"
+  },
+  {
+    "id": "55806296099",
+    "key": "WorkerTormentil",
+    "en": "Worker Tormentil"
+  },
+  {
+    "id": "55806296100",
+    "key": "Worm",
+    "en": "Worm"
+  },
+  {
+    "id": "55806296101",
+    "key": "ZalesyeWoundwort",
+    "en": "Zalesye Woundwort"
+  },
+  {
+    "id": "3777681438007296",
+    "key": "Stash",
+    "en": "Stash"
+  }
+]

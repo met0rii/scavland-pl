@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2531153228627968",
+    "key": "barks_faction_quest OR generic_parameter_4-character-ID",
+    "en": "",
+    "pl": ""
+  },
+  {
+    "id": "2531153270571008",
+    "key": "faction keys: aco, ban, com, gun, kha, mec, mud, pal, rad, vul",
+    "en": "",
+    "pl": ""
+  },
+  {
+    "id": "2531153274765312",
+    "key": "ex.: brk_pal_SQ06_beforeQuestCombat_1234",
+    "en": "",
+    "pl": ""
+  },
+  {
+    "id": "2531153274765313",
+    "key": "ex.: brk_pal_gen_lowRep_ABCD",
+    "en": "",
+    "pl": ""
+  }
+]
