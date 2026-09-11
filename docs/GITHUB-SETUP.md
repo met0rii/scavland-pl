@@ -1,7 +1,7 @@
 # Pierwsza publikacja na GitHubie
 
 1. Utwórz puste repozytorium i podłącz lokalny projekt.
-2. Zatwierdź przygotowane pliki i wyślij gałąź **master**.
+2. Zatwierdź przygotowane pliki i wyślij gałąź **main** (obsługiwana jest także **master**).
 3. W zakładce **Actions** sprawdź przebieg „Validate and release Polish translation”.
 4. Po przejściu kontroli ZIP pojawi się w **Releases**.
 
@@ -20,7 +20,7 @@ CI nie uruchamia gry i nie testuje instalacji na jej rzeczywistych zasobach. Tak
 
 ## Numery i uprawnienia
 
-Każdy push lub merge na `master` tworzy wydanie testowe, np. `v1.2.0-ci.12.1`. Baza to `VERSION`, następne liczby oznaczają uruchomienie CI i próbę. Ponowienie nie nadpisuje wcześniejszego wydania.
+Każdy push lub merge na `main` lub `master` tworzy wydanie testowe, np. `v1.2.0-ci.12.1`. Baza to `VERSION`, następne liczby oznaczają uruchomienie CI i próbę. Ponowienie nie nadpisuje wcześniejszego wydania.
 
 Zwykłe pull requesty niczego nie publikują. Zadanie publikujące używa standardowego `GITHUB_TOKEN` z prawem zapisu wydań. Własny token w Secrets nie jest potrzebny. Jeżeli organizacja wyłączyła Actions lub ograniczyła uprawnienia, musi je dopuścić dla tego repozytorium.
 

@@ -2,9 +2,9 @@ name: Validate and release Polish translation
 
 on:
   push:
-    branches: [master]
+    branches: [main, master]
   pull_request:
-    branches: [master]
+    branches: [main, master]
   workflow_dispatch:
 
 permissions:
@@ -31,7 +31,7 @@ jobs:
 
   release:
     needs: validate
-    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    if: (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') && github.event_name != 'pull_request'
     runs-on: windows-latest
     timeout-minutes: 20
     permissions:

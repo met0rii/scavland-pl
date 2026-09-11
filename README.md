@@ -44,7 +44,7 @@ Dawne pliki robocze, backupy, czcionki i wygenerowane paczki są wyłączone z G
 
 ## Automatyczne wydania
 
-Każdy push na **master** uruchamia kontrole na Windows i Linux oraz buduje instalator Windows i publikuje ZIP w **Releases**. Numer wersji, np. `1.2.0-ci.12.1`, pochodzi z `VERSION`, numeru uruchomienia i próby CI. Pull requesty wykonują kontrole bez publikacji.
+Każdy push na **main** lub **master** uruchamia kontrole na Windows i Linux oraz buduje instalator Windows i publikuje ZIP w **Releases**. Numer wersji, np. `1.2.0-ci.12.1`, pochodzi z `VERSION`, numeru uruchomienia i próby CI. Pull requesty wykonują kontrole bez publikacji.
 
 **CI nie potrzebuje gry, jej zasobów ani żadnego dodatkowego archiwum bazowego.** Buduje wyłącznie program instalatora, polskie teksty i drobne dane poprawki. Przy instalacji zasoby pochodzą z komputera gracza.
 
